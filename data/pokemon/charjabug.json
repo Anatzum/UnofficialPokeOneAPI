@@ -1,33 +1,24 @@
 {
-  "name" : "Charjabug",
+  "name": "Charjabug",
   "national_id": 737,
-  
   "types": [
     "Bug",
     "Electric"
   ],
-  "abilities": [
-    {
-      "name": "Battery"
-    }
-  ],
+  "abilities": [{
+    "name": "Battery"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "23.1 lbs.",
   "weight_eu": "10.5 kg",
-  
-  
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -45,37 +36,114 @@
     "speed": 36
   },
   "evolution_from": "Grubbin",
-  "evolutions": [
-    {
-      "to": "Vikavolt",
-      "level_up": true,
-      "conditions": [
-        "in Vast Poni Canyon"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  
-  "move_learnsets": [
-    {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
+  "evolutions": [{
+    "to": "Vikavolt",
+    "level_up": true,
+    "conditions": [
+      "in Vast Poni Canyon"
+    ]
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Toxic",
+          "tm": "TM06"
+        },
         {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Light Screen",
+          "tm": "TM16"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Thunderbolt",
+          "tm": "TM24"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Charge Beam",
+          "tm": "TM57"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Volt Switch",
+          "tm": "TM72"
+        },
+        {
+          "move": "Thunder Wave",
+          "tm": "TM73"
+        },
+        {
+          "move": "X-Scissor",
+          "tm": "TM81"
+        },
+        {
+          "move": "Poison Jab",
+          "tm": "TM84"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Wild Charge",
+          "tm": "TM93"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -258,8 +326,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

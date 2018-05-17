@@ -1,27 +1,21 @@
 {
-"name" : "Jirachi",
+  "name": "Jirachi",
   "national_id": 385,
   "types": [
     "Steel",
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Serene Grace"
-    }
-  ],
+  "abilities": [{
+    "name": "Serene Grace"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "2.4 lbs.",
   "weight_eu": "1.1 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 100,
@@ -40,95 +32,10 @@
     "sp_def": 100,
     "speed": 100
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Wish",
-          "level": 1
-        },
-        {
-          "move": "Rest",
-          "level": 5
-        },
-        {
-          "move": "Swift",
-          "level": 10
-        },
-        {
-          "move": "Helping Hand",
-          "level": 15
-        },
-        {
-          "move": "Psychic",
-          "level": 20
-        },
-        {
-          "move": "Refresh",
-          "level": 25
-        },
-        {
-          "move": "Rest",
-          "level": 30
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 35
-        },
-        {
-          "move": "Double-Edge",
-          "level": 40
-        },
-        {
-          "move": "Gravity",
-          "level": 45
-        },
-        {
-          "move": "Healing Wish",
-          "level": 50
-        },
-        {
-          "move": "Future Sight",
-          "level": 55
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 60
-        },
-        {
-          "move": "Last Resort",
-          "level": 65
-        },
-        {
-          "move": "Doom Desire",
-          "level": 70
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -299,12 +206,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -531,8 +433,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

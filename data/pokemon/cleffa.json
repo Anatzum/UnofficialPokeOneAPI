@@ -1,11 +1,10 @@
 {
-"name" : "Cleffa",
+  "name": "Cleffa",
   "national_id": 173,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Cute Charm"
     },
     {
@@ -20,17 +19,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "6.6 lbs.",
   "weight_eu": "3.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 25,
@@ -49,120 +42,14 @@
     "sp_def": 55,
     "speed": 15
   },
-  "evolutions": [
-    {
-      "to": "Clefairy",
-      "happiness": true, 
-      "level_up": true
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Clefairy",
+    "happiness": true,
+    "level_up": true
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charm",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Encore",
-          "level": 4
-        },
-        {
-          "move": "Sing",
-          "level": 7
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 10
-        },
-        {
-          "move": "Copycat",
-          "level": 13
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 16
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Aromatherapy",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Metronome",
-          "egg_move": true
-        },
-        {
-          "move": "Mimic",
-          "egg_move": true
-        },
-        {
-          "move": "Misty Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Splash",
-          "egg_move": true
-        },
-        {
-          "move": "Stored Power",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -305,12 +192,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charm",
           "level": 1
         },
@@ -529,8 +411,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charm",
           "level": 1
         },

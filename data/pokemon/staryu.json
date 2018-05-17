@@ -1,11 +1,10 @@
 {
-"name" : "Staryu",
+  "name": "Staryu",
   "national_id": 120,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Illuminate"
     },
     {
@@ -17,17 +16,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Water 3"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "76.1 lbs.",
   "weight_eu": "34.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 30,
     "atk": 45,
@@ -46,111 +39,13 @@
     "sp_def": 55,
     "speed": 85
   },
-  "evolutions": [
-    {
-      "to": "Starmie",
-      "item": "Water Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Starmie",
+    "item": "Water Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 4
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 7
-        },
-        {
-          "move": "Recover",
-          "level": 10
-        },
-        {
-          "move": "Psywave",
-          "level": 13
-        },
-        {
-          "move": "Swift",
-          "level": 16
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 18
-        },
-        {
-          "move": "Camouflage",
-          "level": 22
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 24
-        },
-        {
-          "move": "Brine",
-          "level": 28
-        },
-        {
-          "move": "Minimize",
-          "level": 31
-        },
-        {
-          "move": "Reflect Type",
-          "level": 35
-        },
-        {
-          "move": "Power Gem",
-          "level": 37
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 40
-        },
-        {
-          "move": "Psychic",
-          "level": 42
-        },
-        {
-          "move": "Light Screen",
-          "level": 46
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 49
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 53
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -285,12 +180,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },
@@ -493,8 +383,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Harden",
           "level": 1
         },

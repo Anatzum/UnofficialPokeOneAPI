@@ -1,12 +1,11 @@
 {
-"name" : "Pelipper",
+  "name": "Pelipper",
   "national_id": 279,
   "types": [
     "Water",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Flying"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "61.7 lbs.",
   "weight_eu": "28.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 50,
@@ -52,166 +45,9 @@
     "speed": 65
   },
   "evolution_from": "Wingull",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Hurricane",
-          "level": 1
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 1
-        },
-        {
-          "move": "Soak",
-          "level": 1
-        },
-        {
-          "move": "Tailwind",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 1
-        },
-        {
-          "move": "Wing Attack",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Wing Attack",
-          "level": 8
-        },
-        {
-          "move": "Mist",
-          "level": 12
-        },
-        {
-          "move": "Water Pulse",
-          "level": 15
-        },
-        {
-          "move": "Payback",
-          "level": 19
-        },
-        {
-          "move": "Roost",
-          "level": 22
-        },
-        {
-          "move": "Protect",
-          "level": 25
-        },
-        {
-          "move": "Brine",
-          "level": 28
-        },
-        {
-          "move": "Spit Up",
-          "level": 33
-        },
-        {
-          "move": "Stockpile",
-          "level": 33
-        },
-        {
-          "move": "Swallow",
-          "level": 33
-        },
-        {
-          "move": "Fling",
-          "level": 39
-        },
-        {
-          "move": "Tailwind",
-          "level": 44
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 50
-        },
-        {
-          "move": "Hurricane",
-          "level": 55
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Soak",
-          "egg_move": true
-        },
-        {
-          "move": "Twister",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -346,12 +182,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -622,8 +453,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

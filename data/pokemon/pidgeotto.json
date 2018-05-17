@@ -1,12 +1,11 @@
 {
-"name" : "Pidgeotto",
+  "name": "Pidgeotto",
   "national_id": 17,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "66.1 lbs.",
   "weight_eu": "30.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 63,
     "atk": 60,
@@ -51,134 +44,12 @@
     "speed": 71
   },
   "evolution_from": "Pidgey",
-  "evolutions": [
-    {
-      "to": "Pidgeot",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 5
-        },
-        {
-          "move": "Gust",
-          "level": 9
-        },
-        {
-          "move": "Quick Attack",
-          "level": 13
-        },
-        {
-          "move": "Whirlwind",
-          "level": 17
-        },
-        {
-          "move": "Twister",
-          "level": 22
-        },
-        {
-          "move": "Feather Dance",
-          "level": 27
-        },
-        {
-          "move": "Agility",
-          "level": 32
-        },
-        {
-          "move": "Wing Attack",
-          "level": 37
-        },
-        {
-          "move": "Roost",
-          "level": 42
-        },
-        {
-          "move": "Tailwind",
-          "level": 47
-        },
-        {
-          "move": "Mirror Move",
-          "level": 52
-        },
-        {
-          "move": "Air Slash",
-          "level": 57
-        },
-        {
-          "move": "Hurricane",
-          "level": 62
-        },
-        {
-          "move": "Air Cutter",
-          "egg_move": true
-        },
-        {
-          "move": "Air Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Pidgeot",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -273,12 +144,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Gust",
           "level": 1
         },
@@ -477,8 +343,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Gust",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Marowak",
+  "name": "Marowak",
   "national_id": 105,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rock Head"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "99.2 lbs.",
   "weight_eu": "45.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 80,
@@ -50,166 +43,9 @@
     "speed": 45
   },
   "evolution_from": "Cubone",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Marowak",
-        "de": "Alola-Knogga"
-      },
-      "types": [
-        "Fire",
-        "Ghost"
-      ],
-      "abilities": [
-        {
-          "name": "Cursed Body"
-        },
-        {
-          "name": "Lightning Rod"
-        },
-        {
-          "name": "Rock Head",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bone Club",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Headbutt",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 3
-        },
-        {
-          "move": "Bone Club",
-          "level": 7
-        },
-        {
-          "move": "Headbutt",
-          "level": 11
-        },
-        {
-          "move": "Leer",
-          "level": 13
-        },
-        {
-          "move": "Focus Energy",
-          "level": 17
-        },
-        {
-          "move": "Bonemerang",
-          "level": 21
-        },
-        {
-          "move": "Rage",
-          "level": 23
-        },
-        {
-          "move": "False Swipe",
-          "level": 27
-        },
-        {
-          "move": "Thrash",
-          "level": 33
-        },
-        {
-          "move": "Fling",
-          "level": 37
-        },
-        {
-          "move": "Bone Rush",
-          "level": 43
-        },
-        {
-          "move": "Endeavor",
-          "level": 49
-        },
-        {
-          "move": "Double-Edge",
-          "level": 53
-        },
-        {
-          "move": "Retaliate",
-          "level": 59
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -384,12 +220,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bone Club",
           "level": 1,
           "variations": [
@@ -1276,8 +1107,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bone Club",
           "level": 1,
           "variations": [

@@ -1,12 +1,10 @@
 {
-  "name" : "Popplio",
+  "name": "Popplio",
   "national_id": 728,
-  
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -18,20 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "16.5 lbs.",
   "weight_eu": "7.5 kg",
-  
-  
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -48,35 +40,112 @@
     "sp_def": 56,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Brionne",
-      "level": 17
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Brionne",
+    "level": 17
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  
-  "move_learnsets": [
-    {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Work Up",
+          "tm": "TM01"
+        },
         {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Hail",
+          "tm": "TM07"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Ice Beam",
+          "tm": "TM13"
+        },
+        {
+          "move": "Blizzard",
+          "tm": "TM14"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Echoed Voice",
+          "tm": "TM49"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Acrobatics",
+          "tm": "TM62"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Surf",
+          "tm": "TM94"
+        },
+        {
+          "move": "Waterfall",
+          "tm": "TM98"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
           "move": "Pound",
           "level": 1
         },
@@ -263,8 +332,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Pound",
           "level": 1
         },

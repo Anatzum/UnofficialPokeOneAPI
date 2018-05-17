@@ -1,12 +1,11 @@
 {
-"name" : "Fearow",
+  "name": "Fearow",
   "national_id": 22,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "83.8 lbs.",
   "weight_eu": "38.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 90,
@@ -48,138 +41,9 @@
     "speed": 100
   },
   "evolution_from": "Spearow",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Drill Run",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Pluck",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 5
-        },
-        {
-          "move": "Fury Attack",
-          "level": 9
-        },
-        {
-          "move": "Pursuit",
-          "level": 13
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 17
-        },
-        {
-          "move": "Mirror Move",
-          "level": 23
-        },
-        {
-          "move": "Agility",
-          "level": 29
-        },
-        {
-          "move": "Assurance",
-          "level": 35
-        },
-        {
-          "move": "Roost",
-          "level": 41
-        },
-        {
-          "move": "Drill Peck",
-          "level": 47
-        },
-        {
-          "move": "Drill Run",
-          "level": 53
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Sky Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Tri Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -290,12 +154,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Drill Run",
           "level": 1
         },
@@ -522,8 +381,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Drill Run",
           "level": 1
         },

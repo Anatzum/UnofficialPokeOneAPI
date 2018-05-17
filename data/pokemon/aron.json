@@ -1,12 +1,11 @@
 {
-"name" : "Aron",
+  "name": "Aron",
   "national_id": 304,
   "types": [
     "Steel",
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "132.3 lbs.",
   "weight_eu": "60.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 70,
@@ -50,155 +43,13 @@
     "sp_def": 40,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Lairon",
-      "level": 32
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Lairon",
+    "level": 32
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 4
-        },
-        {
-          "move": "Headbutt",
-          "level": 7
-        },
-        {
-          "move": "Metal Claw",
-          "level": 10
-        },
-        {
-          "move": "Rock Tomb",
-          "level": 13
-        },
-        {
-          "move": "Protect",
-          "level": 16
-        },
-        {
-          "move": "Roar",
-          "level": 19
-        },
-        {
-          "move": "Iron Head",
-          "level": 22
-        },
-        {
-          "move": "Rock Slide",
-          "level": 25
-        },
-        {
-          "move": "Take Down",
-          "level": 28
-        },
-        {
-          "move": "Metal Sound",
-          "level": 31
-        },
-        {
-          "move": "Iron Tail",
-          "level": 34
-        },
-        {
-          "move": "Iron Defense",
-          "level": 37
-        },
-        {
-          "move": "Double-Edge",
-          "level": 40
-        },
-        {
-          "move": "Autotomize",
-          "level": 43
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 46
-        },
-        {
-          "move": "Metal Burst",
-          "level": 49
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rush",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -325,12 +176,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },
@@ -557,8 +403,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Harden",
           "level": 1
         },

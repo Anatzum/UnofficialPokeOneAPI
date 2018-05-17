@@ -1,29 +1,23 @@
 {
-"name" : "Vigoroth",
+  "name": "Vigoroth",
   "national_id": 288,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
-      "name": "Vital Spirit"
-    }
-  ],
+  "abilities": [{
+    "name": "Vital Spirit"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "102.5 lbs.",
   "weight_eu": "46.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 80,
@@ -43,134 +35,12 @@
     "speed": 90
   },
   "evolution_from": "Slakoth",
-  "evolutions": [
-    {
-      "to": "Slaking",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Encore",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Reversal",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Uproar",
-          "level": 1
-        },
-        {
-          "move": "Encore",
-          "level": 6
-        },
-        {
-          "move": "Uproar",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 14
-        },
-        {
-          "move": "Endure",
-          "level": 17
-        },
-        {
-          "move": "Slash",
-          "level": 23
-        },
-        {
-          "move": "Chip Away",
-          "level": 27
-        },
-        {
-          "move": "Counter",
-          "level": 33
-        },
-        {
-          "move": "Focus Punch",
-          "level": 37
-        },
-        {
-          "move": "Reversal",
-          "level": 43
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Slaking",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -353,12 +223,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Encore",
           "level": 1
         },
@@ -617,8 +482,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Encore",
           "level": 1
         },

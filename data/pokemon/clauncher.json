@@ -1,30 +1,24 @@
 {
-"name" : "Clauncher",
+  "name": "Clauncher",
   "national_id": 692,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
-      "name": "Mega Launcher"
-    }
-  ],
+  "abilities": [{
+    "name": "Mega Launcher"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 3"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "18.3 lbs.",
   "weight_eu": "8.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -33,8 +27,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 53,
@@ -43,107 +35,13 @@
     "sp_def": 63,
     "speed": 44
   },
-  "evolutions": [
-    {
-      "to": "Clawitzer",
-      "level": 37
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Clawitzer",
+    "level": 37
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Splash",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 7
-        },
-        {
-          "move": "Vice Grip",
-          "level": 9
-        },
-        {
-          "move": "Bubble",
-          "level": 12
-        },
-        {
-          "move": "Flail",
-          "level": 16
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 20
-        },
-        {
-          "move": "Swords Dance",
-          "level": 25
-        },
-        {
-          "move": "Crabhammer",
-          "level": 30
-        },
-        {
-          "move": "Water Pulse",
-          "level": 34
-        },
-        {
-          "move": "Smack Down",
-          "level": 39
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 43
-        },
-        {
-          "move": "Muddy Water",
-          "level": 48
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Crabhammer",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Entrainment",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -266,12 +164,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Splash",
           "level": 1
         },
@@ -458,8 +351,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Splash",
           "level": 1
         },

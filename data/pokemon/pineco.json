@@ -1,11 +1,10 @@
 {
-"name" : "Pineco",
+  "name": "Pineco",
   "national_id": 204,
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "15.9 lbs.",
   "weight_eu": "7.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 65,
@@ -46,135 +39,13 @@
     "sp_def": 35,
     "speed": 15
   },
-  "evolutions": [
-    {
-      "to": "Forretress",
-      "level": 31
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Forretress",
+    "level": 31
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Protect",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Self-Destruct",
-          "level": 6
-        },
-        {
-          "move": "Bug Bite",
-          "level": 9
-        },
-        {
-          "move": "Take Down",
-          "level": 12
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 17
-        },
-        {
-          "move": "Bide",
-          "level": 20
-        },
-        {
-          "move": "Natural Gift",
-          "level": 23
-        },
-        {
-          "move": "Spikes",
-          "level": 28
-        },
-        {
-          "move": "Payback",
-          "level": 31
-        },
-        {
-          "move": "Explosion",
-          "level": 34
-        },
-        {
-          "move": "Iron Defense",
-          "level": 39
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 42
-        },
-        {
-          "move": "Double-Edge",
-          "level": 45
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Pin Missile",
-          "egg_move": true
-        },
-        {
-          "move": "Power Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -305,12 +176,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Protect",
           "level": 1
         },
@@ -525,8 +391,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Protect",
           "level": 1
         },

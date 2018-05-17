@@ -1,11 +1,10 @@
 {
-"name" : "Gorebyss",
+  "name": "Gorebyss",
   "national_id": 368,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "49.8 lbs.",
   "weight_eu": "22.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 84,
@@ -47,134 +40,9 @@
     "speed": 52
   },
   "evolution_from": "Clamperl",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Whirlpool",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 5
-        },
-        {
-          "move": "Agility",
-          "level": 9
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 11
-        },
-        {
-          "move": "Water Pulse",
-          "level": 14
-        },
-        {
-          "move": "Amnesia",
-          "level": 16
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 19
-        },
-        {
-          "move": "Captivate",
-          "level": 23
-        },
-        {
-          "move": "Dive",
-          "level": 26
-        },
-        {
-          "move": "Baton Pass",
-          "level": 29
-        },
-        {
-          "move": "Psychic",
-          "level": 34
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 39
-        },
-        {
-          "move": "Coil",
-          "level": 45
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 50
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -297,12 +165,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -525,8 +388,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

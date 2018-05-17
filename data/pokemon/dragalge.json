@@ -1,12 +1,11 @@
 {
-"name" : "Dragalge",
+  "name": "Dragalge",
   "national_id": 691,
   "types": [
     "Poison",
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Poison Point"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Dragon"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "179.7 lbs.",
   "weight_eu": "81.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 75,
@@ -49,130 +42,9 @@
     "speed": 44
   },
   "evolution_from": "Skrelp",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Dragon Tail",
-          "level": 1
-        },
-        {
-          "move": "Smokescreen",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Twister",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Feint Attack",
-          "level": 5
-        },
-        {
-          "move": "Tail Whip",
-          "level": 9
-        },
-        {
-          "move": "Bubble",
-          "level": 12
-        },
-        {
-          "move": "Acid",
-          "level": 15
-        },
-        {
-          "move": "Camouflage",
-          "level": 19
-        },
-        {
-          "move": "Poison Tail",
-          "level": 23
-        },
-        {
-          "move": "Water Pulse",
-          "level": 25
-        },
-        {
-          "move": "Double Team",
-          "level": 28
-        },
-        {
-          "move": "Toxic",
-          "level": 32
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 35
-        },
-        {
-          "move": "Sludge Bomb",
-          "level": 38
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 42
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 53
-        },
-        {
-          "move": "Dragon Tail",
-          "level": 59
-        },
-        {
-          "move": "Twister",
-          "level": 67
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Play Rough",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Venom Drench",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -299,12 +171,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Dragon Tail",
           "level": 1
         },
@@ -527,8 +394,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Dragon Tail",
           "level": 1
         },

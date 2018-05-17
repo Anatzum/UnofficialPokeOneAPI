@@ -1,27 +1,21 @@
 {
-"name" : "Virizion",
+  "name": "Virizion",
   "national_id": 640,
   "types": [
     "Grass",
     "Fighting"
   ],
-  "abilities": [
-    {
-      "name": "Justified"
-    }
-  ],
+  "abilities": [{
+    "name": "Justified"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "440.9 lbs.",
   "weight_eu": "200.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 91,
     "atk": 90,
@@ -40,103 +32,10 @@
     "sp_def": 129,
     "speed": 108
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Close Combat",
-          "level": 1
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Quick Guard",
-          "level": 1
-        },
-        {
-          "move": "Work Up",
-          "level": 1
-        },
-        {
-          "move": "Double Kick",
-          "level": 7
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 13
-        },
-        {
-          "move": "Take Down",
-          "level": 19
-        },
-        {
-          "move": "Helping Hand",
-          "level": 25
-        },
-        {
-          "move": "Retaliate",
-          "level": 31
-        },
-        {
-          "move": "Giga Drain",
-          "level": 37
-        },
-        {
-          "move": "Sacred Sword",
-          "level": 42
-        },
-        {
-          "move": "Swords Dance",
-          "level": 49
-        },
-        {
-          "move": "Quick Guard",
-          "level": 55
-        },
-        {
-          "move": "Work Up",
-          "level": 61
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 67
-        },
-        {
-          "move": "Close Combat",
-          "level": 73
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -295,12 +194,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Close Combat",
           "level": 1
         },
@@ -507,8 +401,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Close Combat",
           "level": 1
         },

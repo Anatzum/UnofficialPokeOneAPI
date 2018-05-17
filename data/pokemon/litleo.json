@@ -1,12 +1,11 @@
 {
-"name" : "Litleo",
+  "name": "Litleo",
   "national_id": 667,
   "types": [
     "Fire",
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rivalry"
     },
     {
@@ -18,17 +17,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "29.8 lbs.",
   "weight_eu": "13.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 62,
     "atk": 50,
@@ -47,111 +40,13 @@
     "sp_def": 54,
     "speed": 72
   },
-  "evolutions": [
-    {
-      "to": "Pyroar",
-      "level": 35
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Pyroar",
+    "level": 35
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 5
-        },
-        {
-          "move": "Work Up",
-          "level": 8
-        },
-        {
-          "move": "Headbutt",
-          "level": 11
-        },
-        {
-          "move": "Noble Roar",
-          "level": 15
-        },
-        {
-          "move": "Take Down",
-          "level": 20
-        },
-        {
-          "move": "Fire Fang",
-          "level": 23
-        },
-        {
-          "move": "Endeavor",
-          "level": 28
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 33
-        },
-        {
-          "move": "Flamethrower",
-          "level": 36
-        },
-        {
-          "move": "Crunch",
-          "level": 39
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 43
-        },
-        {
-          "move": "Incinerate",
-          "level": 46
-        },
-        {
-          "move": "Overheat",
-          "level": 50
-        },
-        {
-          "move": "Entrainment",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -302,12 +197,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -522,8 +412,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

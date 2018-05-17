@@ -1,12 +1,11 @@
 {
-"name" : "Heracross",
+  "name": "Heracross",
   "national_id": 214,
   "types": [
     "Bug",
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "119.0 lbs.",
   "weight_eu": "54.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 125,
@@ -50,163 +43,10 @@
     "sp_def": 95,
     "speed": 85
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Bug",
-        "Fighting"
-      ],
-      "ability": "Skill Link",
-      "mega_stone": "Heracronite",
-      "height_us": "5'07\"",
-      "height_eu": "1.7 m",
-      "weight_us": "137.8 lbs.",
-      "weight_eu": "62.5 kg",
-      "base_stats": {
-        "hp": 80,
-        "atk": 185,
-        "def": 115,
-        "sp_atk": 40,
-        "sp_def": 105,
-        "speed": 75
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Arm Thrust",
-          "level": 1
-        },
-        {
-          "move": "Bullet Seed",
-          "level": 1
-        },
-        {
-          "move": "Endure",
-          "level": 1
-        },
-        {
-          "move": "Horn Attack",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Night Slash",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Feint",
-          "level": 7
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 10
-        },
-        {
-          "move": "Chip Away",
-          "level": 16
-        },
-        {
-          "move": "Counter",
-          "level": 19
-        },
-        {
-          "move": "Fury Attack",
-          "level": 25
-        },
-        {
-          "move": "Brick Break",
-          "level": 28
-        },
-        {
-          "move": "Pin Missile",
-          "level": 31
-        },
-        {
-          "move": "Take Down",
-          "level": 34
-        },
-        {
-          "move": "Megahorn",
-          "level": 37
-        },
-        {
-          "move": "Close Combat",
-          "level": 43
-        },
-        {
-          "move": "Reversal",
-          "level": 46
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Harden",
-          "egg_move": true
-        },
-        {
-          "move": "Megahorn",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Blast",
-          "egg_move": true
-        },
-        {
-          "move": "Seismic Toss",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -373,12 +213,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Arm Thrust",
           "level": 1
         },
@@ -641,8 +476,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Arm Thrust",
           "level": 1
         },

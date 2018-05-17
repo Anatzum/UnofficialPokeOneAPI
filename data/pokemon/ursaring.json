@@ -1,11 +1,10 @@
 {
-"name" : "Ursaring",
+  "name": "Ursaring",
   "national_id": 217,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Guts"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "277.3 lbs.",
   "weight_eu": "125.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 130,
@@ -50,154 +43,9 @@
     "speed": 55
   },
   "evolution_from": "Teddiursa",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Covet",
-          "level": 1
-        },
-        {
-          "move": "Fake Tears",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 8
-        },
-        {
-          "move": "Feint Attack",
-          "level": 15
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 22
-        },
-        {
-          "move": "Play Nice",
-          "level": 25
-        },
-        {
-          "move": "Slash",
-          "level": 29
-        },
-        {
-          "move": "Scary Face",
-          "level": 38
-        },
-        {
-          "move": "Rest",
-          "level": 47
-        },
-        {
-          "move": "Snore",
-          "level": 49
-        },
-        {
-          "move": "Thrash",
-          "level": 58
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 67
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Close Combat",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Play Rough",
-          "egg_move": true
-        },
-        {
-          "move": "Seismic Toss",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -376,12 +224,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Covet",
           "level": 1
         },
@@ -660,8 +503,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Covet",
           "level": 1
         },

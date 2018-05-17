@@ -1,11 +1,10 @@
 {
-"name" : "Ninetales",
+  "name": "Ninetales",
   "national_id": 38,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flash Fire"
     },
     {
@@ -17,17 +16,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "43.9 lbs.",
   "weight_eu": "19.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 1,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 73,
     "atk": 76,
@@ -47,131 +40,9 @@
     "speed": 100
   },
   "evolution_from": "Vulpix",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Ninetales",
-        "de": "Alola-Vulnona"
-      },
-      "types": [
-        "Ice",
-        "Fairy"
-      ],
-      "abilities": [
-        {
-          "name": "Snow Cloak"
-        },
-        {
-          "name": "Snow Warning",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confuse Ray",
-          "level": 1
-        },
-        {
-          "move": "Flamethrower",
-          "level": 1
-        },
-        {
-          "move": "Imprison",
-          "level": 1
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Safeguard",
-          "level": 1
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Flare Blitz",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Hex",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Tail Slap",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -314,12 +185,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confuse Ray",
           "level": 1,
           "variations": [
@@ -1054,8 +920,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confuse Ray",
           "level": 1,
           "variations": [

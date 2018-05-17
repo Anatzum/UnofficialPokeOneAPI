@@ -4,8 +4,7 @@
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pickup"
     },
     {
@@ -14,8 +13,8 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
   "egg_groups": [
     "Field"
@@ -24,7 +23,6 @@
   "height_eu": "0.4 m",
   "weight_us": "11.0 lbs.",
   "weight_eu": "5.0 kg",
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,99 +39,13 @@
     "sp_def": 36,
     "speed": 57
   },
-  "evolutions": [
-    {
-      "to": "Diggersby",
-      "level": 20
-    }
-  ],
-  "mega_evolutions": [],
+  "evolutions": [{
+    "to": "Diggersby",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [],
-  "move_learnsets": [
-    {
-      "games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Agility",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 7
-        },
-        {
-          "move": "Double Slap",
-          "level": 10
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 13
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Mud Shot",
-          "level": 18
-        },
-        {
-          "move": "Double Kick",
-          "level": 20
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 25
-        },
-        {
-          "move": "Flail",
-          "level": 29
-        },
-        {
-          "move": "Dig",
-          "level": 33
-        },
-        {
-          "move": "Bounce",
-          "level": 38
-        },
-        {
-          "move": "Super Fang",
-          "level": 42
-        },
-        {
-          "move": "Facade",
-          "level": 47
-        },
-        {
-          "move": "Earthquake",
-          "level": 49
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -292,12 +204,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Agility",
           "level": 1
         },
@@ -516,8 +423,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Agility",
           "level": 1
         },

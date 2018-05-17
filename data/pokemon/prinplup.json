@@ -1,11 +1,10 @@
 {
-"name" : "Prinplup",
+  "name": "Prinplup",
   "national_id": 394,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "50.7 lbs.",
   "weight_eu": "23.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 64,
     "atk": 66,
@@ -48,146 +41,12 @@
     "speed": 50
   },
   "evolution_from": "Piplup",
-  "evolutions": [
-    {
-      "to": "Empoleon",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Bubble",
-          "level": 8
-        },
-        {
-          "move": "Water Sport",
-          "level": 11
-        },
-        {
-          "move": "Peck",
-          "level": 15
-        },
-        {
-          "move": "Metal Claw",
-          "level": 16
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 19
-        },
-        {
-          "move": "Bide",
-          "level": 24
-        },
-        {
-          "move": "Fury Attack",
-          "level": 28
-        },
-        {
-          "move": "Brine",
-          "level": 33
-        },
-        {
-          "move": "Whirlpool",
-          "level": 37
-        },
-        {
-          "move": "Mist",
-          "level": 42
-        },
-        {
-          "move": "Drill Peck",
-          "level": 46
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 50
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Double Hit",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Icy Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Empoleon",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -582,8 +436,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

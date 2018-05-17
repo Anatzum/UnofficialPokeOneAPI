@@ -1,11 +1,10 @@
 {
-"name" : "Dusclops",
+  "name": "Dusclops",
   "national_id": 356,
   "types": [
     "Ghost"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "67.5 lbs.",
   "weight_eu": "30.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 70,
@@ -47,171 +40,13 @@
     "speed": 25
   },
   "evolution_from": "Duskull",
-  "evolutions": [
-    {
-      "to": "Dusknoir",
-      "trade": true,
-      "hold_item": "Reaper Cloth"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Bind",
-          "level": 1
-        },
-        {
-          "move": "Disable",
-          "level": 1
-        },
-        {
-          "move": "Fire Punch",
-          "level": 1
-        },
-        {
-          "move": "Future Sight",
-          "level": 1
-        },
-        {
-          "move": "Gravity",
-          "level": 1
-        },
-        {
-          "move": "Ice Punch",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Night Shade",
-          "level": 1
-        },
-        {
-          "move": "Thunder Punch",
-          "level": 1
-        },
-        {
-          "move": "Disable",
-          "level": 6
-        },
-        {
-          "move": "Astonish",
-          "level": 9
-        },
-        {
-          "move": "Foresight",
-          "level": 14
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 17
-        },
-        {
-          "move": "Pursuit",
-          "level": 22
-        },
-        {
-          "move": "Will-O-Wisp",
-          "level": 25
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 30
-        },
-        {
-          "move": "Curse",
-          "level": 33
-        },
-        {
-          "move": "Shadow Punch",
-          "level": 37
-        },
-        {
-          "move": "Hex",
-          "level": 40
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 45
-        },
-        {
-          "move": "Mean Look",
-          "level": 52
-        },
-        {
-          "move": "Payback",
-          "level": 57
-        },
-        {
-          "move": "Future Sight",
-          "level": 64
-        },
-        {
-          "move": "Dark Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Grudge",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Imprison",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Ominous Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Pain Split",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Dusknoir",
+    "trade": true,
+    "hold_item": "Reaper Cloth"
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -398,12 +233,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -710,8 +540,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

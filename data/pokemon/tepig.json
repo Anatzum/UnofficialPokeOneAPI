@@ -1,11 +1,10 @@
 {
-"name" : "Tepig",
+  "name": "Tepig",
   "national_id": 498,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Blaze"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "21.8 lbs.",
   "weight_eu": "9.9 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 63,
@@ -46,139 +39,13 @@
     "sp_def": 45,
     "speed": 45
   },
-  "evolutions": [
-    {
-      "to": "Pignite",
-      "level": 17
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Pignite",
+    "level": 17
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 3
-        },
-        {
-          "move": "Ember",
-          "level": 7
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 9
-        },
-        {
-          "move": "Defense Curl",
-          "level": 13
-        },
-        {
-          "move": "Flame Charge",
-          "level": 15
-        },
-        {
-          "move": "Smog",
-          "level": 19
-        },
-        {
-          "move": "Rollout",
-          "level": 21
-        },
-        {
-          "move": "Take Down",
-          "level": 25
-        },
-        {
-          "move": "Heat Crash",
-          "level": 27
-        },
-        {
-          "move": "Assurance",
-          "level": 31
-        },
-        {
-          "move": "Flamethrower",
-          "level": 33
-        },
-        {
-          "move": "Head Smash",
-          "level": 37
-        },
-        {
-          "move": "Roar",
-          "level": 39
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 43
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Heavy Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Magnitude",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -309,12 +176,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -541,8 +403,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

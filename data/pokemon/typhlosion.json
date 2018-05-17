@@ -1,11 +1,10 @@
 {
-"name" : "Typhlosion",
+  "name": "Typhlosion",
   "national_id": 157,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Blaze"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "175.3 lbs.",
   "weight_eu": "79.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 78,
     "atk": 84,
@@ -47,166 +40,9 @@
     "speed": 100
   },
   "evolution_from": "Quilava",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Double-Edge",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Eruption",
-          "level": 1
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Smokescreen",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Smokescreen",
-          "level": 6
-        },
-        {
-          "move": "Ember",
-          "level": 10
-        },
-        {
-          "move": "Quick Attack",
-          "level": 13
-        },
-        {
-          "move": "Flame Wheel",
-          "level": 20
-        },
-        {
-          "move": "Defense Curl",
-          "level": 24
-        },
-        {
-          "move": "Swift",
-          "level": 31
-        },
-        {
-          "move": "Flame Charge",
-          "level": 35
-        },
-        {
-          "move": "Lava Plume",
-          "level": 43
-        },
-        {
-          "move": "Flamethrower",
-          "level": 48
-        },
-        {
-          "move": "Inferno",
-          "level": 56
-        },
-        {
-          "move": "Rollout",
-          "level": 61
-        },
-        {
-          "move": "Double-Edge",
-          "level": 69
-        },
-        {
-          "move": "Eruption",
-          "level": 74
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Flare Blitz",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Swipes",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Nature Power",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -381,12 +217,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Double-Edge",
           "level": 1
         },
@@ -681,8 +512,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Double-Edge",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Volcarona",
+  "name": "Volcarona",
   "national_id": 637,
   "types": [
     "Bug",
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flame Body"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "101.4 lbs.",
   "weight_eu": "46.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 60,
@@ -48,158 +41,9 @@
     "speed": 100
   },
   "evolution_from": "Larvesta",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Amnesia",
-          "level": 1
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Fiery Dance",
-          "level": 1
-        },
-        {
-          "move": "Flame Wheel",
-          "level": 1
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Heat Wave",
-          "level": 1
-        },
-        {
-          "move": "Hurricane",
-          "level": 1
-        },
-        {
-          "move": "Leech Life",
-          "level": 1
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 1
-        },
-        {
-          "move": "Rage Powder",
-          "level": 1
-        },
-        {
-          "move": "String Shot",
-          "level": 1
-        },
-        {
-          "move": "Thrash",
-          "level": 1
-        },
-        {
-          "move": "Leech Life",
-          "level": 10
-        },
-        {
-          "move": "Gust",
-          "level": 20
-        },
-        {
-          "move": "Fire Spin",
-          "level": 30
-        },
-        {
-          "move": "Whirlwind",
-          "level": 40
-        },
-        {
-          "move": "Silver Wind",
-          "level": 50
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 59
-        },
-        {
-          "move": "Heat Wave",
-          "level": 60
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 70
-        },
-        {
-          "move": "Rage Powder",
-          "level": 80
-        },
-        {
-          "move": "Hurricane",
-          "level": 90
-        },
-        {
-          "move": "Fiery Dance",
-          "level": 100
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Harden",
-          "egg_move": true
-        },
-        {
-          "move": "Magnet Rise",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "String Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -346,12 +190,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -618,8 +457,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

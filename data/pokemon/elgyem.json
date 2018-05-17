@@ -1,11 +1,10 @@
 {
-"name" : "Elgyem",
+  "name": "Elgyem",
   "national_id": 605,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Telepathy"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "19.8 lbs.",
   "weight_eu": "9.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 55,
@@ -46,147 +39,13 @@
     "sp_def": 55,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Beheeyem",
-      "level": 42
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Beheeyem",
+    "level": 42
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Heal Block",
-          "level": 8
-        },
-        {
-          "move": "Miracle Eye",
-          "level": 11
-        },
-        {
-          "move": "Psybeam",
-          "level": 15
-        },
-        {
-          "move": "Headbutt",
-          "level": 18
-        },
-        {
-          "move": "Hidden Power",
-          "level": 22
-        },
-        {
-          "move": "Imprison",
-          "level": 25
-        },
-        {
-          "move": "Simple Beam",
-          "level": 29
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 32
-        },
-        {
-          "move": "Psych Up",
-          "level": 36
-        },
-        {
-          "move": "Psychic",
-          "level": 39
-        },
-        {
-          "move": "Calm Mind",
-          "level": 43
-        },
-        {
-          "move": "Recover",
-          "level": 46
-        },
-        {
-          "move": "Guard Split",
-          "level": 50
-        },
-        {
-          "move": "Power Split",
-          "level": 50
-        },
-        {
-          "move": "Synchronoise",
-          "level": 53
-        },
-        {
-          "move": "Wonder Room",
-          "level": 56
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Cosmic Power",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Teleport",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -341,12 +200,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -609,8 +463,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

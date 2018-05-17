@@ -1,12 +1,11 @@
 {
-"name" : "Crobat",
+  "name": "Crobat",
   "national_id": 169,
   "types": [
     "Poison",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Inner Focus"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "165.3 lbs.",
   "weight_eu": "75.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 3
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 90,
@@ -48,166 +41,10 @@
     "speed": 130
   },
   "evolution_from": "Golbat",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Cross Poison",
-          "level": 1
-        },
-        {
-          "move": "Leech Life",
-          "level": 1
-        },
-        {
-          "move": "Screech",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Astonish",
-          "level": 7
-        },
-        {
-          "move": "Bite",
-          "level": 11
-        },
-        {
-          "move": "Wing Attack",
-          "level": 13
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 17
-        },
-        {
-          "move": "Air Cutter",
-          "level": 19
-        },
-        {
-          "move": "Swift",
-          "level": 24
-        },
-        {
-          "move": "Poison Fang",
-          "level": 27
-        },
-        {
-          "move": "Mean Look",
-          "level": 32
-        },
-        {
-          "move": "Acrobatics",
-          "level": 35
-        },
-        {
-          "move": "Haze",
-          "level": 40
-        },
-        {
-          "move": "Venoshock",
-          "level": 43
-        },
-        {
-          "move": "Air Slash",
-          "level": 48
-        },
-        {
-          "move": "Quick Guard",
-          "level": 51
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Venom Drench",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "mega_evolutions": [],
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -346,12 +183,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -630,8 +462,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

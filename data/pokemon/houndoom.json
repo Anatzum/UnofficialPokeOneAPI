@@ -1,12 +1,11 @@
 {
-"name" : "Houndoom",
+  "name": "Houndoom",
   "national_id": 229,
   "types": [
     "Dark",
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Early Bird"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "77.2 lbs.",
   "weight_eu": "35.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 90,
@@ -51,190 +44,9 @@
     "speed": 95
   },
   "evolution_from": "Houndour",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Dark",
-        "Fire"
-      ],
-      "ability": "Solar Power",
-      "mega_stone": "Houndoominite",
-      "height_us": "6'03\"",
-      "height_eu": "1.9 m",
-      "weight_us": "109.1 lbs.",
-      "weight_eu": "49.5 kg",
-      "base_stats": {
-        "hp": 75,
-        "atk": 90,
-        "def": 90,
-        "sp_atk": 140,
-        "sp_def": 90,
-        "speed": 115
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Howl",
-          "level": 1
-        },
-        {
-          "move": "Inferno",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 1
-        },
-        {
-          "move": "Smog",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Howl",
-          "level": 4
-        },
-        {
-          "move": "Smog",
-          "level": 8
-        },
-        {
-          "move": "Roar",
-          "level": 13
-        },
-        {
-          "move": "Bite",
-          "level": 16
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 20
-        },
-        {
-          "move": "Beat Up",
-          "level": 26
-        },
-        {
-          "move": "Fire Fang",
-          "level": 30
-        },
-        {
-          "move": "Feint Attack",
-          "level": 35
-        },
-        {
-          "move": "Embargo",
-          "level": 41
-        },
-        {
-          "move": "Foul Play",
-          "level": 45
-        },
-        {
-          "move": "Flamethrower",
-          "level": 50
-        },
-        {
-          "move": "Crunch",
-          "level": 56
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 60
-        },
-        {
-          "move": "Inferno",
-          "level": 65
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -393,12 +205,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -681,8 +488,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

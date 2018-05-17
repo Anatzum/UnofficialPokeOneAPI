@@ -1,11 +1,10 @@
 {
-"name" : "Beartic",
+  "name": "Beartic",
   "national_id": 614,
   "types": [
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Snow Cloak"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "8'06\"",
   "height_eu": "2.6 m",
   "weight_us": "573.2 lbs.",
   "weight_eu": "260.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 110,
@@ -47,154 +40,9 @@
     "speed": 50
   },
   "evolution_from": "Cubchoo",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aqua Jet",
-          "level": 1
-        },
-        {
-          "move": "Bide",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Icy Wind",
-          "level": 1
-        },
-        {
-          "move": "Powder Snow",
-          "level": 1
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 1
-        },
-        {
-          "move": "Superpower",
-          "level": 1
-        },
-        {
-          "move": "Thrash",
-          "level": 1
-        },
-        {
-          "move": "Play Nice",
-          "level": 9
-        },
-        {
-          "move": "Icy Wind",
-          "level": 13
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 17
-        },
-        {
-          "move": "Brine",
-          "level": 21
-        },
-        {
-          "move": "Endure",
-          "level": 25
-        },
-        {
-          "move": "Swagger",
-          "level": 29
-        },
-        {
-          "move": "Slash",
-          "level": 33
-        },
-        {
-          "move": "Flail",
-          "level": 36
-        },
-        {
-          "move": "Icicle Crash",
-          "level": 37
-        },
-        {
-          "move": "Rest",
-          "level": 41
-        },
-        {
-          "move": "Blizzard",
-          "level": 45
-        },
-        {
-          "move": "Hail",
-          "level": 53
-        },
-        {
-          "move": "Thrash",
-          "level": 59
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 66
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Play Rough",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -377,12 +225,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aqua Jet",
           "level": 1
         },
@@ -669,8 +512,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aqua Jet",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Shellos",
+  "name": "Shellos",
   "national_id": 422,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sticky Hold"
     },
     {
@@ -17,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Amorphous"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "13.9 lbs.",
   "weight_eu": "6.3 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 76,
     "atk": 48,
@@ -50,141 +43,12 @@
     "sp_def": 62,
     "speed": 34
   },
-  "evolutions": [
-    {
-      "to": "Gastrodon",
-      "level": 30
-    }
-  ],
-  
-  
-  "variations": [
-    {
-      "image_suffix": "east",
-      "condition": "East Sea",
-      "name": {
-        "en": "East Sea",
-        "de": "Östliches Meer"
-      },
-      "types": [
-        "Water"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Mud-Slap",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 2
-        },
-        {
-          "move": "Harden",
-          "level": 4
-        },
-        {
-          "move": "Water Pulse",
-          "level": 7
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 11
-        },
-        {
-          "move": "Hidden Power",
-          "level": 16
-        },
-        {
-          "move": "Rain Dance",
-          "level": 22
-        },
-        {
-          "move": "Body Slam",
-          "level": 29
-        },
-        {
-          "move": "Muddy Water",
-          "level": 37
-        },
-        {
-          "move": "Recover",
-          "level": 46
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Fissure",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Sludge",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Trump Card",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Gastrodon",
+    "level": 30
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -279,12 +143,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Mud-Slap",
           "level": 1
         },
@@ -479,8 +338,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Mud-Slap",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Musharna",
+  "name": "Musharna",
   "national_id": 518,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Forewarn"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "133.4 lbs.",
   "weight_eu": "60.5 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 116,
     "atk": 55,
@@ -47,86 +40,9 @@
     "speed": 29
   },
   "evolution_from": "Munna",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Hypnosis",
-          "level": 1
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 1
-        },
-        {
-          "move": "Psybeam",
-          "level": 1
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Healing Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Magic Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Sonic Boom",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -277,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Defense Curl",
           "level": 1
         },
@@ -489,8 +400,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Defense Curl",
           "level": 1
         },

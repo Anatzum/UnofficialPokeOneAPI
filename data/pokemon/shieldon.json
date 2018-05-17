@@ -1,12 +1,11 @@
 {
-"name" : "Shieldon",
+  "name": "Shieldon",
   "national_id": 410,
   "types": [
     "Rock",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "125.7 lbs.",
   "weight_eu": "57.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 30,
     "atk": 42,
@@ -47,135 +40,13 @@
     "sp_def": 88,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Bastiodon",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Bastiodon",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Protect",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Taunt",
-          "level": 6
-        },
-        {
-          "move": "Metal Sound",
-          "level": 10
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Iron Defense",
-          "level": 19
-        },
-        {
-          "move": "Swagger",
-          "level": 24
-        },
-        {
-          "move": "Ancient Power",
-          "level": 28
-        },
-        {
-          "move": "Endure",
-          "level": 33
-        },
-        {
-          "move": "Metal Burst",
-          "level": 37
-        },
-        {
-          "move": "Iron Head",
-          "level": 42
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 46
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Fissure",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Split",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Blast",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -334,12 +205,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Protect",
           "level": 1
         },
@@ -582,8 +448,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Protect",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Shinx",
+  "name": "Shinx",
   "national_id": 403,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rivalry"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "20.9 lbs.",
   "weight_eu": "9.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 65,
@@ -49,143 +42,13 @@
     "sp_def": 34,
     "speed": 45
   },
-  "evolutions": [
-    {
-      "to": "Luxio",
-      "level": 15
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Luxio",
+    "level": 15
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 5
-        },
-        {
-          "move": "Charge",
-          "level": 9
-        },
-        {
-          "move": "Baby-Doll Eyes",
-          "level": 11
-        },
-        {
-          "move": "Spark",
-          "level": 13
-        },
-        {
-          "move": "Bite",
-          "level": 17
-        },
-        {
-          "move": "Roar",
-          "level": 21
-        },
-        {
-          "move": "Swagger",
-          "level": 25
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 29
-        },
-        {
-          "move": "Crunch",
-          "level": 33
-        },
-        {
-          "move": "Scary Face",
-          "level": 37
-        },
-        {
-          "move": "Discharge",
-          "level": 41
-        },
-        {
-          "move": "Wild Charge",
-          "level": 45
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Eerie Impulse",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Shock Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -300,12 +163,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -520,8 +378,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

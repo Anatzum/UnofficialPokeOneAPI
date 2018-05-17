@@ -1,12 +1,11 @@
 {
-"name" : "Lairon",
+  "name": "Lairon",
   "national_id": 305,
   "types": [
     "Steel",
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "264.6 lbs.",
   "weight_eu": "120.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 90,
@@ -51,162 +44,12 @@
     "speed": 40
   },
   "evolution_from": "Aron",
-  "evolutions": [
-    {
-      "to": "Aggron",
-      "level": 42
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Headbutt",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 4
-        },
-        {
-          "move": "Headbutt",
-          "level": 7
-        },
-        {
-          "move": "Metal Claw",
-          "level": 10
-        },
-        {
-          "move": "Rock Tomb",
-          "level": 13
-        },
-        {
-          "move": "Protect",
-          "level": 16
-        },
-        {
-          "move": "Roar",
-          "level": 19
-        },
-        {
-          "move": "Iron Head",
-          "level": 22
-        },
-        {
-          "move": "Rock Slide",
-          "level": 25
-        },
-        {
-          "move": "Take Down",
-          "level": 28
-        },
-        {
-          "move": "Metal Sound",
-          "level": 31
-        },
-        {
-          "move": "Iron Tail",
-          "level": 35
-        },
-        {
-          "move": "Iron Defense",
-          "level": 39
-        },
-        {
-          "move": "Double-Edge",
-          "level": 43
-        },
-        {
-          "move": "Autotomize",
-          "level": 47
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 51
-        },
-        {
-          "move": "Metal Burst",
-          "level": 55
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rush",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Aggron",
+    "level": 42
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -337,12 +180,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },
@@ -581,8 +419,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Harden",
           "level": 1
         },

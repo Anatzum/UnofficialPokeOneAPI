@@ -1,12 +1,11 @@
 {
-"name" : "Roselia",
+  "name": "Roselia",
   "national_id": 315,
   "types": [
     "Grass",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Natural Cure"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy",
     "Grass"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "4.4 lbs.",
   "weight_eu": "2.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 60,
@@ -51,159 +44,13 @@
     "sp_def": 80,
     "speed": 65
   },
-  "evolutions": [
-    {
-      "to": "Roserade",
-      "item": "Shiny Stone"
-    }
-  ],
+  "evolutions": [{
+    "to": "Roserade",
+    "item": "Shiny Stone"
+  }],
   "evolution_from": "Budew",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "Growth",
-          "level": 4
-        },
-        {
-          "move": "Poison Sting",
-          "level": 7
-        },
-        {
-          "move": "Stun Spore",
-          "level": 10
-        },
-        {
-          "move": "Mega Drain",
-          "level": 13
-        },
-        {
-          "move": "Leech Seed",
-          "level": 16
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 19
-        },
-        {
-          "move": "Grass Whistle",
-          "level": 22
-        },
-        {
-          "move": "Giga Drain",
-          "level": 25
-        },
-        {
-          "move": "Toxic Spikes",
-          "level": 28
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 31
-        },
-        {
-          "move": "Ingrain",
-          "level": 34
-        },
-        {
-          "move": "Petal Blizzard",
-          "level": 37
-        },
-        {
-          "move": "Toxic",
-          "level": 40
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 43
-        },
-        {
-          "move": "Synthesis",
-          "level": 46
-        },
-        {
-          "move": "Petal Dance",
-          "level": 50
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Cotton Spore",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Pin Missile",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Powder",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -326,12 +173,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -566,8 +408,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

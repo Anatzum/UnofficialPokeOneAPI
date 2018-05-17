@@ -1,12 +1,11 @@
 {
-"name" : "Sigilyph",
+  "name": "Sigilyph",
   "national_id": 561,
   "types": [
     "Psychic",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Wonder Skin"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "30.9 lbs.",
   "weight_eu": "14.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 72,
     "atk": 58,
@@ -47,127 +40,10 @@
     "sp_def": 80,
     "speed": 97
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Miracle Eye",
-          "level": 1
-        },
-        {
-          "move": "Hypnosis",
-          "level": 4
-        },
-        {
-          "move": "Psywave",
-          "level": 8
-        },
-        {
-          "move": "Tailwind",
-          "level": 11
-        },
-        {
-          "move": "Whirlwind",
-          "level": 14
-        },
-        {
-          "move": "Psybeam",
-          "level": 18
-        },
-        {
-          "move": "Air Cutter",
-          "level": 21
-        },
-        {
-          "move": "Light Screen",
-          "level": 24
-        },
-        {
-          "move": "Reflect",
-          "level": 28
-        },
-        {
-          "move": "Synchronoise",
-          "level": 31
-        },
-        {
-          "move": "Mirror Move",
-          "level": 34
-        },
-        {
-          "move": "Gravity",
-          "level": 38
-        },
-        {
-          "move": "Air Slash",
-          "level": 41
-        },
-        {
-          "move": "Psychic",
-          "level": 44
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 48
-        },
-        {
-          "move": "Sky Attack",
-          "level": 50
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Shift",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Stored Power",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -338,12 +214,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Gust",
           "level": 1
         },
@@ -606,8 +477,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Gust",
           "level": 1
         },

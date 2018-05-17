@@ -1,12 +1,11 @@
 {
-"name" : "Beautifly",
+  "name": "Beautifly",
   "national_id": 267,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "62.6 lbs.",
   "weight_eu": "28.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 70,
@@ -48,86 +41,9 @@
     "speed": 65
   },
   "evolution_from": "Silcoon",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 10
-        },
-        {
-          "move": "Absorb",
-          "level": 12
-        },
-        {
-          "move": "Stun Spore",
-          "level": 15
-        },
-        {
-          "move": "Morning Sun",
-          "level": 17
-        },
-        {
-          "move": "Air Cutter",
-          "level": 20
-        },
-        {
-          "move": "Mega Drain",
-          "level": 22
-        },
-        {
-          "move": "Silver Wind",
-          "level": 25
-        },
-        {
-          "move": "Attract",
-          "level": 27
-        },
-        {
-          "move": "Whirlwind",
-          "level": 30
-        },
-        {
-          "move": "Giga Drain",
-          "level": 32
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 35
-        },
-        {
-          "move": "Rage",
-          "level": 37
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 40
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -258,12 +174,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Gust",
           "level": 1
         },
@@ -438,8 +349,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Gust",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Grovyle",
+  "name": "Grovyle",
   "national_id": 253,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "47.6 lbs.",
   "weight_eu": "21.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 65,
@@ -48,170 +41,12 @@
     "speed": 95
   },
   "evolution_from": "Treecko",
-  "evolutions": [
-    {
-      "to": "Sceptile",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Absorb",
-          "level": 5
-        },
-        {
-          "move": "Quick Attack",
-          "level": 9
-        },
-        {
-          "move": "Mega Drain",
-          "level": 13
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 16
-        },
-        {
-          "move": "Pursuit",
-          "level": 18
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 23
-        },
-        {
-          "move": "Agility",
-          "level": 28
-        },
-        {
-          "move": "Slam",
-          "level": 33
-        },
-        {
-          "move": "Detect",
-          "level": 38
-        },
-        {
-          "move": "X-Scissor",
-          "level": 43
-        },
-        {
-          "move": "False Swipe",
-          "level": 48
-        },
-        {
-          "move": "Quick Guard",
-          "level": 53
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 58
-        },
-        {
-          "move": "Screech",
-          "level": 63
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Breath",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Sceptile",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -362,12 +197,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -634,8 +464,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

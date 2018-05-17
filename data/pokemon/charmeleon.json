@@ -1,11 +1,10 @@
 {
-"name" : "Charmeleon",
+  "name": "Charmeleon",
   "national_id": 5,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Blaze"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "41.9 lbs.",
   "weight_eu": "19.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 58,
     "atk": 64,
@@ -48,142 +41,12 @@
     "speed": 80
   },
   "evolution_from": "Charmander",
-  "evolutions": [
-    {
-      "to": "Charizard",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 7
-        },
-        {
-          "move": "Smokescreen",
-          "level": 10
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 17
-        },
-        {
-          "move": "Scary Face",
-          "level": 21
-        },
-        {
-          "move": "Fire Fang",
-          "level": 28
-        },
-        {
-          "move": "Flame Burst",
-          "level": 32
-        },
-        {
-          "move": "Slash",
-          "level": 39
-        },
-        {
-          "move": "Flamethrower",
-          "level": 43
-        },
-        {
-          "move": "Fire Spin",
-          "level": 50
-        },
-        {
-          "move": "Inferno",
-          "level": 54
-        },
-        {
-          "move": "Air Cutter",
-          "egg_move": true
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rush",
-          "egg_move": true
-        },
-        {
-          "move": "Flare Blitz",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Outrage",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Charizard",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +197,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -574,8 +432,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

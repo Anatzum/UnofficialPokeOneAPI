@@ -1,11 +1,10 @@
 {
-"name" : "Frogadier",
+  "name": "Frogadier",
   "national_id": 657,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 1"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "24.0 lbs.",
   "weight_eu": "10.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 54,
     "atk": 63,
@@ -47,114 +40,12 @@
     "speed": 97
   },
   "evolution_from": "Froakie",
-  "evolutions": [
-    {
-      "to": "Greninja",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Bubble",
-          "level": 5
-        },
-        {
-          "move": "Quick Attack",
-          "level": 8
-        },
-        {
-          "move": "Lick",
-          "level": 10
-        },
-        {
-          "move": "Water Pulse",
-          "level": 14
-        },
-        {
-          "move": "Smokescreen",
-          "level": 20
-        },
-        {
-          "move": "Round",
-          "level": 23
-        },
-        {
-          "move": "Fling",
-          "level": 28
-        },
-        {
-          "move": "Smack Down",
-          "level": 33
-        },
-        {
-          "move": "Substitute",
-          "level": 38
-        },
-        {
-          "move": "Bounce",
-          "level": 44
-        },
-        {
-          "move": "Double Team",
-          "level": 48
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 55
-        },
-        {
-          "move": "Bestow",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Greninja",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -313,12 +204,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -541,8 +427,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

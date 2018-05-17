@@ -1,12 +1,11 @@
 {
-"name" : "Marill",
+  "name": "Marill",
   "national_id": 183,
   "types": [
     "Water",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Thick Fat"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Fairy"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "18.7 lbs.",
   "weight_eu": "8.5 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 20,
@@ -51,179 +44,13 @@
     "sp_def": 50,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Azumarill",
-      "level": 18
-    }
-  ],
+  "evolutions": [{
+    "to": "Azumarill",
+    "level": 18
+  }],
   "evolution_from": "Azurill",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 2
-        },
-        {
-          "move": "Water Sport",
-          "level": 5
-        },
-        {
-          "move": "Bubble",
-          "level": 7
-        },
-        {
-          "move": "Defense Curl",
-          "level": 10
-        },
-        {
-          "move": "Rollout",
-          "level": 10
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 13
-        },
-        {
-          "move": "Helping Hand",
-          "level": 16
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 20
-        },
-        {
-          "move": "Play Rough",
-          "level": 23
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 28
-        },
-        {
-          "move": "Rain Dance",
-          "level": 31
-        },
-        {
-          "move": "Double-Edge",
-          "level": 37
-        },
-        {
-          "move": "Superpower",
-          "level": 40
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 47
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Copycat",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Sing",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Soak",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -350,12 +177,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -578,8 +400,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

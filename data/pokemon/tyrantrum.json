@@ -1,12 +1,11 @@
 {
-"name" : "Tyrantrum",
+  "name": "Tyrantrum",
   "national_id": 697,
   "types": [
     "Rock",
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Strong Jaw"
     },
     {
@@ -18,18 +17,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "8'02\"",
   "height_eu": "2.5 m",
   "weight_us": "595.2 lbs.",
   "weight_eu": "270.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 82,
     "atk": 121,
@@ -49,134 +42,9 @@
     "speed": 71
   },
   "evolution_from": "Tyrunt",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Head Smash",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Roar",
-          "level": 6
-        },
-        {
-          "move": "Stomp",
-          "level": 10
-        },
-        {
-          "move": "Bide",
-          "level": 12
-        },
-        {
-          "move": "Stealth Rock",
-          "level": 15
-        },
-        {
-          "move": "Bite",
-          "level": 17
-        },
-        {
-          "move": "Charm",
-          "level": 20
-        },
-        {
-          "move": "Ancient Power",
-          "level": 26
-        },
-        {
-          "move": "Dragon Tail",
-          "level": 30
-        },
-        {
-          "move": "Crunch",
-          "level": 34
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 37
-        },
-        {
-          "move": "Thrash",
-          "level": 42
-        },
-        {
-          "move": "Earthquake",
-          "level": 47
-        },
-        {
-          "move": "Horn Drill",
-          "level": 53
-        },
-        {
-          "move": "Head Smash",
-          "level": 58
-        },
-        {
-          "move": "Rock Slide",
-          "level": 68
-        },
-        {
-          "move": "Giga Impact",
-          "level": 75
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Polish",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -319,12 +187,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Head Smash",
           "level": 1
         },
@@ -567,8 +430,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Head Smash",
           "level": 1
         },

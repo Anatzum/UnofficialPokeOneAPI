@@ -1,12 +1,11 @@
 {
-"name" : "Victreebel",
+  "name": "Victreebel",
   "national_id": 71,
   "types": [
     "Grass",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "34.2 lbs.",
   "weight_eu": "15.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 105,
@@ -48,130 +41,9 @@
     "speed": 70
   },
   "evolution_from": "Weepinbell",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Razor Leaf",
-          "level": 1
-        },
-        {
-          "move": "Sleep Powder",
-          "level": 1
-        },
-        {
-          "move": "Spit Up",
-          "level": 1
-        },
-        {
-          "move": "Stockpile",
-          "level": 1
-        },
-        {
-          "move": "Swallow",
-          "level": 1
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 1
-        },
-        {
-          "move": "Vine Whip",
-          "level": 1
-        },
-        {
-          "move": "Leaf Tornado",
-          "level": 27
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 47
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 47
-        },
-        {
-          "move": "Acid Spray",
-          "egg_move": true
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Life",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Power Whip",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Weather Ball",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -294,12 +166,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leaf Tornado",
           "level": 1
         },
@@ -518,8 +385,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leaf Tornado",
           "level": 1
         },

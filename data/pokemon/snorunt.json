@@ -1,11 +1,10 @@
 {
-"name" : "Snorunt",
+  "name": "Snorunt",
   "national_id": 361,
   "types": [
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Inner Focus"
     },
     {
@@ -17,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy",
     "Mineral"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "37.0 lbs.",
   "weight_eu": "16.8 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 50,
@@ -50,8 +43,7 @@
     "sp_def": 50,
     "speed": 50
   },
-  "evolutions": [
-    {
+  "evolutions": [{
       "to": "Glalie",
       "level": 42
     },
@@ -63,121 +55,9 @@
       ]
     }
   ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Powder Snow",
-          "level": 1
-        },
-        {
-          "move": "Double Team",
-          "level": 5
-        },
-        {
-          "move": "Ice Shard",
-          "level": 10
-        },
-        {
-          "move": "Icy Wind",
-          "level": 14
-        },
-        {
-          "move": "Bite",
-          "level": 19
-        },
-        {
-          "move": "Ice Fang",
-          "level": 23
-        },
-        {
-          "move": "Headbutt",
-          "level": 28
-        },
-        {
-          "move": "Protect",
-          "level": 32
-        },
-        {
-          "move": "Frost Breath",
-          "level": 37
-        },
-        {
-          "move": "Crunch",
-          "level": 41
-        },
-        {
-          "move": "Blizzard",
-          "level": 46
-        },
-        {
-          "move": "Hail",
-          "level": 50
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Hex",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Weather Ball",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -276,12 +156,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -468,8 +343,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

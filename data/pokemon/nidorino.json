@@ -1,11 +1,10 @@
 {
-"name" : "Nidorino",
+  "name": "Nidorino",
   "national_id": 33,
   "types": [
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Poison Point"
     },
     {
@@ -17,20 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Monster",
     "Field"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "43.0 lbs.",
   "weight_eu": "19.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -39,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 61,
     "atk": 72,
@@ -50,142 +44,12 @@
     "speed": 65
   },
   "evolution_from": "Nidoran♂",
-  "evolutions": [
-    {
-      "to": "Nidoking",
-      "item": "Moon Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 7
-        },
-        {
-          "move": "Double Kick",
-          "level": 9
-        },
-        {
-          "move": "Poison Sting",
-          "level": 13
-        },
-        {
-          "move": "Fury Attack",
-          "level": 20
-        },
-        {
-          "move": "Horn Attack",
-          "level": 23
-        },
-        {
-          "move": "Helping Hand",
-          "level": 28
-        },
-        {
-          "move": "Toxic Spikes",
-          "level": 35
-        },
-        {
-          "move": "Flatter",
-          "level": 38
-        },
-        {
-          "move": "Poison Jab",
-          "level": 43
-        },
-        {
-          "move": "Captivate",
-          "level": 50
-        },
-        {
-          "move": "Horn Drill",
-          "level": 58
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Confusion",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Venom Drench",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Nidoking",
+    "item": "Moon Stone"
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -316,12 +180,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -544,8 +403,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Venomoth",
+  "name": "Venomoth",
   "national_id": 49,
   "types": [
     "Bug",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shield Dust"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "27.6 lbs.",
   "weight_eu": "12.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 65,
@@ -51,158 +44,9 @@
     "speed": 90
   },
   "evolution_from": "Venonat",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bug Buzz",
-          "level": 1
-        },
-        {
-          "move": "Disable",
-          "level": 1
-        },
-        {
-          "move": "Foresight",
-          "level": 1
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 1
-        },
-        {
-          "move": "Silver Wind",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Confusion",
-          "level": 11
-        },
-        {
-          "move": "Poison Powder",
-          "level": 13
-        },
-        {
-          "move": "Leech Life",
-          "level": 17
-        },
-        {
-          "move": "Stun Spore",
-          "level": 23
-        },
-        {
-          "move": "Psybeam",
-          "level": 25
-        },
-        {
-          "move": "Sleep Powder",
-          "level": 29
-        },
-        {
-          "move": "Gust",
-          "level": 31
-        },
-        {
-          "move": "Signal Beam",
-          "level": 37
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 41
-        },
-        {
-          "move": "Poison Fang",
-          "level": 47
-        },
-        {
-          "move": "Psychic",
-          "level": 55
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 59
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 63
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Rage Powder",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -329,12 +173,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bug Buzz",
           "level": 1
         },
@@ -585,8 +424,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bug Buzz",
           "level": 1
         },

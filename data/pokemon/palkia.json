@@ -1,12 +1,11 @@
 {
-"name" : "Palkia",
+  "name": "Palkia",
   "national_id": 484,
   "types": [
     "Water",
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "13'09\"",
   "height_eu": "4.2 m",
   "weight_us": "740.8 lbs.",
   "weight_eu": "336.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,8 +29,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 120,
@@ -44,83 +37,10 @@
     "sp_def": 120,
     "speed": 100
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Dragon Breath",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 1
-        },
-        {
-          "move": "Water Pulse",
-          "level": 6
-        },
-        {
-          "move": "Ancient Power",
-          "level": 10
-        },
-        {
-          "move": "Slash",
-          "level": 15
-        },
-        {
-          "move": "Power Gem",
-          "level": 19
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 24
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 28
-        },
-        {
-          "move": "Earth Power",
-          "level": 33
-        },
-        {
-          "move": "Aura Sphere",
-          "level": 37
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 42
-        },
-        {
-          "move": "Spacial Rend",
-          "level": 46
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 50
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -331,12 +251,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Dragon Breath",
           "level": 1
         },
@@ -575,8 +490,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Dragon Breath",
           "level": 1
         },

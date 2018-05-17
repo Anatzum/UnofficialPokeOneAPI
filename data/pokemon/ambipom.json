@@ -1,11 +1,10 @@
 {
-"name" : "Ambipom",
+  "name": "Ambipom",
   "national_id": 424,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Technician"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "44.8 lbs.",
   "weight_eu": "20.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 100,
@@ -50,150 +43,9 @@
     "speed": 115
   },
   "evolution_from": "Aipom",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 4
-        },
-        {
-          "move": "Astonish",
-          "level": 8
-        },
-        {
-          "move": "Baton Pass",
-          "level": 11
-        },
-        {
-          "move": "Tickle",
-          "level": 15
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 18
-        },
-        {
-          "move": "Swift",
-          "level": 22
-        },
-        {
-          "move": "Screech",
-          "level": 25
-        },
-        {
-          "move": "Agility",
-          "level": 29
-        },
-        {
-          "move": "Double Hit",
-          "level": 32
-        },
-        {
-          "move": "Fling",
-          "level": 36
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 39
-        },
-        {
-          "move": "Last Resort",
-          "level": 43
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Bounce",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Double Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -368,12 +220,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -648,8 +495,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

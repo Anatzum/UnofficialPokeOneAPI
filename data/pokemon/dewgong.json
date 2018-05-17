@@ -1,12 +1,11 @@
 {
-"name" : "Dewgong",
+  "name": "Dewgong",
   "national_id": 87,
   "types": [
     "Water",
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Thick Fat"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "264.6 lbs.",
   "weight_eu": "120.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 70,
@@ -52,182 +45,9 @@
     "speed": 70
   },
   "evolution_from": "Seel",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Headbutt",
-          "level": 1
-        },
-        {
-          "move": "Icy Wind",
-          "level": 1
-        },
-        {
-          "move": "Signal Beam",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 3
-        },
-        {
-          "move": "Signal Beam",
-          "level": 7
-        },
-        {
-          "move": "Icy Wind",
-          "level": 11
-        },
-        {
-          "move": "Encore",
-          "level": 13
-        },
-        {
-          "move": "Ice Shard",
-          "level": 17
-        },
-        {
-          "move": "Rest",
-          "level": 21
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 23
-        },
-        {
-          "move": "Aurora Beam",
-          "level": 27
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 31
-        },
-        {
-          "move": "Brine",
-          "level": 33
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 34
-        },
-        {
-          "move": "Take Down",
-          "level": 39
-        },
-        {
-          "move": "Dive",
-          "level": 45
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 49
-        },
-        {
-          "move": "Ice Beam",
-          "level": 55
-        },
-        {
-          "move": "Safeguard",
-          "level": 61
-        },
-        {
-          "move": "Hail",
-          "level": 65
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Entrainment",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Horn Drill",
-          "egg_move": true
-        },
-        {
-          "move": "Icicle Spear",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Lick",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -346,12 +166,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -622,8 +437,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

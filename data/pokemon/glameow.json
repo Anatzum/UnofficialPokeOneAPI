@@ -1,11 +1,10 @@
 {
-"name" : "Glameow",
+  "name": "Glameow",
   "national_id": 431,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Limber"
     },
     {
@@ -20,17 +19,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "8.6 lbs.",
   "weight_eu": "3.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 49,
     "atk": 55,
@@ -49,131 +42,13 @@
     "sp_def": 37,
     "speed": 85
   },
-  "evolutions": [
-    {
-      "to": "Purugly",
-      "level": 38
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Purugly",
+    "level": 38
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Fake Out",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 5
-        },
-        {
-          "move": "Growl",
-          "level": 8
-        },
-        {
-          "move": "Hypnosis",
-          "level": 13
-        },
-        {
-          "move": "Feint Attack",
-          "level": 17
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 20
-        },
-        {
-          "move": "Charm",
-          "level": 25
-        },
-        {
-          "move": "Assist",
-          "level": 29
-        },
-        {
-          "move": "Captivate",
-          "level": 32
-        },
-        {
-          "move": "Slash",
-          "level": 37
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 41
-        },
-        {
-          "move": "Attract",
-          "level": 44
-        },
-        {
-          "move": "Hone Claws",
-          "level": 48
-        },
-        {
-          "move": "Play Rough",
-          "level": 50
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Tail Whip",
-          "egg_move": true
-        },
-        {
-          "move": "Wake-Up Slap",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -316,12 +191,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fake Out",
           "level": 1
         },
@@ -544,8 +414,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fake Out",
           "level": 1
         },

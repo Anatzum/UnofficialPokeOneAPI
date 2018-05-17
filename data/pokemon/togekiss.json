@@ -1,12 +1,11 @@
 {
-"name" : "Togekiss",
+  "name": "Togekiss",
   "national_id": 468,
   "types": [
     "Fairy",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hustle"
     },
     {
@@ -21,18 +20,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Flying",
     "Fairy"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "83.8 lbs.",
   "weight_eu": "38.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 50,
@@ -52,98 +45,9 @@
     "speed": 80
   },
   "evolution_from": "Togetic",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "After You",
-          "level": 1
-        },
-        {
-          "move": "Air Slash",
-          "level": 1
-        },
-        {
-          "move": "Aura Sphere",
-          "level": 1
-        },
-        {
-          "move": "Extreme Speed",
-          "level": 1
-        },
-        {
-          "move": "Sky Attack",
-          "level": 1
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Peck",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Shift",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Stored Power",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -322,12 +226,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "After You",
           "level": 1
         },
@@ -562,8 +461,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "After You",
           "level": 1
         },

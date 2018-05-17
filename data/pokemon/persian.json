@@ -1,11 +1,10 @@
 {
-"name" : "Persian",
+  "name": "Persian",
   "national_id": 53,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Limber"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "70.5 lbs.",
   "weight_eu": "32.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 70,
@@ -50,185 +43,9 @@
     "speed": 115
   },
   "evolution_from": "Meowth",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Persian",
-        "de": "Alola-Snobilikat"
-      },
-      "types": [
-        "Dark"
-      ],
-      "abilities": [
-        {
-          "name": "Pickup"
-        },
-        {
-          "name": "Technician"
-        },
-        {
-          "name": "Rattled",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Fake Out",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Play Rough",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Switcheroo",
-          "level": 1
-        },
-        {
-          "move": "Bite",
-          "level": 6
-        },
-        {
-          "move": "Fake Out",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 14
-        },
-        {
-          "move": "Screech",
-          "level": 17
-        },
-        {
-          "move": "Feint Attack",
-          "level": 22
-        },
-        {
-          "move": "Taunt",
-          "level": 25
-        },
-        {
-          "move": "Swift",
-          "level": 28
-        },
-        {
-          "move": "Power Gem",
-          "level": 32
-        },
-        {
-          "move": "Slash",
-          "level": 37
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 44
-        },
-        {
-          "move": "Assurance",
-          "level": 49
-        },
-        {
-          "move": "Captivate",
-          "level": 56
-        },
-        {
-          "move": "Night Slash",
-          "level": 61
-        },
-        {
-          "move": "Feint",
-          "level": 65
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Assist",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Odor Sleuth",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Tail Whip",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -391,12 +208,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1,
           "variations": [
@@ -1376,8 +1188,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1,
           "variations": [

@@ -1,11 +1,10 @@
 {
-"name" : "Smeargle",
+  "name": "Smeargle",
   "national_id": 235,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Own Tempo"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "127.9 lbs.",
   "weight_eu": "58.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 20,
@@ -49,31 +42,10 @@
     "sp_def": 45,
     "speed": 75
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Sketch",
           "level": 1
         },
@@ -116,12 +88,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Sketch",
           "level": 1
         },
@@ -168,8 +135,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Sketch",
           "level": 1
         },

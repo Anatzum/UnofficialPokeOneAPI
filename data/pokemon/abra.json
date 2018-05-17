@@ -4,8 +4,7 @@
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Synchronize"
     },
     {
@@ -43,75 +42,13 @@
     "sp_def": 55,
     "speed": 90
   },
-  "evolutions": [
-    {
-      "to": "Kadabra",
-      "level": 16
-    }
-  ],
-  "mega_evolutions": [],
+  "evolutions": [{
+    "to": "Kadabra",
+    "level": 16
+  }],
   "evolution_from": null,
-  "variations": [],
-  "move_learnsets": [
-    {
-      "games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Teleport",
-          "level": 1
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Split",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Power Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Shift",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -266,12 +203,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Teleport",
           "level": 1
         },
@@ -474,8 +406,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Teleport",
           "level": 1
         },

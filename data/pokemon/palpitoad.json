@@ -1,12 +1,11 @@
 {
-"name" : "Palpitoad",
+  "name": "Palpitoad",
   "national_id": 536,
   "types": [
     "Water",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "37.5 lbs.",
   "weight_eu": "17.0 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 65,
@@ -48,134 +41,12 @@
     "speed": 69
   },
   "evolution_from": "Tympole",
-  "evolutions": [
-    {
-      "to": "Seismitoad",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Round",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Round",
-          "level": 9
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 12
-        },
-        {
-          "move": "Mud Shot",
-          "level": 16
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 20
-        },
-        {
-          "move": "Uproar",
-          "level": 23
-        },
-        {
-          "move": "Muddy Water",
-          "level": 28
-        },
-        {
-          "move": "Rain Dance",
-          "level": 33
-        },
-        {
-          "move": "Flail",
-          "level": 37
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 42
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 47
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 51
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Seismitoad",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -278,12 +149,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -482,8 +348,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

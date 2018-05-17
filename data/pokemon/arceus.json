@@ -1,26 +1,20 @@
 {
-"name" : "Arceus",
+  "name": "Arceus",
   "national_id": 493,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
-      "name": "Multitype"
-    }
-  ],
+  "abilities": [{
+    "name": "Multitype"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "10'06\"",
   "height_eu": "3.2 m",
   "weight_us": "705.5 lbs.",
   "weight_eu": "320.0 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 120,
     "atk": 120,
@@ -39,84 +31,8 @@
     "sp_def": 120,
     "speed": 120
   },
-  
-  "variations": [
-    {
-      "condition": "holding Plate or Z-Crystal",
-      "name": {
-        
-      },
-      "types": [
-        "Fairy"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Cosmic Power",
-          "level": 1
-        },
-        {
-          "move": "Natural Gift",
-          "level": 1
-        },
-        {
-          "move": "Punishment",
-          "level": 1
-        },
-        {
-          "move": "Seismic Toss",
-          "level": 1
-        },
-        {
-          "move": "Gravity",
-          "level": 10
-        },
-        {
-          "move": "Earth Power",
-          "level": 20
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 30
-        },
-        {
-          "move": "Extreme Speed",
-          "level": 40
-        },
-        {
-          "move": "Refresh",
-          "level": 50
-        },
-        {
-          "move": "Future Sight",
-          "level": 60
-        },
-        {
-          "move": "Recover",
-          "level": 70
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 80
-        },
-        {
-          "move": "Perish Song",
-          "level": 90
-        },
-        {
-          "move": "Judgment",
-          "level": 100
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -419,12 +335,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Cosmic Power",
           "level": 1
         },
@@ -755,8 +666,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Cosmic Power",
           "level": 1
         },

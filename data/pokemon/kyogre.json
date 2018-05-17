@@ -1,11 +1,10 @@
 {
-"name" : "Kyogre",
+  "name": "Kyogre",
   "national_id": 382,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Drizzle"
     },
     {
@@ -13,17 +12,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "14'09\"",
   "height_eu": "4.5 m",
   "weight_us": "776.0 lbs.",
   "weight_eu": "352.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +27,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 100,
@@ -42,87 +35,10 @@
     "sp_def": 140,
     "speed": 90
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ancient Power",
-          "level": 1
-        },
-        {
-          "move": "Water Pulse",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 5
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 15
-        },
-        {
-          "move": "Body Slam",
-          "level": 20
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 30
-        },
-        {
-          "move": "Ice Beam",
-          "level": 35
-        },
-        {
-          "move": "Origin Pulse",
-          "level": 45
-        },
-        {
-          "move": "Calm Mind",
-          "level": 50
-        },
-        {
-          "move": "Muddy Water",
-          "level": 60
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 65
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 75
-        },
-        {
-          "move": "Double-Edge",
-          "level": 80
-        },
-        {
-          "move": "Water Spout",
-          "level": 90
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -277,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ancient Power",
           "level": 1
         },
@@ -481,8 +392,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ancient Power",
           "level": 1
         },

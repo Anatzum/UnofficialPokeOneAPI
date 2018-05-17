@@ -1,12 +1,11 @@
 {
-"name" : "Drifblim",
+  "name": "Drifblim",
   "national_id": 426,
   "types": [
     "Ghost",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Aftermath"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "33.1 lbs.",
   "weight_eu": "15.0 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 150,
     "atk": 80,
@@ -51,146 +44,9 @@
     "speed": 80
   },
   "evolution_from": "Drifloon",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Minimize",
-          "level": 1
-        },
-        {
-          "move": "Phantom Force",
-          "level": 1
-        },
-        {
-          "move": "Astonish",
-          "level": 4
-        },
-        {
-          "move": "Gust",
-          "level": 8
-        },
-        {
-          "move": "Focus Energy",
-          "level": 13
-        },
-        {
-          "move": "Payback",
-          "level": 16
-        },
-        {
-          "move": "Ominous Wind",
-          "level": 20
-        },
-        {
-          "move": "Stockpile",
-          "level": 25
-        },
-        {
-          "move": "Hex",
-          "level": 27
-        },
-        {
-          "move": "Spit Up",
-          "level": 34
-        },
-        {
-          "move": "Swallow",
-          "level": 34
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 40
-        },
-        {
-          "move": "Amnesia",
-          "level": 46
-        },
-        {
-          "move": "Baton Pass",
-          "level": 52
-        },
-        {
-          "move": "Explosion",
-          "level": 60
-        },
-        {
-          "move": "Phantom Force",
-          "level": 65
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Tailwind",
-          "egg_move": true
-        },
-        {
-          "move": "Weather Ball",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -345,12 +201,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -613,8 +464,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

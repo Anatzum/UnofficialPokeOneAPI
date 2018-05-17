@@ -1,11 +1,10 @@
 {
-"name" : "Croconaw",
+  "name": "Croconaw",
   "national_id": 159,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Water 1"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "55.1 lbs.",
   "weight_eu": "25.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 80,
@@ -48,158 +41,12 @@
     "speed": 58
   },
   "evolution_from": "Totodile",
-  "evolutions": [
-    {
-      "to": "Feraligatr",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 6
-        },
-        {
-          "move": "Rage",
-          "level": 8
-        },
-        {
-          "move": "Bite",
-          "level": 13
-        },
-        {
-          "move": "Scary Face",
-          "level": 15
-        },
-        {
-          "move": "Ice Fang",
-          "level": 21
-        },
-        {
-          "move": "Flail",
-          "level": 24
-        },
-        {
-          "move": "Crunch",
-          "level": 30
-        },
-        {
-          "move": "Chip Away",
-          "level": 33
-        },
-        {
-          "move": "Slash",
-          "level": 39
-        },
-        {
-          "move": "Screech",
-          "level": 42
-        },
-        {
-          "move": "Thrash",
-          "level": 48
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 51
-        },
-        {
-          "move": "Superpower",
-          "level": 57
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 60
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Flatter",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Feraligatr",
+    "level": 30
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -354,12 +201,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -614,8 +456,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

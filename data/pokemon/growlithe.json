@@ -1,11 +1,10 @@
 {
-"name" : "Growlithe",
+  "name": "Growlithe",
   "national_id": 58,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -20,17 +19,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "41.9 lbs.",
   "weight_eu": "19.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 70,
@@ -49,159 +42,13 @@
     "sp_def": 50,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Arcanine",
-      "item": "Fire Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Arcanine",
+    "item": "Fire Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Roar",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 6
-        },
-        {
-          "move": "Leer",
-          "level": 8
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 10
-        },
-        {
-          "move": "Helping Hand",
-          "level": 12
-        },
-        {
-          "move": "Flame Wheel",
-          "level": 17
-        },
-        {
-          "move": "Reversal",
-          "level": 19
-        },
-        {
-          "move": "Fire Fang",
-          "level": 21
-        },
-        {
-          "move": "Take Down",
-          "level": 23
-        },
-        {
-          "move": "Flame Burst",
-          "level": 28
-        },
-        {
-          "move": "Agility",
-          "level": 30
-        },
-        {
-          "move": "Retaliate",
-          "level": 32
-        },
-        {
-          "move": "Flamethrower",
-          "level": 34
-        },
-        {
-          "move": "Crunch",
-          "level": 39
-        },
-        {
-          "move": "Heat Wave",
-          "level": 41
-        },
-        {
-          "move": "Outrage",
-          "level": 43
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 45
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Close Combat",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Flare Blitz",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -332,12 +179,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -576,8 +418,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

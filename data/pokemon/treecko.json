@@ -1,11 +1,10 @@
 {
-"name" : "Treecko",
+  "name": "Treecko",
   "national_id": 252,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "11.0 lbs.",
   "weight_eu": "5.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 45,
@@ -47,155 +40,13 @@
     "sp_def": 55,
     "speed": 70
   },
-  "evolutions": [
-    {
-      "to": "Grovyle",
-      "level": 16
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Grovyle",
+    "level": 16
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Absorb",
-          "level": 5
-        },
-        {
-          "move": "Quick Attack",
-          "level": 9
-        },
-        {
-          "move": "Mega Drain",
-          "level": 13
-        },
-        {
-          "move": "Pursuit",
-          "level": 17
-        },
-        {
-          "move": "Giga Drain",
-          "level": 21
-        },
-        {
-          "move": "Agility",
-          "level": 25
-        },
-        {
-          "move": "Slam",
-          "level": 29
-        },
-        {
-          "move": "Detect",
-          "level": 33
-        },
-        {
-          "move": "Energy Ball",
-          "level": 37
-        },
-        {
-          "move": "Quick Guard",
-          "level": 41
-        },
-        {
-          "move": "Endeavor",
-          "level": 45
-        },
-        {
-          "move": "Screech",
-          "level": 49
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Breath",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +185,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -578,8 +424,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

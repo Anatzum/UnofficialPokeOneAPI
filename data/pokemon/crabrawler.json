@@ -1,12 +1,10 @@
 {
-  "name" : "Crabrawler",
+  "name": "Crabrawler",
   "national_id": 739,
-  
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hyper Cutter"
     },
     {
@@ -15,22 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 3"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "15.4 lbs.",
   "weight_eu": "7.0 kg",
-  
-  
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -47,38 +39,143 @@
     "sp_def": 47,
     "speed": 63
   },
-  "evolutions": [
-    {
-      "to": "Crabominable",
-      "level_up": true,
-      "conditions": [
-        "at Mount Lanakila"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Crabominable",
+    "level_up": true,
+    "conditions": [
+      "at Mount Lanakila"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  
-  "move_learnsets": [
-    {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
+  "move_learnsets": [{
+      "tm_learnset": [{
+          "move": "Work Up",
+          "tm": "TM01"
+        },
         {
+          "move": "Toxic",
+          "tm": "TM06"
+        },
+        {
+          "move": "Bulk Up",
+          "tm": "TM08"
+        },
+        {
+          "move": "Hidden Power",
+          "tm": "TM10"
+        },
+        {
+          "move": "Sunny Day",
+          "tm": "TM11"
+        },
+        {
+          "move": "Protect",
+          "tm": "TM17"
+        },
+        {
+          "move": "Rain Dance",
+          "tm": "TM18"
+        },
+        {
+          "move": "Frustration",
+          "tm": "TM21"
+        },
+        {
+          "move": "Earthquake",
+          "tm": "TM26"
+        },
+        {
+          "move": "Return",
+          "tm": "TM27"
+        },
+        {
+          "move": "Brick Break",
+          "tm": "TM31"
+        },
+        {
+          "move": "Double Team",
+          "tm": "TM32"
+        },
+        {
+          "move": "Rock Tomb",
+          "tm": "TM39"
+        },
+        {
+          "move": "Facade",
+          "tm": "TM42"
+        },
+        {
+          "move": "Rest",
+          "tm": "TM44"
+        },
+        {
+          "move": "Attract",
+          "tm": "TM45"
+        },
+        {
+          "move": "Thief",
+          "tm": "TM46"
+        },
+        {
+          "move": "Round",
+          "tm": "TM48"
+        },
+        {
+          "move": "Focus Blast",
+          "tm": "TM52"
+        },
+        {
+          "move": "Scald",
+          "tm": "TM55"
+        },
+        {
+          "move": "Fling",
+          "tm": "TM56"
+        },
+        {
+          "move": "Brutal Swing",
+          "tm": "TM59"
+        },
+        {
+          "move": "Payback",
+          "tm": "TM66"
+        },
+        {
+          "move": "Stone Edge",
+          "tm": "TM71"
+        },
+        {
+          "move": "Bulldoze",
+          "tm": "TM78"
+        },
+        {
+          "move": "Frost Breath",
+          "tm": "TM79"
+        },
+        {
+          "move": "Rock Slide",
+          "tm": "TM80"
+        },
+        {
+          "move": "Swagger",
+          "tm": "TM87"
+        },
+        {
+          "move": "Sleep Talk",
+          "tm": "TM88"
+        },
+        {
+          "move": "Substitute",
+          "tm": "TM90"
+        },
+        {
+          "move": "Confide",
+          "tm": "TM100"
+        }
+      ]
+    },
+    {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -277,8 +374,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

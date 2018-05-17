@@ -1,11 +1,10 @@
 {
-"name" : "Huntail",
+  "name": "Huntail",
   "national_id": 367,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "59.5 lbs.",
   "weight_eu": "27.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 104,
@@ -47,134 +40,9 @@
     "speed": 52
   },
   "evolution_from": "Clamperl",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Whirlpool",
-          "level": 1
-        },
-        {
-          "move": "Screech",
-          "level": 5
-        },
-        {
-          "move": "Scary Face",
-          "level": 9
-        },
-        {
-          "move": "Feint Attack",
-          "level": 11
-        },
-        {
-          "move": "Water Pulse",
-          "level": 14
-        },
-        {
-          "move": "Ice Fang",
-          "level": 16
-        },
-        {
-          "move": "Brine",
-          "level": 19
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 23
-        },
-        {
-          "move": "Dive",
-          "level": 26
-        },
-        {
-          "move": "Baton Pass",
-          "level": 29
-        },
-        {
-          "move": "Crunch",
-          "level": 34
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 39
-        },
-        {
-          "move": "Coil",
-          "level": 45
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 50
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -285,12 +153,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -501,8 +364,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

@@ -1,159 +1,50 @@
 {
-  "name": {
-"it": "Farfetch'd",
-    
-    }
+  "name": "Farfetch'd",
+  "national_id": "083",
+  "types": [
+    "Normal",
+    "Flying"
+  ],
+  "abilities": [{
+    "name": "Keen Eye"
+  }, {
+    "name": "Inner Focus"
+  }, {
+    "name": "Defiant",
+    "hidden": true
+  }],
+  "gender_ratios": {
+    "male": 50,
+    "female": 50
   },
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Brave Bird",
-          "level": 1
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Poison Jab",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 7
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 9
-        },
-        {
-          "move": "Knock Off",
-          "level": 13
-        },
-        {
-          "move": "Slash",
-          "level": 19
-        },
-        {
-          "move": "Air Cutter",
-          "level": 21
-        },
-        {
-          "move": "Swords Dance",
-          "level": 25
-        },
-        {
-          "move": "Agility",
-          "level": 31
-        },
-        {
-          "move": "Night Slash",
-          "level": 33
-        },
-        {
-          "move": "Acrobatics",
-          "level": 37
-        },
-        {
-          "move": "Feint",
-          "level": 43
-        },
-        {
-          "move": "False Swipe",
-          "level": 45
-        },
-        {
-          "move": "Air Slash",
-          "level": 49
-        },
-        {
-          "move": "Brave Bird",
-          "level": 55
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Blade",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Simple Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Trump Card",
-          "egg_move": true
-        },
-        {
+  "egg_groups": [
+    "Flying",
+    "Field"
+  ],
+  "height_us": "2'07\"",
+  "height_eu": "0.8 m",
+  "weight_us": "33.1 lbs.",
+  "weight_eu": "15.0 kg",
+  "ev_yield": {
+    "hp": 0,
+    "atk": 1,
+    "def": 0,
+    "sp_atk": 0,
+    "sp_def": 0,
+    "speed": 0
+  },
+  "base_stats": {
+    "hp": 52,
+    "atk": 90,
+    "def": 55,
+    "sp_atk": 58,
+    "sp_def": 62,
+    "speed": 60
+  },
+  "evolutions": null,
+  "evolution_from": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -272,12 +163,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Brave Bird",
           "level": 1
         },
@@ -536,8 +422,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Brave Bird",
           "level": 1
         },

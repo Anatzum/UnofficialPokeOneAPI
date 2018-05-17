@@ -1,11 +1,10 @@
 {
-"name" : "Banette",
+  "name": "Banette",
   "national_id": 354,
   "types": [
     "Ghost"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Insomnia"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "27.6 lbs.",
   "weight_eu": "12.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 64,
     "atk": 115,
@@ -47,177 +40,28 @@
     "speed": 65
   },
   "evolution_from": "Shuppet",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Ghost"
-      ],
-      "ability": "Prankster",
-      "mega_stone": "Banettite",
-      "height_us": "3'11\"",
-      "height_eu": "1.2 m",
-      "weight_us": "28.7 lbs.",
-      "weight_eu": "13.0 kg",
-      "base_stats": {
-        "hp": 64,
-        "atk": 165,
-        "def": 75,
-        "sp_atk": 93,
-        "sp_def": 83,
-        "speed": 75
-      }
+  "mega_evolutions": [{
+    "types": [
+      "Ghost"
+    ],
+    "ability": "Prankster",
+    "mega_stone": "Banettite",
+    "height_us": "3'11\"",
+    "height_eu": "1.2 m",
+    "weight_us": "28.7 lbs.",
+    "weight_eu": "13.0 kg",
+    "base_stats": {
+      "hp": 64,
+      "atk": 165,
+      "def": 75,
+      "sp_atk": 93,
+      "sp_def": 83,
+      "speed": 75
     }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Knock Off",
-          "level": 1
-        },
-        {
-          "move": "Night Shade",
-          "level": 1
-        },
-        {
-          "move": "Phantom Force",
-          "level": 1
-        },
-        {
-          "move": "Screech",
-          "level": 1
-        },
-        {
-          "move": "Spite",
-          "level": 1
-        },
-        {
-          "move": "Screech",
-          "level": 4
-        },
-        {
-          "move": "Night Shade",
-          "level": 7
-        },
-        {
-          "move": "Spite",
-          "level": 10
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 13
-        },
-        {
-          "move": "Will-O-Wisp",
-          "level": 16
-        },
-        {
-          "move": "Feint Attack",
-          "level": 19
-        },
-        {
-          "move": "Hex",
-          "level": 22
-        },
-        {
-          "move": "Curse",
-          "level": 26
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 30
-        },
-        {
-          "move": "Embargo",
-          "level": 34
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 40
-        },
-        {
-          "move": "Snatch",
-          "level": 46
-        },
-        {
-          "move": "Grudge",
-          "level": 52
-        },
-        {
-          "move": "Trick",
-          "level": 58
-        },
-        {
-          "move": "Phantom Force",
-          "level": 64
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Gunk Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Imprison",
-          "egg_move": true
-        },
-        {
-          "move": "Ominous Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Phantom Force",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Shadow Sneak",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  }],
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -380,12 +224,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Knock Off",
           "level": 1
         },
@@ -672,8 +511,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Knock Off",
           "level": 1
         },

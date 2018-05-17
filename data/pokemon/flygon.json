@@ -1,30 +1,24 @@
 {
-"name" : "Flygon",
+  "name": "Flygon",
   "national_id": 330,
   "types": [
     "Ground",
     "Dragon"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "180.8 lbs.",
   "weight_eu": "82.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -33,8 +27,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 100,
@@ -44,146 +36,9 @@
     "speed": 100
   },
   "evolution_from": "Vibrava",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bide",
-          "level": 1
-        },
-        {
-          "move": "Feint Attack",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Sonic Boom",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 5
-        },
-        {
-          "move": "Bulldoze",
-          "level": 8
-        },
-        {
-          "move": "Sand Tomb",
-          "level": 12
-        },
-        {
-          "move": "Rock Slide",
-          "level": 15
-        },
-        {
-          "move": "Supersonic",
-          "level": 19
-        },
-        {
-          "move": "Screech",
-          "level": 22
-        },
-        {
-          "move": "Earth Power",
-          "level": 26
-        },
-        {
-          "move": "Dragon Tail",
-          "level": 29
-        },
-        {
-          "move": "Earthquake",
-          "level": 33
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 35
-        },
-        {
-          "move": "Sandstorm",
-          "level": 36
-        },
-        {
-          "move": "Uproar",
-          "level": 40
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 43
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 45
-        },
-        {
-          "move": "Dragon Rush",
-          "level": 47
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Cutter",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -350,12 +205,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -618,8 +468,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

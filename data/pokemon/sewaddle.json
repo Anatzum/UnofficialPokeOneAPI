@@ -1,12 +1,11 @@
 {
-"name" : "Sewaddle",
+  "name": "Sewaddle",
   "national_id": 540,
   "types": [
     "Bug",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "5.5 lbs.",
   "weight_eu": "2.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 53,
@@ -47,107 +40,13 @@
     "sp_def": 60,
     "speed": 42
   },
-  "evolutions": [
-    {
-      "to": "Swadloon",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Swadloon",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "String Shot",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Bug Bite",
-          "level": 8
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 15
-        },
-        {
-          "move": "Struggle Bug",
-          "level": 22
-        },
-        {
-          "move": "Endure",
-          "level": 29
-        },
-        {
-          "move": "Sticky Web",
-          "level": 31
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 36
-        },
-        {
-          "move": "Flail",
-          "level": 43
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Air Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -262,12 +161,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "String Shot",
           "level": 1
         },
@@ -442,8 +336,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "String Shot",
           "level": 1
         },

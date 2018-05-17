@@ -1,12 +1,11 @@
 {
-"name" : "Budew",
+  "name": "Budew",
   "national_id": 406,
   "types": [
     "Grass",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Natural Cure"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "2.6 lbs.",
   "weight_eu": "1.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 30,
@@ -50,115 +43,17 @@
     "sp_def": 70,
     "speed": 55
   },
-  "evolutions": [
-    {
-      "to": "Roselia",
-      "happiness": true, 
-      "level_up": true,
-      "conditions": [
-        "during the day"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Roselia",
+    "happiness": true,
+    "level_up": true,
+    "conditions": [
+      "during the day"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "Growth",
-          "level": 4
-        },
-        {
-          "move": "Water Sport",
-          "level": 7
-        },
-        {
-          "move": "Stun Spore",
-          "level": 10
-        },
-        {
-          "move": "Mega Drain",
-          "level": 13
-        },
-        {
-          "move": "Worry Seed",
-          "level": 16
-        },
-        {
-          "move": "Cotton Spore",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Pin Missile",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Powder",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -277,12 +172,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -469,8 +359,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

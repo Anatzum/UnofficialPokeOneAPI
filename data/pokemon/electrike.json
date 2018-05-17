@@ -1,11 +1,10 @@
 {
-"name" : "Electrike",
+  "name": "Electrike",
   "national_id": 309,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Static"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "33.5 lbs.",
   "weight_eu": "15.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 45,
@@ -49,147 +42,13 @@
     "sp_def": 40,
     "speed": 65
   },
-  "evolutions": [
-    {
-      "to": "Manectric",
-      "level": 26
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Manectric",
+    "level": 26
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Howl",
-          "level": 7
-        },
-        {
-          "move": "Quick Attack",
-          "level": 10
-        },
-        {
-          "move": "Spark",
-          "level": 13
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 16
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 19
-        },
-        {
-          "move": "Bite",
-          "level": 24
-        },
-        {
-          "move": "Discharge",
-          "level": 29
-        },
-        {
-          "move": "Roar",
-          "level": 34
-        },
-        {
-          "move": "Wild Charge",
-          "level": 39
-        },
-        {
-          "move": "Charge",
-          "level": 44
-        },
-        {
-          "move": "Thunder",
-          "level": 49
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Discharge",
-          "egg_move": true
-        },
-        {
-          "move": "Eerie Impulse",
-          "egg_move": true
-        },
-        {
-          "move": "Electro Ball",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Shock Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -308,12 +167,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -536,8 +390,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

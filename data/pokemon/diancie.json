@@ -1,27 +1,21 @@
 {
-"name" : "Diancie",
+  "name": "Diancie",
   "national_id": 719,
   "types": [
     "Rock",
     "Fairy"
   ],
-  "abilities": [
-    {
-      "name": "Clear Body"
-    }
-  ],
+  "abilities": [{
+    "name": "Clear Body"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "19.4 lbs.",
   "weight_eu": "8.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 100,
@@ -40,119 +32,10 @@
     "sp_def": 150,
     "speed": 50
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Rock",
-        "Fairy"
-      ],
-      "ability": "Magic Bounce",
-      "mega_stone": "Diancite",
-      "height_us": "3'07\"",
-      "height_eu": "1.1 m",
-      "weight_us": "61.3 lbs.",
-      "weight_eu": "27.8 kg",
-      "base_stats": {
-        "hp": 50,
-        "atk": 160,
-        "def": 110,
-        "sp_atk": 160,
-        "sp_def": 110,
-        "speed": 110
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Rock Throw",
-          "level": 5
-        },
-        {
-          "move": "Sharpen",
-          "level": 8
-        },
-        {
-          "move": "Smack Down",
-          "level": 12
-        },
-        {
-          "move": "Reflect",
-          "level": 18
-        },
-        {
-          "move": "Stealth Rock",
-          "level": 21
-        },
-        {
-          "move": "Guard Split",
-          "level": 27
-        },
-        {
-          "move": "Ancient Power",
-          "level": 31
-        },
-        {
-          "move": "Flail",
-          "level": 35
-        },
-        {
-          "move": "Skill Swap",
-          "level": 40
-        },
-        {
-          "move": "Trick Room",
-          "level": 46
-        },
-        {
-          "move": "Stone Edge",
-          "level": 49
-        },
-        {
-          "move": "Diamond Storm",
-          "level": 50
-        },
-        {
-          "move": "Moonblast",
-          "level": 50
-        },
-        {
-          "move": "Light Screen",
-          "level": 60
-        },
-        {
-          "move": "Safeguard",
-          "level": 70
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -303,12 +186,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },
@@ -527,8 +405,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Harden",
           "level": 1
         },

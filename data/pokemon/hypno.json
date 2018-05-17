@@ -1,11 +1,10 @@
 {
-"name" : "Hypno",
+  "name": "Hypno",
   "national_id": 97,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Insomnia"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "166.7 lbs.",
   "weight_eu": "75.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 73,
@@ -50,170 +43,9 @@
     "speed": 67
   },
   "evolution_from": "Drowzee",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Disable",
-          "level": 1
-        },
-        {
-          "move": "Future Sight",
-          "level": 1
-        },
-        {
-          "move": "Hypnosis",
-          "level": 1
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 1
-        },
-        {
-          "move": "Nightmare",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Switcheroo",
-          "level": 1
-        },
-        {
-          "move": "Disable",
-          "level": 5
-        },
-        {
-          "move": "Confusion",
-          "level": 9
-        },
-        {
-          "move": "Headbutt",
-          "level": 13
-        },
-        {
-          "move": "Poison Gas",
-          "level": 17
-        },
-        {
-          "move": "Meditate",
-          "level": 21
-        },
-        {
-          "move": "Psybeam",
-          "level": 25
-        },
-        {
-          "move": "Headbutt",
-          "level": 29
-        },
-        {
-          "move": "Psych Up",
-          "level": 33
-        },
-        {
-          "move": "Synchronoise",
-          "level": 37
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 41
-        },
-        {
-          "move": "Swagger",
-          "level": 45
-        },
-        {
-          "move": "Psychic",
-          "level": 49
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 53
-        },
-        {
-          "move": "Psyshock",
-          "level": 57
-        },
-        {
-          "move": "Future Sight",
-          "level": 61
-        },
-        {
-          "move": "Assist",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Flatter",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Cut",
-          "egg_move": true
-        },
-        {
-          "move": "Role Play",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -380,12 +212,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -684,8 +511,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

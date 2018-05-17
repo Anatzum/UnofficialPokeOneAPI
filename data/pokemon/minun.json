@@ -1,11 +1,10 @@
 {
-"name" : "Minun",
+  "name": "Minun",
   "national_id": 312,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Minus"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "9.3 lbs.",
   "weight_eu": "4.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 40,
@@ -46,143 +39,10 @@
     "sp_def": 85,
     "speed": 95
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Nuzzle",
-          "level": 1
-        },
-        {
-          "move": "Play Nice",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 1
-        },
-        {
-          "move": "Helping Hand",
-          "level": 4
-        },
-        {
-          "move": "Spark",
-          "level": 7
-        },
-        {
-          "move": "Encore",
-          "level": 10
-        },
-        {
-          "move": "Switcheroo",
-          "level": 13
-        },
-        {
-          "move": "Swift",
-          "level": 16
-        },
-        {
-          "move": "Electro Ball",
-          "level": 19
-        },
-        {
-          "move": "Copycat",
-          "level": 22
-        },
-        {
-          "move": "Fake Tears",
-          "level": 25
-        },
-        {
-          "move": "Charge",
-          "level": 28
-        },
-        {
-          "move": "Discharge",
-          "level": 31
-        },
-        {
-          "move": "Baton Pass",
-          "level": 34
-        },
-        {
-          "move": "Agility",
-          "level": 37
-        },
-        {
-          "move": "Trump Card",
-          "level": 40
-        },
-        {
-          "move": "Thunder",
-          "level": 43
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 46
-        },
-        {
-          "move": "Entrainment",
-          "level": 49
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Discharge",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Sing",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Kiss",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -293,12 +153,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -517,8 +372,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

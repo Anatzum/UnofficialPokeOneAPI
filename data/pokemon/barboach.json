@@ -1,12 +1,11 @@
 {
-"name" : "Barboach",
+  "name": "Barboach",
   "national_id": 339,
   "types": [
     "Water",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "4.2 lbs.",
   "weight_eu": "1.9 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 48,
@@ -50,135 +43,13 @@
     "sp_def": 41,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Whiscash",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Whiscash",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Mud-Slap",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 6
-        },
-        {
-          "move": "Water Sport",
-          "level": 6
-        },
-        {
-          "move": "Water Gun",
-          "level": 9
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 13
-        },
-        {
-          "move": "Amnesia",
-          "level": 15
-        },
-        {
-          "move": "Water Pulse",
-          "level": 17
-        },
-        {
-          "move": "Magnitude",
-          "level": 20
-        },
-        {
-          "move": "Rest",
-          "level": 25
-        },
-        {
-          "move": "Snore",
-          "level": 25
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 28
-        },
-        {
-          "move": "Earthquake",
-          "level": 32
-        },
-        {
-          "move": "Muddy Water",
-          "level": 35
-        },
-        {
-          "move": "Future Sight",
-          "level": 39
-        },
-        {
-          "move": "Fissure",
-          "level": 44
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Spark",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlpool",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -289,12 +160,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Mud-Slap",
           "level": 1
         },
@@ -501,8 +367,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Mud-Slap",
           "level": 1
         },

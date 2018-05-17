@@ -1,11 +1,10 @@
 {
-"name" : "Milotic",
+  "name": "Milotic",
   "national_id": 350,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Marvel Scale"
     },
     {
@@ -17,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Dragon"
   ],
-  
   "height_us": "20'04\"",
   "height_eu": "6.2 m",
   "weight_us": "357.1 lbs.",
   "weight_eu": "162.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 60,
@@ -51,146 +44,9 @@
     "speed": 81
   },
   "evolution_from": "Feebas",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Wrap",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 4
-        },
-        {
-          "move": "Refresh",
-          "level": 7
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 11
-        },
-        {
-          "move": "Twister",
-          "level": 14
-        },
-        {
-          "move": "Water Pulse",
-          "level": 17
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 21
-        },
-        {
-          "move": "Captivate",
-          "level": 24
-        },
-        {
-          "move": "Dragon Tail",
-          "level": 27
-        },
-        {
-          "move": "Recover",
-          "level": 31
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 34
-        },
-        {
-          "move": "Attract",
-          "level": 37
-        },
-        {
-          "move": "Safeguard",
-          "level": 41
-        },
-        {
-          "move": "Coil",
-          "level": 44
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 47
-        },
-        {
-          "move": "Rain Dance",
-          "level": 51
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Breath",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -313,12 +169,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Refresh",
           "level": 1
         },
@@ -565,8 +416,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Refresh",
           "level": 1
         },

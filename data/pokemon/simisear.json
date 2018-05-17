@@ -1,11 +1,10 @@
 {
-"name" : "Simisear",
+  "name": "Simisear",
   "national_id": 514,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Gluttony"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "61.7 lbs.",
   "weight_eu": "28.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 98,
@@ -47,90 +40,9 @@
     "speed": 101
   },
   "evolution_from": "Pansear",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Flame Burst",
-          "level": 1
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 1
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Disarming Voice",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Low Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Role Play",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -305,12 +217,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Flame Burst",
           "level": 1
         },
@@ -525,8 +432,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Flame Burst",
           "level": 1
         },

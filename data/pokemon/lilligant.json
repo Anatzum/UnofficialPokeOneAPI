@@ -1,11 +1,10 @@
 {
-"name" : "Lilligant",
+  "name": "Lilligant",
   "national_id": 549,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -14,19 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Grass"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "35.9 lbs.",
   "weight_eu": "16.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -35,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 60,
@@ -46,98 +40,9 @@
     "speed": 90
   },
   "evolution_from": "Petilil",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growth",
-          "level": 1
-        },
-        {
-          "move": "Leech Seed",
-          "level": 1
-        },
-        {
-          "move": "Mega Drain",
-          "level": 1
-        },
-        {
-          "move": "Synthesis",
-          "level": 1
-        },
-        {
-          "move": "Teeter Dance",
-          "level": 10
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 28
-        },
-        {
-          "move": "Petal Dance",
-          "level": 46
-        },
-        {
-          "move": "Petal Blizzard",
-          "level": 50
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Healing Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Scent",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -252,12 +157,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growth",
           "level": 1
         },
@@ -432,8 +332,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growth",
           "level": 1
         },

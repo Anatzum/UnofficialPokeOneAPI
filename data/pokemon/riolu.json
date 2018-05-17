@@ -1,11 +1,10 @@
 {
-"name" : "Riolu",
+  "name": "Riolu",
   "national_id": 447,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Steadfast"
     },
     {
@@ -20,17 +19,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "44.5 lbs.",
   "weight_eu": "20.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 70,
@@ -49,143 +42,17 @@
     "sp_def": 40,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Lucario",
-      "happiness": true, 
-      "level_up": true,
-      "conditions": [
-        "during the day"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Lucario",
+    "happiness": true,
+    "level_up": true,
+    "conditions": [
+      "during the day"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Endure",
-          "level": 1
-        },
-        {
-          "move": "Foresight",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Counter",
-          "level": 6
-        },
-        {
-          "move": "Feint",
-          "level": 11
-        },
-        {
-          "move": "Force Palm",
-          "level": 15
-        },
-        {
-          "move": "Copycat",
-          "level": 19
-        },
-        {
-          "move": "Screech",
-          "level": 24
-        },
-        {
-          "move": "Reversal",
-          "level": 29
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 47
-        },
-        {
-          "move": "Final Gambit",
-          "level": 50
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Blaze Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Circle Throw",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Follow Me",
-          "egg_move": true
-        },
-        {
-          "move": "High Jump Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Low Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Sky Uppercut",
-          "egg_move": true
-        },
-        {
-          "move": "Vacuum Wave",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -332,12 +199,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Endure",
           "level": 1
         },
@@ -572,8 +434,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Endure",
           "level": 1
         },

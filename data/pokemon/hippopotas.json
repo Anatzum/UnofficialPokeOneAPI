@@ -1,11 +1,10 @@
 {
-"name" : "Hippopotas",
+  "name": "Hippopotas",
   "national_id": 449,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Stream"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "109.1 lbs.",
   "weight_eu": "49.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 68,
     "atk": 72,
@@ -46,119 +39,13 @@
     "sp_def": 42,
     "speed": 32
   },
-  "evolutions": [
-    {
-      "to": "Hippowdon",
-      "level": 34
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Hippowdon",
+    "level": 34
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Bite",
-          "level": 7
-        },
-        {
-          "move": "Yawn",
-          "level": 13
-        },
-        {
-          "move": "Dig",
-          "level": 19
-        },
-        {
-          "move": "Take Down",
-          "level": 19
-        },
-        {
-          "move": "Sand Tomb",
-          "level": 25
-        },
-        {
-          "move": "Crunch",
-          "level": 31
-        },
-        {
-          "move": "Earthquake",
-          "level": 37
-        },
-        {
-          "move": "Double-Edge",
-          "level": 44
-        },
-        {
-          "move": "Fissure",
-          "level": 50
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Slack Off",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -261,12 +148,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Sand Attack",
           "level": 1
         },
@@ -441,8 +323,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Sand Attack",
           "level": 1
         },

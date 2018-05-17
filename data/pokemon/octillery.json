@@ -1,11 +1,10 @@
 {
-"name" : "Octillery",
+  "name": "Octillery",
   "national_id": 224,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Suction Cups"
     },
     {
@@ -17,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 2"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "62.8 lbs.",
   "weight_eu": "28.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 105,
@@ -51,162 +44,9 @@
     "speed": 45
   },
   "evolution_from": "Remoraid",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aurora Beam",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Gunk Shot",
-          "level": 1
-        },
-        {
-          "move": "Psybeam",
-          "level": 1
-        },
-        {
-          "move": "Rock Blast",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 6
-        },
-        {
-          "move": "Psybeam",
-          "level": 10
-        },
-        {
-          "move": "Aurora Beam",
-          "level": 14
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 18
-        },
-        {
-          "move": "Focus Energy",
-          "level": 22
-        },
-        {
-          "move": "Octazooka",
-          "level": 25
-        },
-        {
-          "move": "Wring Out",
-          "level": 28
-        },
-        {
-          "move": "Signal Beam",
-          "level": 34
-        },
-        {
-          "move": "Ice Beam",
-          "level": 40
-        },
-        {
-          "move": "Bullet Seed",
-          "level": 46
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 52
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 58
-        },
-        {
-          "move": "Soak",
-          "level": 64
-        },
-        {
-          "move": "Acid Spray",
-          "egg_move": true
-        },
-        {
-          "move": "Aurora Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Entrainment",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Octazooka",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Blast",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Water Spout",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -361,12 +201,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aurora Beam",
           "level": 1
         },
@@ -645,8 +480,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aurora Beam",
           "level": 1
         },

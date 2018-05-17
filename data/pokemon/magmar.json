@@ -1,11 +1,10 @@
 {
-"name" : "Magmar",
+  "name": "Magmar",
   "national_id": 126,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flame Body"
     },
     {
@@ -17,17 +16,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'03\"",
   "height_eu": "1.3 m",
   "weight_us": "98.1 lbs.",
   "weight_eu": "44.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 95,
@@ -47,151 +40,13 @@
     "speed": 93
   },
   "evolution_from": "Magby",
-  "evolutions": [
-    {
-      "to": "Magmortar",
-      "trade": true,
-      "hold_item": "Magmarizer"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Smog",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 5
-        },
-        {
-          "move": "Smokescreen",
-          "level": 8
-        },
-        {
-          "move": "Feint Attack",
-          "level": 12
-        },
-        {
-          "move": "Fire Spin",
-          "level": 15
-        },
-        {
-          "move": "Clear Smog",
-          "level": 19
-        },
-        {
-          "move": "Flame Burst",
-          "level": 22
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 26
-        },
-        {
-          "move": "Fire Punch",
-          "level": 29
-        },
-        {
-          "move": "Lava Plume",
-          "level": 36
-        },
-        {
-          "move": "Sunny Day",
-          "level": 42
-        },
-        {
-          "move": "Flamethrower",
-          "level": 49
-        },
-        {
-          "move": "Fire Blast",
-          "level": 55
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Dynamic Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Flare Blitz",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Karate Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Mach Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Mega Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Magmortar",
+    "trade": true,
+    "hold_item": "Magmarizer"
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -326,12 +181,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -566,8 +416,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

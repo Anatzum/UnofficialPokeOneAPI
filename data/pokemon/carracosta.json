@@ -1,12 +1,11 @@
 {
-"name" : "Carracosta",
+  "name": "Carracosta",
   "national_id": 565,
   "types": [
     "Water",
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Solid Rock"
     },
     {
@@ -18,18 +17,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 3"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "178.6 lbs.",
   "weight_eu": "81.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 74,
     "atk": 108,
@@ -49,146 +42,9 @@
     "speed": 32
   },
   "evolution_from": "Tirtouga",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bide",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 5
-        },
-        {
-          "move": "Bite",
-          "level": 8
-        },
-        {
-          "move": "Protect",
-          "level": 11
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 15
-        },
-        {
-          "move": "Ancient Power",
-          "level": 18
-        },
-        {
-          "move": "Crunch",
-          "level": 21
-        },
-        {
-          "move": "Wide Guard",
-          "level": 25
-        },
-        {
-          "move": "Brine",
-          "level": 28
-        },
-        {
-          "move": "Smack Down",
-          "level": 31
-        },
-        {
-          "move": "Curse",
-          "level": 35
-        },
-        {
-          "move": "Shell Smash",
-          "level": 40
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 45
-        },
-        {
-          "move": "Rock Slide",
-          "level": 51
-        },
-        {
-          "move": "Rain Dance",
-          "level": 56
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 61
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Throw",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlpool",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -335,12 +191,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -591,8 +442,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

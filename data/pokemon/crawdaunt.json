@@ -1,12 +1,11 @@
 {
-"name" : "Crawdaunt",
+  "name": "Crawdaunt",
   "national_id": 342,
   "types": [
     "Water",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hyper Cutter"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 3"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "72.3 lbs.",
   "weight_eu": "32.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 63,
     "atk": 120,
@@ -52,158 +45,9 @@
     "speed": 55
   },
   "evolution_from": "Corphish",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Vice Grip",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 5
-        },
-        {
-          "move": "Vice Grip",
-          "level": 7
-        },
-        {
-          "move": "Leer",
-          "level": 10
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 14
-        },
-        {
-          "move": "Protect",
-          "level": 17
-        },
-        {
-          "move": "Double Hit",
-          "level": 20
-        },
-        {
-          "move": "Knock Off",
-          "level": 23
-        },
-        {
-          "move": "Night Slash",
-          "level": 26
-        },
-        {
-          "move": "Swift",
-          "level": 30
-        },
-        {
-          "move": "Razor Shell",
-          "level": 32
-        },
-        {
-          "move": "Taunt",
-          "level": 36
-        },
-        {
-          "move": "Swords Dance",
-          "level": 40
-        },
-        {
-          "move": "Crunch",
-          "level": 43
-        },
-        {
-          "move": "Crabhammer",
-          "level": 48
-        },
-        {
-          "move": "Guillotine",
-          "level": 54
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Trump Card",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -390,12 +234,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -682,8 +521,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Seviper",
+  "name": "Seviper",
   "national_id": 336,
   "types": [
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shed Skin"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Dragon"
   ],
-  
   "height_us": "8'10\"",
   "height_eu": "2.7 m",
   "weight_us": "115.7 lbs.",
   "weight_eu": "52.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 73,
     "atk": 100,
@@ -47,151 +40,10 @@
     "sp_def": 60,
     "speed": 65
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Swagger",
-          "level": 1
-        },
-        {
-          "move": "Wrap",
-          "level": 1
-        },
-        {
-          "move": "Bite",
-          "level": 4
-        },
-        {
-          "move": "Lick",
-          "level": 7
-        },
-        {
-          "move": "Poison Tail",
-          "level": 10
-        },
-        {
-          "move": "Screech",
-          "level": 13
-        },
-        {
-          "move": "Venoshock",
-          "level": 16
-        },
-        {
-          "move": "Glare",
-          "level": 19
-        },
-        {
-          "move": "Poison Fang",
-          "level": 22
-        },
-        {
-          "move": "Venom Drench",
-          "level": 25
-        },
-        {
-          "move": "Night Slash",
-          "level": 28
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 31
-        },
-        {
-          "move": "Poison Jab",
-          "level": 34
-        },
-        {
-          "move": "Haze",
-          "level": 37
-        },
-        {
-          "move": "Crunch",
-          "level": 40
-        },
-        {
-          "move": "Belch",
-          "level": 43
-        },
-        {
-          "move": "Coil",
-          "level": 46
-        },
-        {
-          "move": "Wring Out",
-          "level": 49
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Final Gambit",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Wring Out",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -334,12 +186,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Swagger",
           "level": 1
         },
@@ -602,8 +449,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Swagger",
           "level": 1
         },

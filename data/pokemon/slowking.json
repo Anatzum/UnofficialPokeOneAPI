@@ -1,12 +1,11 @@
 {
-"name" : "Slowking",
+  "name": "Slowking",
   "national_id": 199,
   "types": [
     "Water",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Water 1"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "175.3 lbs.",
   "weight_eu": "79.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 75,
@@ -52,150 +45,9 @@
     "speed": 30
   },
   "evolution_from": "Slowpoke",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Curse",
-          "level": 1
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 1
-        },
-        {
-          "move": "Hidden Power",
-          "level": 1
-        },
-        {
-          "move": "Power Gem",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 5
-        },
-        {
-          "move": "Water Gun",
-          "level": 9
-        },
-        {
-          "move": "Confusion",
-          "level": 14
-        },
-        {
-          "move": "Disable",
-          "level": 19
-        },
-        {
-          "move": "Headbutt",
-          "level": 23
-        },
-        {
-          "move": "Water Pulse",
-          "level": 28
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 32
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 36
-        },
-        {
-          "move": "Swagger",
-          "level": 41
-        },
-        {
-          "move": "Psychic",
-          "level": 45
-        },
-        {
-          "move": "Trump Card",
-          "level": 49
-        },
-        {
-          "move": "Psych Up",
-          "level": 54
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 58
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Wonder Room",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -406,12 +258,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Curse",
           "level": 1
         },
@@ -714,8 +561,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Curse",
           "level": 1
         },

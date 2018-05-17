@@ -1,12 +1,11 @@
 {
-"name" : "Durant",
+  "name": "Durant",
   "national_id": 632,
   "types": [
     "Bug",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "72.8 lbs.",
   "weight_eu": "33.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 58,
     "atk": 109,
@@ -47,127 +40,10 @@
     "sp_def": 48,
     "speed": 109
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Guillotine",
-          "level": 1
-        },
-        {
-          "move": "Iron Defense",
-          "level": 1
-        },
-        {
-          "move": "Metal Sound",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Vice Grip",
-          "level": 1
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 6
-        },
-        {
-          "move": "Bite",
-          "level": 11
-        },
-        {
-          "move": "Agility",
-          "level": 16
-        },
-        {
-          "move": "Metal Claw",
-          "level": 21
-        },
-        {
-          "move": "Bug Bite",
-          "level": 26
-        },
-        {
-          "move": "Crunch",
-          "level": 31
-        },
-        {
-          "move": "Iron Head",
-          "level": 36
-        },
-        {
-          "move": "Dig",
-          "level": 41
-        },
-        {
-          "move": "Entrainment",
-          "level": 46
-        },
-        {
-          "move": "X-Scissor",
-          "level": 51
-        },
-        {
-          "move": "Iron Defense",
-          "level": 56
-        },
-        {
-          "move": "Guillotine",
-          "level": 61
-        },
-        {
-          "move": "Metal Sound",
-          "level": 66
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -306,12 +182,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -514,8 +385,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

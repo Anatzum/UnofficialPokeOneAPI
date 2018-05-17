@@ -1,12 +1,11 @@
 {
-"name" : "Emboar",
+  "name": "Emboar",
   "national_id": 500,
   "types": [
     "Fire",
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Blaze"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "330.7 lbs.",
-  "weight_eu": "150.0 kg",
-  
-  
+  "weight_eu": "150 kg",
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 110,
     "atk": 123,
@@ -48,154 +41,9 @@
     "speed": 65
   },
   "evolution_from": "Pignite",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 3
-        },
-        {
-          "move": "Ember",
-          "level": 7
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 9
-        },
-        {
-          "move": "Defense Curl",
-          "level": 13
-        },
-        {
-          "move": "Flame Charge",
-          "level": 15
-        },
-        {
-          "move": "Arm Thrust",
-          "level": 17
-        },
-        {
-          "move": "Smog",
-          "level": 20
-        },
-        {
-          "move": "Rollout",
-          "level": 23
-        },
-        {
-          "move": "Take Down",
-          "level": 28
-        },
-        {
-          "move": "Heat Crash",
-          "level": 31
-        },
-        {
-          "move": "Assurance",
-          "level": 38
-        },
-        {
-          "move": "Flamethrower",
-          "level": 43
-        },
-        {
-          "move": "Head Smash",
-          "level": 50
-        },
-        {
-          "move": "Roar",
-          "level": 55
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 62
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Heavy Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Magnitude",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -386,12 +234,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Arm Thrust",
           "level": 1
         },
@@ -694,8 +537,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Arm Thrust",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Gligar",
+  "name": "Gligar",
   "national_id": 207,
   "types": [
     "Ground",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hyper Cutter"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "142.9 lbs.",
   "weight_eu": "64.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 75,
@@ -50,153 +43,15 @@
     "sp_def": 65,
     "speed": 85
   },
-  "evolutions": [
-    {
-      "to": "Gliscor",
-      "conditions": [
-        "level up during the night holding a Razor Fang"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Gliscor",
+    "conditions": [
+      "level up during the night holding a Razor Fang"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 4
-        },
-        {
-          "move": "Harden",
-          "level": 7
-        },
-        {
-          "move": "Knock Off",
-          "level": 10
-        },
-        {
-          "move": "Quick Attack",
-          "level": 13
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 16
-        },
-        {
-          "move": "Feint Attack",
-          "level": 19
-        },
-        {
-          "move": "Acrobatics",
-          "level": 22
-        },
-        {
-          "move": "Slash",
-          "level": 27
-        },
-        {
-          "move": "U-turn",
-          "level": 30
-        },
-        {
-          "move": "Screech",
-          "level": 35
-        },
-        {
-          "move": "X-Scissor",
-          "level": 40
-        },
-        {
-          "move": "Sky Uppercut",
-          "level": 45
-        },
-        {
-          "move": "Swords Dance",
-          "level": 50
-        },
-        {
-          "move": "Guillotine",
-          "level": 55
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Poison",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Power Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Wing Attack",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -391,12 +246,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Poison Sting",
           "level": 1
         },
@@ -683,8 +533,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Poison Sting",
           "level": 1
         },

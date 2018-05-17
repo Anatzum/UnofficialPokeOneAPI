@@ -1,12 +1,11 @@
 {
-"name" : "Bibarel",
+  "name": "Bibarel",
   "national_id": 400,
   "types": [
     "Normal",
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Simple"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "69.4 lbs.",
   "weight_eu": "31.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 79,
     "atk": 85,
@@ -52,138 +45,9 @@
     "speed": 71
   },
   "evolution_from": "Bidoof",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Rototiller",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 5
-        },
-        {
-          "move": "Defense Curl",
-          "level": 9
-        },
-        {
-          "move": "Rollout",
-          "level": 13
-        },
-        {
-          "move": "Water Gun",
-          "level": 15
-        },
-        {
-          "move": "Headbutt",
-          "level": 18
-        },
-        {
-          "move": "Hyper Fang",
-          "level": 23
-        },
-        {
-          "move": "Yawn",
-          "level": 28
-        },
-        {
-          "move": "Amnesia",
-          "level": 33
-        },
-        {
-          "move": "Take Down",
-          "level": 38
-        },
-        {
-          "move": "Super Fang",
-          "level": 43
-        },
-        {
-          "move": "Superpower",
-          "level": 48
-        },
-        {
-          "move": "Curse",
-          "level": 53
-        },
-        {
-          "move": "Aqua Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Swipes",
-          "egg_move": true
-        },
-        {
-          "move": "Odor Sleuth",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -350,12 +214,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aqua Jet",
           "level": 1
         },
@@ -622,8 +481,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aqua Jet",
           "level": 1
         },

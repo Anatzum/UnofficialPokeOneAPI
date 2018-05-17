@@ -1,11 +1,10 @@
 {
-"name" : "Rapidash",
+  "name": "Rapidash",
   "national_id": 78,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Run Away"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "209.4 lbs.",
   "weight_eu": "95.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 100,
@@ -50,150 +43,9 @@
     "speed": 105
   },
   "evolution_from": "Ponyta",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Megahorn",
-          "level": 1
-        },
-        {
-          "move": "Poison Jab",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 4
-        },
-        {
-          "move": "Ember",
-          "level": 9
-        },
-        {
-          "move": "Flame Wheel",
-          "level": 13
-        },
-        {
-          "move": "Stomp",
-          "level": 17
-        },
-        {
-          "move": "Flame Charge",
-          "level": 21
-        },
-        {
-          "move": "Fire Spin",
-          "level": 25
-        },
-        {
-          "move": "Take Down",
-          "level": 29
-        },
-        {
-          "move": "Inferno",
-          "level": 33
-        },
-        {
-          "move": "Agility",
-          "level": 37
-        },
-        {
-          "move": "Fury Attack",
-          "level": 40
-        },
-        {
-          "move": "Fire Blast",
-          "level": 41
-        },
-        {
-          "move": "Bounce",
-          "level": 45
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 49
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Wheel",
-          "egg_move": true
-        },
-        {
-          "move": "Horn Drill",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Low Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -312,12 +164,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -552,8 +399,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

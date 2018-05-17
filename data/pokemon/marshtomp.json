@@ -1,12 +1,11 @@
 {
-"name" : "Marshtomp",
+  "name": "Marshtomp",
   "national_id": 259,
   "types": [
     "Water",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -18,18 +17,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Water 1"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "61.7 lbs.",
   "weight_eu": "28.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 85,
@@ -49,166 +42,12 @@
     "speed": 50
   },
   "evolution_from": "Mudkip",
-  "evolutions": [
-    {
-      "to": "Swampert",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 4
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 9
-        },
-        {
-          "move": "Foresight",
-          "level": 12
-        },
-        {
-          "move": "Mud Shot",
-          "level": 16
-        },
-        {
-          "move": "Bide",
-          "level": 18
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 22
-        },
-        {
-          "move": "Rock Slide",
-          "level": 28
-        },
-        {
-          "move": "Protect",
-          "level": 32
-        },
-        {
-          "move": "Muddy Water",
-          "level": 38
-        },
-        {
-          "move": "Take Down",
-          "level": 42
-        },
-        {
-          "move": "Earthquake",
-          "level": 48
-        },
-        {
-          "move": "Endeavor",
-          "level": 52
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Ball",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Sludge",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlpool",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Swampert",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -351,12 +190,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -615,8 +449,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

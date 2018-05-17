@@ -1,12 +1,11 @@
 {
-"name" : "Skarmory",
+  "name": "Skarmory",
   "national_id": 227,
   "types": [
     "Steel",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "111.3 lbs.",
   "weight_eu": "50.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 80,
@@ -50,135 +43,10 @@
     "sp_def": 70,
     "speed": 70
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 6
-        },
-        {
-          "move": "Metal Claw",
-          "level": 9
-        },
-        {
-          "move": "Air Cutter",
-          "level": 12
-        },
-        {
-          "move": "Fury Attack",
-          "level": 17
-        },
-        {
-          "move": "Feint",
-          "level": 20
-        },
-        {
-          "move": "Swift",
-          "level": 23
-        },
-        {
-          "move": "Spikes",
-          "level": 28
-        },
-        {
-          "move": "Agility",
-          "level": 31
-        },
-        {
-          "move": "Steel Wing",
-          "level": 34
-        },
-        {
-          "move": "Slash",
-          "level": 39
-        },
-        {
-          "move": "Metal Sound",
-          "level": 42
-        },
-        {
-          "move": "Air Slash",
-          "level": 45
-        },
-        {
-          "move": "Autotomize",
-          "level": 50
-        },
-        {
-          "move": "Night Slash",
-          "level": 53
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Drill Peck",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Sky Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -325,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -569,8 +432,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

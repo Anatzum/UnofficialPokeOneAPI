@@ -1,11 +1,10 @@
 {
-"name" : "Oshawott",
+  "name": "Oshawott",
   "national_id": 501,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "13.0 lbs.",
   "weight_eu": "5.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 55,
@@ -46,127 +39,13 @@
     "sp_def": 45,
     "speed": 45
   },
-  "evolutions": [
-    {
-      "to": "Dewott",
-      "level": 17
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Dewott",
+    "level": 17
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 5
-        },
-        {
-          "move": "Water Gun",
-          "level": 7
-        },
-        {
-          "move": "Water Sport",
-          "level": 11
-        },
-        {
-          "move": "Focus Energy",
-          "level": 13
-        },
-        {
-          "move": "Razor Shell",
-          "level": 17
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 19
-        },
-        {
-          "move": "Water Pulse",
-          "level": 23
-        },
-        {
-          "move": "Revenge",
-          "level": 25
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 29
-        },
-        {
-          "move": "Encore",
-          "level": 31
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 35
-        },
-        {
-          "move": "Retaliate",
-          "level": 37
-        },
-        {
-          "move": "Swords Dance",
-          "level": 41
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 43
-        },
-        {
-          "move": "Air Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Copycat",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Trump Card",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -305,12 +184,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -525,8 +399,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

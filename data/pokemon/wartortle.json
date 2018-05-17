@@ -1,11 +1,10 @@
 {
-"name" : "Wartortle",
+  "name": "Wartortle",
   "national_id": 8,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Water 1"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "49.6 lbs.",
   "weight_eu": "22.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 59,
     "atk": 63,
@@ -48,162 +41,12 @@
     "speed": 58
   },
   "evolution_from": "Squirtle",
-  "evolutions": [
-    {
-      "to": "Blastoise",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 4
-        },
-        {
-          "move": "Water Gun",
-          "level": 7
-        },
-        {
-          "move": "Withdraw",
-          "level": 10
-        },
-        {
-          "move": "Bubble",
-          "level": 13
-        },
-        {
-          "move": "Bite",
-          "level": 16
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 20
-        },
-        {
-          "move": "Protect",
-          "level": 24
-        },
-        {
-          "move": "Water Pulse",
-          "level": 28
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 32
-        },
-        {
-          "move": "Skull Bash",
-          "level": 36
-        },
-        {
-          "move": "Iron Defense",
-          "level": 40
-        },
-        {
-          "move": "Rain Dance",
-          "level": 44
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 48
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Aura Sphere",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Water Spout",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Blastoise",
+    "level": 36
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -330,12 +173,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -574,8 +412,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

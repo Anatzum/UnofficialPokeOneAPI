@@ -1,12 +1,11 @@
 {
-"name" : "Pangoro",
+  "name": "Pangoro",
   "national_id": 675,
   "types": [
     "Fighting",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Iron Fist"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Human-Like"
   ],
-  
   "height_us": "6'11\"",
   "height_eu": "2.1 m",
   "weight_us": "299.8 lbs.",
   "weight_eu": "136 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 124,
@@ -49,126 +42,9 @@
     "speed": 58
   },
   "evolution_from": "Pancham",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Entrainment",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Arm Thrust",
-          "level": 7
-        },
-        {
-          "move": "Work Up",
-          "level": 10
-        },
-        {
-          "move": "Karate Chop",
-          "level": 12
-        },
-        {
-          "move": "Comet Punch",
-          "level": 15
-        },
-        {
-          "move": "Slash",
-          "level": 20
-        },
-        {
-          "move": "Circle Throw",
-          "level": 25
-        },
-        {
-          "move": "Vital Throw",
-          "level": 27
-        },
-        {
-          "move": "Body Slam",
-          "level": 35
-        },
-        {
-          "move": "Crunch",
-          "level": 42
-        },
-        {
-          "move": "Entrainment",
-          "level": 45
-        },
-        {
-          "move": "Parting Shot",
-          "level": 48
-        },
-        {
-          "move": "Sky Uppercut",
-          "level": 52
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 57
-        },
-        {
-          "move": "Taunt",
-          "level": 65
-        },
-        {
-          "move": "Low Sweep",
-          "level": 70
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Quash",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Storm Throw",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -399,12 +275,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Arm Thrust",
           "level": 1
         },
@@ -727,8 +598,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Arm Thrust",
           "level": 1
         },

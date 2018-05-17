@@ -1,11 +1,10 @@
 {
-"name" : "Goodra",
+  "name": "Goodra",
   "national_id": 706,
   "types": [
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sap Sipper"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Dragon"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "331.8 lbs.",
   "weight_eu": "150.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 100,
@@ -47,118 +40,9 @@
     "speed": 80
   },
   "evolution_from": "Sliggoo",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Feint",
-          "level": 1
-        },
-        {
-          "move": "Outrage",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Absorb",
-          "level": 5
-        },
-        {
-          "move": "Protect",
-          "level": 9
-        },
-        {
-          "move": "Bide",
-          "level": 13
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 18
-        },
-        {
-          "move": "Rain Dance",
-          "level": 25
-        },
-        {
-          "move": "Flail",
-          "level": 28
-        },
-        {
-          "move": "Body Slam",
-          "level": 32
-        },
-        {
-          "move": "Muddy Water",
-          "level": 38
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 47
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 50
-        },
-        {
-          "move": "Power Whip",
-          "level": 55
-        },
-        {
-          "move": "Outrage",
-          "level": 63
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Tail",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -309,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -553,8 +432,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

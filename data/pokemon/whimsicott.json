@@ -1,12 +1,11 @@
 {
-"name" : "Whimsicott",
+  "name": "Whimsicott",
   "national_id": 547,
   "types": [
     "Grass",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Prankster"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass",
     "Fairy"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "14.6 lbs.",
   "weight_eu": "6.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 67,
@@ -49,102 +42,9 @@
     "speed": 116
   },
   "evolution_from": "Cottonee",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Cotton Spore",
-          "level": 1
-        },
-        {
-          "move": "Growth",
-          "level": 1
-        },
-        {
-          "move": "Leech Seed",
-          "level": 1
-        },
-        {
-          "move": "Mega Drain",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 10
-        },
-        {
-          "move": "Tailwind",
-          "level": 28
-        },
-        {
-          "move": "Hurricane",
-          "level": 46
-        },
-        {
-          "move": "Moonblast",
-          "level": 50
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -283,12 +183,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Cotton Spore",
           "level": 1
         },
@@ -495,8 +390,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Cotton Spore",
           "level": 1
         },

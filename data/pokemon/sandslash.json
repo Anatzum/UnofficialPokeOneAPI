@@ -1,11 +1,10 @@
 {
-"name" : "Sandslash",
+  "name": "Sandslash",
   "national_id": 28,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Veil"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "65.0 lbs.",
   "weight_eu": "29.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 100,
@@ -47,175 +40,9 @@
     "speed": 65
   },
   "evolution_from": "Sandshrew",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Sandslash",
-        "de": "Alola-Sandamer"
-      },
-      "types": [
-        "Ice",
-        "Steel"
-      ],
-      "abilities": [
-        {
-          "name": "Snow Cloak"
-        },
-        {
-          "name": "Slush Rush",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 3
-        },
-        {
-          "move": "Poison Sting",
-          "level": 5
-        },
-        {
-          "move": "Rollout",
-          "level": 7
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 9
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 11
-        },
-        {
-          "move": "Magnitude",
-          "level": 14
-        },
-        {
-          "move": "Swift",
-          "level": 17
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 20
-        },
-        {
-          "move": "Crush Claw",
-          "level": 22
-        },
-        {
-          "move": "Sand Tomb",
-          "level": 24
-        },
-        {
-          "move": "Slash",
-          "level": 28
-        },
-        {
-          "move": "Dig",
-          "level": 33
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 38
-        },
-        {
-          "move": "Swords Dance",
-          "level": 43
-        },
-        {
-          "move": "Sandstorm",
-          "level": 48
-        },
-        {
-          "move": "Earthquake",
-          "level": 53
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Rapid Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Rototiller",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -378,12 +205,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Crush Claw",
           "level": 1,
           "variations": [
@@ -1230,8 +1052,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Crush Claw",
           "level": 1,
           "variations": [

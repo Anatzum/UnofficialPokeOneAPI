@@ -1,11 +1,10 @@
 {
-"name" : "Shroomish",
+  "name": "Shroomish",
   "national_id": 285,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Effect Spore"
     },
     {
@@ -17,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy",
     "Grass"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "9.9 lbs.",
   "weight_eu": "4.5 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 40,
@@ -50,127 +43,13 @@
     "sp_def": 60,
     "speed": 35
   },
-  "evolutions": [
-    {
-      "to": "Breloom",
-      "level": 23
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Breloom",
+    "level": 23
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Stun Spore",
-          "level": 5
-        },
-        {
-          "move": "Leech Seed",
-          "level": 8
-        },
-        {
-          "move": "Mega Drain",
-          "level": 12
-        },
-        {
-          "move": "Headbutt",
-          "level": 15
-        },
-        {
-          "move": "Poison Powder",
-          "level": 19
-        },
-        {
-          "move": "Worry Seed",
-          "level": 22
-        },
-        {
-          "move": "Giga Drain",
-          "level": 26
-        },
-        {
-          "move": "Growth",
-          "level": 29
-        },
-        {
-          "move": "Toxic",
-          "level": 33
-        },
-        {
-          "move": "Seed Bomb",
-          "level": 36
-        },
-        {
-          "move": "Spore",
-          "level": 40
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Drain Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Wake-Up Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -273,12 +152,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -469,8 +343,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

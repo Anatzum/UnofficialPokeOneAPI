@@ -1,27 +1,21 @@
 {
-"name" : "Victini",
+  "name": "Victini",
   "national_id": 494,
   "types": [
     "Psychic",
     "Fire"
   ],
-  "abilities": [
-    {
-      "name": "Victory Star"
-    }
-  ],
+  "abilities": [{
+    "name": "Victory Star"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "8.8 lbs.",
   "weight_eu": "4.0 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 100,
@@ -40,103 +32,10 @@
     "sp_def": 100,
     "speed": 100
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Incinerate",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Searing Shot",
-          "level": 1
-        },
-        {
-          "move": "Endure",
-          "level": 9
-        },
-        {
-          "move": "Headbutt",
-          "level": 17
-        },
-        {
-          "move": "Flame Charge",
-          "level": 25
-        },
-        {
-          "move": "Reversal",
-          "level": 33
-        },
-        {
-          "move": "Flame Burst",
-          "level": 41
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49
-        },
-        {
-          "move": "Inferno",
-          "level": 57
-        },
-        {
-          "move": "Double-Edge",
-          "level": 65
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 73
-        },
-        {
-          "move": "Final Gambit",
-          "level": 81
-        },
-        {
-          "move": "Stored Power",
-          "level": 89
-        },
-        {
-          "move": "Overheat",
-          "level": 97
-        },
-        {
-          "move": "Rock Smash",
-          "tm": "HM06"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -327,12 +226,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -583,8 +477,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

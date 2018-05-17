@@ -1,11 +1,10 @@
 {
-"name" : "Alakazam",
+  "name": "Alakazam",
   "national_id": 65,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Synchronize"
     },
     {
@@ -20,17 +19,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "105.8 lbs.",
   "weight_eu": "48.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 50,
@@ -50,161 +43,9 @@
     "speed": 120
   },
   "evolution_from": "Kadabra",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Psychic"
-      ],
-      "ability": "Trace",
-      "mega_stone": "Alakazite",
-      "height_us": "3'11\"",
-      "height_eu": "1.2 m",
-      "weight_us": "105.8 lbs.",
-      "weight_eu": "48.0 kg",
-      "base_stats": {
-        "hp": 55,
-        "atk": 50,
-        "def": 65,
-        "sp_atk": 175,
-        "sp_def": 105,
-        "speed": 150
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Kinesis",
-          "level": 1
-        },
-        {
-          "move": "Teleport",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 16
-        },
-        {
-          "move": "Disable",
-          "level": 18
-        },
-        {
-          "move": "Psybeam",
-          "level": 21
-        },
-        {
-          "move": "Miracle Eye",
-          "level": 23
-        },
-        {
-          "move": "Reflect",
-          "level": 26
-        },
-        {
-          "move": "Psycho Cut",
-          "level": 28
-        },
-        {
-          "move": "Recover",
-          "level": 31
-        },
-        {
-          "move": "Telekinesis",
-          "level": 33
-        },
-        {
-          "move": "Ally Switch",
-          "level": 36
-        },
-        {
-          "move": "Psychic",
-          "level": 38
-        },
-        {
-          "move": "Calm Mind",
-          "level": 41
-        },
-        {
-          "move": "Future Sight",
-          "level": 43
-        },
-        {
-          "move": "Trick",
-          "level": 46
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Split",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Power Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Shift",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -371,12 +212,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -651,8 +487,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Wingull",
+  "name": "Wingull",
   "national_id": 278,
   "types": [
     "Water",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Flying"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "20.9 lbs.",
   "weight_eu": "9.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 30,
@@ -51,135 +44,13 @@
     "sp_def": 30,
     "speed": 85
   },
-  "evolutions": [
-    {
-      "to": "Pelipper",
-      "level": 25
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Pelipper",
+    "level": 25
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Wing Attack",
-          "level": 8
-        },
-        {
-          "move": "Mist",
-          "level": 12
-        },
-        {
-          "move": "Water Pulse",
-          "level": 15
-        },
-        {
-          "move": "Quick Attack",
-          "level": 19
-        },
-        {
-          "move": "Air Cutter",
-          "level": 22
-        },
-        {
-          "move": "Pursuit",
-          "level": 26
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 29
-        },
-        {
-          "move": "Roost",
-          "level": 33
-        },
-        {
-          "move": "Agility",
-          "level": 36
-        },
-        {
-          "move": "Air Slash",
-          "level": 40
-        },
-        {
-          "move": "Hurricane",
-          "level": 43
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Soak",
-          "egg_move": true
-        },
-        {
-          "move": "Twister",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -290,12 +161,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -506,8 +372,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

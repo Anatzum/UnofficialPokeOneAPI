@@ -1,16 +1,10 @@
 {
-  "name": {
-    
-    "de": "Pam-Pam",
-    
-    "en": "Pancham"
-  },
+  "name": "Pancham",
   "national_id": 674,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Iron Fist"
     },
     {
@@ -19,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Human-Like"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "17.6 lbs.",
   "weight_eu": "8.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -42,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 67,
     "atk": 82,
@@ -52,114 +40,16 @@
     "sp_def": 48,
     "speed": 43
   },
-  "evolutions": [
-    {
-      "to": "Pangoro",
-      "level": 32,
-      "conditions": [
-        "with a Dark type Pokémon in party"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Pangoro",
+    "level": 32,
+    "conditions": [
+      "with a Dark type Pokémon in party"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Arm Thrust",
-          "level": 7
-        },
-        {
-          "move": "Work Up",
-          "level": 10
-        },
-        {
-          "move": "Karate Chop",
-          "level": 12
-        },
-        {
-          "move": "Comet Punch",
-          "level": 15
-        },
-        {
-          "move": "Slash",
-          "level": 20
-        },
-        {
-          "move": "Circle Throw",
-          "level": 25
-        },
-        {
-          "move": "Vital Throw",
-          "level": 27
-        },
-        {
-          "move": "Body Slam",
-          "level": 33
-        },
-        {
-          "move": "Crunch",
-          "level": 39
-        },
-        {
-          "move": "Entrainment",
-          "level": 42
-        },
-        {
-          "move": "Parting Shot",
-          "level": 45
-        },
-        {
-          "move": "Sky Uppercut",
-          "level": 48
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Quash",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Storm Throw",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +224,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -574,8 +459,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

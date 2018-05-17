@@ -1,29 +1,23 @@
 {
-"name" : "Tynamo",
+  "name": "Tynamo",
   "national_id": 602,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "0.7 lbs.",
   "weight_eu": "0.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 35,
     "atk": 55,
@@ -42,35 +34,13 @@
     "sp_def": 40,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Eelektrik",
-      "level": 39
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Eelektrik",
+    "level": 39
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Charge Beam",
           "level": 1
         },
@@ -97,12 +67,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charge Beam",
           "level": 1
         },
@@ -133,8 +98,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charge Beam",
           "level": 1
         },

@@ -1,26 +1,20 @@
 {
-"name" : "Deoxys",
+  "name": "Deoxys",
   "national_id": 386,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Pressure"
-    }
-  ],
+  "abilities": [{
+    "name": "Pressure"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "134.0 lbs.",
   "weight_eu": "60.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 150,
@@ -39,449 +31,8 @@
     "sp_def": 50,
     "speed": 150
   },
-  
-  "variations": [
-    {
-      "condition": "Pokémon FireRed",
-      "image_suffix": "attack",
-      "name": {
-        
-      },
-      "types": [
-        "Psychic"
-      ],
-      "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 3
-      },
-      "base_stats": {
-        "hp": 50,
-        "atk": 95,
-        "def": 90,
-        "sp_atk": 95,
-        "sp_def": 90,
-        "speed": 180
-      },
-      
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Snatch",
-          "level": 37,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 55,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 73,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Taunt",
-          "level": 19,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Superpower",
-          "level": 37,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 55,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 61,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 73,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Spikes",
-          "level": 25,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Snatch",
-          "level": 37,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Amnesia",
-          "level": 55,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Iron Defense",
-          "level": 55,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Counter",
-          "level": 73,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Mirror Coat",
-          "level": 73,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Double Team",
-          "level": 13,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Swift",
-          "level": 37,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Agility",
-          "level": 55,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Extreme Speed",
-          "level": 73,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -696,416 +247,61 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 1
         },
         {
           "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 1
         },
         {
           "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 7
         },
         {
           "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 13
         },
         {
           "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 19
         },
         {
           "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 25
         },
         {
           "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 31
         },
         {
           "move": "Snatch",
-          "level": 37,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 37
         },
         {
           "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 43
         },
         {
           "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 49
         },
         {
           "move": "Cosmic Power",
-          "level": 55,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 55
         },
         {
           "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 61
         },
         {
           "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 67
         },
         {
           "move": "Hyper Beam",
-          "level": 73,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Taunt",
-          "level": 19,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Superpower",
-          "level": 37,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 55,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 61,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 73,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Spikes",
-          "level": 25,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Snatch",
-          "level": 37,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Amnesia",
-          "level": 55,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Iron Defense",
-          "level": 55,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Counter",
-          "level": 73,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Mirror Coat",
-          "level": 73,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Double Team",
-          "level": 13,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Swift",
-          "level": 37,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Agility",
-          "level": 55,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Extreme Speed",
-          "level": 73,
-          "variations": [
-            "Speed Forme"
-          ]
+          "level": 73
         },
         {
           "move": "Psyshock",
@@ -1306,412 +502,61 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 1
         },
         {
           "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 1
         },
         {
           "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 7
         },
         {
           "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 13
         },
         {
           "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 19
         },
         {
           "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 25
         },
         {
           "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 31
         },
         {
           "move": "Snatch",
-          "level": 37,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 37
         },
         {
           "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 43
         },
         {
           "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 49
         },
         {
           "move": "Cosmic Power",
-          "level": 55,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 55
         },
         {
           "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 61
         },
         {
           "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Normal Forme"
-          ]
+          "level": 67
         },
         {
           "move": "Hyper Beam",
-          "level": 73,
-          "variations": [
-            "Normal Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Taunt",
-          "level": 19,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Superpower",
-          "level": 37,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 55,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 61,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 73,
-          "variations": [
-            "Attack Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Teleport",
-          "level": 13,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Spikes",
-          "level": 25,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Snatch",
-          "level": 37,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Amnesia",
-          "level": 55,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Iron Defense",
-          "level": 55,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Counter",
-          "level": 73,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Mirror Coat",
-          "level": 73,
-          "variations": [
-            "Defense Forme"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Wrap",
-          "level": 1,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Night Shade",
-          "level": 7,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Double Team",
-          "level": 13,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 19,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Pursuit",
-          "level": 25,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 31,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Swift",
-          "level": 37,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 43,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 49,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Agility",
-          "level": 55,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Recover",
-          "level": 61,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Psycho Boost",
-          "level": 67,
-          "variations": [
-            "Speed Forme"
-          ]
-        },
-        {
-          "move": "Extreme Speed",
-          "level": 73,
-          "variations": [
-            "Speed Forme"
-          ]
+          "level": 73
         },
         {
           "move": "Psyshock",

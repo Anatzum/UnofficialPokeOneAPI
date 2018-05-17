@@ -1,12 +1,11 @@
 {
-"name" : "Gallade",
+  "name": "Gallade",
   "national_id": 475,
   "types": [
     "Psychic",
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Steadfast"
     },
     {
@@ -15,19 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "114.6 lbs.",
   "weight_eu": "52.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -36,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 68,
     "atk": 125,
@@ -47,194 +41,9 @@
     "speed": 80
   },
   "evolution_from": "Kirlia",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Psychic",
-        "Fighting"
-      ],
-      "ability": "Inner Focus",
-      "mega_stone": "Galladite",
-      "height_us": "5'03\"",
-      "height_eu": "1.6 m",
-      "weight_us": "124.3 lbs.",
-      "weight_eu": "56.4 kg",
-      "base_stats": {
-        "hp": 68,
-        "atk": 165,
-        "def": 95,
-        "sp_atk": 65,
-        "sp_def": 115,
-        "speed": 110
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Close Combat",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Double Team",
-          "level": 1
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Night Slash",
-          "level": 1
-        },
-        {
-          "move": "Stored Power",
-          "level": 1
-        },
-        {
-          "move": "Teleport",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 4
-        },
-        {
-          "move": "Double Team",
-          "level": 6
-        },
-        {
-          "move": "Teleport",
-          "level": 9
-        },
-        {
-          "move": "Quick Guard",
-          "level": 11
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 14
-        },
-        {
-          "move": "Slash",
-          "level": 17
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 19
-        },
-        {
-          "move": "Wide Guard",
-          "level": 23
-        },
-        {
-          "move": "Swords Dance",
-          "level": 26
-        },
-        {
-          "move": "Psycho Cut",
-          "level": 31
-        },
-        {
-          "move": "Helping Hand",
-          "level": 35
-        },
-        {
-          "move": "Feint",
-          "level": 40
-        },
-        {
-          "move": "False Swipe",
-          "level": 44
-        },
-        {
-          "move": "Protect",
-          "level": 49
-        },
-        {
-          "move": "Close Combat",
-          "level": 53
-        },
-        {
-          "move": "Stored Power",
-          "level": 58
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Grudge",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Misty Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Shadow Sneak",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Synchronoise",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -477,12 +286,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Close Combat",
           "level": 1
         },
@@ -853,8 +657,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Close Combat",
           "level": 1
         },

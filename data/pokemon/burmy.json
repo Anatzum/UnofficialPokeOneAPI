@@ -4,8 +4,7 @@
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shed Skin"
     },
     {
@@ -14,8 +13,8 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
   "egg_groups": [
     "Bug"
@@ -40,8 +39,7 @@
     "sp_def": 45,
     "speed": 36
   },
-  "evolutions": [
-    {
+  "evolutions": [{
       "to": "Mothim",
       "level": 20,
       "conditions": [
@@ -73,56 +71,14 @@
       ]
     }
   ],
-  "variations": [
-    {
-      "condition": "Battled in Cave or Beach",
-      "image_suffix": "sandy",
-      "name": {},
-      "types": [
-        "Bug"
-      ]
-    }
-  ],
-  "move_learnsets": [
-    {
-      "games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Protect",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 10
-        },
-        {
-          "move": "Bug Bite",
-          "level": 15
-        },
-        {
-          "move": "Hidden Power",
-          "level": 20
-        },
-        {
-          "move": "Hidden Power",
-          "tm": "TM10"
-        },
-        {
-          "move": "Protect",
-          "tm": "TM17"
-        }
-      ]
+  "move_learnsets": [{
+      "tm_learnset": [{
+        "move": "Protect",
+        "tm": "TM17"
+      }]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Protect",
           "level": 1
         },
@@ -153,8 +109,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Protect",
           "level": 1
         },

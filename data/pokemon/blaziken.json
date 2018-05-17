@@ -1,12 +1,11 @@
 {
-"name" : "Blaziken",
+  "name": "Blaziken",
   "national_id": 257,
   "types": [
     "Fire",
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Blaze"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "6'03\"",
   "height_eu": "1.9 m",
   "weight_us": "114.6 lbs.",
   "weight_eu": "52.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 120,
@@ -48,186 +41,9 @@
     "speed": 80
   },
   "evolution_from": "Combusken",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Fire",
-        "Fighting"
-      ],
-      "ability": "Speed Boost",
-      "mega_stone": "Blazikenite",
-      "height_us": "6'03\"",
-      "height_eu": "1.9 m",
-      "weight_us": "114.6 lbs.",
-      "weight_eu": "52.0 kg",
-      "base_stats": {
-        "hp": 80,
-        "atk": 160,
-        "def": 80,
-        "sp_atk": 130,
-        "sp_def": 80,
-        "speed": 100
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Fire Punch",
-          "level": 1
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "High Jump Kick",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 5
-        },
-        {
-          "move": "Sand Attack",
-          "level": 10
-        },
-        {
-          "move": "Peck",
-          "level": 14
-        },
-        {
-          "move": "Double Kick",
-          "level": 16
-        },
-        {
-          "move": "Flame Charge",
-          "level": 20
-        },
-        {
-          "move": "Quick Attack",
-          "level": 25
-        },
-        {
-          "move": "Bulk Up",
-          "level": 31
-        },
-        {
-          "move": "Blaze Kick",
-          "level": 36
-        },
-        {
-          "move": "Focus Energy",
-          "level": 37
-        },
-        {
-          "move": "Slash",
-          "level": 44
-        },
-        {
-          "move": "Brave Bird",
-          "level": 50
-        },
-        {
-          "move": "Sky Uppercut",
-          "level": 57
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 63
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Low Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -422,12 +238,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Blaze Kick",
           "level": 1
         },
@@ -734,8 +545,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Blaze Kick",
           "level": 1
         },

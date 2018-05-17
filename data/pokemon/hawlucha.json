@@ -1,12 +1,11 @@
 {
-"name" : "Hawlucha",
+  "name": "Hawlucha",
   "national_id": 701,
   "types": [
     "Fighting",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Unburden"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "47.4 lbs.",
   "weight_eu": "21.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 78,
     "atk": 92,
@@ -47,127 +40,10 @@
     "sp_def": 63,
     "speed": 118
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Detect",
-          "level": 1
-        },
-        {
-          "move": "Hone Claws",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Karate Chop",
-          "level": 4
-        },
-        {
-          "move": "Wing Attack",
-          "level": 8
-        },
-        {
-          "move": "Roost",
-          "level": 12
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 16
-        },
-        {
-          "move": "Encore",
-          "level": 20
-        },
-        {
-          "move": "Fling",
-          "level": 24
-        },
-        {
-          "move": "Flying Press",
-          "level": 28
-        },
-        {
-          "move": "Bounce",
-          "level": 32
-        },
-        {
-          "move": "Endeavor",
-          "level": 36
-        },
-        {
-          "move": "Feather Dance",
-          "level": 40
-        },
-        {
-          "move": "High Jump Kick",
-          "level": 44
-        },
-        {
-          "move": "Sky Attack",
-          "level": 48
-        },
-        {
-          "move": "Sky Drop",
-          "level": 55
-        },
-        {
-          "move": "Swords Dance",
-          "level": 60
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Entrainment",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -362,12 +238,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Detect",
           "level": 1
         },
@@ -634,8 +505,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Detect",
           "level": 1
         },

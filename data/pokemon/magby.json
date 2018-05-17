@@ -1,11 +1,10 @@
 {
-"name" : "Magby",
+  "name": "Magby",
   "national_id": 240,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flame Body"
     },
     {
@@ -17,17 +16,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "47.2 lbs.",
   "weight_eu": "21.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 75,
@@ -46,147 +39,13 @@
     "sp_def": 55,
     "speed": 83
   },
-  "evolutions": [
-    {
-      "to": "Magmar",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Magmar",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Smog",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 5
-        },
-        {
-          "move": "Smokescreen",
-          "level": 8
-        },
-        {
-          "move": "Feint Attack",
-          "level": 12
-        },
-        {
-          "move": "Fire Spin",
-          "level": 15
-        },
-        {
-          "move": "Clear Smog",
-          "level": 19
-        },
-        {
-          "move": "Flame Burst",
-          "level": 22
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 26
-        },
-        {
-          "move": "Fire Punch",
-          "level": 29
-        },
-        {
-          "move": "Lava Plume",
-          "level": 33
-        },
-        {
-          "move": "Sunny Day",
-          "level": 36
-        },
-        {
-          "move": "Flamethrower",
-          "level": 40
-        },
-        {
-          "move": "Fire Blast",
-          "level": 43
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Dynamic Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Flare Blitz",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Karate Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Mach Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Mega Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -301,12 +160,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -521,8 +375,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

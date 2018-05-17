@@ -1,12 +1,11 @@
 {
-"name" : "Wooper",
+  "name": "Wooper",
   "national_id": 194,
   "types": [
     "Water",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Damp"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "18.7 lbs.",
   "weight_eu": "8.5 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 45,
@@ -51,151 +44,13 @@
     "sp_def": 25,
     "speed": 15
   },
-  "evolutions": [
-    {
-      "to": "Quagsire",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Quagsire",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 5
-        },
-        {
-          "move": "Mud Shot",
-          "level": 9
-        },
-        {
-          "move": "Slam",
-          "level": 15
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 19
-        },
-        {
-          "move": "Amnesia",
-          "level": 23
-        },
-        {
-          "move": "Yawn",
-          "level": 29
-        },
-        {
-          "move": "Earthquake",
-          "level": 33
-        },
-        {
-          "move": "Rain Dance",
-          "level": 37
-        },
-        {
-          "move": "Haze",
-          "level": 43
-        },
-        {
-          "move": "Mist",
-          "level": 43
-        },
-        {
-          "move": "Muddy Water",
-          "level": 47
-        },
-        {
-          "move": "Acid Spray",
-          "egg_move": true
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Eerie Impulse",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -330,12 +185,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tail Whip",
           "level": 1
         },
@@ -570,8 +420,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tail Whip",
           "level": 1
         },

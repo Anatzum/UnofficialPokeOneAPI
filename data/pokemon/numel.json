@@ -1,12 +1,11 @@
 {
-"name" : "Numel",
+  "name": "Numel",
   "national_id": 322,
   "types": [
     "Fire",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "52.9 lbs.",
   "weight_eu": "24.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 60,
@@ -50,159 +43,13 @@
     "sp_def": 45,
     "speed": 35
   },
-  "evolutions": [
-    {
-      "to": "Camerupt",
-      "level": 33
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Camerupt",
+    "level": 33
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 5
-        },
-        {
-          "move": "Focus Energy",
-          "level": 8
-        },
-        {
-          "move": "Magnitude",
-          "level": 12
-        },
-        {
-          "move": "Flame Burst",
-          "level": 15
-        },
-        {
-          "move": "Amnesia",
-          "level": 19
-        },
-        {
-          "move": "Lava Plume",
-          "level": 22
-        },
-        {
-          "move": "Earth Power",
-          "level": 26
-        },
-        {
-          "move": "Curse",
-          "level": 29
-        },
-        {
-          "move": "Take Down",
-          "level": 31
-        },
-        {
-          "move": "Yawn",
-          "level": 36
-        },
-        {
-          "move": "Earthquake",
-          "level": 40
-        },
-        {
-          "move": "Flamethrower",
-          "level": 43
-        },
-        {
-          "move": "Double-Edge",
-          "level": 47
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Growth",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -333,12 +180,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -577,8 +419,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

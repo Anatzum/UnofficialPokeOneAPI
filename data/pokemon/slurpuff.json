@@ -1,11 +1,10 @@
 {
-"name" : "Slurpuff",
+  "name": "Slurpuff",
   "national_id": 685,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sweet Veil"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "11.0 lbs.",
   "weight_eu": "5.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 82,
     "atk": 80,
@@ -47,110 +40,9 @@
     "speed": 72
   },
   "evolution_from": "Swirlix",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Sweet Scent",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Fairy Wind",
-          "level": 5
-        },
-        {
-          "move": "Play Nice",
-          "level": 8
-        },
-        {
-          "move": "Fake Tears",
-          "level": 10
-        },
-        {
-          "move": "Round",
-          "level": 13
-        },
-        {
-          "move": "Cotton Spore",
-          "level": 17
-        },
-        {
-          "move": "Endeavor",
-          "level": 21
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 26
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 31
-        },
-        {
-          "move": "Energy Ball",
-          "level": 36
-        },
-        {
-          "move": "Cotton Guard",
-          "level": 41
-        },
-        {
-          "move": "Wish",
-          "level": 45
-        },
-        {
-          "move": "Play Rough",
-          "level": 49
-        },
-        {
-          "move": "Light Screen",
-          "level": 58
-        },
-        {
-          "move": "Safeguard",
-          "level": 67
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Copycat",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -281,12 +173,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fairy Wind",
           "level": 1
         },
@@ -501,8 +388,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fairy Wind",
           "level": 1
         },

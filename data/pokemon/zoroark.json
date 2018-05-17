@@ -1,29 +1,23 @@
 {
-"name" : "Zoroark",
+  "name": "Zoroark",
   "national_id": 571,
   "types": [
     "Dark"
   ],
-  "abilities": [
-    {
-      "name": "Illusion"
-    }
-  ],
+  "abilities": [{
+    "name": "Illusion"
+  }],
   "gender_ratios": {
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "178.8 lbs.",
   "weight_eu": "81.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 105,
@@ -43,154 +35,9 @@
     "speed": 105
   },
   "evolution_from": "Zorua",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Hone Claws",
-          "level": 1
-        },
-        {
-          "move": "Imprison",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Night Daze",
-          "level": 1
-        },
-        {
-          "move": "Pursuit",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "U-turn",
-          "level": 1
-        },
-        {
-          "move": "Pursuit",
-          "level": 5
-        },
-        {
-          "move": "Hone Claws",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 13
-        },
-        {
-          "move": "Feint Attack",
-          "level": 17
-        },
-        {
-          "move": "Scary Face",
-          "level": 21
-        },
-        {
-          "move": "Taunt",
-          "level": 25
-        },
-        {
-          "move": "Foul Play",
-          "level": 29
-        },
-        {
-          "move": "Night Slash",
-          "level": 30
-        },
-        {
-          "move": "Torment",
-          "level": 34
-        },
-        {
-          "move": "Agility",
-          "level": 39
-        },
-        {
-          "move": "Embargo",
-          "level": 44
-        },
-        {
-          "move": "Punishment",
-          "level": 49
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 54
-        },
-        {
-          "move": "Imprison",
-          "level": 59
-        },
-        {
-          "move": "Night Daze",
-          "level": 64
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Copycat",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Dark Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -373,12 +220,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hone Claws",
           "level": 1
         },
@@ -661,8 +503,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hone Claws",
           "level": 1
         },

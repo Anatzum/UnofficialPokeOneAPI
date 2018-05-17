@@ -1,12 +1,11 @@
 {
-"name" : "Swinub",
+  "name": "Swinub",
   "national_id": 220,
   "types": [
     "Ice",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "14.3 lbs.",
   "weight_eu": "6.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 50,
@@ -50,147 +43,13 @@
     "sp_def": 30,
     "speed": 50
   },
-  "evolutions": [
-    {
-      "to": "Piloswine",
-      "level": 33
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Piloswine",
+    "level": 33
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Odor Sleuth",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 5
-        },
-        {
-          "move": "Powder Snow",
-          "level": 8
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 11
-        },
-        {
-          "move": "Endure",
-          "level": 14
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 18
-        },
-        {
-          "move": "Icy Wind",
-          "level": 21
-        },
-        {
-          "move": "Ice Shard",
-          "level": 24
-        },
-        {
-          "move": "Take Down",
-          "level": 28
-        },
-        {
-          "move": "Mist",
-          "level": 35
-        },
-        {
-          "move": "Earthquake",
-          "level": 37
-        },
-        {
-          "move": "Flail",
-          "level": 40
-        },
-        {
-          "move": "Blizzard",
-          "level": 44
-        },
-        {
-          "move": "Amnesia",
-          "level": 48
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Fissure",
-          "egg_move": true
-        },
-        {
-          "move": "Freeze-Dry",
-          "egg_move": true
-        },
-        {
-          "move": "Icicle Crash",
-          "egg_move": true
-        },
-        {
-          "move": "Icicle Spear",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -313,12 +172,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Odor Sleuth",
           "level": 1
         },
@@ -541,8 +395,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Odor Sleuth",
           "level": 1
         },

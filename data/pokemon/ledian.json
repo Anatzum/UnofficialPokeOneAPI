@@ -1,12 +1,11 @@
 {
-"name" : "Ledian",
+  "name": "Ledian",
   "national_id": 166,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "78.5 lbs.",
   "weight_eu": "35.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 35,
@@ -51,138 +44,9 @@
     "speed": 85
   },
   "evolution_from": "Ledyba",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Comet Punch",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 6
-        },
-        {
-          "move": "Comet Punch",
-          "level": 9
-        },
-        {
-          "move": "Light Screen",
-          "level": 14
-        },
-        {
-          "move": "Reflect",
-          "level": 14
-        },
-        {
-          "move": "Safeguard",
-          "level": 14
-        },
-        {
-          "move": "Mach Punch",
-          "level": 17
-        },
-        {
-          "move": "Baton Pass",
-          "level": 24
-        },
-        {
-          "move": "Silver Wind",
-          "level": 29
-        },
-        {
-          "move": "Agility",
-          "level": 36
-        },
-        {
-          "move": "Swift",
-          "level": 41
-        },
-        {
-          "move": "Double-Edge",
-          "level": 48
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 53
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Buzz",
-          "egg_move": true
-        },
-        {
-          "move": "Dizzy Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Drain Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Tailwind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -337,12 +201,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Supersonic",
           "level": 1
         },
@@ -585,8 +444,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Supersonic",
           "level": 1
         },

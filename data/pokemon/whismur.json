@@ -1,11 +1,10 @@
 {
-"name" : "Whismur",
+  "name": "Whismur",
   "national_id": 293,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Soundproof"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "35.9 lbs.",
   "weight_eu": "16.3 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 64,
     "atk": 51,
@@ -47,127 +40,13 @@
     "sp_def": 23,
     "speed": 28
   },
-  "evolutions": [
-    {
-      "to": "Loudred",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Loudred",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 4
-        },
-        {
-          "move": "Astonish",
-          "level": 8
-        },
-        {
-          "move": "Howl",
-          "level": 11
-        },
-        {
-          "move": "Screech",
-          "level": 15
-        },
-        {
-          "move": "Supersonic",
-          "level": 18
-        },
-        {
-          "move": "Stomp",
-          "level": 22
-        },
-        {
-          "move": "Uproar",
-          "level": 25
-        },
-        {
-          "move": "Roar",
-          "level": 29
-        },
-        {
-          "move": "Rest",
-          "level": 32
-        },
-        {
-          "move": "Sleep Talk",
-          "level": 36
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 39
-        },
-        {
-          "move": "Synchronoise",
-          "level": 43
-        },
-        {
-          "move": "Circle Throw",
-          "egg_move": true
-        },
-        {
-          "move": "Disarming Voice",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Smokescreen",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Roar",
           "tm": "TM05"
         },
@@ -282,12 +161,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Pound",
           "level": 1
         },
@@ -490,8 +364,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Pound",
           "level": 1
         },

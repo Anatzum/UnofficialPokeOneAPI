@@ -1,11 +1,10 @@
 {
-"name" : "Snivy",
+  "name": "Snivy",
   "national_id": 495,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field",
     "Grass"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "17.9 lbs.",
   "weight_eu": "8.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 45,
@@ -47,139 +40,13 @@
     "sp_def": 55,
     "speed": 63
   },
-  "evolutions": [
-    {
-      "to": "Servine",
-      "level": 17
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Servine",
+    "level": 17
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Vine Whip",
-          "level": 7
-        },
-        {
-          "move": "Wrap",
-          "level": 10
-        },
-        {
-          "move": "Growth",
-          "level": 13
-        },
-        {
-          "move": "Leaf Tornado",
-          "level": 16
-        },
-        {
-          "move": "Leech Seed",
-          "level": 19
-        },
-        {
-          "move": "Mega Drain",
-          "level": 22
-        },
-        {
-          "move": "Slam",
-          "level": 25
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 28
-        },
-        {
-          "move": "Coil",
-          "level": 31
-        },
-        {
-          "move": "Giga Drain",
-          "level": 34
-        },
-        {
-          "move": "Wring Out",
-          "level": 37
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 40
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 43
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Glare",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Scent",
-          "egg_move": true
-        },
-        {
-          "move": "Twister",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -302,12 +169,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -530,8 +392,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

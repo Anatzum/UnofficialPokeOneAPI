@@ -1,11 +1,10 @@
 {
-"name" : "Maractus",
+  "name": "Maractus",
   "national_id": 556,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Water Absorb"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "61.7 lbs.",
   "weight_eu": "28.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 86,
@@ -46,155 +39,10 @@
     "sp_def": 67,
     "speed": 60
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "After You",
-          "level": 1
-        },
-        {
-          "move": "Cotton Guard",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Spiky Shield",
-          "level": 1
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 3
-        },
-        {
-          "move": "Growth",
-          "level": 6
-        },
-        {
-          "move": "Pin Missile",
-          "level": 10
-        },
-        {
-          "move": "Mega Drain",
-          "level": 13
-        },
-        {
-          "move": "Synthesis",
-          "level": 15
-        },
-        {
-          "move": "Cotton Spore",
-          "level": 18
-        },
-        {
-          "move": "Needle Arm",
-          "level": 22
-        },
-        {
-          "move": "Giga Drain",
-          "level": 26
-        },
-        {
-          "move": "Acupressure",
-          "level": 29
-        },
-        {
-          "move": "Ingrain",
-          "level": 33
-        },
-        {
-          "move": "Petal Dance",
-          "level": 38
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 42
-        },
-        {
-          "move": "Sunny Day",
-          "level": 45
-        },
-        {
-          "move": "Petal Blizzard",
-          "level": 48
-        },
-        {
-          "move": "Solar Beam",
-          "level": 50
-        },
-        {
-          "move": "Cotton Guard",
-          "level": 55
-        },
-        {
-          "move": "After You",
-          "level": 57
-        },
-        {
-          "move": "Bounce",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Wood Hammer",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -289,12 +137,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -513,8 +356,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

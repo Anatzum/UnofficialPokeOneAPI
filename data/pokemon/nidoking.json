@@ -1,12 +1,11 @@
 {
-"name" : "Nidoking",
+  "name": "Nidoking",
   "national_id": 34,
   "types": [
     "Poison",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Poison Point"
     },
     {
@@ -18,20 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Monster",
     "Field"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "136.7 lbs.",
   "weight_eu": "62.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -40,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 81,
     "atk": 92,
@@ -51,122 +45,9 @@
     "speed": 85
   },
   "evolution_from": "Nidorino",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Double Kick",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Megahorn",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Chip Away",
-          "level": 23
-        },
-        {
-          "move": "Thrash",
-          "level": 35
-        },
-        {
-          "move": "Earth Power",
-          "level": 43
-        },
-        {
-          "move": "Megahorn",
-          "level": 58
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Confusion",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Venom Drench",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -393,12 +274,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Double Kick",
           "level": 1
         },
@@ -693,8 +569,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Double Kick",
           "level": 1
         },

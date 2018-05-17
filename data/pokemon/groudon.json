@@ -1,11 +1,10 @@
 {
-"name" : "Groudon",
+  "name": "Groudon",
   "national_id": 383,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Drought"
     },
     {
@@ -13,17 +12,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "11'06\"",
   "height_eu": "3.5 m",
   "weight_us": "2094.4 lbs.",
-  "weight_eu": "950.0 kg",
-  
-  
+  "weight_eu": "950 kg",
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -32,8 +27,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 150,
@@ -42,87 +35,10 @@
     "sp_def": 90,
     "speed": 90
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ancient Power",
-          "level": 1
-        },
-        {
-          "move": "Mud Shot",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 5
-        },
-        {
-          "move": "Earth Power",
-          "level": 15
-        },
-        {
-          "move": "Lava Plume",
-          "level": 20
-        },
-        {
-          "move": "Rest",
-          "level": 30
-        },
-        {
-          "move": "Earthquake",
-          "level": 35
-        },
-        {
-          "move": "Precipice Blades",
-          "level": 45
-        },
-        {
-          "move": "Bulk Up",
-          "level": 50
-        },
-        {
-          "move": "Solar Beam",
-          "level": 60
-        },
-        {
-          "move": "Fissure",
-          "level": 65
-        },
-        {
-          "move": "Fire Blast",
-          "level": 75
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 80
-        },
-        {
-          "move": "Eruption",
-          "level": 90
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -329,12 +245,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ancient Power",
           "level": 1
         },
@@ -573,8 +484,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ancient Power",
           "level": 1
         },

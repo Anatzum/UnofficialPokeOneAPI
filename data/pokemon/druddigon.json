@@ -1,11 +1,10 @@
 {
-"name" : "Druddigon",
+  "name": "Druddigon",
   "national_id": 621,
   "types": [
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rough Skin"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Dragon",
     "Monster"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "306.4 lbs.",
   "weight_eu": "139.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 77,
     "atk": 120,
@@ -47,139 +40,10 @@
     "sp_def": 90,
     "speed": 48
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Hone Claws",
-          "level": 5
-        },
-        {
-          "move": "Bite",
-          "level": 9
-        },
-        {
-          "move": "Scary Face",
-          "level": 13
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 18
-        },
-        {
-          "move": "Slash",
-          "level": 21
-        },
-        {
-          "move": "Crunch",
-          "level": 25
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 27
-        },
-        {
-          "move": "Chip Away",
-          "level": 31
-        },
-        {
-          "move": "Revenge",
-          "level": 35
-        },
-        {
-          "move": "Night Slash",
-          "level": 40
-        },
-        {
-          "move": "Dragon Tail",
-          "level": 45
-        },
-        {
-          "move": "Rock Climb",
-          "level": 49
-        },
-        {
-          "move": "Superpower",
-          "level": 55
-        },
-        {
-          "move": "Outrage",
-          "level": 62
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Glare",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -378,12 +242,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -658,8 +517,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

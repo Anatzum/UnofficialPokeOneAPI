@@ -1,12 +1,11 @@
 {
-"name" : "Vespiquen",
+  "name": "Vespiquen",
   "national_id": 416,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,19 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "84.9 lbs.",
   "weight_eu": "38.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 80,
@@ -47,110 +41,9 @@
     "speed": 40
   },
   "evolution_from": "Combee",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confuse Ray",
-          "level": 1
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 1
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 1
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 5
-        },
-        {
-          "move": "Pursuit",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 13
-        },
-        {
-          "move": "Defend Order",
-          "level": 17
-        },
-        {
-          "move": "Slash",
-          "level": 21
-        },
-        {
-          "move": "Power Gem",
-          "level": 25
-        },
-        {
-          "move": "Heal Order",
-          "level": 29
-        },
-        {
-          "move": "Toxic",
-          "level": 33
-        },
-        {
-          "move": "Air Slash",
-          "level": 37
-        },
-        {
-          "move": "Captivate",
-          "level": 41
-        },
-        {
-          "move": "Attack Order",
-          "level": 45
-        },
-        {
-          "move": "Swagger",
-          "level": 49
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 53
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 57
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -289,12 +182,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },
@@ -497,8 +385,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Gible",
+  "name": "Gible",
   "national_id": 443,
   "types": [
     "Dragon",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Veil"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "45.2 lbs.",
   "weight_eu": "20.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 58,
     "atk": 70,
@@ -48,127 +41,13 @@
     "sp_def": 45,
     "speed": 42
   },
-  "evolutions": [
-    {
-      "to": "Gabite",
-      "level": 24
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Gabite",
+    "level": 24
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 3
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 7
-        },
-        {
-          "move": "Sandstorm",
-          "level": 13
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Sand Tomb",
-          "level": 19
-        },
-        {
-          "move": "Slash",
-          "level": 25
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 27
-        },
-        {
-          "move": "Dig",
-          "level": 31
-        },
-        {
-          "move": "Dragon Rush",
-          "level": 37
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Breath",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Outrage",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Twister",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -311,12 +190,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -527,8 +401,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

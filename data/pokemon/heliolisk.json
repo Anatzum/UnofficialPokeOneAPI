@@ -1,12 +1,11 @@
 {
-"name" : "Heliolisk",
+  "name": "Heliolisk",
   "national_id": 695,
   "types": [
     "Electric",
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Dry Skin"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "46.3 lbs.",
   "weight_eu": "21.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 62,
     "atk": 55,
@@ -49,74 +42,9 @@
     "speed": 109
   },
   "evolution_from": "Helioptile",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charge",
-          "level": 1
-        },
-        {
-          "move": "Eerie Impulse",
-          "level": 1
-        },
-        {
-          "move": "Electrify",
-          "level": 1
-        },
-        {
-          "move": "Parabolic Charge",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Razor Wind",
-          "level": 1
-        },
-        {
-          "move": "Thunder",
-          "level": 1
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Electric Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Glare",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -279,12 +207,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charge",
           "level": 1
         },
@@ -483,8 +406,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charge",
           "level": 1
         },

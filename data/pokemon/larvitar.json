@@ -1,12 +1,11 @@
 {
-"name" : "Larvitar",
+  "name": "Larvitar",
   "national_id": 246,
   "types": [
     "Rock",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Guts"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "158.7 lbs.",
   "weight_eu": "72.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 64,
@@ -47,139 +40,13 @@
     "sp_def": 50,
     "speed": 41
   },
-  "evolutions": [
-    {
-      "to": "Pupitar",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Pupitar",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Sandstorm",
-          "level": 5
-        },
-        {
-          "move": "Screech",
-          "level": 10
-        },
-        {
-          "move": "Chip Away",
-          "level": 14
-        },
-        {
-          "move": "Rock Slide",
-          "level": 19
-        },
-        {
-          "move": "Scary Face",
-          "level": 23
-        },
-        {
-          "move": "Thrash",
-          "level": 28
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 32
-        },
-        {
-          "move": "Payback",
-          "level": 37
-        },
-        {
-          "move": "Crunch",
-          "level": 41
-        },
-        {
-          "move": "Earthquake",
-          "level": 46
-        },
-        {
-          "move": "Stone Edge",
-          "level": 50
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 55
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Outrage",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -326,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -566,8 +428,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

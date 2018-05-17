@@ -1,11 +1,10 @@
 {
-"name" : "Cubone",
+  "name": "Cubone",
   "national_id": 104,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rock Head"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "14.3 lbs.",
   "weight_eu": "6.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 50,
@@ -49,135 +42,13 @@
     "sp_def": 50,
     "speed": 35
   },
-  "evolutions": [
-    {
-      "to": "Marowak",
-      "level": 28
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Marowak",
+    "level": 28
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 3
-        },
-        {
-          "move": "Bone Club",
-          "level": 7
-        },
-        {
-          "move": "Headbutt",
-          "level": 11
-        },
-        {
-          "move": "Leer",
-          "level": 13
-        },
-        {
-          "move": "Focus Energy",
-          "level": 17
-        },
-        {
-          "move": "Bonemerang",
-          "level": 21
-        },
-        {
-          "move": "Rage",
-          "level": 23
-        },
-        {
-          "move": "False Swipe",
-          "level": 27
-        },
-        {
-          "move": "Thrash",
-          "level": 31
-        },
-        {
-          "move": "Fling",
-          "level": 33
-        },
-        {
-          "move": "Bone Rush",
-          "level": 37
-        },
-        {
-          "move": "Endeavor",
-          "level": 41
-        },
-        {
-          "move": "Double-Edge",
-          "level": 43
-        },
-        {
-          "move": "Retaliate",
-          "level": 47
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -336,12 +207,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -584,8 +450,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

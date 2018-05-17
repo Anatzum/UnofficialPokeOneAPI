@@ -1,12 +1,11 @@
 {
-"name" : "Weavile",
+  "name": "Weavile",
   "national_id": 461,
   "types": [
     "Dark",
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "75.0 lbs.",
   "weight_eu": "34.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 120,
@@ -48,170 +41,9 @@
     "speed": 125
   },
   "evolution_from": "Sneasel",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Assurance",
-          "level": 1
-        },
-        {
-          "move": "Embargo",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Revenge",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Taunt",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 8
-        },
-        {
-          "move": "Feint Attack",
-          "level": 10
-        },
-        {
-          "move": "Icy Wind",
-          "level": 14
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 16
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 20
-        },
-        {
-          "move": "Metal Claw",
-          "level": 22
-        },
-        {
-          "move": "Hone Claws",
-          "level": 25
-        },
-        {
-          "move": "Fling",
-          "level": 28
-        },
-        {
-          "move": "Screech",
-          "level": 32
-        },
-        {
-          "move": "Night Slash",
-          "level": 35
-        },
-        {
-          "move": "Snatch",
-          "level": 40
-        },
-        {
-          "move": "Punishment",
-          "level": 44
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 47
-        },
-        {
-          "move": "Assist",
-          "egg_move": true
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Double Hit",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Shard",
-          "egg_move": true
-        },
-        {
-          "move": "Icicle Crash",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -422,12 +254,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Assurance",
           "level": 1
         },
@@ -754,8 +581,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Assurance",
           "level": 1
         },

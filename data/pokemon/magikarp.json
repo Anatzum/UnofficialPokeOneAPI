@@ -1,11 +1,10 @@
 {
-"name" : "Magikarp",
+  "name": "Magikarp",
   "national_id": 129,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2",
     "Dragon"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "22.0 lbs.",
   "weight_eu": "10.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 20,
     "atk": 10,
@@ -47,35 +40,13 @@
     "sp_def": 20,
     "speed": 80
   },
-  "evolutions": [
-    {
-      "to": "Gyarados",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Gyarados",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Splash",
           "level": 1
         },
@@ -90,12 +61,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Splash",
           "level": 1
         },
@@ -114,8 +80,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Splash",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Machop",
+  "name": "Machop",
   "national_id": 66,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Guts"
     },
     {
@@ -20,17 +19,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "43.0 lbs.",
   "weight_eu": "19.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 80,
@@ -49,163 +42,13 @@
     "sp_def": 35,
     "speed": 35
   },
-  "evolutions": [
-    {
-      "to": "Machoke",
-      "level": 28
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Machoke",
+    "level": 28
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Low Kick",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 3
-        },
-        {
-          "move": "Karate Chop",
-          "level": 7
-        },
-        {
-          "move": "Foresight",
-          "level": 9
-        },
-        {
-          "move": "Low Sweep",
-          "level": 13
-        },
-        {
-          "move": "Seismic Toss",
-          "level": 15
-        },
-        {
-          "move": "Revenge",
-          "level": 19
-        },
-        {
-          "move": "Knock Off",
-          "level": 21
-        },
-        {
-          "move": "Vital Throw",
-          "level": 25
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 27
-        },
-        {
-          "move": "Dual Chop",
-          "level": 31
-        },
-        {
-          "move": "Submission",
-          "level": 33
-        },
-        {
-          "move": "Bulk Up",
-          "level": 37
-        },
-        {
-          "move": "Cross Chop",
-          "level": 39
-        },
-        {
-          "move": "Scary Face",
-          "level": 43
-        },
-        {
-          "move": "Dynamic Punch",
-          "level": 45
-        },
-        {
-          "move": "Bullet Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Close Combat",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Heavy Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Meditate",
-          "egg_move": true
-        },
-        {
-          "move": "Power Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Rolling Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -364,12 +207,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -636,8 +474,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

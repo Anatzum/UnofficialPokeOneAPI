@@ -1,12 +1,11 @@
 {
-"name" : "Ralts",
+  "name": "Ralts",
   "national_id": 280,
   "types": [
     "Psychic",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Synchronize"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "14.6 lbs.",
   "weight_eu": "6.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 28,
     "atk": 25,
@@ -50,151 +43,13 @@
     "sp_def": 35,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Kirlia",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Kirlia",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 4
-        },
-        {
-          "move": "Double Team",
-          "level": 6
-        },
-        {
-          "move": "Teleport",
-          "level": 9
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 11
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 14
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 17
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 19
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 22
-        },
-        {
-          "move": "Calm Mind",
-          "level": 24
-        },
-        {
-          "move": "Psychic",
-          "level": 27
-        },
-        {
-          "move": "Imprison",
-          "level": 29
-        },
-        {
-          "move": "Future Sight",
-          "level": 32
-        },
-        {
-          "move": "Charm",
-          "level": 34
-        },
-        {
-          "move": "Hypnosis",
-          "level": 37
-        },
-        {
-          "move": "Dream Eater",
-          "level": 39
-        },
-        {
-          "move": "Stored Power",
-          "level": 42
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Grudge",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Misty Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Shadow Sneak",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Synchronoise",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -353,12 +208,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -629,8 +479,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

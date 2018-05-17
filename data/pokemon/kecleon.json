@@ -1,11 +1,10 @@
 {
-"name" : "Kecleon",
+  "name": "Kecleon",
   "national_id": 352,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Color Change"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "48.5 lbs.",
   "weight_eu": "22.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 90,
@@ -46,151 +39,10 @@
     "sp_def": 120,
     "speed": 40
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Thief",
-          "level": 1
-        },
-        {
-          "move": "Bind",
-          "level": 4
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 7
-        },
-        {
-          "move": "Feint",
-          "level": 10
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 13
-        },
-        {
-          "move": "Feint Attack",
-          "level": 16
-        },
-        {
-          "move": "Psybeam",
-          "level": 18
-        },
-        {
-          "move": "Ancient Power",
-          "level": 21
-        },
-        {
-          "move": "Slash",
-          "level": 25
-        },
-        {
-          "move": "Camouflage",
-          "level": 30
-        },
-        {
-          "move": "Shadow Claw",
-          "level": 33
-        },
-        {
-          "move": "Screech",
-          "level": 38
-        },
-        {
-          "move": "Substitute",
-          "level": 42
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 46
-        },
-        {
-          "move": "Synchronoise",
-          "level": 50
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Dizzy Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Magic Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Trick",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -377,12 +229,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -657,8 +504,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

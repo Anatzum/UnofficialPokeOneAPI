@@ -1,30 +1,24 @@
 {
-"name" : "Gastly",
+  "name": "Gastly",
   "national_id": 92,
   "types": [
     "Ghost",
     "Poison"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "4'03\"",
   "height_eu": "1.3 m",
   "weight_us": "0.2 lbs.",
   "weight_eu": "0.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -33,8 +27,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 30,
     "atk": 35,
@@ -43,147 +35,13 @@
     "sp_def": 35,
     "speed": 80
   },
-  "evolutions": [
-    {
-      "to": "Haunter",
-      "level": 25
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Haunter",
+    "level": 25
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Hypnosis",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 1
-        },
-        {
-          "move": "Spite",
-          "level": 5
-        },
-        {
-          "move": "Mean Look",
-          "level": 8
-        },
-        {
-          "move": "Curse",
-          "level": 12
-        },
-        {
-          "move": "Night Shade",
-          "level": 15
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 19
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 22
-        },
-        {
-          "move": "Payback",
-          "level": 26
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 29
-        },
-        {
-          "move": "Dream Eater",
-          "level": 33
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 36
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 40
-        },
-        {
-          "move": "Hex",
-          "level": 43
-        },
-        {
-          "move": "Nightmare",
-          "level": 47
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Grudge",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Psywave",
-          "egg_move": true
-        },
-        {
-          "move": "Reflect Type",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -330,12 +188,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hypnosis",
           "level": 1
         },
@@ -594,8 +447,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hypnosis",
           "level": 1
         },

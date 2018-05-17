@@ -1,12 +1,11 @@
 {
-"name" : "Staraptor",
+  "name": "Staraptor",
   "national_id": 398,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "54.9 lbs.",
   "weight_eu": "24.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 120,
@@ -48,142 +41,9 @@
     "speed": 100
   },
   "evolution_from": "Staravia",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Wing Attack",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 5
-        },
-        {
-          "move": "Wing Attack",
-          "level": 9
-        },
-        {
-          "move": "Double Team",
-          "level": 13
-        },
-        {
-          "move": "Endeavor",
-          "level": 18
-        },
-        {
-          "move": "Whirlwind",
-          "level": 23
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 28
-        },
-        {
-          "move": "Take Down",
-          "level": 33
-        },
-        {
-          "move": "Close Combat",
-          "level": 34
-        },
-        {
-          "move": "Agility",
-          "level": 41
-        },
-        {
-          "move": "Brave Bird",
-          "level": 49
-        },
-        {
-          "move": "Final Gambit",
-          "level": 57
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -294,12 +154,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Close Combat",
           "level": 1
         },
@@ -522,8 +377,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Close Combat",
           "level": 1
         },

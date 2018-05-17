@@ -1,29 +1,23 @@
 {
-"name" : "Koffing",
+  "name": "Koffing",
   "national_id": 109,
   "types": [
     "Poison"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "2.2 lbs.",
   "weight_eu": "1.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 65,
@@ -42,143 +34,13 @@
     "sp_def": 45,
     "speed": 35
   },
-  "evolutions": [
-    {
-      "to": "Weezing",
-      "level": 35
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Weezing",
+    "level": 35
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Poison Gas",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Smog",
-          "level": 4
-        },
-        {
-          "move": "Smokescreen",
-          "level": 7
-        },
-        {
-          "move": "Assurance",
-          "level": 12
-        },
-        {
-          "move": "Clear Smog",
-          "level": 15
-        },
-        {
-          "move": "Sludge",
-          "level": 18
-        },
-        {
-          "move": "Self-Destruct",
-          "level": 23
-        },
-        {
-          "move": "Haze",
-          "level": 26
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 29
-        },
-        {
-          "move": "Sludge Bomb",
-          "level": 34
-        },
-        {
-          "move": "Explosion",
-          "level": 37
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 40
-        },
-        {
-          "move": "Belch",
-          "level": 42
-        },
-        {
-          "move": "Memento",
-          "level": 45
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Grudge",
-          "egg_move": true
-        },
-        {
-          "move": "Pain Split",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Psywave",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -321,12 +183,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Poison Gas",
           "level": 1
         },
@@ -569,8 +426,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Poison Gas",
           "level": 1
         },

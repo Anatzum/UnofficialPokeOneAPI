@@ -1,12 +1,11 @@
 {
-"name" : "Moltres",
+  "name": "Moltres",
   "national_id": 146,
   "types": [
     "Fire",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "132.3 lbs.",
   "weight_eu": "60.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,8 +29,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 100,
@@ -44,107 +37,10 @@
     "sp_def": 85,
     "speed": 90
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Heat Wave",
-          "level": 1
-        },
-        {
-          "move": "Hurricane",
-          "level": 1
-        },
-        {
-          "move": "Roost",
-          "level": 1
-        },
-        {
-          "move": "Sky Attack",
-          "level": 1
-        },
-        {
-          "move": "Wing Attack",
-          "level": 1
-        },
-        {
-          "move": "Fire Spin",
-          "level": 8
-        },
-        {
-          "move": "Agility",
-          "level": 15
-        },
-        {
-          "move": "Endure",
-          "level": 22
-        },
-        {
-          "move": "Ancient Power",
-          "level": 29
-        },
-        {
-          "move": "Flamethrower",
-          "level": 36
-        },
-        {
-          "move": "Safeguard",
-          "level": 43
-        },
-        {
-          "move": "Air Slash",
-          "level": 50
-        },
-        {
-          "move": "Sunny Day",
-          "level": 57
-        },
-        {
-          "move": "Heat Wave",
-          "level": 64
-        },
-        {
-          "move": "Solar Beam",
-          "level": 71
-        },
-        {
-          "move": "Sky Attack",
-          "level": 78
-        },
-        {
-          "move": "Roost",
-          "level": 85
-        },
-        {
-          "move": "Hurricane",
-          "level": 92
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -287,12 +183,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -491,8 +382,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

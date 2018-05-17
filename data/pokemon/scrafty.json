@@ -1,12 +1,11 @@
 {
-"name" : "Scrafty",
+  "name": "Scrafty",
   "national_id": 560,
   "types": [
     "Dark",
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shed Skin"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Dragon"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "66.1 lbs.",
   "weight_eu": "30.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 90,
@@ -49,150 +42,9 @@
     "speed": 58
   },
   "evolution_from": "Scraggy",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Feint Attack",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Low Kick",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 5
-        },
-        {
-          "move": "Feint Attack",
-          "level": 9
-        },
-        {
-          "move": "Headbutt",
-          "level": 12
-        },
-        {
-          "move": "Swagger",
-          "level": 16
-        },
-        {
-          "move": "Brick Break",
-          "level": 20
-        },
-        {
-          "move": "Payback",
-          "level": 23
-        },
-        {
-          "move": "Chip Away",
-          "level": 27
-        },
-        {
-          "move": "High Jump Kick",
-          "level": 31
-        },
-        {
-          "move": "Scary Face",
-          "level": 34
-        },
-        {
-          "move": "Crunch",
-          "level": 38
-        },
-        {
-          "move": "Facade",
-          "level": 45
-        },
-        {
-          "move": "Rock Climb",
-          "level": 51
-        },
-        {
-          "move": "Focus Punch",
-          "level": 58
-        },
-        {
-          "move": "Head Smash",
-          "level": 65
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Drain Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -379,12 +231,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Feint Attack",
           "level": 1
         },
@@ -671,8 +518,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Feint Attack",
           "level": 1
         },

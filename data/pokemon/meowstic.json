@@ -1,11 +1,10 @@
 {
-"name" : "Meowstic",
+  "name": "Meowstic",
   "national_id": 678,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -16,20 +15,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "18.7 lbs.",
   "weight_eu": "8.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 74,
     "atk": 48,
@@ -49,362 +42,9 @@
     "speed": 104
   },
   "evolution_from": "Espurr",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-    {
-      "condition": "female",
-      "image_suffix": "female",
-      "name": {
-        
-      },
-      "types": [
-        "Psychic"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Helping Hand",
-          "level": 1,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Mean Look",
-          "level": 1,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Quick Guard",
-          "level": 1,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Scratch",
-          "level": 1,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Covet",
-          "level": 5,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Confusion",
-          "level": 9,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Light Screen",
-          "level": 13,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Psybeam",
-          "level": 17,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Fake Out",
-          "level": 19,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 22,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Psyshock",
-          "level": 25,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Charm",
-          "level": 28,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Miracle Eye",
-          "level": 31,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Reflect",
-          "level": 35,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 40,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Role Play",
-          "level": 43,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Imprison",
-          "level": 45,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 48,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Misty Terrain",
-          "level": 50,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Quick Guard",
-          "level": 53,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Leer",
-          "level": 1,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 1,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Me First",
-          "level": 1,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Scratch",
-          "level": 1,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Stored Power",
-          "level": 1,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Covet",
-          "level": 5,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Confusion",
-          "level": 9,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Light Screen",
-          "level": 13,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Psybeam",
-          "level": 17,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Fake Out",
-          "level": 19,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 22,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Psyshock",
-          "level": 25,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Charge Beam",
-          "level": 28,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 31,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Extrasensory",
-          "level": 35,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 40,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Role Play",
-          "level": 43,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Signal Beam",
-          "level": 45,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 48,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Future Sight",
-          "level": 50,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Stored Power",
-          "level": 53,
-          "variations": [
-            "Female"
-          ]
-        },
-        {
-          "move": "Assist",
-          "egg_move": true,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Trick",
-          "egg_move": true,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true,
-          "variations": [
-            "Male"
-          ]
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -571,12 +211,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1,
           "variations": [
@@ -1069,8 +704,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1,
           "variations": [

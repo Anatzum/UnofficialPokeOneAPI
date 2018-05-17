@@ -1,12 +1,11 @@
 {
-"name" : "Slowbro",
+  "name": "Slowbro",
   "national_id": 80,
   "types": [
     "Water",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Water 1"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "173.1 lbs.",
   "weight_eu": "78.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 75,
@@ -52,170 +45,9 @@
     "speed": 30
   },
   "evolution_from": "Slowpoke",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Water",
-        "Psychic"
-      ],
-      "ability": "Shell Armor",
-      "mega_stone": "Slowbronite",
-      "height_us": "6'07\"",
-      "height_eu": "2.0 m",
-      "weight_us": "264.6 lbs.",
-      "weight_eu": "120.0 kg",
-      "base_stats": {
-        "hp": 95,
-        "atk": 75,
-        "def": 180,
-        "sp_atk": 130,
-        "sp_def": 80,
-        "speed": 30
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Curse",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 5
-        },
-        {
-          "move": "Water Gun",
-          "level": 9
-        },
-        {
-          "move": "Confusion",
-          "level": 14
-        },
-        {
-          "move": "Disable",
-          "level": 19
-        },
-        {
-          "move": "Headbutt",
-          "level": 23
-        },
-        {
-          "move": "Water Pulse",
-          "level": 28
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 32
-        },
-        {
-          "move": "Slack Off",
-          "level": 36
-        },
-        {
-          "move": "Withdraw",
-          "level": 37
-        },
-        {
-          "move": "Amnesia",
-          "level": 43
-        },
-        {
-          "move": "Psychic",
-          "level": 49
-        },
-        {
-          "move": "Rain Dance",
-          "level": 55
-        },
-        {
-          "move": "Psych Up",
-          "level": 62
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 68
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Wonder Room",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -418,12 +250,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Curse",
           "level": 1
         },
@@ -722,8 +549,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Curse",
           "level": 1
         },

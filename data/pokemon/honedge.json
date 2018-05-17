@@ -1,30 +1,24 @@
 {
-"name" : "Honedge",
+  "name": "Honedge",
   "national_id": 679,
   "types": [
     "Steel",
     "Ghost"
   ],
-  "abilities": [
-    {
-      "name": "No Guard"
-    }
-  ],
+  "abilities": [{
+    "name": "No Guard"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "4.4 lbs.",
   "weight_eu": "2.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -33,8 +27,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 80,
@@ -43,111 +35,13 @@
     "sp_def": 37,
     "speed": 28
   },
-  "evolutions": [
-    {
-      "to": "Doublade",
-      "level": 35
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Doublade",
+    "level": 35
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Swords Dance",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 5
-        },
-        {
-          "move": "Metal Sound",
-          "level": 8
-        },
-        {
-          "move": "Pursuit",
-          "level": 13
-        },
-        {
-          "move": "Autotomize",
-          "level": 18
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 20
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 22
-        },
-        {
-          "move": "Retaliate",
-          "level": 26
-        },
-        {
-          "move": "Slash",
-          "level": 29
-        },
-        {
-          "move": "Iron Defense",
-          "level": 32
-        },
-        {
-          "move": "Night Slash",
-          "level": 35
-        },
-        {
-          "move": "Power Trick",
-          "level": 39
-        },
-        {
-          "move": "Iron Head",
-          "level": 42
-        },
-        {
-          "move": "Sacred Sword",
-          "level": 47
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Sound",
-          "egg_move": true
-        },
-        {
-          "move": "Shadow Sneak",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -258,12 +152,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Swords Dance",
           "level": 1
         },
@@ -442,8 +331,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Swords Dance",
           "level": 1
         },

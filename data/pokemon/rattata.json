@@ -1,11 +1,10 @@
 {
-"name" : "Rattata",
+  "name": "Rattata",
   "national_id": 19,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Run Away"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "7.7 lbs.",
   "weight_eu": "3.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 30,
     "atk": 56,
@@ -49,155 +42,13 @@
     "sp_def": 35,
     "speed": 72
   },
-  "evolutions": [
-    {
-      "to": "Raticate",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Raticate",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Rattata",
-        "de": "Alola-Rattfratz"
-      },
-      "types": [
-        "Dark",
-        "Normal"
-      ],
-      "abilities": [
-        {
-          "name": "Gluttony"
-        },
-        {
-          "name": "Hustle"
-        },
-        {
-          "name": "Thick Fat",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 4
-        },
-        {
-          "move": "Focus Energy",
-          "level": 7
-        },
-        {
-          "move": "Bite",
-          "level": 10
-        },
-        {
-          "move": "Pursuit",
-          "level": 13
-        },
-        {
-          "move": "Hyper Fang",
-          "level": 16
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 19
-        },
-        {
-          "move": "Crunch",
-          "level": 22
-        },
-        {
-          "move": "Assurance",
-          "level": 25
-        },
-        {
-          "move": "Super Fang",
-          "level": 28
-        },
-        {
-          "move": "Double-Edge",
-          "level": 31
-        },
-        {
-          "move": "Endeavor",
-          "level": 34
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Final Gambit",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Wheel",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Swipes",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -332,12 +183,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -963,8 +809,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Starmie",
+  "name": "Starmie",
   "national_id": 121,
   "types": [
     "Water",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Illuminate"
     },
     {
@@ -18,17 +17,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Water 3"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "176.4 lbs.",
   "weight_eu": "80.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 75,
@@ -48,54 +41,9 @@
     "speed": 115
   },
   "evolution_from": "Staryu",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Hydro Pump",
-          "level": 1
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 1
-        },
-        {
-          "move": "Recover",
-          "level": 1
-        },
-        {
-          "move": "Swift",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 40
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -254,12 +202,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hydro Pump",
           "level": 1
         },
@@ -438,8 +381,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hydro Pump",
           "level": 1
         },

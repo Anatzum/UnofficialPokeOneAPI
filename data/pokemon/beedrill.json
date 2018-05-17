@@ -1,12 +1,11 @@
 {
-"name" : "Beedrill",
+  "name": "Beedrill",
   "national_id": 15,
   "types": [
     "Bug",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "65.0 lbs.",
   "weight_eu": "29.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 80,
@@ -48,102 +41,9 @@
     "speed": 75
   },
   "evolution_from": "Kakuna",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Bug",
-        "Poison"
-      ],
-      "ability": "Adaptability",
-      "mega_stone": "Beedrillite",
-      "height_us": "4'07\"",
-      "height_eu": "1.4 m",
-      "weight_us": "89.3 lbs.",
-      "weight_eu": "40.5 kg",
-      "base_stats": {
-        "hp": 65,
-        "atk": 150,
-        "def": 40,
-        "sp_atk": 15,
-        "sp_def": 80,
-        "speed": 145
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Fury Attack",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 10
-        },
-        {
-          "move": "Focus Energy",
-          "level": 13
-        },
-        {
-          "move": "Twineedle",
-          "level": 16
-        },
-        {
-          "move": "Rage",
-          "level": 19
-        },
-        {
-          "move": "Pursuit",
-          "level": 22
-        },
-        {
-          "move": "Toxic Spikes",
-          "level": 25
-        },
-        {
-          "move": "Pin Missile",
-          "level": 28
-        },
-        {
-          "move": "Agility",
-          "level": 31
-        },
-        {
-          "move": "Assurance",
-          "level": 34
-        },
-        {
-          "move": "Poison Jab",
-          "level": 37
-        },
-        {
-          "move": "Endeavor",
-          "level": 40
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 45
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -294,12 +194,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fury Attack",
           "level": 1
         },
@@ -494,8 +389,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fury Attack",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Nosepass",
+  "name": "Nosepass",
   "national_id": 299,
   "types": [
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "213.8 lbs.",
   "weight_eu": "97.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 30,
     "atk": 45,
@@ -49,130 +42,16 @@
     "sp_def": 90,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Probopass",
-      "level_up": true,
-      "conditions": [
-        "in a Magnetic Field area"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Probopass",
+    "level_up": true,
+    "conditions": [
+      "in a Magnetic Field area"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 4
-        },
-        {
-          "move": "Block",
-          "level": 7
-        },
-        {
-          "move": "Rock Throw",
-          "level": 10
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 13
-        },
-        {
-          "move": "Rest",
-          "level": 16
-        },
-        {
-          "move": "Spark",
-          "level": 19
-        },
-        {
-          "move": "Rock Slide",
-          "level": 22
-        },
-        {
-          "move": "Power Gem",
-          "level": 25
-        },
-        {
-          "move": "Rock Blast",
-          "level": 28
-        },
-        {
-          "move": "Discharge",
-          "level": 31
-        },
-        {
-          "move": "Sandstorm",
-          "level": 34
-        },
-        {
-          "move": "Earth Power",
-          "level": 37
-        },
-        {
-          "move": "Stone Edge",
-          "level": 40
-        },
-        {
-          "move": "Lock-On",
-          "level": 43
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 43
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Magnitude",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -311,12 +190,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -539,8 +413,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

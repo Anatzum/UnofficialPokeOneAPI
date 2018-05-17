@@ -1,11 +1,10 @@
 {
-"name" : "Haxorus",
+  "name": "Haxorus",
   "national_id": 612,
   "types": [
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rivalry"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "232.6 lbs.",
   "weight_eu": "105.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 76,
     "atk": 147,
@@ -48,150 +41,9 @@
     "speed": 97
   },
   "evolution_from": "Fraxure",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Assurance",
-          "level": 1
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Outrage",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Assurance",
-          "level": 7
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 10
-        },
-        {
-          "move": "Dual Chop",
-          "level": 13
-        },
-        {
-          "move": "Scary Face",
-          "level": 16
-        },
-        {
-          "move": "Slash",
-          "level": 20
-        },
-        {
-          "move": "False Swipe",
-          "level": 24
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 28
-        },
-        {
-          "move": "Dragon Dance",
-          "level": 32
-        },
-        {
-          "move": "Taunt",
-          "level": 36
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 42
-        },
-        {
-          "move": "Swords Dance",
-          "level": 50
-        },
-        {
-          "move": "Guillotine",
-          "level": 58
-        },
-        {
-          "move": "Outrage",
-          "level": 66
-        },
-        {
-          "move": "Giga Impact",
-          "level": 74
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Harden",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -374,12 +226,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Assurance",
           "level": 1
         },
@@ -662,8 +509,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Assurance",
           "level": 1
         },

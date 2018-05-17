@@ -1,12 +1,11 @@
 {
-"name" : "Whirlipede",
+  "name": "Whirlipede",
   "national_id": 544,
   "types": [
     "Bug",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Poison Point"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "129.0 lbs.",
   "weight_eu": "58.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 55,
@@ -48,130 +41,12 @@
     "speed": 47
   },
   "evolution_from": "Venipede",
-  "evolutions": [
-    {
-      "to": "Scolipede",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 1
-        },
-        {
-          "move": "Screech",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 5
-        },
-        {
-          "move": "Screech",
-          "level": 8
-        },
-        {
-          "move": "Pursuit",
-          "level": 12
-        },
-        {
-          "move": "Protect",
-          "level": 15
-        },
-        {
-          "move": "Poison Tail",
-          "level": 19
-        },
-        {
-          "move": "Iron Defense",
-          "level": 22
-        },
-        {
-          "move": "Bug Bite",
-          "level": 23
-        },
-        {
-          "move": "Venoshock",
-          "level": 28
-        },
-        {
-          "move": "Agility",
-          "level": 32
-        },
-        {
-          "move": "Steamroller",
-          "level": 37
-        },
-        {
-          "move": "Toxic",
-          "level": 41
-        },
-        {
-          "move": "Venom Drench",
-          "level": 43
-        },
-        {
-          "move": "Rock Climb",
-          "level": 46
-        },
-        {
-          "move": "Double-Edge",
-          "level": 50
-        },
-        {
-          "move": "Pin Missile",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Twineedle",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Scolipede",
+    "level": 30
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -274,12 +149,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Defense Curl",
           "level": 1
         },
@@ -470,8 +340,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Defense Curl",
           "level": 1
         },

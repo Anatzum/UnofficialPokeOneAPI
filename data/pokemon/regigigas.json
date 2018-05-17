@@ -1,26 +1,20 @@
 {
-"name" : "Regigigas",
+  "name": "Regigigas",
   "national_id": 486,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
-      "name": "Slow Start"
-    }
-  ],
+  "abilities": [{
+    "name": "Slow Start"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "12'02\"",
   "height_eu": "3.7 m",
   "weight_us": "925.9 lbs.",
   "weight_eu": "420.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 110,
     "atk": 160,
@@ -39,95 +31,10 @@
     "sp_def": 110,
     "speed": 100
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confuse Ray",
-          "level": 1
-        },
-        {
-          "move": "Crush Grip",
-          "level": 1
-        },
-        {
-          "move": "Dizzy Punch",
-          "level": 1
-        },
-        {
-          "move": "Fire Punch",
-          "level": 1
-        },
-        {
-          "move": "Foresight",
-          "level": 1
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 1
-        },
-        {
-          "move": "Ice Punch",
-          "level": 1
-        },
-        {
-          "move": "Knock Off",
-          "level": 1
-        },
-        {
-          "move": "Thunder Punch",
-          "level": 1
-        },
-        {
-          "move": "Revenge",
-          "level": 25
-        },
-        {
-          "move": "Wide Guard",
-          "level": 40
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 50
-        },
-        {
-          "move": "Payback",
-          "level": 65
-        },
-        {
-          "move": "Crush Grip",
-          "level": 75
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 90
-        },
-        {
-          "move": "Giga Impact",
-          "level": 100
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -282,12 +189,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },
@@ -490,8 +392,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },

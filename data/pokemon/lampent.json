@@ -1,12 +1,11 @@
 {
-"name" : "Lampent",
+  "name": "Lampent",
   "national_id": 608,
   "types": [
     "Ghost",
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flash Fire"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "28.7 lbs.",
   "weight_eu": "13.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 40,
@@ -48,146 +41,12 @@
     "speed": 55
   },
   "evolution_from": "Litwick",
-  "evolutions": [
-    {
-      "to": "Chandelure",
-      "item": "Dusk Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Minimize",
-          "level": 1
-        },
-        {
-          "move": "Smog",
-          "level": 1
-        },
-        {
-          "move": "Minimize",
-          "level": 3
-        },
-        {
-          "move": "Smog",
-          "level": 5
-        },
-        {
-          "move": "Fire Spin",
-          "level": 7
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 10
-        },
-        {
-          "move": "Night Shade",
-          "level": 13
-        },
-        {
-          "move": "Will-O-Wisp",
-          "level": 16
-        },
-        {
-          "move": "Flame Burst",
-          "level": 20
-        },
-        {
-          "move": "Imprison",
-          "level": 24
-        },
-        {
-          "move": "Hex",
-          "level": 28
-        },
-        {
-          "move": "Memento",
-          "level": 33
-        },
-        {
-          "move": "Inferno",
-          "level": 38
-        },
-        {
-          "move": "Curse",
-          "level": 45
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 53
-        },
-        {
-          "move": "Pain Split",
-          "level": 61
-        },
-        {
-          "move": "Overheat",
-          "level": 69
-        },
-        {
-          "move": "Acid",
-          "egg_move": true
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Power Split",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "evolutions": [{
+    "to": "Chandelure",
+    "item": "Dusk Stone"
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -334,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -590,8 +444,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Krookodile",
+  "name": "Krookodile",
   "national_id": 553,
   "types": [
     "Ground",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "212.3 lbs.",
   "weight_eu": "96.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 117,
@@ -48,154 +41,9 @@
     "speed": 92
   },
   "evolution_from": "Krokorok",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Outrage",
-          "level": 1
-        },
-        {
-          "move": "Rage",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Bite",
-          "level": 4
-        },
-        {
-          "move": "Sand Attack",
-          "level": 7
-        },
-        {
-          "move": "Torment",
-          "level": 10
-        },
-        {
-          "move": "Sand Tomb",
-          "level": 13
-        },
-        {
-          "move": "Assurance",
-          "level": 16
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 19
-        },
-        {
-          "move": "Embargo",
-          "level": 22
-        },
-        {
-          "move": "Swagger",
-          "level": 25
-        },
-        {
-          "move": "Crunch",
-          "level": 28
-        },
-        {
-          "move": "Dig",
-          "level": 32
-        },
-        {
-          "move": "Scary Face",
-          "level": 36
-        },
-        {
-          "move": "Foul Play",
-          "level": 42
-        },
-        {
-          "move": "Sandstorm",
-          "level": 48
-        },
-        {
-          "move": "Earthquake",
-          "level": 54
-        },
-        {
-          "move": "Outrage",
-          "level": 60
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -402,12 +250,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -714,8 +557,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

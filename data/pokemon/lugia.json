@@ -1,12 +1,11 @@
 {
-"name" : "Lugia",
+  "name": "Lugia",
   "national_id": 249,
   "types": [
     "Psychic",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "17'01\"",
   "height_eu": "5.2 m",
   "weight_us": "476.2 lbs.",
   "weight_eu": "216.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,8 +29,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 106,
     "atk": 90,
@@ -44,95 +37,10 @@
     "sp_def": 154,
     "speed": 110
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Weather Ball",
-          "level": 1
-        },
-        {
-          "move": "Whirlwind",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 9
-        },
-        {
-          "move": "Dragon Rush",
-          "level": 15
-        },
-        {
-          "move": "Extrasensory",
-          "level": 23
-        },
-        {
-          "move": "Rain Dance",
-          "level": 29
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 37
-        },
-        {
-          "move": "Aeroblast",
-          "level": 43
-        },
-        {
-          "move": "Punishment",
-          "level": 50
-        },
-        {
-          "move": "Ancient Power",
-          "level": 57
-        },
-        {
-          "move": "Safeguard",
-          "level": 65
-        },
-        {
-          "move": "Recover",
-          "level": 71
-        },
-        {
-          "move": "Future Sight",
-          "level": 79
-        },
-        {
-          "move": "Natural Gift",
-          "level": 85
-        },
-        {
-          "move": "Calm Mind",
-          "level": 93
-        },
-        {
-          "move": "Sky Attack",
-          "level": 99
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -339,12 +247,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Weather Ball",
           "level": 1
         },
@@ -599,8 +502,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Weather Ball",
           "level": 1
         },

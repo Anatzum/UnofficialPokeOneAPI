@@ -1,11 +1,10 @@
 {
-"name" : "Sandshrew",
+  "name": "Sandshrew",
   "national_id": 27,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Veil"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "26.5 lbs.",
   "weight_eu": "12.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 75,
@@ -46,168 +39,13 @@
     "sp_def": 30,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Sandslash",
-      "level": 22
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Sandslash",
+    "level": 22
+  }],
   "evolution_from": null,
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Sandshrew",
-        "de": "Alola-Sandan"
-      },
-      "types": [
-        "Ice",
-        "Steel"
-      ],
-      "abilities": [
-        {
-          "name": "Snow Cloak"
-        },
-        {
-          "name": "Slush Rush",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 3
-        },
-        {
-          "move": "Poison Sting",
-          "level": 5
-        },
-        {
-          "move": "Rollout",
-          "level": 7
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 9
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 11
-        },
-        {
-          "move": "Magnitude",
-          "level": 14
-        },
-        {
-          "move": "Swift",
-          "level": 17
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 20
-        },
-        {
-          "move": "Sand Tomb",
-          "level": 23
-        },
-        {
-          "move": "Slash",
-          "level": 26
-        },
-        {
-          "move": "Dig",
-          "level": 30
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 34
-        },
-        {
-          "move": "Swords Dance",
-          "level": 38
-        },
-        {
-          "move": "Sandstorm",
-          "level": 42
-        },
-        {
-          "move": "Earthquake",
-          "level": 46
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Rapid Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Rototiller",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -354,12 +192,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Defense Curl",
           "level": 1,
           "variations": [
@@ -1206,8 +1039,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Defense Curl",
           "level": 1,
           "variations": [

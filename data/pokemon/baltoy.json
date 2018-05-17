@@ -1,27 +1,21 @@
 {
-"name" : "Baltoy",
+  "name": "Baltoy",
   "national_id": 343,
   "types": [
     "Ground",
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "47.4 lbs.",
   "weight_eu": "21.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 40,
@@ -40,107 +32,13 @@
     "sp_def": 70,
     "speed": 55
   },
-  "evolutions": [
-    {
-      "to": "Claydol",
-      "level": 36
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Claydol",
+    "level": 36
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 4
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 7
-        },
-        {
-          "move": "Heal Block",
-          "level": 10
-        },
-        {
-          "move": "Rock Tomb",
-          "level": 13
-        },
-        {
-          "move": "Psybeam",
-          "level": 16
-        },
-        {
-          "move": "Ancient Power",
-          "level": 19
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 22
-        },
-        {
-          "move": "Power Trick",
-          "level": 25
-        },
-        {
-          "move": "Self-Destruct",
-          "level": 28
-        },
-        {
-          "move": "Extrasensory",
-          "level": 31
-        },
-        {
-          "move": "Guard Split",
-          "level": 34
-        },
-        {
-          "move": "Power Split",
-          "level": 34
-        },
-        {
-          "move": "Earth Power",
-          "level": 37
-        },
-        {
-          "move": "Sandstorm",
-          "level": 40
-        },
-        {
-          "move": "Imprison",
-          "level": 43
-        },
-        {
-          "move": "Explosion",
-          "level": 46
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -311,12 +209,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -551,8 +444,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

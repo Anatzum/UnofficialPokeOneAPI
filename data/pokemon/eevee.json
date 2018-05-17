@@ -1,11 +1,10 @@
 {
-"name" : "Eevee",
+  "name": "Eevee",
   "national_id": 133,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Run Away"
     },
     {
@@ -20,17 +19,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "14.3 lbs.",
   "weight_eu": "6.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 55,
@@ -49,8 +42,7 @@
     "sp_def": 65,
     "speed": 55
   },
-  "evolutions": [
-    {
+  "evolutions": [{
       "to": "Vaporeon",
       "item": "Water Stone"
     },
@@ -64,7 +56,7 @@
     },
     {
       "to": "Espeon",
-      "happiness": true, 
+      "happiness": true,
       "level_up": true,
       "conditions": [
         "during the day"
@@ -72,7 +64,7 @@
     },
     {
       "to": "Umbreon",
-      "happiness": true,  
+      "happiness": true,
       "level_up": true,
       "conditions": [
         "during the night"
@@ -101,153 +93,9 @@
       ]
     }
   ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Helping Hand",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 5
-        },
-        {
-          "move": "Baby-Doll Eyes",
-          "level": 9
-        },
-        {
-          "move": "Swift",
-          "level": 10
-        },
-        {
-          "move": "Quick Attack",
-          "level": 13
-        },
-        {
-          "move": "Bite",
-          "level": 17
-        },
-        {
-          "move": "Refresh",
-          "level": 20
-        },
-        {
-          "move": "Covet",
-          "level": 23
-        },
-        {
-          "move": "Take Down",
-          "level": 25
-        },
-        {
-          "move": "Charm",
-          "level": 29
-        },
-        {
-          "move": "Baton Pass",
-          "level": 33
-        },
-        {
-          "move": "Double-Edge",
-          "level": 37
-        },
-        {
-          "move": "Last Resort",
-          "level": 41
-        },
-        {
-          "move": "Trump Card",
-          "level": 45
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Stored Power",
-          "egg_move": true
-        },
-        {
-          "move": "Synchronoise",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -334,12 +182,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Covet",
           "level": 1
         },
@@ -546,8 +389,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Covet",
           "level": 1
         },

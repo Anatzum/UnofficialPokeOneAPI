@@ -1,11 +1,10 @@
 {
-"name" : "Vaporeon",
+  "name": "Vaporeon",
   "national_id": 134,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Water Absorb"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "63.9 lbs.",
   "weight_eu": "29.0 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 130,
     "atk": 65,
@@ -47,142 +40,9 @@
     "speed": 65
   },
   "evolution_from": "Eevee",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Helping Hand",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 5
-        },
-        {
-          "move": "Water Gun",
-          "level": 9
-        },
-        {
-          "move": "Quick Attack",
-          "level": 13
-        },
-        {
-          "move": "Water Pulse",
-          "level": 17
-        },
-        {
-          "move": "Aurora Beam",
-          "level": 20
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 25
-        },
-        {
-          "move": "Acid Armor",
-          "level": 29
-        },
-        {
-          "move": "Haze",
-          "level": 33
-        },
-        {
-          "move": "Muddy Water",
-          "level": 37
-        },
-        {
-          "move": "Last Resort",
-          "level": 41
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 45
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Stored Power",
-          "egg_move": true
-        },
-        {
-          "move": "Synchronoise",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -317,12 +177,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Helping Hand",
           "level": 1
         },
@@ -557,8 +412,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Helping Hand",
           "level": 1
         },

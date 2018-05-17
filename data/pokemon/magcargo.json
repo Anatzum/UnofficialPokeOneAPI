@@ -1,12 +1,11 @@
 {
-"name" : "Magcargo",
+  "name": "Magcargo",
   "national_id": 219,
   "types": [
     "Fire",
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Magma Armor"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "121.3 lbs.",
   "weight_eu": "55.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 50,
@@ -51,158 +44,9 @@
     "speed": 30
   },
   "evolution_from": "Slugma",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Earth Power",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Rock Throw",
-          "level": 1
-        },
-        {
-          "move": "Smog",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 6
-        },
-        {
-          "move": "Rock Throw",
-          "level": 8
-        },
-        {
-          "move": "Harden",
-          "level": 13
-        },
-        {
-          "move": "Incinerate",
-          "level": 15
-        },
-        {
-          "move": "Clear Smog",
-          "level": 20
-        },
-        {
-          "move": "Ancient Power",
-          "level": 22
-        },
-        {
-          "move": "Flame Burst",
-          "level": 27
-        },
-        {
-          "move": "Rock Slide",
-          "level": 29
-        },
-        {
-          "move": "Lava Plume",
-          "level": 34
-        },
-        {
-          "move": "Amnesia",
-          "level": 36
-        },
-        {
-          "move": "Shell Smash",
-          "level": 38
-        },
-        {
-          "move": "Body Slam",
-          "level": 43
-        },
-        {
-          "move": "Recover",
-          "level": 47
-        },
-        {
-          "move": "Flamethrower",
-          "level": 54
-        },
-        {
-          "move": "Earth Power",
-          "level": 58
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Inferno",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Smokescreen",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -369,12 +213,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Earth Power",
           "level": 1
         },
@@ -657,8 +496,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Earth Power",
           "level": 1
         },

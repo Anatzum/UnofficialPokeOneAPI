@@ -1,12 +1,11 @@
 {
-"name" : "Forretress",
+  "name": "Forretress",
   "national_id": 205,
   "types": [
     "Bug",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "277.3 lbs.",
   "weight_eu": "125.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 90,
@@ -48,166 +41,9 @@
     "speed": 40
   },
   "evolution_from": "Pineco",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bug Bite",
-          "level": 1
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 1
-        },
-        {
-          "move": "Magnet Rise",
-          "level": 1
-        },
-        {
-          "move": "Protect",
-          "level": 1
-        },
-        {
-          "move": "Self-Destruct",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Toxic Spikes",
-          "level": 1
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 1
-        },
-        {
-          "move": "Take Down",
-          "level": 12
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 17
-        },
-        {
-          "move": "Bide",
-          "level": 20
-        },
-        {
-          "move": "Natural Gift",
-          "level": 23
-        },
-        {
-          "move": "Spikes",
-          "level": 28
-        },
-        {
-          "move": "Mirror Shot",
-          "level": 31
-        },
-        {
-          "move": "Autotomize",
-          "level": 32
-        },
-        {
-          "move": "Payback",
-          "level": 36
-        },
-        {
-          "move": "Explosion",
-          "level": 42
-        },
-        {
-          "move": "Iron Defense",
-          "level": 46
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 50
-        },
-        {
-          "move": "Double-Edge",
-          "level": 56
-        },
-        {
-          "move": "Magnet Rise",
-          "level": 60
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 64
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 70
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Pin Missile",
-          "egg_move": true
-        },
-        {
-          "move": "Power Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -358,12 +194,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Autotomize",
           "level": 1
         },
@@ -642,8 +473,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Autotomize",
           "level": 1
         },

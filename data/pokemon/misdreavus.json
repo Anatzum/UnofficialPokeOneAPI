@@ -1,29 +1,23 @@
 {
-"name" : "Misdreavus",
+  "name": "Misdreavus",
   "national_id": 200,
   "types": [
     "Ghost"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "2.2 lbs.",
   "weight_eu": "1.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 60,
@@ -42,147 +34,13 @@
     "sp_def": 85,
     "speed": 85
   },
-  "evolutions": [
-    {
-      "to": "Mismagius",
-      "item": "Dusk Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Mismagius",
+    "item": "Dusk Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Psywave",
-          "level": 1
-        },
-        {
-          "move": "Spite",
-          "level": 5
-        },
-        {
-          "move": "Astonish",
-          "level": 10
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 14
-        },
-        {
-          "move": "Mean Look",
-          "level": 19
-        },
-        {
-          "move": "Hex",
-          "level": 23
-        },
-        {
-          "move": "Psybeam",
-          "level": 28
-        },
-        {
-          "move": "Pain Split",
-          "level": 32
-        },
-        {
-          "move": "Payback",
-          "level": 37
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 41
-        },
-        {
-          "move": "Perish Song",
-          "level": 46
-        },
-        {
-          "move": "Grudge",
-          "level": 50
-        },
-        {
-          "move": "Power Gem",
-          "level": 55
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Imprison",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Ominous Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Shadow Sneak",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Wonder Room",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -333,12 +191,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -597,8 +450,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

@@ -1,28 +1,19 @@
 {
-  "name" : "Cosmog",
+  "name": "Cosmog",
   "national_id": 789,
-  
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Unaware"
-    }
-  ],
- 
+  "abilities": [{
+    "name": "Unaware"
+  }],
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "0.2 lbs.",
   "weight_eu": "0.1 kg",
-  
-  
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,35 +31,16 @@
     "speed": 37
   },
   "gender_ratios": null,
-  "evolutions": [
-    {
-      "to": "Cosmoem",
-      "level": 53
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Cosmoem",
+    "level": 53
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  
-  "move_learnsets": [
+  "move_learnsets": [{
+      "tm_learnset": []
+    },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Splash",
           "level": 1
         },
@@ -83,8 +55,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Splash",
           "level": 1
         },

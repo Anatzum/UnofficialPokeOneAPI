@@ -1,27 +1,21 @@
 {
-"name" : "Rayquaza",
+  "name": "Rayquaza",
   "national_id": 384,
   "types": [
     "Dragon",
     "Flying"
   ],
-  "abilities": [
-    {
-      "name": "Air Lock"
-    }
-  ],
+  "abilities": [{
+    "name": "Air Lock"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "23'00\"",
   "height_eu": "7.0 m",
   "weight_us": "455.2 lbs.",
   "weight_eu": "206.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 105,
     "atk": 150,
@@ -40,103 +32,10 @@
     "sp_def": 90,
     "speed": 95
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Thick Fat",
-      "mega_stone": "Venusaurite",
-      "height_us": "35'05\"",
-      "height_eu": "10.8 m",
-      "weight_us": "864.2 lbs.",
-      "weight_eu": "392.0 kg",
-      "base_stats": {
-        "hp": 105,
-        "atk": 180,
-        "def": 100,
-        "sp_atk": 180,
-        "sp_def": 100,
-        "speed": 115
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Twister",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 5
-        },
-        {
-          "move": "Ancient Power",
-          "level": 15
-        },
-        {
-          "move": "Crunch",
-          "level": 20
-        },
-        {
-          "move": "Air Slash",
-          "level": 30
-        },
-        {
-          "move": "Rest",
-          "level": 35
-        },
-        {
-          "move": "Extreme Speed",
-          "level": 45
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 50
-        },
-        {
-          "move": "Dragon Dance",
-          "level": 60
-        },
-        {
-          "move": "Fly",
-          "level": 65
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 75
-        },
-        {
-          "move": "Outrage",
-          "level": 80
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 90
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -363,12 +262,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Twister",
           "level": 1
         },
@@ -631,8 +525,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Twister",
           "level": 1
         },

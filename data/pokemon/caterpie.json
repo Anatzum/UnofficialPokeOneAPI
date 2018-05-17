@@ -1,11 +1,10 @@
 {
-"name" : "Caterpie",
+  "name": "Caterpie",
   "national_id": 10,
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shield Dust"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "6.4 lbs.",
   "weight_eu": "2.9 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 30,
@@ -46,35 +39,13 @@
     "sp_def": 20,
     "speed": 45
   },
-  "evolutions": [
-    {
-      "to": "Metapod",
-      "level": 7
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Metapod",
+    "level": 7
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "String Shot",
           "level": 1
         },
@@ -89,12 +60,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "String Shot",
           "level": 1
         },
@@ -113,8 +79,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "String Shot",
           "level": 1
         },

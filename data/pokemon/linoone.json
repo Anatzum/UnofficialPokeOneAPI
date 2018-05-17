@@ -1,11 +1,10 @@
 {
-"name" : "Linoone",
+  "name": "Linoone",
   "national_id": 264,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pickup"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "71.6 lbs.",
   "weight_eu": "32.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 78,
     "atk": 70,
@@ -50,146 +43,9 @@
     "speed": 100
   },
   "evolution_from": "Zigzagoon",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Play Rough",
-          "level": 1
-        },
-        {
-          "move": "Rototiller",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Switcheroo",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 5
-        },
-        {
-          "move": "Sand Attack",
-          "level": 7
-        },
-        {
-          "move": "Headbutt",
-          "level": 11
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 13
-        },
-        {
-          "move": "Mud Sport",
-          "level": 17
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 19
-        },
-        {
-          "move": "Covet",
-          "level": 24
-        },
-        {
-          "move": "Bestow",
-          "level": 27
-        },
-        {
-          "move": "Slash",
-          "level": 32
-        },
-        {
-          "move": "Double-Edge",
-          "level": 35
-        },
-        {
-          "move": "Rest",
-          "level": 40
-        },
-        {
-          "move": "Belly Drum",
-          "level": 43
-        },
-        {
-          "move": "Fling",
-          "level": 48
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Simple Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Trick",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -348,12 +204,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -608,8 +459,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

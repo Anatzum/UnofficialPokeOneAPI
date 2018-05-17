@@ -1,11 +1,10 @@
 {
-"name" : "Meganium",
+  "name": "Meganium",
   "national_id": 154,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Grass"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "221.6 lbs.",
   "weight_eu": "100.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 82,
@@ -48,166 +41,9 @@
     "speed": 80
   },
   "evolution_from": "Bayleef",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Petal Blizzard",
-          "level": 1
-        },
-        {
-          "move": "Poison Powder",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 6
-        },
-        {
-          "move": "Poison Powder",
-          "level": 9
-        },
-        {
-          "move": "Synthesis",
-          "level": 12
-        },
-        {
-          "move": "Reflect",
-          "level": 18
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 22
-        },
-        {
-          "move": "Natural Gift",
-          "level": 26
-        },
-        {
-          "move": "Petal Dance",
-          "level": 32
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 34
-        },
-        {
-          "move": "Light Screen",
-          "level": 40
-        },
-        {
-          "move": "Body Slam",
-          "level": 46
-        },
-        {
-          "move": "Safeguard",
-          "level": 54
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 60
-        },
-        {
-          "move": "Solar Beam",
-          "level": 66
-        },
-        {
-          "move": "Petal Blizzard",
-          "level": 70
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Aromatherapy",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Nature Power",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Vine Whip",
-          "egg_move": true
-        },
-        {
-          "move": "Wring Out",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -346,12 +182,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -614,8 +445,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

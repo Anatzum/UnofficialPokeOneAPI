@@ -1,12 +1,11 @@
 {
-"name" : "Amaura",
+  "name": "Amaura",
   "national_id": 698,
   "types": [
     "Rock",
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Refrigerate"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "4'03\"",
   "height_eu": "1.3 m",
   "weight_us": "55.6 lbs.",
   "weight_eu": "25.2 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 77,
     "atk": 59,
@@ -47,130 +40,16 @@
     "sp_def": 63,
     "speed": 46
   },
-  "evolutions": [
-    {
-      "to": "Aurorus",
-      "level": 39,
-      "conditions": [
-        "during the night"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Aurorus",
+    "level": 39,
+    "conditions": [
+      "during the night"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Powder Snow",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 5
-        },
-        {
-          "move": "Rock Throw",
-          "level": 10
-        },
-        {
-          "move": "Icy Wind",
-          "level": 13
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Mist",
-          "level": 18
-        },
-        {
-          "move": "Aurora Beam",
-          "level": 20
-        },
-        {
-          "move": "Ancient Power",
-          "level": 26
-        },
-        {
-          "move": "Round",
-          "level": 30
-        },
-        {
-          "move": "Avalanche",
-          "level": 34
-        },
-        {
-          "move": "Hail",
-          "level": 38
-        },
-        {
-          "move": "Nature Power",
-          "level": 41
-        },
-        {
-          "move": "Encore",
-          "level": 44
-        },
-        {
-          "move": "Light Screen",
-          "level": 47
-        },
-        {
-          "move": "Ice Beam",
-          "level": 50
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 57
-        },
-        {
-          "move": "Blizzard",
-          "level": 65
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Discharge",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Magnet Rise",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -349,12 +228,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -617,8 +491,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

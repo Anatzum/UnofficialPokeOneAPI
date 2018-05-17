@@ -1,12 +1,11 @@
 {
-"name" : "Corsola",
+  "name": "Corsola",
   "national_id": 222,
   "types": [
     "Water",
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hustle"
     },
     {
@@ -21,18 +20,14 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 3"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "11.0 lbs.",
   "weight_eu": "5.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 55,
@@ -51,159 +44,10 @@
     "sp_def": 85,
     "speed": 35
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Bubble",
-          "level": 4
-        },
-        {
-          "move": "Recover",
-          "level": 8
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 10
-        },
-        {
-          "move": "Refresh",
-          "level": 13
-        },
-        {
-          "move": "Ancient Power",
-          "level": 17
-        },
-        {
-          "move": "Spike Cannon",
-          "level": 20
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 23
-        },
-        {
-          "move": "Brine",
-          "level": 27
-        },
-        {
-          "move": "Iron Defense",
-          "level": 29
-        },
-        {
-          "move": "Rock Blast",
-          "level": 31
-        },
-        {
-          "move": "Endure",
-          "level": 35
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 38
-        },
-        {
-          "move": "Power Gem",
-          "level": 41
-        },
-        {
-          "move": "Mirror Coat",
-          "level": 45
-        },
-        {
-          "move": "Earth Power",
-          "level": 47
-        },
-        {
-          "move": "Flail",
-          "level": 50
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Icicle Spear",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Nature Power",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -366,12 +210,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },
@@ -654,8 +493,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Harden",
           "level": 1
         },

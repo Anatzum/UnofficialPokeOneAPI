@@ -1,12 +1,11 @@
 {
-"name" : "Masquerain",
+  "name": "Masquerain",
   "national_id": 284,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Bug"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "7.9 lbs.",
   "weight_eu": "3.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 60,
@@ -49,154 +42,9 @@
     "speed": 60
   },
   "evolution_from": "Surskit",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 1
-        },
-        {
-          "move": "Ominous Wind",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 1
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 1
-        },
-        {
-          "move": "Whirlwind",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 6
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 9
-        },
-        {
-          "move": "Water Sport",
-          "level": 14
-        },
-        {
-          "move": "Gust",
-          "level": 17
-        },
-        {
-          "move": "Air Cutter",
-          "level": 22
-        },
-        {
-          "move": "Scary Face",
-          "level": 22
-        },
-        {
-          "move": "Stun Spore",
-          "level": 26
-        },
-        {
-          "move": "Silver Wind",
-          "level": 32
-        },
-        {
-          "move": "Air Slash",
-          "level": 38
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 42
-        },
-        {
-          "move": "Whirlwind",
-          "level": 48
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 52
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fell Stinger",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Power Split",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -331,12 +179,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -591,8 +434,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

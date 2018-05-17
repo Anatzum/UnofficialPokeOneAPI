@@ -1,12 +1,11 @@
 {
-"name" : "Sneasel",
+  "name": "Sneasel",
   "national_id": 215,
   "types": [
     "Dark",
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Inner Focus"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "61.7 lbs.",
   "weight_eu": "28.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 95,
@@ -50,161 +43,15 @@
     "sp_def": 75,
     "speed": 115
   },
-  "evolutions": [
-    {
-      "to": "Weavile",
-      "conditions": [
-        "level up during the night holding a Razor Claw"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Weavile",
+    "conditions": [
+      "level up during the night holding a Razor Claw"
+    ]
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Taunt",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 8
-        },
-        {
-          "move": "Feint Attack",
-          "level": 10
-        },
-        {
-          "move": "Icy Wind",
-          "level": 14
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 16
-        },
-        {
-          "move": "Agility",
-          "level": 20
-        },
-        {
-          "move": "Metal Claw",
-          "level": 22
-        },
-        {
-          "move": "Hone Claws",
-          "level": 25
-        },
-        {
-          "move": "Beat Up",
-          "level": 28
-        },
-        {
-          "move": "Screech",
-          "level": 32
-        },
-        {
-          "move": "Slash",
-          "level": 35
-        },
-        {
-          "move": "Snatch",
-          "level": 40
-        },
-        {
-          "move": "Punishment",
-          "level": 44
-        },
-        {
-          "move": "Ice Shard",
-          "level": 47
-        },
-        {
-          "move": "Assist",
-          "egg_move": true
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Double Hit",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Shard",
-          "egg_move": true
-        },
-        {
-          "move": "Icicle Crash",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -403,12 +250,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -707,8 +549,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

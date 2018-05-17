@@ -1,11 +1,10 @@
 {
-"name" : "Gulpin",
+  "name": "Gulpin",
   "national_id": 316,
   "types": [
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Liquid Ooze"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "22.7 lbs.",
   "weight_eu": "10.3 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 43,
@@ -49,131 +42,13 @@
     "sp_def": 53,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Swalot",
-      "level": 26
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Swalot",
+    "level": 26
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 5
-        },
-        {
-          "move": "Poison Gas",
-          "level": 8
-        },
-        {
-          "move": "Sludge",
-          "level": 10
-        },
-        {
-          "move": "Amnesia",
-          "level": 12
-        },
-        {
-          "move": "Acid Spray",
-          "level": 17
-        },
-        {
-          "move": "Encore",
-          "level": 20
-        },
-        {
-          "move": "Toxic",
-          "level": 25
-        },
-        {
-          "move": "Spit Up",
-          "level": 28
-        },
-        {
-          "move": "Stockpile",
-          "level": 28
-        },
-        {
-          "move": "Swallow",
-          "level": 28
-        },
-        {
-          "move": "Sludge Bomb",
-          "level": 33
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 36
-        },
-        {
-          "move": "Belch",
-          "level": 41
-        },
-        {
-          "move": "Wring Out",
-          "level": 44
-        },
-        {
-          "move": "Gunk Shot",
-          "level": 49
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Gunk Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Pain Split",
-          "egg_move": true
-        },
-        {
-          "move": "Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Venom Drench",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -292,12 +167,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Pound",
           "level": 1
         },
@@ -500,8 +370,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Pound",
           "level": 1
         },

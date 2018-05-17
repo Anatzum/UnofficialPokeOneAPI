@@ -1,12 +1,11 @@
 {
-"name" : "Mandibuzz",
+  "name": "Mandibuzz",
   "national_id": 630,
   "types": [
     "Dark",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Big Pecks"
     },
     {
@@ -15,19 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "87.1 lbs.",
   "weight_eu": "39.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 110,
     "atk": 65,
@@ -47,150 +41,9 @@
     "speed": 80
   },
   "evolution_from": "Vullaby",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bone Rush",
-          "level": 1
-        },
-        {
-          "move": "Brave Bird",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Mirror Move",
-          "level": 1
-        },
-        {
-          "move": "Pluck",
-          "level": 1
-        },
-        {
-          "move": "Whirlwind",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 5
-        },
-        {
-          "move": "Pluck",
-          "level": 10
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 14
-        },
-        {
-          "move": "Flatter",
-          "level": 19
-        },
-        {
-          "move": "Feint Attack",
-          "level": 23
-        },
-        {
-          "move": "Punishment",
-          "level": 28
-        },
-        {
-          "move": "Defog",
-          "level": 32
-        },
-        {
-          "move": "Tailwind",
-          "level": 37
-        },
-        {
-          "move": "Air Slash",
-          "level": 41
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 46
-        },
-        {
-          "move": "Embargo",
-          "level": 50
-        },
-        {
-          "move": "Bone Rush",
-          "level": 51
-        },
-        {
-          "move": "Whirlwind",
-          "level": 57
-        },
-        {
-          "move": "Brave Bird",
-          "level": 63
-        },
-        {
-          "move": "Mirror Move",
-          "level": 70
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -345,12 +198,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bone Rush",
           "level": 1
         },
@@ -605,8 +453,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bone Rush",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Machoke",
+  "name": "Machoke",
   "national_id": 67,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Guts"
     },
     {
@@ -20,17 +19,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "155.4 lbs.",
   "weight_eu": "70.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 100,
@@ -50,170 +43,12 @@
     "speed": 45
   },
   "evolution_from": "Machop",
-  "evolutions": [
-    {
-      "to": "Machamp",
-      "trade": true
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Karate Chop",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Low Kick",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 3
-        },
-        {
-          "move": "Karate Chop",
-          "level": 7
-        },
-        {
-          "move": "Foresight",
-          "level": 9
-        },
-        {
-          "move": "Low Sweep",
-          "level": 13
-        },
-        {
-          "move": "Seismic Toss",
-          "level": 15
-        },
-        {
-          "move": "Revenge",
-          "level": 19
-        },
-        {
-          "move": "Knock Off",
-          "level": 21
-        },
-        {
-          "move": "Vital Throw",
-          "level": 25
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 27
-        },
-        {
-          "move": "Dual Chop",
-          "level": 33
-        },
-        {
-          "move": "Submission",
-          "level": 37
-        },
-        {
-          "move": "Bulk Up",
-          "level": 43
-        },
-        {
-          "move": "Cross Chop",
-          "level": 47
-        },
-        {
-          "move": "Scary Face",
-          "level": 53
-        },
-        {
-          "move": "Dynamic Punch",
-          "level": 57
-        },
-        {
-          "move": "Bullet Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Close Combat",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Heavy Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Meditate",
-          "egg_move": true
-        },
-        {
-          "move": "Power Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Rolling Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Machamp",
+    "trade": true
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -372,12 +207,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Focus Energy",
           "level": 1
         },
@@ -652,8 +482,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Focus Energy",
           "level": 1
         },

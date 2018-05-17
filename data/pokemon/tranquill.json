@@ -1,12 +1,11 @@
 {
-"name" : "Tranquill",
+  "name": "Tranquill",
   "national_id": 520,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Big Pecks"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "33.1 lbs.",
   "weight_eu": "15.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 62,
     "atk": 77,
@@ -48,138 +41,12 @@
     "speed": 65
   },
   "evolution_from": "Pidove",
-  "evolutions": [
-    {
-      "to": "Unfezant",
-      "level": 32
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Leer",
-          "level": 8
-        },
-        {
-          "move": "Quick Attack",
-          "level": 11
-        },
-        {
-          "move": "Air Cutter",
-          "level": 15
-        },
-        {
-          "move": "Roost",
-          "level": 18
-        },
-        {
-          "move": "Detect",
-          "level": 23
-        },
-        {
-          "move": "Taunt",
-          "level": 27
-        },
-        {
-          "move": "Air Slash",
-          "level": 32
-        },
-        {
-          "move": "Razor Wind",
-          "level": 36
-        },
-        {
-          "move": "Feather Dance",
-          "level": 41
-        },
-        {
-          "move": "Swagger",
-          "level": 45
-        },
-        {
-          "move": "Facade",
-          "level": 50
-        },
-        {
-          "move": "Tailwind",
-          "level": 54
-        },
-        {
-          "move": "Sky Attack",
-          "level": 59
-        },
-        {
-          "move": "Bestow",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Unfezant",
+    "level": 32
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -278,12 +145,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -490,8 +352,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

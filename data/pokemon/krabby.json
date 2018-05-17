@@ -1,11 +1,10 @@
 {
-"name" : "Krabby",
+  "name": "Krabby",
   "national_id": 98,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hyper Cutter"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 3"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "14.3 lbs.",
   "weight_eu": "6.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 30,
     "atk": 105,
@@ -49,143 +42,13 @@
     "sp_def": 25,
     "speed": 50
   },
-  "evolutions": [
-    {
-      "to": "Kingler",
-      "level": 28
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Kingler",
+    "level": 28
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 1
-        },
-        {
-          "move": "Vice Grip",
-          "level": 5
-        },
-        {
-          "move": "Leer",
-          "level": 9
-        },
-        {
-          "move": "Harden",
-          "level": 11
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 15
-        },
-        {
-          "move": "Mud Shot",
-          "level": 19
-        },
-        {
-          "move": "Metal Claw",
-          "level": 21
-        },
-        {
-          "move": "Stomp",
-          "level": 25
-        },
-        {
-          "move": "Protect",
-          "level": 29
-        },
-        {
-          "move": "Guillotine",
-          "level": 31
-        },
-        {
-          "move": "Slam",
-          "level": 35
-        },
-        {
-          "move": "Brine",
-          "level": 39
-        },
-        {
-          "move": "Crabhammer",
-          "level": 41
-        },
-        {
-          "move": "Flail",
-          "level": 45
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -328,12 +191,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -560,8 +418,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

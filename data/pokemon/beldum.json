@@ -1,12 +1,11 @@
 {
-"name" : "Beldum",
+  "name": "Beldum",
   "national_id": 374,
   "types": [
     "Steel",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Clear Body"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "209.9 lbs.",
   "weight_eu": "95.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,8 +29,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 55,
@@ -44,63 +37,32 @@
     "sp_def": 60,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Metang",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Metang",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Take Down",
-          "level": 1
-        }
-      ]
+  "move_learnsets": [{
+      "tm_learnset": [{
+        "move": "Take Down",
+        "level": 1
+      }]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
-          "move": "Take Down",
-          "level": 1
-        }
-      ]
+    "regular_learnset": [{
+        "move": "Take Down",
+        "level": 1
+      }]
     },
     {
       "games": [
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
-          "move": "Take Down",
-          "level": 1
-        }
-      ]
+      "learnset": [{
+        "move": "Take Down",
+        "level": 1
+      }]
     }
   ]
 }

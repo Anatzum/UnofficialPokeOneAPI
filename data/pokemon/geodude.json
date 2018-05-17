@@ -1,12 +1,11 @@
 {
-"name" : "Geodude",
+  "name": "Geodude",
   "national_id": 74,
   "types": [
     "Rock",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rock Head"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "44.1 lbs.",
   "weight_eu": "20.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 80,
@@ -50,163 +43,13 @@
     "sp_def": 30,
     "speed": 20
   },
-  "evolutions": [
-    {
-      "to": "Graveler",
-      "level": 25
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Graveler",
+    "level": 25
+  }],
   "evolution_from": null,
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Gedodude",
-        "de": "Alola-Kleinstein"
-      },
-      "types": [
-        "Rock",
-        "Electric"
-      ],
-      "abilities": [
-        {
-          "name": "Magnet Pull"
-        },
-        {
-          "name": "Sturdy"
-        },
-        {
-          "name": "Galvanize",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 4
-        },
-        {
-          "move": "Rock Polish",
-          "level": 6
-        },
-        {
-          "move": "Rollout",
-          "level": 10
-        },
-        {
-          "move": "Magnitude",
-          "level": 12
-        },
-        {
-          "move": "Rock Throw",
-          "level": 16
-        },
-        {
-          "move": "Smack Down",
-          "level": 18
-        },
-        {
-          "move": "Bulldoze",
-          "level": 22
-        },
-        {
-          "move": "Self-Destruct",
-          "level": 24
-        },
-        {
-          "move": "Stealth Rock",
-          "level": 28
-        },
-        {
-          "move": "Rock Blast",
-          "level": 30
-        },
-        {
-          "move": "Earthquake",
-          "level": 34
-        },
-        {
-          "move": "Explosion",
-          "level": 36
-        },
-        {
-          "move": "Double-Edge",
-          "level": 40
-        },
-        {
-          "move": "Stone Edge",
-          "level": 42
-        },
-        {
-          "move": "Autotomize",
-          "egg_move": true
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Mega Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -353,12 +196,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Defense Curl",
           "level": 1,
           "variations": [
@@ -1184,8 +1022,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Defense Curl",
           "level": 1,
           "variations": [

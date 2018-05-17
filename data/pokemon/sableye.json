@@ -1,12 +1,11 @@
 {
-"name" : "Sableye",
+  "name": "Sableye",
   "national_id": 302,
   "types": [
     "Dark",
     "Ghost"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "24.3 lbs.",
   "weight_eu": "11.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 75,
@@ -50,175 +43,10 @@
     "sp_def": 65,
     "speed": 50
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Dark",
-        "Ghost"
-      ],
-      "ability": "Magic Bounce",
-      "mega_stone": "Sablenite",
-      "height_us": "1'08\"",
-      "height_eu": "0.5 m",
-      "weight_us": "354.9 lbs.",
-      "weight_eu": "161.0 kg",
-      "base_stats": {
-        "hp": 50,
-        "atk": 85,
-        "def": 125,
-        "sp_atk": 85,
-        "sp_def": 115,
-        "speed": 20
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Foresight",
-          "level": 4
-        },
-        {
-          "move": "Night Shade",
-          "level": 6
-        },
-        {
-          "move": "Astonish",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 11
-        },
-        {
-          "move": "Detect",
-          "level": 14
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 16
-        },
-        {
-          "move": "Feint Attack",
-          "level": 19
-        },
-        {
-          "move": "Fake Out",
-          "level": 21
-        },
-        {
-          "move": "Punishment",
-          "level": 24
-        },
-        {
-          "move": "Knock Off",
-          "level": 26
-        },
-        {
-          "move": "Shadow Claw",
-          "level": 29
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 31
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 34
-        },
-        {
-          "move": "Power Gem",
-          "level": 36
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 39
-        },
-        {
-          "move": "Foul Play",
-          "level": 41
-        },
-        {
-          "move": "Quash",
-          "level": 44
-        },
-        {
-          "move": "Mean Look",
-          "level": 46
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Flatter",
-          "egg_move": true
-        },
-        {
-          "move": "Imprison",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Moonlight",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Trick",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -409,12 +237,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -697,8 +520,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

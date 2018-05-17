@@ -1,11 +1,10 @@
 {
-"name" : "Slugma",
+  "name": "Slugma",
   "national_id": 218,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Magma Armor"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "77.2 lbs.",
   "weight_eu": "35.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 40,
@@ -49,147 +42,13 @@
     "sp_def": 40,
     "speed": 20
   },
-  "evolutions": [
-    {
-      "to": "Magcargo",
-      "level": 38
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Magcargo",
+    "level": 38
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Smog",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 6
-        },
-        {
-          "move": "Rock Throw",
-          "level": 8
-        },
-        {
-          "move": "Harden",
-          "level": 13
-        },
-        {
-          "move": "Incinerate",
-          "level": 15
-        },
-        {
-          "move": "Clear Smog",
-          "level": 20
-        },
-        {
-          "move": "Ancient Power",
-          "level": 22
-        },
-        {
-          "move": "Flame Burst",
-          "level": 27
-        },
-        {
-          "move": "Rock Slide",
-          "level": 29
-        },
-        {
-          "move": "Lava Plume",
-          "level": 34
-        },
-        {
-          "move": "Amnesia",
-          "level": 36
-        },
-        {
-          "move": "Body Slam",
-          "level": 41
-        },
-        {
-          "move": "Recover",
-          "level": 43
-        },
-        {
-          "move": "Flamethrower",
-          "level": 48
-        },
-        {
-          "move": "Earth Power",
-          "level": 50
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Inferno",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Smokescreen",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -308,12 +167,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Smog",
           "level": 1
         },
@@ -536,8 +390,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Smog",
           "level": 1
         },

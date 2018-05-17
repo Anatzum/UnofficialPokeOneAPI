@@ -1,11 +1,10 @@
 {
-"name" : "Lillipup",
+  "name": "Lillipup",
   "national_id": 506,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Vital Spirit"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "9.0 lbs.",
   "weight_eu": "4.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 60,
@@ -46,143 +39,13 @@
     "sp_def": 45,
     "speed": 55
   },
-  "evolutions": [
-    {
-      "to": "Herdier",
-      "level": 16
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Herdier",
+    "level": 16
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 5
-        },
-        {
-          "move": "Bite",
-          "level": 8
-        },
-        {
-          "move": "Baby-Doll Eyes",
-          "level": 10
-        },
-        {
-          "move": "Helping Hand",
-          "level": 12
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Work Up",
-          "level": 19
-        },
-        {
-          "move": "Crunch",
-          "level": 22
-        },
-        {
-          "move": "Roar",
-          "level": 26
-        },
-        {
-          "move": "Retaliate",
-          "level": 29
-        },
-        {
-          "move": "Reversal",
-          "level": 33
-        },
-        {
-          "move": "Last Resort",
-          "level": 36
-        },
-        {
-          "move": "Giga Impact",
-          "level": 40
-        },
-        {
-          "move": "Play Rough",
-          "level": 45
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Lick",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -301,12 +164,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -529,8 +387,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

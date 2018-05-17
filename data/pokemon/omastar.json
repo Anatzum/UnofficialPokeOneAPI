@@ -1,12 +1,11 @@
 {
-"name" : "Omastar",
+  "name": "Omastar",
   "national_id": 139,
   "types": [
     "Rock",
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -21,18 +20,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 3"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "77.2 lbs.",
   "weight_eu": "35.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 60,
@@ -52,154 +45,9 @@
     "speed": 55
   },
   "evolution_from": "Omanyte",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 1
-        },
-        {
-          "move": "Bite",
-          "level": 7
-        },
-        {
-          "move": "Water Gun",
-          "level": 10
-        },
-        {
-          "move": "Rollout",
-          "level": 16
-        },
-        {
-          "move": "Leer",
-          "level": 19
-        },
-        {
-          "move": "Mud Shot",
-          "level": 25
-        },
-        {
-          "move": "Brine",
-          "level": 28
-        },
-        {
-          "move": "Protect",
-          "level": 34
-        },
-        {
-          "move": "Ancient Power",
-          "level": 37
-        },
-        {
-          "move": "Spike Cannon",
-          "level": 40
-        },
-        {
-          "move": "Tickle",
-          "level": 48
-        },
-        {
-          "move": "Rock Blast",
-          "level": 56
-        },
-        {
-          "move": "Shell Smash",
-          "level": 67
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 75
-        },
-        {
-          "move": "Aurora Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Bubble Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Reflect Type",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlpool",
-          "egg_move": true
-        },
-        {
-          "move": "Wring Out",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -338,12 +186,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -598,8 +441,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

@@ -1,17 +1,11 @@
 {
-  "name": {
-    
-    "de": "eF-eM",
-    
-    "en": "Noibat"
-  },
+  "name": "Noibat",
   "national_id": 714,
   "types": [
     "Flying",
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Frisk"
     },
     {
@@ -20,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "17.6 lbs.",
   "weight_eu": "8.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -42,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 30,
@@ -52,115 +40,13 @@
     "sp_def": 40,
     "speed": 55
   },
-  "evolutions": [
-    {
-      "to": "Noivern",
-      "level": 48
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Noivern",
+    "level": 48
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Screech",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Leech Life",
-          "level": 5
-        },
-        {
-          "move": "Gust",
-          "level": 11
-        },
-        {
-          "move": "Bite",
-          "level": 13
-        },
-        {
-          "move": "Wing Attack",
-          "level": 16
-        },
-        {
-          "move": "Agility",
-          "level": 18
-        },
-        {
-          "move": "Air Cutter",
-          "level": 23
-        },
-        {
-          "move": "Roost",
-          "level": 27
-        },
-        {
-          "move": "Razor Wind",
-          "level": 31
-        },
-        {
-          "move": "Tailwind",
-          "level": 35
-        },
-        {
-          "move": "Whirlwind",
-          "level": 40
-        },
-        {
-          "move": "Super Fang",
-          "level": 43
-        },
-        {
-          "move": "Air Slash",
-          "level": 48
-        },
-        {
-          "move": "Hurricane",
-          "level": 58
-        },
-        {
-          "move": "Outrage",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Tailwind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -307,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Screech",
           "level": 1
         },
@@ -539,8 +420,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Screech",
           "level": 1
         },

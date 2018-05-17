@@ -1,12 +1,11 @@
 {
-"name" : "Cradily",
+  "name": "Cradily",
   "national_id": 346,
   "types": [
     "Rock",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Suction Cups"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 3"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "133.2 lbs.",
   "weight_eu": "60.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 86,
     "atk": 81,
@@ -48,138 +41,9 @@
     "speed": 43
   },
   "evolution_from": "Lileep",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Acid",
-          "level": 1
-        },
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Ingrain",
-          "level": 1
-        },
-        {
-          "move": "Wring Out",
-          "level": 1
-        },
-        {
-          "move": "Acid",
-          "level": 5
-        },
-        {
-          "move": "Ingrain",
-          "level": 9
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 13
-        },
-        {
-          "move": "Ancient Power",
-          "level": 17
-        },
-        {
-          "move": "Brine",
-          "level": 21
-        },
-        {
-          "move": "Giga Drain",
-          "level": 26
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 31
-        },
-        {
-          "move": "Amnesia",
-          "level": 36
-        },
-        {
-          "move": "Energy Ball",
-          "level": 44
-        },
-        {
-          "move": "Spit Up",
-          "level": 52
-        },
-        {
-          "move": "Stockpile",
-          "level": 52
-        },
-        {
-          "move": "Swallow",
-          "level": 52
-        },
-        {
-          "move": "Wring Out",
-          "level": 61
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Mega Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wring Out",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -326,12 +190,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Acid",
           "level": 1
         },
@@ -574,8 +433,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Acid",
           "level": 1
         },

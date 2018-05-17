@@ -1,12 +1,11 @@
 {
-"name" : "Scyther",
+  "name": "Scyther",
   "national_id": 123,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "123.5 lbs.",
   "weight_eu": "56.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 110,
@@ -50,152 +43,14 @@
     "sp_def": 80,
     "speed": 105
   },
-  "evolutions": [
-    {
-      "to": "Scizor",
-      "trade": true,
-      "hold_item": "Metal Coat"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Scizor",
+    "trade": true,
+    "hold_item": "Metal Coat"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Vacuum Wave",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 5
-        },
-        {
-          "move": "Pursuit",
-          "level": 9
-        },
-        {
-          "move": "False Swipe",
-          "level": 13
-        },
-        {
-          "move": "Agility",
-          "level": 17
-        },
-        {
-          "move": "Wing Attack",
-          "level": 21
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 25
-        },
-        {
-          "move": "Slash",
-          "level": 29
-        },
-        {
-          "move": "Razor Wind",
-          "level": 33
-        },
-        {
-          "move": "Double Team",
-          "level": 37
-        },
-        {
-          "move": "X-Scissor",
-          "level": 41
-        },
-        {
-          "move": "Night Slash",
-          "level": 45
-        },
-        {
-          "move": "Double Hit",
-          "level": 49
-        },
-        {
-          "move": "Air Slash",
-          "level": 50
-        },
-        {
-          "move": "Swords Dance",
-          "level": 57
-        },
-        {
-          "move": "Feint",
-          "level": 61
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Buzz",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -330,12 +185,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -578,8 +428,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

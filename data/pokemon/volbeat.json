@@ -1,11 +1,10 @@
 {
-"name" : "Volbeat",
+  "name": "Volbeat",
   "national_id": 313,
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Illuminate"
     },
     {
@@ -17,20 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Bug",
     "Human-Like"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "39.0 lbs.",
   "weight_eu": "17.7 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +35,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 73,
@@ -49,119 +43,10 @@
     "sp_def": 75,
     "speed": 85
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Flash",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Double Team",
-          "level": 5
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 8
-        },
-        {
-          "move": "Quick Attack",
-          "level": 12
-        },
-        {
-          "move": "Struggle Bug",
-          "level": 15
-        },
-        {
-          "move": "Moonlight",
-          "level": 19
-        },
-        {
-          "move": "Tail Glow",
-          "level": 22
-        },
-        {
-          "move": "Signal Beam",
-          "level": 26
-        },
-        {
-          "move": "Protect",
-          "level": 29
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 33
-        },
-        {
-          "move": "Helping Hand",
-          "level": 36
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 40
-        },
-        {
-          "move": "Play Rough",
-          "level": 43
-        },
-        {
-          "move": "Double-Edge",
-          "level": 47
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Buzz",
-          "egg_move": true
-        },
-        {
-          "move": "Dizzy Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Seismic Toss",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Trick",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -308,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Flash",
           "level": 1
         },
@@ -544,8 +424,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Flash",
           "level": 1
         },

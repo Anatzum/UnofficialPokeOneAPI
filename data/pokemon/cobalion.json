@@ -1,27 +1,21 @@
 {
-"name" : "Cobalion",
+  "name": "Cobalion",
   "national_id": 638,
   "types": [
     "Steel",
     "Fighting"
   ],
-  "abilities": [
-    {
-      "name": "Justified"
-    }
-  ],
+  "abilities": [{
+    "name": "Justified"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "6'11\"",
   "height_eu": "2.1 m",
   "weight_us": "551.2 lbs.",
-  "weight_eu": "250.0 kg",
-  
-  
+  "weight_eu": "250 kg",
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 91,
     "atk": 90,
@@ -40,103 +32,10 @@
     "sp_def": 72,
     "speed": 108
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Close Combat",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Metal Burst",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Quick Guard",
-          "level": 1
-        },
-        {
-          "move": "Work Up",
-          "level": 1
-        },
-        {
-          "move": "Double Kick",
-          "level": 7
-        },
-        {
-          "move": "Metal Claw",
-          "level": 13
-        },
-        {
-          "move": "Take Down",
-          "level": 19
-        },
-        {
-          "move": "Helping Hand",
-          "level": 25
-        },
-        {
-          "move": "Retaliate",
-          "level": 31
-        },
-        {
-          "move": "Iron Head",
-          "level": 37
-        },
-        {
-          "move": "Sacred Sword",
-          "level": 42
-        },
-        {
-          "move": "Swords Dance",
-          "level": 49
-        },
-        {
-          "move": "Quick Guard",
-          "level": 55
-        },
-        {
-          "move": "Work Up",
-          "level": 61
-        },
-        {
-          "move": "Metal Burst",
-          "level": 67
-        },
-        {
-          "move": "Close Combat",
-          "level": 73
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -295,12 +194,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Close Combat",
           "level": 1
         },
@@ -507,8 +401,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Close Combat",
           "level": 1
         },

@@ -1,27 +1,21 @@
 {
-"name" : "Solrock",
+  "name": "Solrock",
   "national_id": 338,
   "types": [
     "Rock",
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "339.5 lbs.",
   "weight_eu": "154.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 95,
@@ -40,95 +32,10 @@
     "sp_def": 65,
     "speed": 70
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Rock Throw",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Fire Spin",
-          "level": 5
-        },
-        {
-          "move": "Rock Polish",
-          "level": 9
-        },
-        {
-          "move": "Psywave",
-          "level": 13
-        },
-        {
-          "move": "Embargo",
-          "level": 17
-        },
-        {
-          "move": "Rock Slide",
-          "level": 21
-        },
-        {
-          "move": "Cosmic Power",
-          "level": 25
-        },
-        {
-          "move": "Psychic",
-          "level": 29
-        },
-        {
-          "move": "Heal Block",
-          "level": 33
-        },
-        {
-          "move": "Stone Edge",
-          "level": 37
-        },
-        {
-          "move": "Solar Beam",
-          "level": 41
-        },
-        {
-          "move": "Explosion",
-          "level": 45
-        },
-        {
-          "move": "Wonder Room",
-          "level": 49
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -323,12 +230,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -583,8 +485,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

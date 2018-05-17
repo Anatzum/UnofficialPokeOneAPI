@@ -1,12 +1,11 @@
 {
-"name" : "Drapion",
+  "name": "Drapion",
   "national_id": 452,
   "types": [
     "Poison",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Battle Armor"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug",
     "Water 3"
   ],
-  
   "height_us": "4'03\"",
   "height_eu": "1.3 m",
   "weight_us": "135.6 lbs.",
   "weight_eu": "61.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 90,
@@ -52,162 +45,9 @@
     "speed": 95
   },
   "evolution_from": "Skorupi",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Fire Fang",
-          "level": 1
-        },
-        {
-          "move": "Ice Fang",
-          "level": 1
-        },
-        {
-          "move": "Knock Off",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Knock Off",
-          "level": 5
-        },
-        {
-          "move": "Pin Missile",
-          "level": 9
-        },
-        {
-          "move": "Acupressure",
-          "level": 13
-        },
-        {
-          "move": "Pursuit",
-          "level": 16
-        },
-        {
-          "move": "Bug Bite",
-          "level": 20
-        },
-        {
-          "move": "Poison Fang",
-          "level": 23
-        },
-        {
-          "move": "Venoshock",
-          "level": 27
-        },
-        {
-          "move": "Hone Claws",
-          "level": 30
-        },
-        {
-          "move": "Toxic Spikes",
-          "level": 34
-        },
-        {
-          "move": "Night Slash",
-          "level": 38
-        },
-        {
-          "move": "Scary Face",
-          "level": 43
-        },
-        {
-          "move": "Crunch",
-          "level": 49
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 53
-        },
-        {
-          "move": "Cross Poison",
-          "level": 57
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Twineedle",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -406,12 +246,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -714,8 +549,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

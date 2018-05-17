@@ -1,11 +1,10 @@
 {
-"name" : "Vulpix",
+  "name": "Vulpix",
   "national_id": 37,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flash Fire"
     },
     {
@@ -17,17 +16,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "21.8 lbs.",
   "weight_eu": "9.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 38,
     "atk": 41,
@@ -46,191 +39,13 @@
     "sp_def": 65,
     "speed": 65
   },
-  "evolutions": [
-    {
-      "to": "Ninetales",
-      "item": "Fire Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Ninetales",
+    "item": "Fire Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Vulpix",
-        "de": "Alola-Vulpix"
-      },
-      "types": [
-        "Ice"
-      ],
-      "abilities": [
-        {
-          "name": "Snow Cloak"
-        },
-        {
-          "name": "Snow Warning",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 4
-        },
-        {
-          "move": "Roar",
-          "level": 7
-        },
-        {
-          "move": "Baby-Doll Eyes",
-          "level": 9
-        },
-        {
-          "move": "Quick Attack",
-          "level": 10
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 12
-        },
-        {
-          "move": "Fire Spin",
-          "level": 15
-        },
-        {
-          "move": "Payback",
-          "level": 18
-        },
-        {
-          "move": "Will-O-Wisp",
-          "level": 20
-        },
-        {
-          "move": "Feint Attack",
-          "level": 23
-        },
-        {
-          "move": "Hex",
-          "level": 26
-        },
-        {
-          "move": "Flame Burst",
-          "level": 28
-        },
-        {
-          "move": "Extrasensory",
-          "level": 31
-        },
-        {
-          "move": "Safeguard",
-          "level": 34
-        },
-        {
-          "move": "Flamethrower",
-          "level": 36
-        },
-        {
-          "move": "Imprison",
-          "level": 39
-        },
-        {
-          "move": "Fire Blast",
-          "level": 42
-        },
-        {
-          "move": "Grudge",
-          "level": 44
-        },
-        {
-          "move": "Captivate",
-          "level": 47
-        },
-        {
-          "move": "Inferno",
-          "level": 50
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Flare Blitz",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Hex",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Tail Slap",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Roar",
           "tm": "TM05"
         },
@@ -349,12 +164,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1,
           "variations": [
@@ -1194,8 +1004,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1,
           "variations": [

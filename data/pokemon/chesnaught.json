@@ -1,12 +1,11 @@
 {
-"name" : "Chesnaught",
+  "name": "Chesnaught",
   "national_id": 652,
   "types": [
     "Grass",
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "198.4 lbs.",
   "weight_eu": "90.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 88,
     "atk": 107,
@@ -48,146 +41,10 @@
     "speed": 64
   },
   "evolution_from": "Quilladin",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Belly Drum",
-          "level": 1
-        },
-        {
-          "move": "Feint",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Vine Whip",
-          "level": 5
-        },
-        {
-          "move": "Rollout",
-          "level": 8
-        },
-        {
-          "move": "Bite",
-          "level": 11
-        },
-        {
-          "move": "Leech Seed",
-          "level": 15
-        },
-        {
-          "move": "Pin Missile",
-          "level": 20
-        },
-        {
-          "move": "Needle Arm",
-          "level": 26
-        },
-        {
-          "move": "Take Down",
-          "level": 30
-        },
-        {
-          "move": "Seed Bomb",
-          "level": 35
-        },
-        {
-          "move": "Spiky Shield",
-          "level": 36
-        },
-        {
-          "move": "Mud Shot",
-          "level": 41
-        },
-        {
-          "move": "Bulk Up",
-          "level": 44
-        },
-        {
-          "move": "Body Slam",
-          "level": 48
-        },
-        {
-          "move": "Pain Split",
-          "level": 52
-        },
-        {
-          "move": "Wood Hammer",
-          "level": 55
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 60
-        },
-        {
-          "move": "Giga Impact",
-          "level": 70
-        },
-        {
-          "move": "Spiky Shield",
-          "level": 75
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
+  "mega_evolutions": [],
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -398,12 +255,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Belly Drum",
           "level": 1
         },
@@ -706,8 +558,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Belly Drum",
           "level": 1
         },

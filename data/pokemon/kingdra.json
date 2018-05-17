@@ -1,12 +1,11 @@
 {
-"name" : "Kingdra",
+  "name": "Kingdra",
   "national_id": 230,
   "types": [
     "Water",
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Dragon"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "335.1 lbs.",
   "weight_eu": "152.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -41,8 +36,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 95,
@@ -52,150 +45,9 @@
     "speed": 85
   },
   "evolution_from": "Seadra",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Smokescreen",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 1
-        },
-        {
-          "move": "Smokescreen",
-          "level": 5
-        },
-        {
-          "move": "Leer",
-          "level": 9
-        },
-        {
-          "move": "Water Gun",
-          "level": 13
-        },
-        {
-          "move": "Twister",
-          "level": 17
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 21
-        },
-        {
-          "move": "Focus Energy",
-          "level": 26
-        },
-        {
-          "move": "Brine",
-          "level": 31
-        },
-        {
-          "move": "Agility",
-          "level": 38
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 45
-        },
-        {
-          "move": "Dragon Dance",
-          "level": 52
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 60
-        },
-        {
-          "move": "Aurora Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Breath",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Octazooka",
-          "egg_move": true
-        },
-        {
-          "move": "Outrage",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Splash",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -306,12 +158,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -538,8 +385,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Wigglytuff",
+  "name": "Wigglytuff",
   "national_id": 40,
   "types": [
     "Normal",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Cute Charm"
     },
     {
@@ -21,17 +20,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "26.5 lbs.",
   "weight_eu": "12.0 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 140,
     "atk": 70,
@@ -51,106 +44,9 @@
     "speed": 45
   },
   "evolution_from": "Jigglypuff",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Disable",
-          "level": 1
-        },
-        {
-          "move": "Double-Edge",
-          "level": 1
-        },
-        {
-          "move": "Double Slap",
-          "level": 1
-        },
-        {
-          "move": "Play Rough",
-          "level": 1
-        },
-        {
-          "move": "Sing",
-          "level": 1
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Gravity",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Misty Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -349,12 +245,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Defense Curl",
           "level": 1
         },
@@ -609,8 +500,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Defense Curl",
           "level": 1
         },

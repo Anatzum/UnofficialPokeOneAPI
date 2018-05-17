@@ -1,12 +1,11 @@
 {
-"name" : "Ferrothorn",
+  "name": "Ferrothorn",
   "national_id": 598,
   "types": [
     "Grass",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Iron Barbs"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass",
     "Mineral"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "242.5 lbs.",
   "weight_eu": "110.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 74,
     "atk": 94,
@@ -49,142 +42,9 @@
     "speed": 20
   },
   "evolution_from": "Ferroseed",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Curse",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Rock Climb",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 6
-        },
-        {
-          "move": "Curse",
-          "level": 9
-        },
-        {
-          "move": "Metal Claw",
-          "level": 14
-        },
-        {
-          "move": "Pin Missile",
-          "level": 18
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 21
-        },
-        {
-          "move": "Iron Defense",
-          "level": 26
-        },
-        {
-          "move": "Mirror Shot",
-          "level": 30
-        },
-        {
-          "move": "Ingrain",
-          "level": 35
-        },
-        {
-          "move": "Self-Destruct",
-          "level": 38
-        },
-        {
-          "move": "Power Whip",
-          "level": 40
-        },
-        {
-          "move": "Iron Head",
-          "level": 46
-        },
-        {
-          "move": "Payback",
-          "level": 53
-        },
-        {
-          "move": "Flash Cannon",
-          "level": 61
-        },
-        {
-          "move": "Explosion",
-          "level": 67
-        },
-        {
-          "move": "Acid Spray",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Gravity",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -347,12 +207,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Curse",
           "level": 1
         },
@@ -607,8 +462,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Curse",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Mantine",
+  "name": "Mantine",
   "national_id": 226,
   "types": [
     "Water",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1"
   ],
-  
   "height_us": "6'11\"",
   "height_eu": "2.1 m",
   "weight_us": "485.0 lbs.",
   "weight_eu": "220.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 40,
@@ -51,158 +44,9 @@
     "speed": 70
   },
   "evolution_from": "Mantyke",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 1
-        },
-        {
-          "move": "Bullet Seed",
-          "level": 1
-        },
-        {
-          "move": "Psybeam",
-          "level": 1
-        },
-        {
-          "move": "Signal Beam",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 3
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 7
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 11
-        },
-        {
-          "move": "Wing Attack",
-          "level": 14
-        },
-        {
-          "move": "Headbutt",
-          "level": 16
-        },
-        {
-          "move": "Water Pulse",
-          "level": 19
-        },
-        {
-          "move": "Wide Guard",
-          "level": 23
-        },
-        {
-          "move": "Take Down",
-          "level": 27
-        },
-        {
-          "move": "Agility",
-          "level": 32
-        },
-        {
-          "move": "Air Slash",
-          "level": 36
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 39
-        },
-        {
-          "move": "Bounce",
-          "level": 46
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 49
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Splash",
-          "egg_move": true
-        },
-        {
-          "move": "Twister",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Tailwind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -329,12 +173,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -593,8 +432,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

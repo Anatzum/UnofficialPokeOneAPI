@@ -1,29 +1,23 @@
 {
-"name" : "Slaking",
+  "name": "Slaking",
   "national_id": 289,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
-      "name": "Truant"
-    }
-  ],
+  "abilities": [{
+    "name": "Truant"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "287.7 lbs.",
   "weight_eu": "130.5 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 150,
     "atk": 160,
@@ -43,150 +35,9 @@
     "speed": 100
   },
   "evolution_from": "Vigoroth",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Encore",
-          "level": 1
-        },
-        {
-          "move": "Fling",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Punishment",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Slack Off",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 1
-        },
-        {
-          "move": "Encore",
-          "level": 6
-        },
-        {
-          "move": "Slack Off",
-          "level": 9
-        },
-        {
-          "move": "Feint Attack",
-          "level": 14
-        },
-        {
-          "move": "Amnesia",
-          "level": 17
-        },
-        {
-          "move": "Covet",
-          "level": 23
-        },
-        {
-          "move": "Chip Away",
-          "level": 27
-        },
-        {
-          "move": "Counter",
-          "level": 33
-        },
-        {
-          "move": "Swagger",
-          "level": 36
-        },
-        {
-          "move": "Flail",
-          "level": 39
-        },
-        {
-          "move": "Fling",
-          "level": 47
-        },
-        {
-          "move": "Punishment",
-          "level": 53
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 61
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -385,12 +236,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Encore",
           "level": 1
         },
@@ -685,8 +531,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Encore",
           "level": 1
         },

@@ -14,8 +14,8 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
   "egg_groups": [
     "Monster",
@@ -42,138 +42,9 @@
     "speed": 60
   },
   "evolution_from": "Snover",
-  "mega_evolutions": [{
-    "types": [
-      "Grass",
-      "Ice"
-    ],
-    "ability": "Snow Warning",
-    "mega_stone": "Abomasite",
-    "height_us": "8'10\"",
-    "height_eu": "2.7 m",
-    "weight_us": "407.9 lbs.",
-    "weight_eu": "185.0 kg",
-    "base_stats": {
-      "hp": 90,
-      "atk": 132,
-      "def": 105,
-      "sp_atk": 132,
-      "sp_def": 105,
-      "speed": 30
-    }
-  }],
-  "evolutions": [],
-  "variations": [],
+  "evolutions": null,
   "move_learnsets": [{
-      "games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [{
-          "move": "Ice Punch",
-          "level": 1
-        },
-        {
-          "move": "Icy Wind",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Powder Snow",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 5
-        },
-        {
-          "move": "Icy Wind",
-          "level": 9
-        },
-        {
-          "move": "Grass Whistle",
-          "level": 13
-        },
-        {
-          "move": "Swagger",
-          "level": 17
-        },
-        {
-          "move": "Mist",
-          "level": 21
-        },
-        {
-          "move": "Ice Shard",
-          "level": 26
-        },
-        {
-          "move": "Ingrain",
-          "level": 31
-        },
-        {
-          "move": "Wood Hammer",
-          "level": 36
-        },
-        {
-          "move": "Blizzard",
-          "level": 47
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 58
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Growth",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -332,11 +203,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [{
+    "regular_learnset": [{
           "move": "Ice Punch",
           "level": 1
         },

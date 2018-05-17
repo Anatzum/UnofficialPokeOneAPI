@@ -1,11 +1,10 @@
 {
-"name" : "Hitmonlee",
+  "name": "Hitmonlee",
   "national_id": 106,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Limber"
     },
     {
@@ -17,19 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "109.8 lbs.",
   "weight_eu": "49.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -38,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 120,
@@ -49,154 +43,9 @@
     "speed": 87
   },
   "evolution_from": "Tyrogue",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Close Combat",
-          "level": 1
-        },
-        {
-          "move": "Double Kick",
-          "level": 1
-        },
-        {
-          "move": "Mega Kick",
-          "level": 1
-        },
-        {
-          "move": "Revenge",
-          "level": 1
-        },
-        {
-          "move": "Reversal",
-          "level": 1
-        },
-        {
-          "move": "Meditate",
-          "level": 5
-        },
-        {
-          "move": "Rolling Kick",
-          "level": 9
-        },
-        {
-          "move": "Jump Kick",
-          "level": 13
-        },
-        {
-          "move": "Brick Break",
-          "level": 17
-        },
-        {
-          "move": "Focus Energy",
-          "level": 21
-        },
-        {
-          "move": "Feint",
-          "level": 25
-        },
-        {
-          "move": "High Jump Kick",
-          "level": 29
-        },
-        {
-          "move": "Mind Reader",
-          "level": 33
-        },
-        {
-          "move": "Foresight",
-          "level": 37
-        },
-        {
-          "move": "Wide Guard",
-          "level": 41
-        },
-        {
-          "move": "Blaze Kick",
-          "level": 45
-        },
-        {
-          "move": "Endure",
-          "level": 49
-        },
-        {
-          "move": "Mega Kick",
-          "level": 53
-        },
-        {
-          "move": "Close Combat",
-          "level": 57
-        },
-        {
-          "move": "Reversal",
-          "level": 61
-        },
-        {
-          "move": "Bullet Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "High Jump Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Mach Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rapid Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Vacuum Wave",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -331,12 +180,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Close Combat",
           "level": 1
         },
@@ -595,8 +439,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Close Combat",
           "level": 1
         },

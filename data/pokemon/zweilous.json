@@ -1,30 +1,24 @@
 {
-"name" : "Zweilous",
+  "name": "Zweilous",
   "national_id": 634,
   "types": [
     "Dark",
     "Dragon"
   ],
-  "abilities": [
-    {
-      "name": "Hustle"
-    }
-  ],
+  "abilities": [{
+    "name": "Hustle"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Dragon"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "110.2 lbs.",
-  "weight_eu": "50.0 kg",
-  
-  
+  "weight_eu": "50 kg",
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -33,8 +27,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 72,
     "atk": 85,
@@ -44,146 +36,12 @@
     "speed": 58
   },
   "evolution_from": "Deino",
-  "evolutions": [
-    {
-      "to": "Hydreigon",
-      "level": 64
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Double Hit",
-          "level": 1
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 4
-        },
-        {
-          "move": "Bite",
-          "level": 9
-        },
-        {
-          "move": "Headbutt",
-          "level": 12
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 17
-        },
-        {
-          "move": "Roar",
-          "level": 20
-        },
-        {
-          "move": "Crunch",
-          "level": 25
-        },
-        {
-          "move": "Slam",
-          "level": 28
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 32
-        },
-        {
-          "move": "Work Up",
-          "level": 38
-        },
-        {
-          "move": "Dragon Rush",
-          "level": 42
-        },
-        {
-          "move": "Body Slam",
-          "level": 48
-        },
-        {
-          "move": "Scary Face",
-          "level": 55
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 64
-        },
-        {
-          "move": "Outrage",
-          "level": 71
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Dark Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Double Hit",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Hydreigon",
+    "level": 64
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -298,12 +156,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -522,8 +375,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

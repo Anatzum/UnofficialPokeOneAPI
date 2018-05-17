@@ -1,12 +1,11 @@
 {
-"name" : "Altaria",
+  "name": "Altaria",
   "national_id": 334,
   "types": [
     "Dragon",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Natural Cure"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying",
     "Dragon"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "45.4 lbs.",
   "weight_eu": "20.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 70,
@@ -49,182 +42,9 @@
     "speed": 80
   },
   "evolution_from": "Swablu",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Dragon",
-        "Fairy"
-      ],
-      "ability": "Pixilate",
-      "mega_stone": "Altarianite",
-      "height_us": "4'11\"",
-      "height_eu": "1.5 m",
-      "weight_us": "45.4 lbs.",
-      "weight_eu": "20.6 kg",
-      "base_stats": {
-        "hp": 75,
-        "atk": 110,
-        "def": 110,
-        "sp_atk": 110,
-        "sp_def": 105,
-        "speed": 80
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Pluck",
-          "level": 1
-        },
-        {
-          "move": "Sing",
-          "level": 1
-        },
-        {
-          "move": "Sky Attack",
-          "level": 1
-        },
-        {
-          "move": "Astonish",
-          "level": 3
-        },
-        {
-          "move": "Sing",
-          "level": 5
-        },
-        {
-          "move": "Fury Attack",
-          "level": 7
-        },
-        {
-          "move": "Safeguard",
-          "level": 9
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 11
-        },
-        {
-          "move": "Mist",
-          "level": 14
-        },
-        {
-          "move": "Round",
-          "level": 17
-        },
-        {
-          "move": "Natural Gift",
-          "level": 20
-        },
-        {
-          "move": "Take Down",
-          "level": 23
-        },
-        {
-          "move": "Refresh",
-          "level": 26
-        },
-        {
-          "move": "Dragon Dance",
-          "level": 30
-        },
-        {
-          "move": "Cotton Guard",
-          "level": 34
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 35
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 40
-        },
-        {
-          "move": "Perish Song",
-          "level": 46
-        },
-        {
-          "move": "Moonblast",
-          "level": 52
-        },
-        {
-          "move": "Sky Attack",
-          "level": 59
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rush",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Hyper Voice",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -387,12 +207,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -675,8 +490,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

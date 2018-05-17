@@ -1,31 +1,25 @@
 {
-"name" : "Archeops",
+  "name": "Archeops",
   "national_id": 567,
   "types": [
     "Rock",
     "Flying"
   ],
-  "abilities": [
-    {
-      "name": "Defeatist"
-    }
-  ],
+  "abilities": [{
+    "name": "Defeatist"
+  }],
   "gender_ratios": {
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Flying",
     "Water 3"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "70.5 lbs.",
   "weight_eu": "32.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -34,8 +28,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 140,
@@ -45,142 +37,9 @@
     "speed": 110
   },
   "evolution_from": "Archen",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Rock Throw",
-          "level": 1
-        },
-        {
-          "move": "Wing Attack",
-          "level": 1
-        },
-        {
-          "move": "Rock Throw",
-          "level": 5
-        },
-        {
-          "move": "Double Team",
-          "level": 8
-        },
-        {
-          "move": "Scary Face",
-          "level": 11
-        },
-        {
-          "move": "Pluck",
-          "level": 15
-        },
-        {
-          "move": "Ancient Power",
-          "level": 18
-        },
-        {
-          "move": "Agility",
-          "level": 21
-        },
-        {
-          "move": "Quick Guard",
-          "level": 25
-        },
-        {
-          "move": "Acrobatics",
-          "level": 28
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 31
-        },
-        {
-          "move": "Crunch",
-          "level": 35
-        },
-        {
-          "move": "Endeavor",
-          "level": 40
-        },
-        {
-          "move": "U-turn",
-          "level": 45
-        },
-        {
-          "move": "Rock Slide",
-          "level": 51
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 56
-        },
-        {
-          "move": "Thrash",
-          "level": 61
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -351,12 +210,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -623,8 +477,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

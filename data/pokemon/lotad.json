@@ -1,12 +1,11 @@
 {
-"name" : "Lotad",
+  "name": "Lotad",
   "national_id": 270,
   "types": [
     "Water",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Grass"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "5.7 lbs.",
   "weight_eu": "2.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 30,
@@ -51,127 +44,13 @@
     "sp_def": 50,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Lombre",
-      "level": 14
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Lombre",
+    "level": 14
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 3
-        },
-        {
-          "move": "Absorb",
-          "level": 6
-        },
-        {
-          "move": "Bubble",
-          "level": 9
-        },
-        {
-          "move": "Natural Gift",
-          "level": 12
-        },
-        {
-          "move": "Mist",
-          "level": 15
-        },
-        {
-          "move": "Mega Drain",
-          "level": 18
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 21
-        },
-        {
-          "move": "Nature Power",
-          "level": 24
-        },
-        {
-          "move": "Rain Dance",
-          "level": 27
-        },
-        {
-          "move": "Giga Drain",
-          "level": 30
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 33
-        },
-        {
-          "move": "Energy Ball",
-          "level": 36
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Scent",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Teeter Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Water Gun",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -294,12 +173,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -510,8 +384,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

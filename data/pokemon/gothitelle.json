@@ -1,11 +1,10 @@
 {
-"name" : "Gothitelle",
+  "name": "Gothitelle",
   "national_id": 576,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Frisk"
     },
     {
@@ -17,17 +16,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "97.0 lbs.",
   "weight_eu": "44.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 55,
@@ -47,134 +40,9 @@
     "speed": 65
   },
   "evolution_from": "Gothorita",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Play Nice",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Tickle",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 3
-        },
-        {
-          "move": "Tickle",
-          "level": 7
-        },
-        {
-          "move": "Fake Tears",
-          "level": 10
-        },
-        {
-          "move": "Double Slap",
-          "level": 14
-        },
-        {
-          "move": "Psybeam",
-          "level": 16
-        },
-        {
-          "move": "Embargo",
-          "level": 19
-        },
-        {
-          "move": "Feint Attack",
-          "level": 24
-        },
-        {
-          "move": "Psyshock",
-          "level": 25
-        },
-        {
-          "move": "Flatter",
-          "level": 28
-        },
-        {
-          "move": "Future Sight",
-          "level": 31
-        },
-        {
-          "move": "Heal Block",
-          "level": 34
-        },
-        {
-          "move": "Psychic",
-          "level": 39
-        },
-        {
-          "move": "Telekinesis",
-          "level": 45
-        },
-        {
-          "move": "Charm",
-          "level": 54
-        },
-        {
-          "move": "Magic Room",
-          "level": 59
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Dark Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Miracle Eye",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -361,12 +229,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -649,8 +512,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

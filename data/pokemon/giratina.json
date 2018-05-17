@@ -1,12 +1,11 @@
 {
-"name" : "Giratina",
+  "name": "Giratina",
   "national_id": 487,
   "types": [
     "Ghost",
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "14'09\"",
   "height_eu": "4.5 m",
   "weight_us": "1653.5 lbs.",
-  "weight_eu": "750.0 kg",
-  
-  
+  "weight_eu": "750 kg",
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -34,8 +29,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 150,
     "atk": 100,
@@ -44,97 +37,8 @@
     "sp_def": 120,
     "speed": 90
   },
-  
-  "variations": [
-    {
-      "condition": "holding Griseous Orb or in Distortion World",
-      "image_suffix": "origin",
-      "name": {
-        
-      },
-      "types": [
-        "Ghost",
-        "Dragon"
-      ],
-      "abilities": [
-        {
-          "name": "Levitate"
-        }
-      ],
-      "height_us": "22'08\"",
-      "height_eu": "4.5 m",
-      "weight_us": "1433.0 lbs.",
-      "weight_eu": "650.0 kg",
-      "base_stats": {
-        "hp": 150,
-        "atk": 120,
-        "def": 100,
-        "sp_atk": 120,
-        "sp_def": 100,
-        "speed": 90
-      },
-      
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Dragon Breath",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 1
-        },
-        {
-          "move": "Ominous Wind",
-          "level": 6
-        },
-        {
-          "move": "Ancient Power",
-          "level": 10
-        },
-        {
-          "move": "Slash",
-          "level": 15
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 19
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 24
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 28
-        },
-        {
-          "move": "Earth Power",
-          "level": 33
-        },
-        {
-          "move": "Aura Sphere",
-          "level": 37
-        },
-        {
-          "move": "Shadow Claw",
-          "level": 42
-        },
-        {
-          "move": "Shadow Force",
-          "level": 46
-        },
-        {
-          "move": "Hex",
-          "level": 50
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -325,12 +229,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Dragon Breath",
           "level": 1
         },
@@ -561,8 +460,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Dragon Breath",
           "level": 1
         },

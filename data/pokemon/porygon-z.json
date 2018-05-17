@@ -1,16 +1,10 @@
 {
-  "name": {
-    "fr": "Porygon-Z",
-    "de": "Porygon-Z",
-    "it": "Porygon-Z",
-    "en": "Porygon-Z"
-  },
+  "name": "Porygon-Z",
   "national_id": 474,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Adaptability"
     },
     {
@@ -22,17 +16,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "75.0 lbs.",
   "weight_eu": "34.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 80,
@@ -52,106 +40,9 @@
     "speed": 90
   },
   "evolution_from": "Porygon2",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Conversion",
-          "level": 1
-        },
-        {
-          "move": "Conversion 2",
-          "level": 1
-        },
-        {
-          "move": "Magic Coat",
-          "level": 1
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Trick Room",
-          "level": 1
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 1
-        },
-        {
-          "move": "Psybeam",
-          "level": 7
-        },
-        {
-          "move": "Agility",
-          "level": 12
-        },
-        {
-          "move": "Recover",
-          "level": 18
-        },
-        {
-          "move": "Magnet Rise",
-          "level": 23
-        },
-        {
-          "move": "Signal Beam",
-          "level": 29
-        },
-        {
-          "move": "Embargo",
-          "level": 34
-        },
-        {
-          "move": "Discharge",
-          "level": 40
-        },
-        {
-          "move": "Lock-On",
-          "level": 45
-        },
-        {
-          "move": "Tri Attack",
-          "level": 50
-        },
-        {
-          "move": "Magic Coat",
-          "level": 56
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 62
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 67
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -298,12 +189,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Conversion",
           "level": 1
         },
@@ -522,8 +408,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Conversion",
           "level": 1
         },

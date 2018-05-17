@@ -1,12 +1,11 @@
 {
-"name" : "Honchkrow",
+  "name": "Honchkrow",
   "national_id": 430,
   "types": [
     "Dark",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Insomnia"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "60.2 lbs.",
   "weight_eu": "27.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 125,
@@ -51,138 +44,9 @@
     "speed": 71
   },
   "evolution_from": "Murkrow",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Haze",
-          "level": 1
-        },
-        {
-          "move": "Night Slash",
-          "level": 1
-        },
-        {
-          "move": "Pursuit",
-          "level": 1
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 1
-        },
-        {
-          "move": "Wing Attack",
-          "level": 1
-        },
-        {
-          "move": "Swagger",
-          "level": 25
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 35
-        },
-        {
-          "move": "Foul Play",
-          "level": 45
-        },
-        {
-          "move": "Night Slash",
-          "level": 55
-        },
-        {
-          "move": "Quash",
-          "level": 65
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 75
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Drill Peck",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Flatter",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Shift",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Sky Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
-          "move": "Wing Attack",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -341,12 +205,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -605,8 +464,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

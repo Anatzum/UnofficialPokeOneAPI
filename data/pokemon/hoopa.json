@@ -1,27 +1,21 @@
 {
-"name" : "Hoopa",
+  "name": "Hoopa",
   "national_id": 720,
   "types": [
     "Psychic",
     "Ghost"
   ],
-  "abilities": [
-    {
-      "name": "Magician"
-    }
-  ],
+  "abilities": [{
+    "name": "Magician"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "19.8 lbs.",
   "weight_eu": "9.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 110,
@@ -40,308 +32,8 @@
     "sp_def": 130,
     "speed": 70
   },
-  
-  "variations": [
-    {
-      "condition": "using Prison Bottle",
-      "name": {
-        "en": "Hoopa Unbound",
-        "de": "Entfesseltes Hoopa"
-      },
-      "types": [
-        "Psychic",
-        "Dark"
-      ],
-      "height_us": "21'04\"",
-      "height_eu": "6.5 m",
-      "weight_us": "1080.3 lbs.",
-      "weight_eu": "490.0 kg",
-      "base_stats": {
-        "hp": 80,
-        "atk": 160,
-        "def": 60,
-        "sp_atk": 170,
-        "sp_def": 130,
-        "speed": 80
-      }
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ally Switch",
-          "level": 1,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Confusion",
-          "level": 1,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 1,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Hyperspace Hole",
-          "level": 1,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Trick",
-          "level": 1,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Astonish",
-          "level": 6,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Magic Coat",
-          "level": 10,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Light Screen",
-          "level": 15,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Psybeam",
-          "level": 19,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Skill Swap",
-          "level": 25,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Guard Split",
-          "level": 29,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Power Split",
-          "level": 29,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Phantom Force",
-          "level": 35,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 46,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Trick Room",
-          "level": 50,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Wonder Room",
-          "level": 50,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 55,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 68,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 75,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Hyperspace Hole",
-          "level": 85,
-          "variations": [
-            "Hoopa Confined"
-          ]
-        },
-        {
-          "move": "Ally Switch",
-          "level": 1,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Confusion",
-          "level": 1,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 1,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Hyperspace Fury",
-          "level": 1,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Trick",
-          "level": 1,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Astonish",
-          "level": 6,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Magic Coat",
-          "level": 10,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Light Screen",
-          "level": 15,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Psybeam",
-          "level": 19,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Skill Swap",
-          "level": 25,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Guard Split",
-          "level": 29,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Power Split",
-          "level": 29,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Knock Off",
-          "level": 46,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Trick Room",
-          "level": 50,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Wonder Room",
-          "level": 50,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 55,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Psychic",
-          "level": 75,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
-          "move": "Hyperspace Fury",
-          "level": 85,
-          "variations": [
-            "Hoopa Unbound"
-          ]
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -520,12 +212,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ally Switch",
           "level": 1,
           "variations": [
@@ -962,8 +649,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ally Switch",
           "level": 1,
           "variations": [

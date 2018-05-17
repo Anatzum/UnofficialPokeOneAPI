@@ -1,12 +1,11 @@
 {
-"name" : "Bellsprout",
+  "name": "Bellsprout",
   "national_id": 69,
   "types": [
     "Grass",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "8.8 lbs.",
   "weight_eu": "4.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 75,
@@ -47,147 +40,13 @@
     "sp_def": 30,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Weepinbell",
-      "level": 21
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Weepinbell",
+    "level": 21
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Vine Whip",
-          "level": 1
-        },
-        {
-          "move": "Growth",
-          "level": 7
-        },
-        {
-          "move": "Wrap",
-          "level": 11
-        },
-        {
-          "move": "Sleep Powder",
-          "level": 13
-        },
-        {
-          "move": "Poison Powder",
-          "level": 15
-        },
-        {
-          "move": "Stun Spore",
-          "level": 17
-        },
-        {
-          "move": "Acid",
-          "level": 23
-        },
-        {
-          "move": "Knock Off",
-          "level": 27
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 29
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 35
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 39
-        },
-        {
-          "move": "Slam",
-          "level": 41
-        },
-        {
-          "move": "Wring Out",
-          "level": 47
-        },
-        {
-          "move": "Acid Spray",
-          "egg_move": true
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Life",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Power Whip",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Weather Ball",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -302,12 +161,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Vine Whip",
           "level": 1
         },
@@ -534,8 +388,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Vine Whip",
           "level": 1
         },

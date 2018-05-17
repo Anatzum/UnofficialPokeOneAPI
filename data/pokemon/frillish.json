@@ -1,12 +1,11 @@
 {
-"name" : "Frillish",
+  "name": "Frillish",
   "national_id": 592,
   "types": [
     "Water",
     "Ghost"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Water Absorb"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "72.8 lbs.",
   "weight_eu": "33.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 40,
@@ -47,126 +40,13 @@
     "sp_def": 85,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Jellicent",
-      "level": 40
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Jellicent",
+    "level": 40
+  }],
   "evolution_from": null,
-  "variations": [
-    {
-      "condition": "female",
-      "image_suffix": "female",
-      "name": {
-        
-      },
-      "types": [
-        "Water",
-        "Ghost"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 1
-        },
-        {
-          "move": "Absorb",
-          "level": 5
-        },
-        {
-          "move": "Night Shade",
-          "level": 9
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 13
-        },
-        {
-          "move": "Recover",
-          "level": 17
-        },
-        {
-          "move": "Water Pulse",
-          "level": 22
-        },
-        {
-          "move": "Ominous Wind",
-          "level": 27
-        },
-        {
-          "move": "Brine",
-          "level": 32
-        },
-        {
-          "move": "Rain Dance",
-          "level": 37
-        },
-        {
-          "move": "Hex",
-          "level": 43
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 49
-        },
-        {
-          "move": "Wring Out",
-          "level": 55
-        },
-        {
-          "move": "Water Spout",
-          "level": 61
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Constrict",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Pain Split",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -317,12 +197,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -545,8 +420,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

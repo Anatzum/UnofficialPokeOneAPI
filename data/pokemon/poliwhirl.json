@@ -1,11 +1,10 @@
 {
-"name" : "Poliwhirl",
+  "name": "Poliwhirl",
   "national_id": 61,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Water Absorb"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "44.1 lbs.",
   "weight_eu": "20.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 65,
@@ -50,8 +43,7 @@
     "speed": 90
   },
   "evolution_from": "Poliwag",
-  "evolutions": [
-    {
+  "evolutions": [{
       "to": "Poliwrath",
       "item": "Water Stone"
     },
@@ -61,140 +53,8 @@
       "hold_item": "King's Rock"
     }
   ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Hypnosis",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 5
-        },
-        {
-          "move": "Hypnosis",
-          "level": 8
-        },
-        {
-          "move": "Bubble",
-          "level": 11
-        },
-        {
-          "move": "Double Slap",
-          "level": 15
-        },
-        {
-          "move": "Rain Dance",
-          "level": 18
-        },
-        {
-          "move": "Body Slam",
-          "level": 21
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 27
-        },
-        {
-          "move": "Mud Shot",
-          "level": 32
-        },
-        {
-          "move": "Belly Drum",
-          "level": 37
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 43
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 48
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 53
-        },
-        {
-          "move": "Bubble Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Ball",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Splash",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -329,12 +189,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hypnosis",
           "level": 1
         },
@@ -561,8 +416,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hypnosis",
           "level": 1
         },

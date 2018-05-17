@@ -1,11 +1,10 @@
 {
-"name" : "Grotle",
+  "name": "Grotle",
   "national_id": 388,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Grass"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "213.8 lbs.",
   "weight_eu": "97.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 89,
@@ -48,150 +41,12 @@
     "speed": 36
   },
   "evolution_from": "Turtwig",
-  "evolutions": [
-    {
-      "to": "Torterra",
-      "level": 32
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 5
-        },
-        {
-          "move": "Absorb",
-          "level": 9
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 13
-        },
-        {
-          "move": "Curse",
-          "level": 17
-        },
-        {
-          "move": "Bite",
-          "level": 22
-        },
-        {
-          "move": "Mega Drain",
-          "level": 27
-        },
-        {
-          "move": "Leech Seed",
-          "level": 32
-        },
-        {
-          "move": "Synthesis",
-          "level": 37
-        },
-        {
-          "move": "Crunch",
-          "level": 42
-        },
-        {
-          "move": "Giga Drain",
-          "level": 47
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 52
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Growth",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Torterra",
+    "level": 32
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -306,12 +161,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -534,8 +384,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

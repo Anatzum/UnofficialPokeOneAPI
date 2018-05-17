@@ -1,12 +1,11 @@
 {
-"name" : "Torterra",
+  "name": "Torterra",
   "national_id": 389,
   "types": [
     "Grass",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -18,18 +17,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Grass"
   ],
-  
   "height_us": "7'03\"",
   "height_eu": "2.2 m",
   "weight_us": "683.4 lbs.",
   "weight_eu": "310.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 109,
@@ -49,162 +42,9 @@
     "speed": 56
   },
   "evolution_from": "Grotle",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 1
-        },
-        {
-          "move": "Wood Hammer",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 5
-        },
-        {
-          "move": "Absorb",
-          "level": 9
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 13
-        },
-        {
-          "move": "Curse",
-          "level": 17
-        },
-        {
-          "move": "Bite",
-          "level": 22
-        },
-        {
-          "move": "Mega Drain",
-          "level": 27
-        },
-        {
-          "move": "Earthquake",
-          "level": 32
-        },
-        {
-          "move": "Leech Seed",
-          "level": 33
-        },
-        {
-          "move": "Synthesis",
-          "level": 39
-        },
-        {
-          "move": "Crunch",
-          "level": 45
-        },
-        {
-          "move": "Giga Drain",
-          "level": 51
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 57
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Growth",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -359,12 +199,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -639,8 +474,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

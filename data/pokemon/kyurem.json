@@ -1,27 +1,21 @@
 {
-"name" : "Kyurem",
+  "name": "Kyurem",
   "national_id": 646,
   "types": [
     "Dragon",
     "Ice"
   ],
-  "abilities": [
-    {
-      "name": "Pressure"
-    }
-  ],
+  "abilities": [{
+    "name": "Pressure"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "9'10\"",
   "height_eu": "3.0 m",
   "weight_us": "716.5 lbs.",
   "weight_eu": "325.0 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 1,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 125,
     "atk": 130,
@@ -40,404 +32,8 @@
     "sp_def": 90,
     "speed": 95
   },
-  
-  "variations": [
-    {
-      "condition": "using DNA Splicers",
-      "image_suffix": "white",
-      "name": {
-        "en": "White Kyurem",
-        "de": "Weißes Kyurem"
-      },
-      "types": [
-        "Dragon",
-        "Ice"
-      ],
-      "height_us": "11'10\"",
-      "height_eu": "3.6 m",
-      "abilities": [
-        {
-          "name": "Turboblaze"
-        }
-      ],
-      "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 3,
-        "sp_def": 0,
-        "speed": 0
-      },
-      "base_stats": {
-        "hp": 125,
-        "atk": 120,
-        "def": 90,
-        "sp_atk": 170,
-        "sp_def": 100,
-        "speed": 95
-      }
-    },
-    {
-      "condition": "using DNA Splicers",
-      "image_suffix": "black",
-      "name": {
-        "en": "Black Kyurem",
-        "de": " Schwarzes Kyurem"
-      },
-      "types": [
-        "Dragon",
-        "Ice"
-      ],
-      "height_us": "10'10\"",
-      "height_eu": "3.3 m",
-      "abilities": [
-        {
-          "name": "Teravolt"
-        }
-      ],
-      "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-      },
-      "base_stats": {
-        "hp": 125,
-        "atk": 170,
-        "def": 100,
-        "sp_atk": 120,
-        "sp_def": 90,
-        "speed": 95
-      }
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Dragon Rage",
-          "level": 1,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Icy Wind",
-          "level": 1,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Imprison",
-          "level": 8,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Ancient Power",
-          "level": 15,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Ice Beam",
-          "level": 22,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 29,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Slash",
-          "level": 36,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Scary Face",
-          "level": 43,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Glaciate",
-          "level": 50,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 57,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Imprison",
-          "level": 64,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Endeavor",
-          "level": 71,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Blizzard",
-          "level": 78,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Outrage",
-          "level": 85,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 92,
-          "variations": [
-            "Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 1,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Icy Wind",
-          "level": 1,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Imprison",
-          "level": 8,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Ancient Power",
-          "level": 15,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Ice Beam",
-          "level": 22,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 29,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Slash",
-          "level": 36,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Fusion Bolt",
-          "level": 43,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Freeze Shock",
-          "level": 50,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 57,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Imprison",
-          "level": 64,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Endeavor",
-          "level": 71,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Blizzard",
-          "level": 78,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Outrage",
-          "level": 85,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 92,
-          "variations": [
-            "Black Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 1,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Icy Wind",
-          "level": 1,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Imprison",
-          "level": 8,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Ancient Power",
-          "level": 15,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Ice Beam",
-          "level": 22,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 29,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Slash",
-          "level": 36,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Fusion Flare",
-          "level": 43,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Ice Burn",
-          "level": 50,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 57,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Imprison",
-          "level": 64,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Endeavor",
-          "level": 71,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Blizzard",
-          "level": 78,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Outrage",
-          "level": 85,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 92,
-          "variations": [
-            "White Kyurem"
-          ]
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -616,12 +212,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Dragon Rage",
           "level": 1,
           "variations": [
@@ -1103,8 +694,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Dragon Rage",
           "level": 1,
           "variations": [

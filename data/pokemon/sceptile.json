@@ -1,11 +1,10 @@
 {
-"name" : "Sceptile",
+  "name": "Sceptile",
   "national_id": 254,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "115.1 lbs.",
   "weight_eu": "52.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 3
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 85,
@@ -48,198 +41,9 @@
     "speed": 120
   },
   "evolution_from": "Grovyle",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Grass",
-        "Dragon"
-      ],
-      "ability": "Lightning Rod",
-      "mega_stone": "Sceptilite",
-      "height_us": "6'03\"",
-      "height_eu": "1.9 m",
-      "weight_us": "121.7 lbs.",
-      "weight_eu": "55.2 kg",
-      "base_stats": {
-        "hp": 70,
-        "atk": 110,
-        "def": 75,
-        "sp_atk": 145,
-        "sp_def": 85,
-        "speed": 145
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Night Slash",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Absorb",
-          "level": 5
-        },
-        {
-          "move": "Quick Attack",
-          "level": 9
-        },
-        {
-          "move": "Mega Drain",
-          "level": 13
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 16
-        },
-        {
-          "move": "Pursuit",
-          "level": 18
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 23
-        },
-        {
-          "move": "Agility",
-          "level": 28
-        },
-        {
-          "move": "Slam",
-          "level": 33
-        },
-        {
-          "move": "Dual Chop",
-          "level": 36
-        },
-        {
-          "move": "Detect",
-          "level": 39
-        },
-        {
-          "move": "X-Scissor",
-          "level": 45
-        },
-        {
-          "move": "False Swipe",
-          "level": 51
-        },
-        {
-          "move": "Quick Guard",
-          "level": 57
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 63
-        },
-        {
-          "move": "Screech",
-          "level": 69
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Breath",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -422,12 +226,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -738,8 +537,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

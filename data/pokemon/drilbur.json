@@ -1,11 +1,10 @@
 {
-"name" : "Drilbur",
+  "name": "Drilbur",
   "national_id": 529,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Rush"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "18.7 lbs.",
   "weight_eu": "8.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 85,
@@ -46,127 +39,13 @@
     "sp_def": 45,
     "speed": 68
   },
-  "evolutions": [
-    {
-      "to": "Excadrill",
-      "level": 31
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Excadrill",
+    "level": 31
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Mud Sport",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 5
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 8
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 12
-        },
-        {
-          "move": "Metal Claw",
-          "level": 15
-        },
-        {
-          "move": "Dig",
-          "level": 19
-        },
-        {
-          "move": "Hone Claws",
-          "level": 22
-        },
-        {
-          "move": "Slash",
-          "level": 26
-        },
-        {
-          "move": "Rock Slide",
-          "level": 29
-        },
-        {
-          "move": "Earthquake",
-          "level": 33
-        },
-        {
-          "move": "Swords Dance",
-          "level": 36
-        },
-        {
-          "move": "Sandstorm",
-          "level": 40
-        },
-        {
-          "move": "Drill Run",
-          "level": 43
-        },
-        {
-          "move": "Fissure",
-          "level": 47
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Sound",
-          "egg_move": true
-        },
-        {
-          "move": "Rapid Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
-          "move": "Submission",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -301,12 +180,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Mud Sport",
           "level": 1
         },
@@ -513,8 +387,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Mud Sport",
           "level": 1
         },

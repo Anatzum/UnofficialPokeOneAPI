@@ -1,12 +1,11 @@
 {
-"name" : "Camerupt",
+  "name": "Camerupt",
   "national_id": 323,
   "types": [
     "Fire",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Magma Armor"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "6'03\"",
   "height_eu": "1.9 m",
   "weight_us": "485.0 lbs.",
   "weight_eu": "220.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 100,
@@ -51,194 +44,9 @@
     "speed": 40
   },
   "evolution_from": "Numel",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Fire",
-        "Ground"
-      ],
-      "ability": "Sheer Force",
-      "mega_stone": "Cameruptite",
-      "height_us": "8'02\"",
-      "height_eu": "2.5 m",
-      "weight_us": "706.6 lbs.",
-      "weight_eu": "320.5 kg",
-      "base_stats": {
-        "hp": 70,
-        "atk": 120,
-        "def": 100,
-        "sp_atk": 145,
-        "sp_def": 105,
-        "speed": 20
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Eruption",
-          "level": 1
-        },
-        {
-          "move": "Fissure",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 5
-        },
-        {
-          "move": "Focus Energy",
-          "level": 8
-        },
-        {
-          "move": "Magnitude",
-          "level": 12
-        },
-        {
-          "move": "Flame Burst",
-          "level": 15
-        },
-        {
-          "move": "Amnesia",
-          "level": 19
-        },
-        {
-          "move": "Lava Plume",
-          "level": 22
-        },
-        {
-          "move": "Earth Power",
-          "level": 26
-        },
-        {
-          "move": "Curse",
-          "level": 29
-        },
-        {
-          "move": "Take Down",
-          "level": 31
-        },
-        {
-          "move": "Rock Slide",
-          "level": 33
-        },
-        {
-          "move": "Yawn",
-          "level": 39
-        },
-        {
-          "move": "Earthquake",
-          "level": 46
-        },
-        {
-          "move": "Eruption",
-          "level": 52
-        },
-        {
-          "move": "Fissure",
-          "level": 59
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Growth",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Howl",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Spit Up",
-          "egg_move": true
-        },
-        {
-          "move": "Stockpile",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Swallow",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -401,12 +209,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -697,8 +500,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

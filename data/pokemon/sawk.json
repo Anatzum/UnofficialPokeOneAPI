@@ -1,11 +1,10 @@
 {
-"name" : "Sawk",
+  "name": "Sawk",
   "national_id": 539,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -14,19 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "112.4 lbs.",
   "weight_eu": "51.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -35,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 125,
@@ -45,91 +39,10 @@
     "sp_def": 75,
     "speed": 85
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Rock Smash",
-          "level": 1
-        },
-        {
-          "move": "Bide",
-          "level": 5
-        },
-        {
-          "move": "Focus Energy",
-          "level": 9
-        },
-        {
-          "move": "Double Kick",
-          "level": 13
-        },
-        {
-          "move": "Low Sweep",
-          "level": 17
-        },
-        {
-          "move": "Counter",
-          "level": 21
-        },
-        {
-          "move": "Karate Chop",
-          "level": 25
-        },
-        {
-          "move": "Brick Break",
-          "level": 29
-        },
-        {
-          "move": "Bulk Up",
-          "level": 33
-        },
-        {
-          "move": "Retaliate",
-          "level": 37
-        },
-        {
-          "move": "Endure",
-          "level": 41
-        },
-        {
-          "move": "Quick Guard",
-          "level": 45
-        },
-        {
-          "move": "Close Combat",
-          "level": 48
-        },
-        {
-          "move": "Reversal",
-          "level": 50
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -280,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -480,8 +388,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

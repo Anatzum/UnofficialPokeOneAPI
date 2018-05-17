@@ -1,12 +1,11 @@
 {
-"name" : "Murkrow",
+  "name": "Murkrow",
   "national_id": 198,
   "types": [
     "Dark",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Insomnia"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "4.6 lbs.",
   "weight_eu": "2.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 85,
@@ -50,155 +43,13 @@
     "sp_def": 42,
     "speed": 91
   },
-  "evolutions": [
-    {
-      "to": "Honchkrow",
-      "item": "Dusk Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Honchkrow",
+    "item": "Dusk Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Pursuit",
-          "level": 5
-        },
-        {
-          "move": "Haze",
-          "level": 11
-        },
-        {
-          "move": "Wing Attack",
-          "level": 15
-        },
-        {
-          "move": "Night Shade",
-          "level": 21
-        },
-        {
-          "move": "Assurance",
-          "level": 25
-        },
-        {
-          "move": "Taunt",
-          "level": 31
-        },
-        {
-          "move": "Feint Attack",
-          "level": 35
-        },
-        {
-          "move": "Mean Look",
-          "level": 41
-        },
-        {
-          "move": "Foul Play",
-          "level": 45
-        },
-        {
-          "move": "Tailwind",
-          "level": 50
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 55
-        },
-        {
-          "move": "Torment",
-          "level": 61
-        },
-        {
-          "move": "Quash",
-          "level": 65
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Drill Peck",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Flatter",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Shift",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Sky Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
-          "move": "Wing Attack",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -345,12 +196,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -613,8 +459,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

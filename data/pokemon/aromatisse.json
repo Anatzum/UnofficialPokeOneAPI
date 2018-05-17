@@ -1,11 +1,10 @@
 {
-"name" : "Aromatisse",
+  "name": "Aromatisse",
   "national_id": 683,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Healer"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "34.2 lbs.",
   "weight_eu": "15.5 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 101,
     "atk": 72,
@@ -47,126 +40,9 @@
     "speed": 29
   },
   "evolution_from": "Spritzee",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aromatic Mist",
-          "level": 1
-        },
-        {
-          "move": "Fairy Wind",
-          "level": 1
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 1
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 1
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 6
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 8
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 13
-        },
-        {
-          "move": "Calm Mind",
-          "level": 17
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 21
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 25
-        },
-        {
-          "move": "Attract",
-          "level": 29
-        },
-        {
-          "move": "Moonblast",
-          "level": 31
-        },
-        {
-          "move": "Charm",
-          "level": 35
-        },
-        {
-          "move": "Flail",
-          "level": 38
-        },
-        {
-          "move": "Misty Terrain",
-          "level": 42
-        },
-        {
-          "move": "Skill Swap",
-          "level": 44
-        },
-        {
-          "move": "Psychic",
-          "level": 48
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 53
-        },
-        {
-          "move": "Reflect",
-          "level": 57
-        },
-        {
-          "move": "Psych Up",
-          "level": 64
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -317,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aromatic Mist",
           "level": 1
         },
@@ -573,8 +444,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aromatic Mist",
           "level": 1
         },

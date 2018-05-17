@@ -1,11 +1,10 @@
 {
-"name" : "Purrloin",
+  "name": "Purrloin",
   "national_id": 509,
   "types": [
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Limber"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "22.3 lbs.",
   "weight_eu": "10.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 41,
     "atk": 50,
@@ -46,139 +39,13 @@
     "sp_def": 37,
     "speed": 66
   },
-  "evolutions": [
-    {
-      "to": "Liepard",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Liepard",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 3
-        },
-        {
-          "move": "Assist",
-          "level": 6
-        },
-        {
-          "move": "Sand Attack",
-          "level": 10
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 12
-        },
-        {
-          "move": "Pursuit",
-          "level": 15
-        },
-        {
-          "move": "Torment",
-          "level": 19
-        },
-        {
-          "move": "Fake Out",
-          "level": 21
-        },
-        {
-          "move": "Hone Claws",
-          "level": 24
-        },
-        {
-          "move": "Assurance",
-          "level": 28
-        },
-        {
-          "move": "Slash",
-          "level": 30
-        },
-        {
-          "move": "Captivate",
-          "level": 33
-        },
-        {
-          "move": "Night Slash",
-          "level": 37
-        },
-        {
-          "move": "Snatch",
-          "level": 39
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 42
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 46
-        },
-        {
-          "move": "Play Rough",
-          "level": 49
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Copycat",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Pay Day",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -321,12 +188,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Scratch",
           "level": 1
         },
@@ -565,8 +427,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Scratch",
           "level": 1
         },

@@ -1,29 +1,23 @@
 {
-"name" : "Eelektrik",
+  "name": "Eelektrik",
   "national_id": 603,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "48.5 lbs.",
   "weight_eu": "22.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 85,
@@ -43,94 +35,12 @@
     "speed": 40
   },
   "evolution_from": "Tynamo",
-  "evolutions": [
-    {
-      "to": "Eelektross",
-      "item": "Thunder Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charge Beam",
-          "level": 1
-        },
-        {
-          "move": "Headbutt",
-          "level": 1
-        },
-        {
-          "move": "Spark",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 1
-        },
-        {
-          "move": "Bind",
-          "level": 9
-        },
-        {
-          "move": "Acid",
-          "level": 19
-        },
-        {
-          "move": "Discharge",
-          "level": 29
-        },
-        {
-          "move": "Crunch",
-          "level": 39
-        },
-        {
-          "move": "Thunderbolt",
-          "level": 44
-        },
-        {
-          "move": "Acid Spray",
-          "level": 49
-        },
-        {
-          "move": "Coil",
-          "level": 54
-        },
-        {
-          "move": "Wild Charge",
-          "level": 59
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 64
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 69
-        },
-        {
-          "move": "Thrash",
-          "level": 74
-        },
-        {
+  "evolutions": [{
+    "to": "Eelektross",
+    "item": "Thunder Stone"
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -241,12 +151,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charge Beam",
           "level": 1
         },
@@ -413,8 +318,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charge Beam",
           "level": 1
         },

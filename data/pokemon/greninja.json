@@ -1,12 +1,11 @@
 {
-"name" : "Greninja",
+  "name": "Greninja",
   "national_id": 658,
   "types": [
     "Water",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Torrent"
     },
     {
@@ -21,17 +20,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 1"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "88.2 lbs.",
   "weight_eu": "40.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 3
   },
-  
-  
   "base_stats": {
     "hp": 72,
     "atk": 95,
@@ -51,146 +44,8 @@
     "speed": 122
   },
   "evolution_from": "Frogadier",
-  
-  "variations": [
-    {
-      "condition": "using Battle Bond",
-      "name": {
-        "en": "Ash-Greninja",
-        "de": "Ash-Quajutsu"
-      },
-      "types": [
-        "Water",
-        "Dark"
-      ],
-      "base_stats": {
-        "hp": 72,
-        "atk": 145,
-        "def": 67,
-        "sp_atk": 153,
-        "sp_def": 71,
-        "speed": 132
-      }
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Mat Block",
-          "level": 1
-        },
-        {
-          "move": "Night Slash",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Role Play",
-          "level": 1
-        },
-        {
-          "move": "Bubble",
-          "level": 5
-        },
-        {
-          "move": "Quick Attack",
-          "level": 8
-        },
-        {
-          "move": "Lick",
-          "level": 10
-        },
-        {
-          "move": "Water Pulse",
-          "level": 14
-        },
-        {
-          "move": "Smokescreen",
-          "level": 20
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 23
-        },
-        {
-          "move": "Spikes",
-          "level": 28
-        },
-        {
-          "move": "Feint Attack",
-          "level": 33
-        },
-        {
-          "move": "Water Shuriken",
-          "level": 36
-        },
-        {
-          "move": "Substitute",
-          "level": 43
-        },
-        {
-          "move": "Extrasensory",
-          "level": 49
-        },
-        {
-          "move": "Double Team",
-          "level": 52
-        },
-        {
-          "move": "Haze",
-          "level": 56
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 60
-        },
-        {
-          "move": "Night Slash",
-          "level": 70
-        },
-        {
-          "move": "Water Shuriken",
-          "level": 75
-        },
-        {
-          "move": "Bestow",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -357,12 +212,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -629,8 +479,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

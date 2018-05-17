@@ -1,12 +1,11 @@
 {
-"name" : "Natu",
+  "name": "Natu",
   "national_id": 177,
   "types": [
     "Psychic",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Synchronize"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "4.4 lbs.",
   "weight_eu": "2.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 50,
@@ -50,155 +43,13 @@
     "sp_def": 45,
     "speed": 70
   },
-  "evolutions": [
-    {
-      "to": "Xatu",
-      "level": 25
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Xatu",
+    "level": 25
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Night Shade",
-          "level": 6
-        },
-        {
-          "move": "Teleport",
-          "level": 9
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 12
-        },
-        {
-          "move": "Stored Power",
-          "level": 17
-        },
-        {
-          "move": "Ominous Wind",
-          "level": 20
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 23
-        },
-        {
-          "move": "Wish",
-          "level": 28
-        },
-        {
-          "move": "Psychic",
-          "level": 33
-        },
-        {
-          "move": "Miracle Eye",
-          "level": 36
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 39
-        },
-        {
-          "move": "Future Sight",
-          "level": 44
-        },
-        {
-          "move": "Guard Swap",
-          "level": 47
-        },
-        {
-          "move": "Power Swap",
-          "level": 47
-        },
-        {
-          "move": "Me First",
-          "level": 50
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Drill Peck",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Simple Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Synchronoise",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -345,12 +196,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -613,8 +459,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

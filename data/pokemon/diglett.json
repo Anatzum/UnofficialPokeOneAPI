@@ -1,11 +1,10 @@
 {
-"name" : "Diglett",
+  "name": "Diglett",
   "national_id": 50,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Veil"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "1.8 lbs.",
   "weight_eu": "0.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 10,
     "atk": 55,
@@ -49,167 +42,13 @@
     "sp_def": 45,
     "speed": 95
   },
-  "evolutions": [
-    {
-      "to": "Dugtrio",
-      "level": 26
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Dugtrio",
+    "level": 26
+  }],
   "evolution_from": null,
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Diglett",
-        "de": "Alola-Digda"
-      },
-      "types": [
-        "Ground",
-        "Steel"
-      ],
-      "abilities": [
-        {
-          "name": "Sand Veil"
-        },
-        {
-          "name": "Tangling Hair"
-        },
-        {
-          "name": "Sand Force",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Astonish",
-          "level": 7
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 12
-        },
-        {
-          "move": "Magnitude",
-          "level": 15
-        },
-        {
-          "move": "Bulldoze",
-          "level": 18
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 23
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 26
-        },
-        {
-          "move": "Earth Power",
-          "level": 29
-        },
-        {
-          "move": "Dig",
-          "level": 34
-        },
-        {
-          "move": "Slash",
-          "level": 37
-        },
-        {
-          "move": "Earthquake",
-          "level": 40
-        },
-        {
-          "move": "Fissure",
-          "level": 45
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Final Gambit",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Memento",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -332,12 +171,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Sand Attack",
           "level": 1,
           "variations": [
@@ -1072,8 +906,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Sand Attack",
           "level": 1,
           "variations": [

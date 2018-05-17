@@ -1,11 +1,10 @@
 {
-"name" : "Kricketot",
+  "name": "Kricketot",
   "national_id": 401,
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shed Skin"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "4.9 lbs.",
   "weight_eu": "2.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 37,
     "atk": 25,
@@ -46,35 +39,13 @@
     "sp_def": 41,
     "speed": 25
   },
-  "evolutions": [
-    {
-      "to": "Kricketune",
-      "level": 10
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Kricketune",
+    "level": 10
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -97,12 +68,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -125,8 +91,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

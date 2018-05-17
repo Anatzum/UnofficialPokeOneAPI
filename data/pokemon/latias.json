@@ -1,29 +1,24 @@
 {
-"name" : "Latias",
+  "name": "Latias",
   "national_id": 380,
   "types": [
     "Dragon",
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "88.2 lbs.",
   "weight_eu": "40.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +27,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 80,
@@ -42,131 +35,10 @@
     "sp_def": 130,
     "speed": 110
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Thick Fat",
-      "mega_stone": "Venusaurite",
-      "height_us": "5'11\"",
-      "height_eu": "1.8 m",
-      "weight_us": "114.6 lbs.",
-      "weight_eu": "52.0 kg",
-      "base_stats": {
-        "hp": 80,
-        "atk": 100,
-        "def": 120,
-        "sp_atk": 140,
-        "sp_def": 150,
-        "speed": 110
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Healing Wish",
-          "level": 1
-        },
-        {
-          "move": "Helping Hand",
-          "level": 1
-        },
-        {
-          "move": "Psywave",
-          "level": 1
-        },
-        {
-          "move": "Safeguard",
-          "level": 1
-        },
-        {
-          "move": "Wish",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 4
-        },
-        {
-          "move": "Charm",
-          "level": 7
-        },
-        {
-          "move": "Stored Power",
-          "level": 10
-        },
-        {
-          "move": "Refresh",
-          "level": 13
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 16
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 20
-        },
-        {
-          "move": "Mist Ball",
-          "level": 24
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 28
-        },
-        {
-          "move": "Recover",
-          "level": 32
-        },
-        {
-          "move": "Reflect Type",
-          "level": 36
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 41
-        },
-        {
-          "move": "Guard Split",
-          "level": 46
-        },
-        {
-          "move": "Psychic",
-          "level": 51
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 56
-        },
-        {
-          "move": "Healing Wish",
-          "level": 61
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -381,12 +253,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Healing Wish",
           "level": 1
         },
@@ -661,8 +528,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Healing Wish",
           "level": 1
         },

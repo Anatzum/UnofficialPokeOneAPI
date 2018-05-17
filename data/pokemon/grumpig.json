@@ -1,11 +1,10 @@
 {
-"name" : "Grumpig",
+  "name": "Grumpig",
   "national_id": 326,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Thick Fat"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "157.6 lbs.",
   "weight_eu": "71.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 45,
@@ -50,150 +43,9 @@
     "speed": 80
   },
   "evolution_from": "Spoink",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Odor Sleuth",
-          "level": 1
-        },
-        {
-          "move": "Psybeam",
-          "level": 1
-        },
-        {
-          "move": "Psywave",
-          "level": 1
-        },
-        {
-          "move": "Splash",
-          "level": 1
-        },
-        {
-          "move": "Psywave",
-          "level": 7
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 10
-        },
-        {
-          "move": "Psybeam",
-          "level": 14
-        },
-        {
-          "move": "Psych Up",
-          "level": 15
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 18
-        },
-        {
-          "move": "Magic Coat",
-          "level": 21
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 26
-        },
-        {
-          "move": "Power Gem",
-          "level": 29
-        },
-        {
-          "move": "Teeter Dance",
-          "level": 32
-        },
-        {
-          "move": "Rest",
-          "level": 35
-        },
-        {
-          "move": "Snore",
-          "level": 35
-        },
-        {
-          "move": "Psyshock",
-          "level": 42
-        },
-        {
-          "move": "Payback",
-          "level": 46
-        },
-        {
-          "move": "Psychic",
-          "level": 52
-        },
-        {
-          "move": "Bounce",
-          "level": 60
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Simple Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -364,12 +216,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Belch",
           "level": 1
         },
@@ -656,8 +503,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Belch",
           "level": 1
         },

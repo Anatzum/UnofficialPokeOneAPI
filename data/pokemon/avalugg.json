@@ -1,11 +1,10 @@
 {
-"name" : "Avalugg",
+  "name": "Avalugg",
   "national_id": 713,
   "types": [
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Own Tempo"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "1113.3 lbs.",
   "weight_eu": "505.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 117,
@@ -47,126 +40,9 @@
     "speed": 28
   },
   "evolution_from": "Bergmite",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Crunch",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Iron Defense",
-          "level": 1
-        },
-        {
-          "move": "Skull Bash",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Powder Snow",
-          "level": 5
-        },
-        {
-          "move": "Icy Wind",
-          "level": 10
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Sharpen",
-          "level": 20
-        },
-        {
-          "move": "Curse",
-          "level": 22
-        },
-        {
-          "move": "Ice Fang",
-          "level": 26
-        },
-        {
-          "move": "Ice Ball",
-          "level": 30
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 35
-        },
-        {
-          "move": "Avalanche",
-          "level": 42
-        },
-        {
-          "move": "Blizzard",
-          "level": 46
-        },
-        {
-          "move": "Recover",
-          "level": 51
-        },
-        {
-          "move": "Double-Edge",
-          "level": 56
-        },
-        {
-          "move": "Skull Bash",
-          "level": 60
-        },
-        {
-          "move": "Crunch",
-          "level": 65
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -313,12 +189,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -557,8 +428,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

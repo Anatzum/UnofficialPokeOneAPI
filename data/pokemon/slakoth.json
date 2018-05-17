@@ -1,29 +1,23 @@
 {
-"name" : "Slakoth",
+  "name": "Slakoth",
   "national_id": 287,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
-      "name": "Truant"
-    }
-  ],
+  "abilities": [{
+    "name": "Truant"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "52.9 lbs.",
   "weight_eu": "24.0 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 60,
@@ -42,123 +34,13 @@
     "sp_def": 35,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Vigoroth",
-      "level": 18
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Vigoroth",
+    "level": 18
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Yawn",
-          "level": 1
-        },
-        {
-          "move": "Encore",
-          "level": 6
-        },
-        {
-          "move": "Slack Off",
-          "level": 9
-        },
-        {
-          "move": "Feint Attack",
-          "level": 14
-        },
-        {
-          "move": "Amnesia",
-          "level": 17
-        },
-        {
-          "move": "Covet",
-          "level": 22
-        },
-        {
-          "move": "Chip Away",
-          "level": 25
-        },
-        {
-          "move": "Counter",
-          "level": 30
-        },
-        {
-          "move": "Flail",
-          "level": 33
-        },
-        {
-          "move": "Play Rough",
-          "level": 38
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Crush Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -317,12 +199,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Scratch",
           "level": 1
         },
@@ -545,8 +422,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Scratch",
           "level": 1
         },

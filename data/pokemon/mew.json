@@ -1,26 +1,20 @@
 {
-"name" : "Mew",
+  "name": "Mew",
   "national_id": 151,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Synchronize"
-    }
-  ],
+  "abilities": [{
+    "name": "Synchronize"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "8.8 lbs.",
   "weight_eu": "4.0 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 100,
@@ -39,83 +31,10 @@
     "sp_def": 100,
     "speed": 100
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Reflect Type",
-          "level": 1
-        },
-        {
-          "move": "Transform",
-          "level": 1
-        },
-        {
-          "move": "Mega Punch",
-          "level": 10
-        },
-        {
-          "move": "Metronome",
-          "level": 20
-        },
-        {
-          "move": "Psychic",
-          "level": 30
-        },
-        {
-          "move": "Barrier",
-          "level": 40
-        },
-        {
-          "move": "Ancient Power",
-          "level": 50
-        },
-        {
-          "move": "Amnesia",
-          "level": 60
-        },
-        {
-          "move": "Me First",
-          "level": 70
-        },
-        {
-          "move": "Baton Pass",
-          "level": 80
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 90
-        },
-        {
-          "move": "Aura Sphere",
-          "level": 100
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -546,12 +465,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Pound",
           "level": 1
         },
@@ -1010,8 +924,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Pound",
           "level": 1
         },

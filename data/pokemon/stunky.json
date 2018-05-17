@@ -1,12 +1,11 @@
 {
-"name" : "Stunky",
+  "name": "Stunky",
   "national_id": 434,
   "types": [
     "Poison",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Stench"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "42.3 lbs.",
   "weight_eu": "19.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 63,
     "atk": 63,
@@ -50,143 +43,13 @@
     "sp_def": 41,
     "speed": 74
   },
-  "evolutions": [
-    {
-      "to": "Skuntank",
-      "level": 34
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Skuntank",
+    "level": 34
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Poison Gas",
-          "level": 4
-        },
-        {
-          "move": "Screech",
-          "level": 7
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 10
-        },
-        {
-          "move": "Smokescreen",
-          "level": 14
-        },
-        {
-          "move": "Feint",
-          "level": 18
-        },
-        {
-          "move": "Slash",
-          "level": 22
-        },
-        {
-          "move": "Toxic",
-          "level": 27
-        },
-        {
-          "move": "Acid Spray",
-          "level": 32
-        },
-        {
-          "move": "Night Slash",
-          "level": 37
-        },
-        {
-          "move": "Memento",
-          "level": 43
-        },
-        {
-          "move": "Belch",
-          "level": 46
-        },
-        {
-          "move": "Explosion",
-          "level": 49
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Leer",
-          "egg_move": true
-        },
-        {
-          "move": "Play Rough",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Scary Face",
-          "egg_move": true
-        },
-        {
-          "move": "Smog",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -333,12 +196,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Focus Energy",
           "level": 1
         },
@@ -585,8 +443,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Focus Energy",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Diggersby",
+  "name": "Diggersby",
   "national_id": 660,
   "types": [
     "Normal",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pickup"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "93.5 lbs.",
   "weight_eu": "42.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 56,
@@ -48,122 +41,9 @@
     "speed": 78
   },
   "evolution_from": "Bunnelby",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Agility",
-          "level": 1
-        },
-        {
-          "move": "Bulldoze",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Rototiller",
-          "level": 1
-        },
-        {
-          "move": "Swords Dance",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 7
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 13
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Mud Shot",
-          "level": 18
-        },
-        {
-          "move": "Double Kick",
-          "level": 20
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 26
-        },
-        {
-          "move": "Flail",
-          "level": 31
-        },
-        {
-          "move": "Dig",
-          "level": 37
-        },
-        {
-          "move": "Bounce",
-          "level": 42
-        },
-        {
-          "move": "Super Fang",
-          "level": 48
-        },
-        {
-          "move": "Facade",
-          "level": 53
-        },
-        {
-          "move": "Earthquake",
-          "level": 57
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 60
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +214,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Agility",
           "level": 1
         },
@@ -594,8 +469,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Agility",
           "level": 1
         },

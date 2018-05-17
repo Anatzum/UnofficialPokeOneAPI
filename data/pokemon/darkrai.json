@@ -1,26 +1,20 @@
 {
-"name" : "Darkrai",
+  "name": "Darkrai",
   "national_id": 491,
   "types": [
     "Dark"
   ],
-  "abilities": [
-    {
-      "name": "Bad Dreams"
-    }
-  ],
+  "abilities": [{
+    "name": "Bad Dreams"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "111.3 lbs.",
   "weight_eu": "50.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 90,
@@ -39,79 +31,10 @@
     "sp_def": 90,
     "speed": 125
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Disable",
-          "level": 1
-        },
-        {
-          "move": "Ominous Wind",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 11
-        },
-        {
-          "move": "Hypnosis",
-          "level": 20
-        },
-        {
-          "move": "Feint Attack",
-          "level": 29
-        },
-        {
-          "move": "Nightmare",
-          "level": 38
-        },
-        {
-          "move": "Double Team",
-          "level": 47
-        },
-        {
-          "move": "Haze",
-          "level": 57
-        },
-        {
-          "move": "Dark Void",
-          "level": 66
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 75
-        },
-        {
-          "move": "Dream Eater",
-          "level": 84
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 93
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +257,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Disable",
           "level": 1
         },
@@ -582,8 +500,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Disable",
           "level": 1
         },

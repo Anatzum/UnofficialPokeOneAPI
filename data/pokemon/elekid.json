@@ -1,11 +1,10 @@
 {
-"name" : "Elekid",
+  "name": "Elekid",
   "national_id": 239,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Static"
     },
     {
@@ -17,17 +16,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "51.8 lbs.",
   "weight_eu": "23.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 63,
@@ -46,135 +39,13 @@
     "sp_def": 55,
     "speed": 95
   },
-  "evolutions": [
-    {
-      "to": "Electabuzz",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Electabuzz",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 5
-        },
-        {
-          "move": "Low Kick",
-          "level": 8
-        },
-        {
-          "move": "Swift",
-          "level": 12
-        },
-        {
-          "move": "Shock Wave",
-          "level": 15
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 19
-        },
-        {
-          "move": "Electro Ball",
-          "level": 22
-        },
-        {
-          "move": "Light Screen",
-          "level": 26
-        },
-        {
-          "move": "Thunder Punch",
-          "level": 29
-        },
-        {
-          "move": "Discharge",
-          "level": 33
-        },
-        {
-          "move": "Screech",
-          "level": 36
-        },
-        {
-          "move": "Thunderbolt",
-          "level": 40
-        },
-        {
-          "move": "Thunder",
-          "level": 43
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Dynamic Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Karate Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Meditate",
-          "egg_move": true
-        },
-        {
-          "move": "Rolling Kick",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -297,12 +168,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -513,8 +379,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

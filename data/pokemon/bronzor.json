@@ -1,12 +1,11 @@
 {
-"name" : "Bronzor",
+  "name": "Bronzor",
   "national_id": 436,
   "types": [
     "Steel",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Levitate"
     },
     {
@@ -18,17 +17,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "133.4 lbs.",
   "weight_eu": "60.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 57,
     "atk": 24,
@@ -47,99 +40,13 @@
     "sp_def": 86,
     "speed": 23
   },
-  "evolutions": [
-    {
-      "to": "Bronzong",
-      "level": 33
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Bronzong",
+    "level": 33
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Hypnosis",
-          "level": 5
-        },
-        {
-          "move": "Imprison",
-          "level": 9
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 11
-        },
-        {
-          "move": "Psywave",
-          "level": 15
-        },
-        {
-          "move": "Iron Defense",
-          "level": 19
-        },
-        {
-          "move": "Feint Attack",
-          "level": 21
-        },
-        {
-          "move": "Safeguard",
-          "level": 25
-        },
-        {
-          "move": "Future Sight",
-          "level": 29
-        },
-        {
-          "move": "Metal Sound",
-          "level": 31
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 35
-        },
-        {
-          "move": "Extrasensory",
-          "level": 39
-        },
-        {
-          "move": "Payback",
-          "level": 41
-        },
-        {
-          "move": "Heal Block",
-          "level": 45
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 49
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -298,12 +205,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -522,8 +424,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

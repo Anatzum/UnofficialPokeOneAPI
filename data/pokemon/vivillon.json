@@ -1,12 +1,11 @@
 {
-"name" : "Vivillon",
+  "name": "Vivillon",
   "national_id": 666,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shield Dust"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "37.5 lbs.",
   "weight_eu": "17.0 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 52,
@@ -48,110 +41,8 @@
     "speed": 89
   },
   "evolution_from": "Spewpa",
-  
-  "variations": [
-    {
-      "condition": "Player's Location",
-      "image_suffix": "continental",
-      "name": {
-        
-      },
-      "types": [
-        "Bug",
-        "Flying"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Light Screen",
-          "level": 1
-        },
-        {
-          "move": "Poison Powder",
-          "level": 1
-        },
-        {
-          "move": "Powder",
-          "level": 1
-        },
-        {
-          "move": "Sleep Powder",
-          "level": 1
-        },
-        {
-          "move": "Stun Spore",
-          "level": 1
-        },
-        {
-          "move": "Struggle Bug",
-          "level": 12
-        },
-        {
-          "move": "Psybeam",
-          "level": 17
-        },
-        {
-          "move": "Supersonic",
-          "level": 21
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 25
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 31
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 35
-        },
-        {
-          "move": "Safeguard",
-          "level": 41
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 45
-        },
-        {
-          "move": "Hurricane",
-          "level": 50
-        },
-        {
-          "move": "Powder",
-          "level": 55
-        },
-        {
-          "move": "Poison Powder",
-          "egg_move": true
-        },
-        {
-          "move": "Rage Powder",
-          "egg_move": true
-        },
-        {
-          "move": "Stun Spore",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -290,12 +181,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Gust",
           "level": 1
         },
@@ -506,8 +392,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Gust",
           "level": 1
         },

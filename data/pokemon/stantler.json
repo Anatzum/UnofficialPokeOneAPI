@@ -1,11 +1,10 @@
 {
-"name" : "Stantler",
+  "name": "Stantler",
   "national_id": 234,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "157.0 lbs.",
   "weight_eu": "71.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 73,
     "atk": 95,
@@ -49,139 +42,10 @@
     "sp_def": 65,
     "speed": 85
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Me First",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 3
-        },
-        {
-          "move": "Astonish",
-          "level": 7
-        },
-        {
-          "move": "Hypnosis",
-          "level": 10
-        },
-        {
-          "move": "Stomp",
-          "level": 13
-        },
-        {
-          "move": "Sand Attack",
-          "level": 16
-        },
-        {
-          "move": "Take Down",
-          "level": 21
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 23
-        },
-        {
-          "move": "Calm Mind",
-          "level": 27
-        },
-        {
-          "move": "Role Play",
-          "level": 33
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 38
-        },
-        {
-          "move": "Jump Kick",
-          "level": 43
-        },
-        {
-          "move": "Imprison",
-          "level": 49
-        },
-        {
-          "move": "Captivate",
-          "level": 50
-        },
-        {
-          "move": "Me First",
-          "level": 55
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Megahorn",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -344,12 +208,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Me First",
           "level": 1
         },
@@ -616,8 +475,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Me First",
           "level": 1
         },

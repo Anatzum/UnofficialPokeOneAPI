@@ -11,17 +11,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "429.9 lbs.",
   "weight_eu": "195.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +26,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 110,
@@ -40,94 +34,12 @@
     "sp_def": 90,
     "speed": 70
   },
-  
-  
-  
-  
-  
-  
-  
-  
   "mega_evolutions": [
   ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Flare Blitz",
-          "level": 1
-        },
-        {
-          "move": "Steam Eruption",
-          "level": 1
-        },
-        {
-          "move": "Take Down",
-          "level": 1
-        },
-        {
-          "move": "Mist",
-          "level": 8
-        },
-        {
-          "move": "Haze",
-          "level": 11
-        },
-        {
-          "move": "Flame Charge",
-          "level": 15
-        },
-        {
-          "move": "Water Pulse",
-          "level": 21
-        },
-        {
-          "move": "Stomp",
-          "level": 28
-        },
-        {
-          "move": "Scald",
-          "level": 32
-        },
-        {
-          "move": "Weather Ball",
-          "level": 40
-        },
-        {
-          "move": "Body Slam",
-          "level": 46
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 50
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 58
-        },
-        {
-          "move": "Overheat",
-          "level": 65
-        },
-        {
-          "move": "Explosion",
-          "level": 76
-        },
-        {
-          "move": "Steam Eruption",
-          "level": 85
-        },
+  "move_learnsets": [  {      
+	"tm_learnset": [
         {
           "move": "Cut",
           "tm": "HM01"
@@ -303,11 +215,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
+    "regular_learnset": [
         {
           "move": "Flare Blitz",
           "level": 1

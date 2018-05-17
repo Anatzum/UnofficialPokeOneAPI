@@ -1,12 +1,11 @@
 {
-"name" : "Ariados",
+  "name": "Ariados",
   "national_id": 168,
   "types": [
     "Bug",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "73.9 lbs.",
   "weight_eu": "33.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 90,
@@ -51,166 +44,9 @@
     "speed": 40
   },
   "evolution_from": "Spinarak",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bug Bite",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 1
-        },
-        {
-          "move": "String Shot",
-          "level": 1
-        },
-        {
-          "move": "Venom Drench",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 5
-        },
-        {
-          "move": "Constrict",
-          "level": 8
-        },
-        {
-          "move": "Leech Life",
-          "level": 12
-        },
-        {
-          "move": "Night Shade",
-          "level": 15
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 19
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 23
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 28
-        },
-        {
-          "move": "Spider Web",
-          "level": 32
-        },
-        {
-          "move": "Agility",
-          "level": 37
-        },
-        {
-          "move": "Pin Missile",
-          "level": 41
-        },
-        {
-          "move": "Psychic",
-          "level": 46
-        },
-        {
-          "move": "Poison Jab",
-          "level": 50
-        },
-        {
-          "move": "Cross Poison",
-          "level": 55
-        },
-        {
-          "move": "Sticky Web",
-          "level": 58
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Electroweb",
-          "egg_move": true
-        },
-        {
-          "move": "Megahorn",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rage Powder",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Sonic Boom",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Twineedle",
-          "egg_move": true
-        },
-        {
-          "move": "Hone Claws",
-          "tm": "TM01"
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -329,12 +165,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -597,8 +428,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

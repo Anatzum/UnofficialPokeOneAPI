@@ -1,12 +1,11 @@
 {
-"name" : "Mawile",
+  "name": "Mawile",
   "national_id": 303,
   "types": [
     "Steel",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hyper Cutter"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Fairy"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "25.4 lbs.",
   "weight_eu": "11.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 85,
@@ -51,187 +44,10 @@
     "sp_def": 55,
     "speed": 50
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Steel",
-        "Fairy"
-      ],
-      "ability": "Huge Power",
-      "mega_stone": "Mawilite",
-      "height_us": "3'03\"",
-      "height_eu": "1.0 m",
-      "weight_us": "51.8 lbs.",
-      "weight_eu": "23.5 kg",
-      "base_stats": {
-        "hp": 50,
-        "atk": 105,
-        "def": 125,
-        "sp_atk": 55,
-        "sp_def": 95,
-        "speed": 50
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Fairy Wind",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Iron Head",
-          "level": 1
-        },
-        {
-          "move": "Play Rough",
-          "level": 1
-        },
-        {
-          "move": "Taunt",
-          "level": 1
-        },
-        {
-          "move": "Fake Tears",
-          "level": 5
-        },
-        {
-          "move": "Bite",
-          "level": 9
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 13
-        },
-        {
-          "move": "Vice Grip",
-          "level": 17
-        },
-        {
-          "move": "Feint Attack",
-          "level": 21
-        },
-        {
-          "move": "Baton Pass",
-          "level": 25
-        },
-        {
-          "move": "Crunch",
-          "level": 29
-        },
-        {
-          "move": "Iron Defense",
-          "level": 33
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 37
-        },
-        {
-          "move": "Spit Up",
-          "level": 41
-        },
-        {
-          "move": "Stockpile",
-          "level": 41
-        },
-        {
-          "move": "Swallow",
-          "level": 41
-        },
-        {
-          "move": "Iron Head",
-          "level": 45
-        },
-        {
-          "move": "Play Rough",
-          "level": 49
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Misty Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Seismic Toss",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -422,12 +238,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -738,8 +549,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

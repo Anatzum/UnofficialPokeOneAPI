@@ -1,12 +1,11 @@
 {
-"name" : "Aerodactyl",
+  "name": "Aerodactyl",
   "national_id": 142,
   "types": [
     "Rock",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rock Head"
     },
     {
@@ -21,17 +20,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "130.1 lbs.",
   "weight_eu": "59.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 105,
@@ -50,163 +43,10 @@
     "sp_def": 75,
     "speed": 130
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Rock",
-        "Flying"
-      ],
-      "ability": "Tough Claws",
-      "mega_stone": "Aerodactylite",
-      "height_us": "6'11\"",
-      "height_eu": "2.1 m",
-      "weight_us": "174.2 lbs.",
-      "weight_eu": "79.0 kg",
-      "base_stats": {
-        "hp": 80,
-        "atk": 135,
-        "def": 85,
-        "sp_atk": 70,
-        "sp_def": 95,
-        "speed": 150
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Fire Fang",
-          "level": 1
-        },
-        {
-          "move": "Ice Fang",
-          "level": 1
-        },
-        {
-          "move": "Iron Head",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Wing Attack",
-          "level": 1
-        },
-        {
-          "move": "Roar",
-          "level": 9
-        },
-        {
-          "move": "Agility",
-          "level": 17
-        },
-        {
-          "move": "Ancient Power",
-          "level": 25
-        },
-        {
-          "move": "Crunch",
-          "level": 33
-        },
-        {
-          "move": "Take Down",
-          "level": 41
-        },
-        {
-          "move": "Sky Drop",
-          "level": 49
-        },
-        {
-          "move": "Iron Head",
-          "level": 57
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 65
-        },
-        {
-          "move": "Rock Slide",
-          "level": 73
-        },
-        {
-          "move": "Giga Impact",
-          "level": 81
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Breath",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Tailwind",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -385,12 +225,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -669,8 +504,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

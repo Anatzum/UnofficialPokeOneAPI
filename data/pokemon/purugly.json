@@ -1,11 +1,10 @@
 {
-"name" : "Purugly",
+  "name": "Purugly",
   "national_id": 432,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Thick Fat"
     },
     {
@@ -20,17 +19,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "96.6 lbs.",
   "weight_eu": "43.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 71,
     "atk": 82,
@@ -50,134 +43,9 @@
     "speed": 112
   },
   "evolution_from": "Glameow",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Fake Out",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 5
-        },
-        {
-          "move": "Growl",
-          "level": 8
-        },
-        {
-          "move": "Hypnosis",
-          "level": 13
-        },
-        {
-          "move": "Feint Attack",
-          "level": 17
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 20
-        },
-        {
-          "move": "Charm",
-          "level": 25
-        },
-        {
-          "move": "Assist",
-          "level": 29
-        },
-        {
-          "move": "Captivate",
-          "level": 32
-        },
-        {
-          "move": "Slash",
-          "level": 37
-        },
-        {
-          "move": "Swagger",
-          "level": 38
-        },
-        {
-          "move": "Body Slam",
-          "level": 45
-        },
-        {
-          "move": "Attract",
-          "level": 52
-        },
-        {
-          "move": "Hone Claws",
-          "level": 60
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Tail Whip",
-          "egg_move": true
-        },
-        {
-          "move": "Wake-Up Slap",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -336,12 +204,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fake Out",
           "level": 1
         },
@@ -588,8 +451,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fake Out",
           "level": 1
         },

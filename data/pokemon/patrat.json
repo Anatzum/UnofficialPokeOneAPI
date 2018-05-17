@@ -1,11 +1,10 @@
 {
-"name" : "Patrat",
+  "name": "Patrat",
   "national_id": 504,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Run Away"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "25.6 lbs.",
   "weight_eu": "11.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 55,
@@ -46,123 +39,13 @@
     "sp_def": 39,
     "speed": 42
   },
-  "evolutions": [
-    {
-      "to": "Watchog",
-      "level": 20
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Watchog",
+    "level": 20
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 3
-        },
-        {
-          "move": "Bite",
-          "level": 6
-        },
-        {
-          "move": "Bide",
-          "level": 8
-        },
-        {
-          "move": "Detect",
-          "level": 11
-        },
-        {
-          "move": "Sand Attack",
-          "level": 13
-        },
-        {
-          "move": "Crunch",
-          "level": 16
-        },
-        {
-          "move": "Hypnosis",
-          "level": 18
-        },
-        {
-          "move": "Super Fang",
-          "level": 21
-        },
-        {
-          "move": "After You",
-          "level": 23
-        },
-        {
-          "move": "Work Up",
-          "level": 26
-        },
-        {
-          "move": "Hyper Fang",
-          "level": 28
-        },
-        {
-          "move": "Mean Look",
-          "level": 31
-        },
-        {
-          "move": "Baton Pass",
-          "level": 33
-        },
-        {
-          "move": "Slam",
-          "level": 36
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -265,12 +148,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -461,8 +339,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

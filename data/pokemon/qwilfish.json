@@ -1,12 +1,11 @@
 {
-"name" : "Qwilfish",
+  "name": "Qwilfish",
   "national_id": 211,
   "types": [
     "Water",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Poison Point"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "8.6 lbs.",
   "weight_eu": "3.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 95,
@@ -50,163 +43,10 @@
     "sp_def": 55,
     "speed": 85
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Destiny Bond",
-          "level": 1
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 1
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 1
-        },
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "Spikes",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 9
-        },
-        {
-          "move": "Minimize",
-          "level": 9
-        },
-        {
-          "move": "Bubble",
-          "level": 13
-        },
-        {
-          "move": "Rollout",
-          "level": 17
-        },
-        {
-          "move": "Toxic Spikes",
-          "level": 21
-        },
-        {
-          "move": "Spit Up",
-          "level": 25
-        },
-        {
-          "move": "Stockpile",
-          "level": 25
-        },
-        {
-          "move": "Revenge",
-          "level": 29
-        },
-        {
-          "move": "Brine",
-          "level": 33
-        },
-        {
-          "move": "Pin Missile",
-          "level": 37
-        },
-        {
-          "move": "Take Down",
-          "level": 41
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 45
-        },
-        {
-          "move": "Poison Jab",
-          "level": 49
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 53
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 57
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 60
-        },
-        {
-          "move": "Acid Spray",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Bubble Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -341,12 +181,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Destiny Bond",
           "level": 1
         },
@@ -609,8 +444,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Destiny Bond",
           "level": 1
         },

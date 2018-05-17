@@ -16,8 +16,8 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
   "egg_groups": [
     "Field"
@@ -42,184 +42,10 @@
     "sp_def": 60,
     "speed": 75
   },
-  "mega_evolutions": [{
-    "types": [
-      "Dark"
-    ],
-    "ability": "Magic Bounce",
-    "mega_stone": "Absolite",
-    "height_us": "3'11\"",
-    "height_eu": "1.2 m",
-    "weight_us": "108.0 lbs.",
-    "weight_eu": "49.0 kg",
-    "base_stats": {
-      "hp": 65,
-      "atk": 150,
-      "def": 60,
-      "sp_atk": 115,
-      "sp_def": 60,
-      "speed": 115
-    }
-  }],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
   "move_learnsets": [{
-      "games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [{
-          "move": "Feint",
-          "level": 1
-        },
-        {
-          "move": "Future Sight",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Perish Song",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Quick Attack",
-          "level": 7
-        },
-        {
-          "move": "Pursuit",
-          "level": 10
-        },
-        {
-          "move": "Taunt",
-          "level": 13
-        },
-        {
-          "move": "Bite",
-          "level": 16
-        },
-        {
-          "move": "Double Team",
-          "level": 19
-        },
-        {
-          "move": "Slash",
-          "level": 22
-        },
-        {
-          "move": "Swords Dance",
-          "level": 25
-        },
-        {
-          "move": "Night Slash",
-          "level": 29
-        },
-        {
-          "move": "Detect",
-          "level": 33
-        },
-        {
-          "move": "Psycho Cut",
-          "level": 37
-        },
-        {
-          "move": "Me First",
-          "level": 41
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 45
-        },
-        {
-          "move": "Razor Wind",
-          "level": 49
-        },
-        {
-          "move": "Future Sight",
-          "level": 53
-        },
-        {
-          "move": "Perish Song",
-          "level": 57
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Hex",
-          "egg_move": true
-        },
-        {
-          "move": "Magic Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Megahorn",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Play Rough",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -446,11 +272,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [{
+    "regular_learnset": [{
           "move": "Feint",
           "level": 1
         },

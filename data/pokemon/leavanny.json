@@ -1,12 +1,11 @@
 {
-"name" : "Leavanny",
+  "name": "Leavanny",
   "national_id": 542,
   "types": [
     "Bug",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "45.2 lbs.",
   "weight_eu": "20.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 103,
@@ -48,130 +41,9 @@
     "speed": 92
   },
   "evolution_from": "Swadloon",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bug Bite",
-          "level": 1
-        },
-        {
-          "move": "False Swipe",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 1
-        },
-        {
-          "move": "String Shot",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Bug Bite",
-          "level": 8
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 15
-        },
-        {
-          "move": "Struggle Bug",
-          "level": 22
-        },
-        {
-          "move": "Slash",
-          "level": 29
-        },
-        {
-          "move": "Helping Hand",
-          "level": 32
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 34
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 36
-        },
-        {
-          "move": "X-Scissor",
-          "level": 39
-        },
-        {
-          "move": "Entrainment",
-          "level": 43
-        },
-        {
-          "move": "Swords Dance",
-          "level": 46
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 50
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Air Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +206,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bug Bite",
           "level": 1
         },
@@ -582,8 +449,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bug Bite",
           "level": 1
         },

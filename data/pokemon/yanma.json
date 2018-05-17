@@ -1,12 +1,11 @@
 {
-"name" : "Yanma",
+  "name": "Yanma",
   "national_id": 193,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Speed Boost"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "83.8 lbs.",
   "weight_eu": "38.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 65,
@@ -50,140 +43,14 @@
     "sp_def": 45,
     "speed": 95
   },
-  "evolutions": [
-    {
-      "to": "Yanmega",
-      "level_up": true,
-      "move_learned": "Ancient Power"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Yanmega",
+    "level_up": true,
+    "move_learned": "Ancient Power"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Foresight",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 6
-        },
-        {
-          "move": "Double Team",
-          "level": 11
-        },
-        {
-          "move": "Sonic Boom",
-          "level": 14
-        },
-        {
-          "move": "Detect",
-          "level": 17
-        },
-        {
-          "move": "Supersonic",
-          "level": 22
-        },
-        {
-          "move": "Uproar",
-          "level": 27
-        },
-        {
-          "move": "Pursuit",
-          "level": 30
-        },
-        {
-          "move": "Ancient Power",
-          "level": 33
-        },
-        {
-          "move": "Hypnosis",
-          "level": 38
-        },
-        {
-          "move": "Wing Attack",
-          "level": 43
-        },
-        {
-          "move": "Screech",
-          "level": 46
-        },
-        {
-          "move": "U-turn",
-          "level": 49
-        },
-        {
-          "move": "Air Slash",
-          "level": 54
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 57
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Life",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -290,12 +157,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Foresight",
           "level": 1
         },
@@ -502,8 +364,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Foresight",
           "level": 1
         },

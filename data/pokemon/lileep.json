@@ -1,12 +1,11 @@
 {
-"name" : "Lileep",
+  "name": "Lileep",
   "national_id": 345,
   "types": [
     "Rock",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Suction Cups"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Water 3"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "52.5 lbs.",
   "weight_eu": "23.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 66,
     "atk": 41,
@@ -47,131 +40,13 @@
     "sp_def": 87,
     "speed": 23
   },
-  "evolutions": [
-    {
-      "to": "Cradily",
-      "level": 40
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Cradily",
+    "level": 40
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Acid",
-          "level": 5
-        },
-        {
-          "move": "Ingrain",
-          "level": 9
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 13
-        },
-        {
-          "move": "Ancient Power",
-          "level": 17
-        },
-        {
-          "move": "Brine",
-          "level": 21
-        },
-        {
-          "move": "Giga Drain",
-          "level": 26
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 31
-        },
-        {
-          "move": "Amnesia",
-          "level": 36
-        },
-        {
-          "move": "Energy Ball",
-          "level": 41
-        },
-        {
-          "move": "Spit Up",
-          "level": 46
-        },
-        {
-          "move": "Stockpile",
-          "level": 46
-        },
-        {
-          "move": "Swallow",
-          "level": 46
-        },
-        {
-          "move": "Wring Out",
-          "level": 52
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Mega Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wring Out",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -286,12 +161,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -498,8 +368,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

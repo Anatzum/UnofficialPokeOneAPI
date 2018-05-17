@@ -1,12 +1,11 @@
 {
-"name" : "Jynx",
+  "name": "Jynx",
   "national_id": 124,
   "types": [
     "Ice",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -18,19 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "89.5 lbs.",
   "weight_eu": "40.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 50,
@@ -50,142 +44,9 @@
     "speed": 95
   },
   "evolution_from": "Smoochum",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Draining Kiss",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 1
-        },
-        {
-          "move": "Lovely Kiss",
-          "level": 1
-        },
-        {
-          "move": "Perish Song",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Powder Snow",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 5
-        },
-        {
-          "move": "Lovely Kiss",
-          "level": 8
-        },
-        {
-          "move": "Powder Snow",
-          "level": 11
-        },
-        {
-          "move": "Double Slap",
-          "level": 15
-        },
-        {
-          "move": "Ice Punch",
-          "level": 18
-        },
-        {
-          "move": "Heart Stamp",
-          "level": 21
-        },
-        {
-          "move": "Mean Look",
-          "level": 25
-        },
-        {
-          "move": "Fake Tears",
-          "level": 28
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 33
-        },
-        {
-          "move": "Avalanche",
-          "level": 39
-        },
-        {
-          "move": "Body Slam",
-          "level": 44
-        },
-        {
-          "move": "Wring Out",
-          "level": 49
-        },
-        {
-          "move": "Perish Song",
-          "level": 55
-        },
-        {
-          "move": "Blizzard",
-          "level": 60
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Meditate",
-          "egg_move": true
-        },
-        {
-          "move": "Miracle Eye",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Wake-Up Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -360,12 +221,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Draining Kiss",
           "level": 1
         },
@@ -648,8 +504,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Draining Kiss",
           "level": 1
         },

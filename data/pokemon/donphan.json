@@ -1,11 +1,10 @@
 {
-"name" : "Donphan",
+  "name": "Donphan",
   "national_id": 232,
   "types": [
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "264.6 lbs.",
   "weight_eu": "120.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 120,
@@ -47,142 +40,9 @@
     "speed": 50
   },
   "evolution_from": "Phanpy",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bulldoze",
-          "level": 1
-        },
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Fire Fang",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Horn Attack",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 6
-        },
-        {
-          "move": "Rollout",
-          "level": 10
-        },
-        {
-          "move": "Assurance",
-          "level": 15
-        },
-        {
-          "move": "Knock Off",
-          "level": 19
-        },
-        {
-          "move": "Slam",
-          "level": 24
-        },
-        {
-          "move": "Fury Attack",
-          "level": 25
-        },
-        {
-          "move": "Magnitude",
-          "level": 30
-        },
-        {
-          "move": "Scary Face",
-          "level": 37
-        },
-        {
-          "move": "Earthquake",
-          "level": 43
-        },
-        {
-          "move": "Giga Impact",
-          "level": 50
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Fissure",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Head Smash",
-          "egg_move": true
-        },
-        {
-          "move": "Heavy Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Shard",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Play Rough",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -309,12 +169,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bulldoze",
           "level": 1
         },
@@ -549,8 +404,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bulldoze",
           "level": 1
         },

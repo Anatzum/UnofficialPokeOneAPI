@@ -1,12 +1,11 @@
 {
-"name" : "Dodrio",
+  "name": "Dodrio",
   "national_id": 85,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Run Away"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "187.8 lbs.",
   "weight_eu": "85.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 110,
@@ -51,134 +44,9 @@
     "speed": 100
   },
   "evolution_from": "Doduo",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Rage",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 5
-        },
-        {
-          "move": "Rage",
-          "level": 9
-        },
-        {
-          "move": "Fury Attack",
-          "level": 13
-        },
-        {
-          "move": "Pursuit",
-          "level": 17
-        },
-        {
-          "move": "Pluck",
-          "level": 21
-        },
-        {
-          "move": "Tri Attack",
-          "level": 25
-        },
-        {
-          "move": "Acupressure",
-          "level": 29
-        },
-        {
-          "move": "Agility",
-          "level": 35
-        },
-        {
-          "move": "Drill Peck",
-          "level": 41
-        },
-        {
-          "move": "Uproar",
-          "level": 47
-        },
-        {
-          "move": "Endeavor",
-          "level": 53
-        },
-        {
-          "move": "Thrash",
-          "level": 59
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -289,12 +157,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -529,8 +392,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

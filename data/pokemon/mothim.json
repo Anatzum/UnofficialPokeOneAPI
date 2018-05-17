@@ -1,12 +1,11 @@
 {
-"name" : "Mothim",
+  "name": "Mothim",
   "national_id": 414,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -15,19 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "51.4 lbs.",
   "weight_eu": "23.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 94,
@@ -47,86 +41,9 @@
     "speed": 66
   },
   "evolution_from": "Burmy",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Protect",
-          "level": 10
-        },
-        {
-          "move": "Bug Bite",
-          "level": 15
-        },
-        {
-          "move": "Hidden Power",
-          "level": 20
-        },
-        {
-          "move": "Confusion",
-          "level": 23
-        },
-        {
-          "move": "Gust",
-          "level": 26
-        },
-        {
-          "move": "Poison Powder",
-          "level": 29
-        },
-        {
-          "move": "Psybeam",
-          "level": 32
-        },
-        {
-          "move": "Camouflage",
-          "level": 35
-        },
-        {
-          "move": "Silver Wind",
-          "level": 38
-        },
-        {
-          "move": "Air Slash",
-          "level": 41
-        },
-        {
-          "move": "Psychic",
-          "level": 44
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 47
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 50
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -269,12 +186,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bug Bite",
           "level": 1
         },
@@ -477,8 +389,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bug Bite",
           "level": 1
         },

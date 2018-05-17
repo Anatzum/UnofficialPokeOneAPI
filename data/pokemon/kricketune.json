@@ -1,11 +1,10 @@
 {
-"name" : "Kricketune",
+  "name": "Kricketune",
   "national_id": 402,
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "56.2 lbs.",
   "weight_eu": "25.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 77,
     "atk": 85,
@@ -47,90 +40,9 @@
     "speed": 65
   },
   "evolution_from": "Kricketot",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bide",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 10
-        },
-        {
-          "move": "Leech Life",
-          "level": 14
-        },
-        {
-          "move": "Sing",
-          "level": 18
-        },
-        {
-          "move": "Focus Energy",
-          "level": 22
-        },
-        {
-          "move": "Slash",
-          "level": 26
-        },
-        {
-          "move": "X-Scissor",
-          "level": 30
-        },
-        {
-          "move": "Screech",
-          "level": 34
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 36
-        },
-        {
-          "move": "Taunt",
-          "level": 38
-        },
-        {
-          "move": "Night Slash",
-          "level": 42
-        },
-        {
-          "move": "Sticky Web",
-          "level": 44
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 46
-        },
-        {
-          "move": "Perish Song",
-          "level": 50
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -269,12 +181,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -449,8 +356,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

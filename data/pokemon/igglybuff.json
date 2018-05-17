@@ -1,12 +1,11 @@
 {
-"name" : "Igglybuff",
+  "name": "Igglybuff",
   "national_id": 174,
   "types": [
     "Normal",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Cute Charm"
     },
     {
@@ -21,17 +20,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "2.2 lbs.",
   "weight_eu": "1.0 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 30,
@@ -50,112 +43,14 @@
     "sp_def": 20,
     "speed": 15
   },
-  "evolutions": [
-    {
-      "to": "Jigglypuff",
-      "happiness": true, 
-      "level_up": true
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Jigglypuff",
+    "happiness": true,
+    "level_up": true
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charm",
-          "level": 1
-        },
-        {
-          "move": "Sing",
-          "level": 1
-        },
-        {
-          "move": "Defense Curl",
-          "level": 3
-        },
-        {
-          "move": "Pound",
-          "level": 5
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 9
-        },
-        {
-          "move": "Copycat",
-          "level": 11
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Gravity",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Misty Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -298,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charm",
           "level": 1
         },
@@ -514,8 +404,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charm",
           "level": 1
         },

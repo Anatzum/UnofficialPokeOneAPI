@@ -1,11 +1,10 @@
 {
-"name" : "Luvdisc",
+  "name": "Luvdisc",
   "national_id": 370,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -17,17 +16,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "19.2 lbs.",
   "weight_eu": "8.7 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 43,
     "atk": 30,
@@ -46,131 +39,10 @@
     "sp_def": 65,
     "speed": 97
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charm",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 4
-        },
-        {
-          "move": "Agility",
-          "level": 7
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 9
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 14
-        },
-        {
-          "move": "Water Pulse",
-          "level": 17
-        },
-        {
-          "move": "Attract",
-          "level": 22
-        },
-        {
-          "move": "Flail",
-          "level": 27
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 31
-        },
-        {
-          "move": "Take Down",
-          "level": 37
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 40
-        },
-        {
-          "move": "Captivate",
-          "level": 46
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 50
-        },
-        {
-          "move": "Safeguard",
-          "level": 55
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Entrainment",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Splash",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -273,12 +145,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charm",
           "level": 1
         },
@@ -485,8 +352,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charm",
           "level": 1
         },

@@ -13,8 +13,8 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
   "egg_groups": [
     "Bug"
@@ -40,142 +40,9 @@
     "speed": 145
   },
   "evolution_from": "Shelmet",
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
+  "evolutions": null,
   "move_learnsets": [{
-      "games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [{
-          "move": "Acid Spray",
-          "level": 1
-        },
-        {
-          "move": "Double Team",
-          "level": 1
-        },
-        {
-          "move": "Final Gambit",
-          "level": 1
-        },
-        {
-          "move": "Leech Life",
-          "level": 1
-        },
-        {
-          "move": "Power Swap",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Water Shuriken",
-          "level": 1
-        },
-        {
-          "move": "Acid Spray",
-          "level": 4
-        },
-        {
-          "move": "Double Team",
-          "level": 8
-        },
-        {
-          "move": "Quick Attack",
-          "level": 13
-        },
-        {
-          "move": "Struggle Bug",
-          "level": 16
-        },
-        {
-          "move": "Mega Drain",
-          "level": 20
-        },
-        {
-          "move": "Swift",
-          "level": 25
-        },
-        {
-          "move": "Me First",
-          "level": 28
-        },
-        {
-          "move": "Agility",
-          "level": 32
-        },
-        {
-          "move": "Giga Drain",
-          "level": 37
-        },
-        {
-          "move": "U-turn",
-          "level": 40
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 44
-        },
-        {
-          "move": "Recover",
-          "level": 49
-        },
-        {
-          "move": "Power Swap",
-          "level": 52
-        },
-        {
-          "move": "Final Gambit",
-          "level": 56
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Split",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -282,11 +149,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [{
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Croagunk",
+  "name": "Croagunk",
   "national_id": 453,
   "types": [
     "Poison",
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Anticipation"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "50.7 lbs.",
   "weight_eu": "23.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 48,
     "atk": 61,
@@ -50,159 +43,13 @@
     "sp_def": 40,
     "speed": 50
   },
-  "evolutions": [
-    {
-      "to": "Toxicroak",
-      "level": 37
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Toxicroak",
+    "level": 37
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 3
-        },
-        {
-          "move": "Poison Sting",
-          "level": 8
-        },
-        {
-          "move": "Taunt",
-          "level": 10
-        },
-        {
-          "move": "Pursuit",
-          "level": 15
-        },
-        {
-          "move": "Feint Attack",
-          "level": 17
-        },
-        {
-          "move": "Revenge",
-          "level": 22
-        },
-        {
-          "move": "Swagger",
-          "level": 24
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 29
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 31
-        },
-        {
-          "move": "Venoshock",
-          "level": 36
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 38
-        },
-        {
-          "move": "Poison Jab",
-          "level": 43
-        },
-        {
-          "move": "Sludge Bomb",
-          "level": 45
-        },
-        {
-          "move": "Belch",
-          "level": 47
-        },
-        {
-          "move": "Flatter",
-          "level": 50
-        },
-        {
-          "move": "Acupressure",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Drain Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Dynamic Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Meditate",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Vacuum Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Wake-Up Slap",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -377,12 +224,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -665,8 +507,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

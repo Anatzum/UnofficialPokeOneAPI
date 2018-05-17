@@ -1,11 +1,10 @@
 {
-"name" : "Chansey",
+  "name": "Chansey",
   "national_id": 113,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Natural Cure"
     },
     {
@@ -17,19 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "76.3 lbs.",
   "weight_eu": "34.6 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -38,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 250,
     "atk": 5,
@@ -48,156 +42,14 @@
     "sp_def": 105,
     "speed": 50
   },
-  "evolutions": [
-    {
-      "to": "Blissey",
-      "happiness": true, 
-      "level_up": true
-    }
-  ],
+  "evolutions": [{
+    "to": "Blissey",
+    "happiness": true,
+    "level_up": true
+  }],
   "evolution_from": "Happiny",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Double-Edge",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 5
-        },
-        {
-          "move": "Refresh",
-          "level": 9
-        },
-        {
-          "move": "Double Slap",
-          "level": 12
-        },
-        {
-          "move": "Soft-Boiled",
-          "level": 16
-        },
-        {
-          "move": "Bestow",
-          "level": 20
-        },
-        {
-          "move": "Minimize",
-          "level": 23
-        },
-        {
-          "move": "Take Down",
-          "level": 27
-        },
-        {
-          "move": "Sing",
-          "level": 31
-        },
-        {
-          "move": "Fling",
-          "level": 34
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 38
-        },
-        {
-          "move": "Egg Bomb",
-          "level": 42
-        },
-        {
-          "move": "Light Screen",
-          "level": 46
-        },
-        {
-          "move": "Healing Wish",
-          "level": 50
-        },
-        {
-          "move": "Double-Edge",
-          "level": 54
-        },
-        {
-          "move": "Aromatherapy",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Gravity",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Bell",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Metronome",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Seismic Toss",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -412,12 +264,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Defense Curl",
           "level": 1
         },
@@ -728,8 +575,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Defense Curl",
           "level": 1
         },

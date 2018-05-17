@@ -1,12 +1,11 @@
 {
-"name" : "Magneton",
+  "name": "Magneton",
   "national_id": 82,
   "types": [
     "Electric",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Magnet Pull"
     },
     {
@@ -18,17 +17,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "132.3 lbs.",
   "weight_eu": "60.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 60,
@@ -48,129 +41,15 @@
     "speed": 70
   },
   "evolution_from": "Magnemite",
-  "evolutions": [
-    {
-      "to": "Magnezone",
-      "level_up": true,
-      "conditions": [
-        "in a Magnetic Field area"
-      ]
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Electric Terrain",
-          "level": 1
-        },
-        {
-          "move": "Sonic Boom",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 1
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 7
-        },
-        {
-          "move": "Sonic Boom",
-          "level": 11
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 13
-        },
-        {
-          "move": "Magnet Bomb",
-          "level": 17
-        },
-        {
-          "move": "Spark",
-          "level": 19
-        },
-        {
-          "move": "Mirror Shot",
-          "level": 23
-        },
-        {
-          "move": "Metal Sound",
-          "level": 25
-        },
-        {
-          "move": "Electro Ball",
-          "level": 29
-        },
-        {
-          "move": "Tri Attack",
-          "level": 30
-        },
-        {
-          "move": "Flash Cannon",
-          "level": 33
-        },
-        {
-          "move": "Screech",
-          "level": 39
-        },
-        {
-          "move": "Discharge",
-          "level": 43
-        },
-        {
-          "move": "Lock-On",
-          "level": 49
-        },
-        {
-          "move": "Magnet Rise",
-          "level": 53
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 59
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 63
-        },
-        {
+  "evolutions": [{
+    "to": "Magnezone",
+    "level_up": true,
+    "conditions": [
+      "in a Magnetic Field area"
+    ]
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -297,12 +176,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Electric Terrain",
           "level": 1
         },
@@ -517,8 +391,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Electric Terrain",
           "level": 1
         },

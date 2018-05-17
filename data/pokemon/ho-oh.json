@@ -1,17 +1,11 @@
 {
-  "name": {
-    "fr": "Ho-Oh",
-    "de": "Ho-Oh",
-    "it": "Ho-Oh",
-    "en": "Ho-Oh"
-  },
+  "name": "Ho-Oh",
   "national_id": 250,
   "types": [
     "Fire",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -20,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "12'06\"",
   "height_eu": "3.8 m",
   "weight_us": "438.7 lbs.",
   "weight_eu": "199.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +29,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 106,
     "atk": 130,
@@ -49,95 +37,10 @@
     "sp_def": 154,
     "speed": 90
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Weather Ball",
-          "level": 1
-        },
-        {
-          "move": "Whirlwind",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 9
-        },
-        {
-          "move": "Brave Bird",
-          "level": 15
-        },
-        {
-          "move": "Extrasensory",
-          "level": 23
-        },
-        {
-          "move": "Sunny Day",
-          "level": 29
-        },
-        {
-          "move": "Fire Blast",
-          "level": 37
-        },
-        {
-          "move": "Sacred Fire",
-          "level": 43
-        },
-        {
-          "move": "Punishment",
-          "level": 50
-        },
-        {
-          "move": "Ancient Power",
-          "level": 57
-        },
-        {
-          "move": "Safeguard",
-          "level": 65
-        },
-        {
-          "move": "Recover",
-          "level": 71
-        },
-        {
-          "move": "Future Sight",
-          "level": 79
-        },
-        {
-          "move": "Natural Gift",
-          "level": 85
-        },
-        {
-          "move": "Calm Mind",
-          "level": 93
-        },
-        {
-          "move": "Sky Attack",
-          "level": 99
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -340,12 +243,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Weather Ball",
           "level": 1
         },
@@ -596,8 +494,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Weather Ball",
           "level": 1
         },

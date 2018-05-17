@@ -1,11 +1,10 @@
 {
-"name" : "Torkoal",
+  "name": "Torkoal",
   "national_id": 324,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "White Smoke"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "177.2 lbs.",
   "weight_eu": "80.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 85,
@@ -49,139 +42,10 @@
     "sp_def": 70,
     "speed": 20
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Smog",
-          "level": 4
-        },
-        {
-          "move": "Withdraw",
-          "level": 7
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 10
-        },
-        {
-          "move": "Fire Spin",
-          "level": 13
-        },
-        {
-          "move": "Smokescreen",
-          "level": 15
-        },
-        {
-          "move": "Flame Wheel",
-          "level": 18
-        },
-        {
-          "move": "Curse",
-          "level": 22
-        },
-        {
-          "move": "Lava Plume",
-          "level": 25
-        },
-        {
-          "move": "Body Slam",
-          "level": 27
-        },
-        {
-          "move": "Protect",
-          "level": 30
-        },
-        {
-          "move": "Flamethrower",
-          "level": 34
-        },
-        {
-          "move": "Iron Defense",
-          "level": 38
-        },
-        {
-          "move": "Amnesia",
-          "level": 40
-        },
-        {
-          "move": "Flail",
-          "level": 42
-        },
-        {
-          "move": "Heat Wave",
-          "level": 45
-        },
-        {
-          "move": "Shell Smash",
-          "level": 47
-        },
-        {
-          "move": "Inferno",
-          "level": 50
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Eruption",
-          "egg_move": true
-        },
-        {
-          "move": "Fissure",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -328,12 +192,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -576,8 +435,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

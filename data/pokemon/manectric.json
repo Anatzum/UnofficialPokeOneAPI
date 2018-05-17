@@ -1,11 +1,10 @@
 {
-"name" : "Manectric",
+  "name": "Manectric",
   "national_id": 310,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Static"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "88.6 lbs.",
   "weight_eu": "40.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 75,
@@ -50,181 +43,9 @@
     "speed": 105
   },
   "evolution_from": "Electrike",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Electric"
-      ],
-      "ability": "Intimidate",
-      "mega_stone": "Manectite",
-      "height_us": "5'11\"",
-      "height_eu": "1.8 m",
-      "weight_us": "97.0 lbs.",
-      "weight_eu": "44.0 kg",
-      "base_stats": {
-        "hp": 70,
-        "atk": 75,
-        "def": 80,
-        "sp_atk": 135,
-        "sp_def": 80,
-        "speed": 135
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Electric Terrain",
-          "level": 1
-        },
-        {
-          "move": "Fire Fang",
-          "level": 1
-        },
-        {
-          "move": "Howl",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Howl",
-          "level": 7
-        },
-        {
-          "move": "Quick Attack",
-          "level": 10
-        },
-        {
-          "move": "Spark",
-          "level": 13
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 16
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 19
-        },
-        {
-          "move": "Bite",
-          "level": 24
-        },
-        {
-          "move": "Discharge",
-          "level": 30
-        },
-        {
-          "move": "Roar",
-          "level": 36
-        },
-        {
-          "move": "Wild Charge",
-          "level": 42
-        },
-        {
-          "move": "Charge",
-          "level": 48
-        },
-        {
-          "move": "Thunder",
-          "level": 54
-        },
-        {
-          "move": "Electric Terrain",
-          "level": 60
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Discharge",
-          "egg_move": true
-        },
-        {
-          "move": "Eerie Impulse",
-          "egg_move": true
-        },
-        {
-          "move": "Electro Ball",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Burst",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Shock Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -355,12 +176,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Electric Terrain",
           "level": 1
         },
@@ -615,8 +431,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Electric Terrain",
           "level": 1
         },

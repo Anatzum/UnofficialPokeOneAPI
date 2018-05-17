@@ -1,11 +1,10 @@
 {
-"name" : "Flabébé",
+  "name": "Flabébé",
   "national_id": 669,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flower Veil"
     },
     {
@@ -14,19 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "0'04\"",
   "height_eu": "0.1 m",
   "weight_us": "0.2 lbs.",
   "weight_eu": "0.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -35,8 +31,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 44,
     "atk": 38,
@@ -45,107 +39,12 @@
     "sp_def": 79,
     "speed": 42
   },
-  "evolutions": [
-    {
-      "to": "Floette",
-      "level": 19
-    }
-  ],
-  
-  "variations": [
-    {
-      "condition": "Inherited or holding Flower",
-      "image_suffix": "yellow",
-      "name": {
-        
-      },
-      "types": [
-        "Fairy"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Vine Whip",
-          "level": 1
-        },
-        {
-          "move": "Fairy Wind",
-          "level": 6
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 10
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 15
-        },
-        {
-          "move": "Wish",
-          "level": 20
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 22
-        },
-        {
-          "move": "Grassy Terrain",
-          "level": 24
-        },
-        {
-          "move": "Petal Blizzard",
-          "level": 28
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 33
-        },
-        {
-          "move": "Misty Terrain",
-          "level": 37
-        },
-        {
-          "move": "Moonblast",
-          "level": 41
-        },
-        {
-          "move": "Petal Dance",
-          "level": 45
-        },
-        {
-          "move": "Solar Beam",
-          "level": 48
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Copycat",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "evolutions": [{
+    "to": "Floette",
+    "level": 19
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -252,12 +151,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -432,8 +326,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

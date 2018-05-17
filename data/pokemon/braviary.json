@@ -1,12 +1,11 @@
 {
-"name" : "Braviary",
+  "name": "Braviary",
   "national_id": 628,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -15,19 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "90.4 lbs.",
   "weight_eu": "41.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 123,
@@ -47,122 +41,9 @@
     "speed": 80
   },
   "evolution_from": "Rufflet",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Brave Bird",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Superpower",
-          "level": 1
-        },
-        {
-          "move": "Thrash",
-          "level": 1
-        },
-        {
-          "move": "Whirlwind",
-          "level": 1
-        },
-        {
-          "move": "Wing Attack",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 5
-        },
-        {
-          "move": "Wing Attack",
-          "level": 10
-        },
-        {
-          "move": "Hone Claws",
-          "level": 14
-        },
-        {
-          "move": "Scary Face",
-          "level": 19
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 23
-        },
-        {
-          "move": "Slash",
-          "level": 28
-        },
-        {
-          "move": "Defog",
-          "level": 32
-        },
-        {
-          "move": "Tailwind",
-          "level": 37
-        },
-        {
-          "move": "Air Slash",
-          "level": 41
-        },
-        {
-          "move": "Crush Claw",
-          "level": 46
-        },
-        {
-          "move": "Sky Drop",
-          "level": 50
-        },
-        {
-          "move": "Superpower",
-          "level": 51
-        },
-        {
-          "move": "Whirlwind",
-          "level": 57
-        },
-        {
-          "move": "Brave Bird",
-          "level": 63
-        },
-        {
-          "move": "Thrash",
-          "level": 70
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -301,12 +182,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Brave Bird",
           "level": 1
         },
@@ -517,8 +393,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Brave Bird",
           "level": 1
         },

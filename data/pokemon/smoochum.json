@@ -1,12 +1,11 @@
 {
-"name" : "Smoochum",
+  "name": "Smoochum",
   "national_id": 238,
   "types": [
     "Ice",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -18,19 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "13.2 lbs.",
   "weight_eu": "6.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 30,
@@ -49,127 +43,13 @@
     "sp_def": 65,
     "speed": 65
   },
-  "evolutions": [
-    {
-      "to": "Jynx",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Jynx",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 5
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 8
-        },
-        {
-          "move": "Powder Snow",
-          "level": 11
-        },
-        {
-          "move": "Confusion",
-          "level": 15
-        },
-        {
-          "move": "Sing",
-          "level": 18
-        },
-        {
-          "move": "Heart Stamp",
-          "level": 21
-        },
-        {
-          "move": "Mean Look",
-          "level": 25
-        },
-        {
-          "move": "Fake Tears",
-          "level": 28
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 31
-        },
-        {
-          "move": "Avalanche",
-          "level": 35
-        },
-        {
-          "move": "Psychic",
-          "level": 38
-        },
-        {
-          "move": "Copycat",
-          "level": 41
-        },
-        {
-          "move": "Perish Song",
-          "level": 45
-        },
-        {
-          "move": "Blizzard",
-          "level": 48
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Meditate",
-          "egg_move": true
-        },
-        {
-          "move": "Miracle Eye",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Wake-Up Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -312,12 +192,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Pound",
           "level": 1
         },
@@ -552,8 +427,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Pound",
           "level": 1
         },

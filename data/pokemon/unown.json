@@ -1,26 +1,20 @@
 {
-"name" : "Unown",
+  "name": "Unown",
   "national_id": 201,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "11.0 lbs.",
   "weight_eu": "5.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 48,
     "atk": 72,
@@ -39,47 +31,16 @@
     "sp_def": 48,
     "speed": 48
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Hidden Power",
-          "level": 1
-        },
-        {
-          "move": "Hidden Power",
-          "tm": "TM10"
-        }
-      ]
+  "move_learnsets": [{
+      "tm_learnset": [{
+        "move": "Hidden Power",
+        "tm": "TM10"
+      }]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hidden Power",
           "level": 1
         },
@@ -94,8 +55,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hidden Power",
           "level": 1
         },

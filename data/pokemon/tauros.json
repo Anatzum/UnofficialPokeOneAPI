@@ -1,11 +1,10 @@
 {
-"name" : "Tauros",
+  "name": "Tauros",
   "national_id": 128,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -17,19 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "194.9 lbs.",
   "weight_eu": "88.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -38,8 +34,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 100,
@@ -48,87 +42,10 @@
     "sp_def": 70,
     "speed": 110
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 3
-        },
-        {
-          "move": "Rage",
-          "level": 5
-        },
-        {
-          "move": "Horn Attack",
-          "level": 8
-        },
-        {
-          "move": "Scary Face",
-          "level": 11
-        },
-        {
-          "move": "Pursuit",
-          "level": 15
-        },
-        {
-          "move": "Rest",
-          "level": 19
-        },
-        {
-          "move": "Payback",
-          "level": 24
-        },
-        {
-          "move": "Work Up",
-          "level": 29
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 35
-        },
-        {
-          "move": "Take Down",
-          "level": 41
-        },
-        {
-          "move": "Swagger",
-          "level": 48
-        },
-        {
-          "move": "Thrash",
-          "level": 50
-        },
-        {
-          "move": "Giga Impact",
-          "level": 63
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -287,12 +204,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -499,8 +411,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

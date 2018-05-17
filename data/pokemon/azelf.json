@@ -1,26 +1,20 @@
 {
-"name" : "Azelf",
+  "name": "Azelf",
   "national_id": 482,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "0.7 lbs.",
   "weight_eu": "0.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 125,
@@ -39,87 +31,10 @@
     "sp_def": 70,
     "speed": 115
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Last Resort",
-          "level": 1
-        },
-        {
-          "move": "Natural Gift",
-          "level": 1
-        },
-        {
-          "move": "Rest",
-          "level": 1
-        },
-        {
-          "move": "Imprison",
-          "level": 6
-        },
-        {
-          "move": "Detect",
-          "level": 16
-        },
-        {
-          "move": "Swift",
-          "level": 21
-        },
-        {
-          "move": "Uproar",
-          "level": 31
-        },
-        {
-          "move": "Future Sight",
-          "level": 36
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 46
-        },
-        {
-          "move": "Extrasensory",
-          "level": 50
-        },
-        {
-          "move": "Last Resort",
-          "level": 61
-        },
-        {
-          "move": "Natural Gift",
-          "level": 66
-        },
-        {
-          "move": "Explosion",
-          "level": 76
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -314,12 +229,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -558,8 +468,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

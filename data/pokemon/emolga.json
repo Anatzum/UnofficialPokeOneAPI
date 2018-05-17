@@ -1,12 +1,11 @@
 {
-"name" : "Emolga",
+  "name": "Emolga",
   "national_id": 587,
   "types": [
     "Electric",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Static"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "11.0 lbs.",
   "weight_eu": "5.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 75,
@@ -47,135 +40,10 @@
     "sp_def": 60,
     "speed": 103
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Thunder Shock",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 4
-        },
-        {
-          "move": "Tail Whip",
-          "level": 7
-        },
-        {
-          "move": "Charge",
-          "level": 10
-        },
-        {
-          "move": "Spark",
-          "level": 13
-        },
-        {
-          "move": "Nuzzle",
-          "level": 15
-        },
-        {
-          "move": "Pursuit",
-          "level": 16
-        },
-        {
-          "move": "Double Team",
-          "level": 19
-        },
-        {
-          "move": "Shock Wave",
-          "level": 22
-        },
-        {
-          "move": "Electro Ball",
-          "level": 26
-        },
-        {
-          "move": "Acrobatics",
-          "level": 30
-        },
-        {
-          "move": "Light Screen",
-          "level": 34
-        },
-        {
-          "move": "Encore",
-          "level": 38
-        },
-        {
-          "move": "Volt Switch",
-          "level": 42
-        },
-        {
-          "move": "Agility",
-          "level": 46
-        },
-        {
-          "move": "Discharge",
-          "level": 50
-        },
-        {
-          "move": "Air Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Ion Deluge",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Shock Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -302,12 +170,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Thunder Shock",
           "level": 1
         },
@@ -534,8 +397,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Thunder Shock",
           "level": 1
         },

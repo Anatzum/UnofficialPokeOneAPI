@@ -1,12 +1,11 @@
 {
-"name" : "Swellow",
+  "name": "Swellow",
   "national_id": 277,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Guts"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "43.7 lbs.",
   "weight_eu": "19.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 85,
@@ -48,146 +41,9 @@
     "speed": 125
   },
   "evolution_from": "Taillow",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Air Slash",
-          "level": 1
-        },
-        {
-          "move": "Brave Bird",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Pluck",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 5
-        },
-        {
-          "move": "Quick Attack",
-          "level": 9
-        },
-        {
-          "move": "Wing Attack",
-          "level": 13
-        },
-        {
-          "move": "Double Team",
-          "level": 17
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 21
-        },
-        {
-          "move": "Quick Guard",
-          "level": 27
-        },
-        {
-          "move": "Agility",
-          "level": 33
-        },
-        {
-          "move": "Endeavor",
-          "level": 39
-        },
-        {
-          "move": "Air Slash",
-          "level": 45
-        },
-        {
-          "move": "Brave Bird",
-          "level": 51
-        },
-        {
-          "move": "Boomburst",
-          "egg_move": true
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Roost",
-          "egg_move": true
-        },
-        {
-          "move": "Sky Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -294,12 +150,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Air Slash",
           "level": 1
         },
@@ -534,8 +385,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Air Slash",
           "level": 1
         },

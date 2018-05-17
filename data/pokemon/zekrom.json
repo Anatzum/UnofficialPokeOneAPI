@@ -1,27 +1,21 @@
 {
-"name" : "Zekrom",
+  "name": "Zekrom",
   "national_id": 644,
   "types": [
     "Dragon",
     "Electric"
   ],
-  "abilities": [
-    {
-      "name": "Teravolt"
-    }
-  ],
+  "abilities": [{
+    "name": "Teravolt"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "9'06\"",
   "height_eu": "2.9 m",
   "weight_us": "760.6 lbs.",
   "weight_eu": "345.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 150,
@@ -40,95 +32,10 @@
     "sp_def": 100,
     "speed": 90
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Dragon Rage",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Imprison",
-          "level": 8
-        },
-        {
-          "move": "Ancient Power",
-          "level": 15
-        },
-        {
-          "move": "Thunderbolt",
-          "level": 22
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 29
-        },
-        {
-          "move": "Slash",
-          "level": 36
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 43
-        },
-        {
-          "move": "Fusion Bolt",
-          "level": 50
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 54
-        },
-        {
-          "move": "Imprison",
-          "level": 64
-        },
-        {
-          "move": "Crunch",
-          "level": 71
-        },
-        {
-          "move": "Thunder",
-          "level": 78
-        },
-        {
-          "move": "Outrage",
-          "level": 85
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 92
-        },
-        {
-          "move": "Bolt Strike",
-          "level": 100
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -319,12 +226,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Dragon Rage",
           "level": 1
         },
@@ -563,8 +465,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Dragon Rage",
           "level": 1
         },

@@ -1,29 +1,23 @@
 {
-"name" : "Eelektross",
+  "name": "Eelektross",
   "national_id": 604,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "6'11\"",
   "height_eu": "2.1 m",
   "weight_us": "177.5 lbs.",
   "weight_eu": "80.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 115,
@@ -43,70 +35,9 @@
     "speed": 50
   },
   "evolution_from": "Eelektrik",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Acid",
-          "level": 1
-        },
-        {
-          "move": "Coil",
-          "level": 1
-        },
-        {
-          "move": "Crunch",
-          "level": 1
-        },
-        {
-          "move": "Crush Claw",
-          "level": 1
-        },
-        {
-          "move": "Discharge",
-          "level": 1
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 1
-        },
-        {
-          "move": "Headbutt",
-          "level": 1
-        },
-        {
-          "move": "Ion Deluge",
-          "level": 1
-        },
-        {
-          "move": "Thrash",
-          "level": 1
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 1
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -277,12 +208,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Acid",
           "level": 1
         },
@@ -469,8 +395,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Acid",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Jumpluff",
+  "name": "Jumpluff",
   "national_id": 189,
   "types": [
     "Grass",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy",
     "Grass"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "6.6 lbs.",
   "weight_eu": "3.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 3
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 55,
@@ -52,162 +45,9 @@
     "speed": 110
   },
   "evolution_from": "Skiploom",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Splash",
-          "level": 1
-        },
-        {
-          "move": "Synthesis",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Synthesis",
-          "level": 4
-        },
-        {
-          "move": "Tail Whip",
-          "level": 6
-        },
-        {
-          "move": "Tackle",
-          "level": 8
-        },
-        {
-          "move": "Fairy Wind",
-          "level": 10
-        },
-        {
-          "move": "Poison Powder",
-          "level": 12
-        },
-        {
-          "move": "Stun Spore",
-          "level": 14
-        },
-        {
-          "move": "Sleep Powder",
-          "level": 16
-        },
-        {
-          "move": "Bullet Seed",
-          "level": 20
-        },
-        {
-          "move": "Leech Seed",
-          "level": 24
-        },
-        {
-          "move": "Mega Drain",
-          "level": 29
-        },
-        {
-          "move": "Acrobatics",
-          "level": 34
-        },
-        {
-          "move": "Rage Powder",
-          "level": 39
-        },
-        {
-          "move": "Cotton Spore",
-          "level": 44
-        },
-        {
-          "move": "U-turn",
-          "level": 49
-        },
-        {
-          "move": "Worry Seed",
-          "level": 54
-        },
-        {
-          "move": "Giga Drain",
-          "level": 59
-        },
-        {
-          "move": "Bounce",
-          "level": 64
-        },
-        {
-          "move": "Memento",
-          "level": 69
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Aromatherapy",
-          "egg_move": true
-        },
-        {
-          "move": "Confusion",
-          "egg_move": true
-        },
-        {
-          "move": "Cotton Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Seed Bomb",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -330,12 +170,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Splash",
           "level": 1
         },
@@ -586,8 +421,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

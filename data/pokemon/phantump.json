@@ -1,12 +1,11 @@
 {
-"name" : "Phantump",
+  "name": "Phantump",
   "national_id": 708,
   "types": [
     "Ghost",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Natural Cure"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass",
     "Amorphous"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "15.4 lbs.",
   "weight_eu": "7.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 43,
     "atk": 70,
@@ -48,107 +41,13 @@
     "sp_def": 60,
     "speed": 38
   },
-  "evolutions": [
-    {
-      "to": "Trevenant",
-      "trade": true
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Trevenant",
+    "trade": true
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confuse Ray",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Astonish",
-          "level": 5
-        },
-        {
-          "move": "Growth",
-          "level": 8
-        },
-        {
-          "move": "Ingrain",
-          "level": 13
-        },
-        {
-          "move": "Feint Attack",
-          "level": 19
-        },
-        {
-          "move": "Leech Seed",
-          "level": 23
-        },
-        {
-          "move": "Curse",
-          "level": 28
-        },
-        {
-          "move": "Will-O-Wisp",
-          "level": 31
-        },
-        {
-          "move": "Forest's Curse",
-          "level": 35
-        },
-        {
-          "move": "Destiny Bond",
-          "level": 39
-        },
-        {
-          "move": "Phantom Force",
-          "level": 45
-        },
-        {
-          "move": "Wood Hammer",
-          "level": 49
-        },
-        {
-          "move": "Horn Leech",
-          "level": 54
-        },
-        {
-          "move": "Bestow",
-          "egg_move": true
-        },
-        {
-          "move": "Grudge",
-          "egg_move": true
-        },
-        {
-          "move": "Imprison",
-          "egg_move": true
-        },
-        {
-          "move": "Venom Drench",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -299,12 +198,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },
@@ -511,8 +405,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Gyarados",
+  "name": "Gyarados",
   "national_id": 130,
   "types": [
     "Water",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2",
     "Dragon"
   ],
-  
   "height_us": "21'04\"",
   "height_eu": "6.5 m",
   "weight_us": "518.1 lbs.",
   "weight_eu": "235.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 125,
@@ -49,98 +42,9 @@
     "speed": 81
   },
   "evolution_from": "Magikarp",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Water",
-        "Dark"
-      ],
-      "ability": "Mold Breaker",
-      "mega_stone": "Gyaradosite",
-      "height_us": "21'04\"",
-      "height_eu": "6.5 m",
-      "weight_us": "672.4 lbs.",
-      "weight_eu": "305.0 kg",
-      "base_stats": {
-        "hp": 95,
-        "atk": 155,
-        "def": 109,
-        "sp_atk": 70,
-        "sp_def": 130,
-        "speed": 81
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Thrash",
-          "level": 1
-        },
-        {
-          "move": "Bite",
-          "level": 20
-        },
-        {
-          "move": "Dragon Rage",
-          "level": 23
-        },
-        {
-          "move": "Leer",
-          "level": 26
-        },
-        {
-          "move": "Twister",
-          "level": 29
-        },
-        {
-          "move": "Ice Fang",
-          "level": 32
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 35
-        },
-        {
-          "move": "Rain Dance",
-          "level": 38
-        },
-        {
-          "move": "Crunch",
-          "level": 41
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 44
-        },
-        {
-          "move": "Dragon Dance",
-          "level": 47
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 50
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -315,12 +219,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -539,8 +438,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

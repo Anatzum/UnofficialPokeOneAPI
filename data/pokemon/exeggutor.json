@@ -1,12 +1,11 @@
 {
-"name" : "Exeggutor",
+  "name": "Exeggutor",
   "national_id": 103,
   "types": [
     "Grass",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "264.6 lbs.",
   "weight_eu": "120.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 95,
@@ -48,143 +41,9 @@
     "speed": 55
   },
   "evolution_from": "Exeggcute",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-    {
-      "condition": "Alola",
-      "image_suffix": "alola",
-      "name": {
-        "en": "Alolan Exeggutor",
-        "de": "Alola-Kokowei"
-      },
-      "types": [
-        "Grass",
-        "Dragon"
-      ],
-      "abilities": [
-        {
-          "name": "Frisk"
-        },
-        {
-          "name": "Harvest",
-          "hidden": true
-        }
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Barrage",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Hypnosis",
-          "level": 1
-        },
-        {
-          "move": "Seed Bomb",
-          "level": 1
-        },
-        {
-          "move": "Stomp",
-          "level": 1
-        },
-        {
-          "move": "Psyshock",
-          "level": 17
-        },
-        {
-          "move": "Egg Bomb",
-          "level": 27
-        },
-        {
-          "move": "Wood Hammer",
-          "level": 37
-        },
-        {
-          "move": "Leaf Storm",
-          "level": 47
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Moonlight",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Nature Power",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -331,12 +190,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Barrage",
           "level": 1,
           "variations": [
@@ -1029,8 +883,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Barrage",
           "level": 1,
           "variations": [

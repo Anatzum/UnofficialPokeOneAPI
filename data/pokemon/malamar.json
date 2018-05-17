@@ -1,12 +1,11 @@
 {
-"name" : "Malamar",
+  "name": "Malamar",
   "national_id": 687,
   "types": [
     "Dark",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Suction Cups"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 2"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "103.6 lbs.",
   "weight_eu": "47.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 86,
     "atk": 92,
@@ -49,130 +42,9 @@
     "speed": 73
   },
   "evolution_from": "Inkay",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Reversal",
-          "level": 1
-        },
-        {
-          "move": "Superpower",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Reflect",
-          "level": 4
-        },
-        {
-          "move": "Foul Play",
-          "level": 8
-        },
-        {
-          "move": "Swagger",
-          "level": 12
-        },
-        {
-          "move": "Psywave",
-          "level": 13
-        },
-        {
-          "move": "Topsy-Turvy",
-          "level": 15
-        },
-        {
-          "move": "Hypnosis",
-          "level": 18
-        },
-        {
-          "move": "Psybeam",
-          "level": 21
-        },
-        {
-          "move": "Switcheroo",
-          "level": 23
-        },
-        {
-          "move": "Payback",
-          "level": 27
-        },
-        {
-          "move": "Light Screen",
-          "level": 31
-        },
-        {
-          "move": "Pluck",
-          "level": 35
-        },
-        {
-          "move": "Psycho Cut",
-          "level": 39
-        },
-        {
-          "move": "Slash",
-          "level": 43
-        },
-        {
-          "move": "Night Slash",
-          "level": 46
-        },
-        {
-          "move": "Superpower",
-          "level": 48
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Flatter",
-          "egg_move": true
-        },
-        {
-          "move": "Power Split",
-          "egg_move": true
-        },
-        {
-          "move": "Simple Beam",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -335,12 +207,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Constrict",
           "level": 1
         },
@@ -595,8 +462,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Constrict",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Bonsly",
+  "name": "Bonsly",
   "national_id": 438,
   "types": [
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "33.1 lbs.",
   "weight_eu": "15.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 80,
@@ -49,128 +42,14 @@
     "sp_def": 45,
     "speed": 10
   },
-  "evolutions": [
-    {
-      "to": "Sudowoodo",
-      "level_up": true,
-      "move_learned": "Mimic"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Sudowoodo",
+    "level_up": true,
+    "move_learned": "Mimic"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Copycat",
-          "level": 1
-        },
-        {
-          "move": "Fake Tears",
-          "level": 1
-        },
-        {
-          "move": "Flail",
-          "level": 5
-        },
-        {
-          "move": "Low Kick",
-          "level": 8
-        },
-        {
-          "move": "Rock Throw",
-          "level": 12
-        },
-        {
-          "move": "Mimic",
-          "level": 15
-        },
-        {
-          "move": "Feint Attack",
-          "level": 19
-        },
-        {
-          "move": "Rock Tomb",
-          "level": 22
-        },
-        {
-          "move": "Block",
-          "level": 26
-        },
-        {
-          "move": "Rock Slide",
-          "level": 29
-        },
-        {
-          "move": "Counter",
-          "level": 33
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 36
-        },
-        {
-          "move": "Double-Edge",
-          "level": 40
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Harden",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Self-Destruct",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -281,12 +160,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Copycat",
           "level": 1
         },
@@ -489,8 +363,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Copycat",
           "level": 1
         },

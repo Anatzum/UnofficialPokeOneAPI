@@ -1,11 +1,10 @@
 {
-"name" : "Alomomola",
+  "name": "Alomomola",
   "national_id": 594,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Healer"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 2"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "69.7 lbs.",
   "weight_eu": "31.6 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 165,
     "atk": 75,
@@ -47,135 +40,10 @@
     "sp_def": 45,
     "speed": 65
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Healing Wish",
-          "level": 1
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 1
-        },
-        {
-          "move": "Wide Guard",
-          "level": 1
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 5
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 9
-        },
-        {
-          "move": "Double Slap",
-          "level": 13
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 17
-        },
-        {
-          "move": "Protect",
-          "level": 21
-        },
-        {
-          "move": "Water Pulse",
-          "level": 25
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 29
-        },
-        {
-          "move": "Soak",
-          "level": 33
-        },
-        {
-          "move": "Wish",
-          "level": 37
-        },
-        {
-          "move": "Brine",
-          "level": 41
-        },
-        {
-          "move": "Safeguard",
-          "level": 45
-        },
-        {
-          "move": "Helping Hand",
-          "level": 49
-        },
-        {
-          "move": "Wide Guard",
-          "level": 53
-        },
-        {
-          "move": "Healing Wish",
-          "level": 57
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 61
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Pain Split",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -294,12 +162,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Healing Wish",
           "level": 1
         },
@@ -530,8 +393,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Healing Wish",
           "level": 1
         },

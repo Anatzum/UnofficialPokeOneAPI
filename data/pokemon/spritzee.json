@@ -1,11 +1,10 @@
 {
-"name" : "Spritzee",
+  "name": "Spritzee",
   "national_id": 682,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Healer"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "1.1 lbs.",
   "weight_eu": "0.5 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 78,
     "atk": 52,
@@ -46,120 +39,14 @@
     "sp_def": 65,
     "speed": 23
   },
-  "evolutions": [
-    {
-      "to": "Aromatisse",
-      "trade": true,
-      "hold_item": "Sachet"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Aromatisse",
+    "trade": true,
+    "hold_item": "Sachet"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Fairy Wind",
-          "level": 1
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 1
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 6
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 8
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 13
-        },
-        {
-          "move": "Calm Mind",
-          "level": 17
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 21
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 25
-        },
-        {
-          "move": "Attract",
-          "level": 29
-        },
-        {
-          "move": "Moonblast",
-          "level": 31
-        },
-        {
-          "move": "Charm",
-          "level": 35
-        },
-        {
-          "move": "Flail",
-          "level": 38
-        },
-        {
-          "move": "Misty Terrain",
-          "level": 42
-        },
-        {
-          "move": "Skill Swap",
-          "level": 44
-        },
-        {
-          "move": "Psychic",
-          "level": 48
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 50
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -290,12 +177,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fairy Wind",
           "level": 1
         },
@@ -506,8 +388,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fairy Wind",
           "level": 1
         },

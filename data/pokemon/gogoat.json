@@ -1,11 +1,10 @@
 {
-"name" : "Gogoat",
+  "name": "Gogoat",
   "national_id": 673,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sap Sipper"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "200.6 lbs.",
   "weight_eu": "91.0 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 123,
     "atk": 100,
@@ -47,118 +40,9 @@
     "speed": 68
   },
   "evolution_from": "Skiddo",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aerial Ace",
-          "level": 1
-        },
-        {
-          "move": "Growth",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Vine Whip",
-          "level": 7
-        },
-        {
-          "move": "Tail Whip",
-          "level": 9
-        },
-        {
-          "move": "Leech Seed",
-          "level": 12
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 13
-        },
-        {
-          "move": "Worry Seed",
-          "level": 16
-        },
-        {
-          "move": "Synthesis",
-          "level": 20
-        },
-        {
-          "move": "Take Down",
-          "level": 22
-        },
-        {
-          "move": "Bulldoze",
-          "level": 26
-        },
-        {
-          "move": "Seed Bomb",
-          "level": 30
-        },
-        {
-          "move": "Bulk Up",
-          "level": 34
-        },
-        {
-          "move": "Double-Edge",
-          "level": 40
-        },
-        {
-          "move": "Horn Leech",
-          "level": 47
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 55
-        },
-        {
-          "move": "Milk Drink",
-          "level": 58
-        },
-        {
-          "move": "Earthquake",
-          "level": 60
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 65
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Milk Drink",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -309,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aerial Ace",
           "level": 1
         },
@@ -545,8 +424,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aerial Ace",
           "level": 1
         },

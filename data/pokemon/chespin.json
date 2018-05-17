@@ -1,11 +1,10 @@
 {
-"name" : "Chespin",
+  "name": "Chespin",
   "national_id": 650,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "19.8 lbs.",
   "weight_eu": "9.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 56,
     "atk": 61,
@@ -46,119 +39,13 @@
     "sp_def": 45,
     "speed": 38
   },
-  "evolutions": [
-    {
-      "to": "Quilladin",
-      "level": 16
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Quilladin",
+    "level": 16
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Vine Whip",
-          "level": 5
-        },
-        {
-          "move": "Rollout",
-          "level": 8
-        },
-        {
-          "move": "Bite",
-          "level": 11
-        },
-        {
-          "move": "Leech Seed",
-          "level": 15
-        },
-        {
-          "move": "Pin Missile",
-          "level": 18
-        },
-        {
-          "move": "Take Down",
-          "level": 27
-        },
-        {
-          "move": "Seed Bomb",
-          "level": 32
-        },
-        {
-          "move": "Mud Shot",
-          "level": 35
-        },
-        {
-          "move": "Bulk Up",
-          "level": 39
-        },
-        {
-          "move": "Body Slam",
-          "level": 42
-        },
-        {
-          "move": "Pain Split",
-          "level": 45
-        },
-        {
-          "move": "Wood Hammer",
-          "level": 48
-        },
-        {
-          "move": "Belly Drum",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -345,12 +232,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -597,8 +479,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

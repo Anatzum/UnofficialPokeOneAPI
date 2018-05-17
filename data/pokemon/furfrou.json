@@ -1,29 +1,23 @@
 {
-"name" : "Furfrou",
+  "name": "Furfrou",
   "national_id": 676,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
-      "name": "Fur Coat"
-    }
-  ],
+  "abilities": [{
+    "name": "Fur Coat"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "61.7 lbs.",
   "weight_eu": "28.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 80,
@@ -42,101 +34,8 @@
     "sp_def": 90,
     "speed": 102
   },
-  
-  "variations": [
-    {
-      "condition": "groomed",
-      "image_suffix": "heart",
-      "name": {
-        
-      },
-      "types": [
-        "Normal"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 5
-        },
-        {
-          "move": "Baby-Doll Eyes",
-          "level": 9
-        },
-        {
-          "move": "Headbutt",
-          "level": 12
-        },
-        {
-          "move": "Tail Whip",
-          "level": 15
-        },
-        {
-          "move": "Bite",
-          "level": 22
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 27
-        },
-        {
-          "move": "Retaliate",
-          "level": 33
-        },
-        {
-          "move": "Take Down",
-          "level": 35
-        },
-        {
-          "move": "Charm",
-          "level": 38
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 42
-        },
-        {
-          "move": "Cotton Guard",
-          "level": 48
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Mimic",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Role Play",
-          "egg_move": true
-        },
-        {
-          "move": "Work Up",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -267,12 +166,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -463,8 +357,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

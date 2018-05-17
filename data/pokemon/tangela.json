@@ -1,11 +1,10 @@
 {
-"name" : "Tangela",
+  "name": "Tangela",
   "national_id": 114,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "77.2 lbs.",
   "weight_eu": "35.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 55,
@@ -49,160 +42,14 @@
     "sp_def": 40,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Tangrowth",
-      "level_up": true,
-      "move_learned": "Ancient Power"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Tangrowth",
+    "level_up": true,
+    "move_learned": "Ancient Power"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Ingrain",
-          "level": 1
-        },
-        {
-          "move": "Sleep Powder",
-          "level": 4
-        },
-        {
-          "move": "Vine Whip",
-          "level": 7
-        },
-        {
-          "move": "Absorb",
-          "level": 10
-        },
-        {
-          "move": "Poison Powder",
-          "level": 14
-        },
-        {
-          "move": "Bind",
-          "level": 17
-        },
-        {
-          "move": "Growth",
-          "level": 20
-        },
-        {
-          "move": "Mega Drain",
-          "level": 23
-        },
-        {
-          "move": "Knock Off",
-          "level": 27
-        },
-        {
-          "move": "Stun Spore",
-          "level": 30
-        },
-        {
-          "move": "Natural Gift",
-          "level": 33
-        },
-        {
-          "move": "Giga Drain",
-          "level": 36
-        },
-        {
-          "move": "Ancient Power",
-          "level": 38
-        },
-        {
-          "move": "Slam",
-          "level": 41
-        },
-        {
-          "move": "Tickle",
-          "level": 44
-        },
-        {
-          "move": "Wring Out",
-          "level": 46
-        },
-        {
-          "move": "Grassy Terrain",
-          "level": 48
-        },
-        {
-          "move": "Power Whip",
-          "level": 50
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Confusion",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Mega Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Nature Power",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Rage Powder",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -329,12 +176,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Constrict",
           "level": 1
         },
@@ -573,8 +415,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Constrict",
           "level": 1
         },

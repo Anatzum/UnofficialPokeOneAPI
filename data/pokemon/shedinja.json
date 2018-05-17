@@ -1,27 +1,21 @@
 {
-"name" : "Shedinja",
+  "name": "Shedinja",
   "national_id": 292,
   "types": [
     "Bug",
     "Ghost"
   ],
-  "abilities": [
-    {
-      "name": "Wonder Guard"
-    }
-  ],
+  "abilities": [{
+    "name": "Wonder Guard"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "2.6 lbs.",
   "weight_eu": "1.2 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 1,
     "atk": 90,
@@ -41,114 +33,9 @@
     "speed": 40
   },
   "evolution_from": "Nincada",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Leech Life",
-          "level": 5
-        },
-        {
-          "move": "Sand Attack",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 13
-        },
-        {
-          "move": "Spite",
-          "level": 17
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 21
-        },
-        {
-          "move": "Mind Reader",
-          "level": 25
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 29
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 33
-        },
-        {
-          "move": "Grudge",
-          "level": 37
-        },
-        {
-          "move": "Heal Block",
-          "level": 41
-        },
-        {
-          "move": "Phantom Force",
-          "level": 45
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Buzz",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Final Gambit",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -279,12 +166,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -459,8 +341,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Shuckle",
+  "name": "Shuckle",
   "national_id": 213,
   "types": [
     "Bug",
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "45.2 lbs.",
   "weight_eu": "20.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 20,
     "atk": 10,
@@ -50,147 +43,10 @@
     "sp_def": 230,
     "speed": 5
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bide",
-          "level": 1
-        },
-        {
-          "move": "Constrict",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 1
-        },
-        {
-          "move": "Sticky Web",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 1
-        },
-        {
-          "move": "Encore",
-          "level": 5
-        },
-        {
-          "move": "Wrap",
-          "level": 9
-        },
-        {
-          "move": "Struggle Bug",
-          "level": 12
-        },
-        {
-          "move": "Safeguard",
-          "level": 16
-        },
-        {
-          "move": "Rest",
-          "level": 20
-        },
-        {
-          "move": "Rock Throw",
-          "level": 23
-        },
-        {
-          "move": "Gastro Acid",
-          "level": 27
-        },
-        {
-          "move": "Power Trick",
-          "level": 31
-        },
-        {
-          "move": "Shell Smash",
-          "level": 34
-        },
-        {
-          "move": "Rock Slide",
-          "level": 38
-        },
-        {
-          "move": "Bug Bite",
-          "level": 42
-        },
-        {
-          "move": "Guard Split",
-          "level": 45
-        },
-        {
-          "move": "Power Split",
-          "level": 45
-        },
-        {
-          "move": "Stone Edge",
-          "level": 49
-        },
-        {
-          "move": "Sticky Web",
-          "level": 53
-        },
-        {
-          "move": "Acid",
-          "egg_move": true
-        },
-        {
-          "move": "Acupressure",
-          "egg_move": true
-        },
-        {
-          "move": "Final Gambit",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Blast",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Scent",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -333,12 +189,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -577,8 +428,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Audino",
+  "name": "Audino",
   "national_id": 531,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Healer"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "68.3 lbs.",
   "weight_eu": "31.0 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 103,
     "atk": 60,
@@ -46,171 +39,10 @@
     "sp_def": 86,
     "speed": 50
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Normal",
-        "Fairy"
-      ],
-      "ability": "Healer",
-      "mega_stone": "Audinite",
-      "height_us": "4'11\"",
-      "height_eu": "1.5 m",
-      "weight_us": "70.5 lbs.",
-      "weight_eu": "32.0 kg",
-      "base_stats": {
-        "hp": 103,
-        "atk": 60,
-        "def": 126,
-        "sp_atk": 80,
-        "sp_def": 126,
-        "speed": 50
-      }
-    }
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Helping Hand",
-          "level": 1
-        },
-        {
-          "move": "Last Resort",
-          "level": 1
-        },
-        {
-          "move": "Misty Terrain",
-          "level": 1
-        },
-        {
-          "move": "Play Nice",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Baby-Doll Eyes",
-          "level": 5
-        },
-        {
-          "move": "Refresh",
-          "level": 9
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 13
-        },
-        {
-          "move": "Double Slap",
-          "level": 17
-        },
-        {
-          "move": "Attract",
-          "level": 21
-        },
-        {
-          "move": "Secret Power",
-          "level": 25
-        },
-        {
-          "move": "Entrainment",
-          "level": 29
-        },
-        {
-          "move": "Take Down",
-          "level": 33
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 37
-        },
-        {
-          "move": "After You",
-          "level": 41
-        },
-        {
-          "move": "Simple Beam",
-          "level": 45
-        },
-        {
-          "move": "Double-Edge",
-          "level": 49
-        },
-        {
-          "move": "Last Resort",
-          "level": 53
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Bestow",
-          "egg_move": true
-        },
-        {
-          "move": "Draining Kiss",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Bell",
-          "egg_move": true
-        },
-        {
-          "move": "Healing Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Kiss",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -405,12 +237,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -717,8 +544,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

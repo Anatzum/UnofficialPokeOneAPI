@@ -1,11 +1,10 @@
 {
-"name" : "Bouffalant",
+  "name": "Bouffalant",
   "national_id": 626,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Reckless"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "208.3 lbs.",
   "weight_eu": "94.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 110,
@@ -46,123 +39,10 @@
     "sp_def": 95,
     "speed": 55
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Pursuit",
-          "level": 1
-        },
-        {
-          "move": "Rage",
-          "level": 6
-        },
-        {
-          "move": "Fury Attack",
-          "level": 11
-        },
-        {
-          "move": "Horn Attack",
-          "level": 16
-        },
-        {
-          "move": "Scary Face",
-          "level": 21
-        },
-        {
-          "move": "Revenge",
-          "level": 26
-        },
-        {
-          "move": "Head Charge",
-          "level": 31
-        },
-        {
-          "move": "Focus Energy",
-          "level": 36
-        },
-        {
-          "move": "Megahorn",
-          "level": 41
-        },
-        {
-          "move": "Reversal",
-          "level": 46
-        },
-        {
-          "move": "Thrash",
-          "level": 50
-        },
-        {
-          "move": "Swords Dance",
-          "level": 56
-        },
-        {
-          "move": "Giga Impact",
-          "level": 61
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -301,12 +181,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -529,8 +404,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

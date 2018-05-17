@@ -1,11 +1,10 @@
 {
-"name" : "Voltorb",
+  "name": "Voltorb",
   "national_id": 100,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Soundproof"
     },
     {
@@ -17,17 +16,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "22.9 lbs.",
   "weight_eu": "10.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 30,
@@ -46,103 +39,13 @@
     "sp_def": 55,
     "speed": 100
   },
-  "evolutions": [
-    {
-      "to": "Electrode",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Electrode",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charge",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Sonic Boom",
-          "level": 4
-        },
-        {
-          "move": "Eerie Impulse",
-          "level": 6
-        },
-        {
-          "move": "Spark",
-          "level": 9
-        },
-        {
-          "move": "Rollout",
-          "level": 11
-        },
-        {
-          "move": "Screech",
-          "level": 13
-        },
-        {
-          "move": "Charge Beam",
-          "level": 16
-        },
-        {
-          "move": "Swift",
-          "level": 20
-        },
-        {
-          "move": "Electro Ball",
-          "level": 22
-        },
-        {
-          "move": "Self-Destruct",
-          "level": 26
-        },
-        {
-          "move": "Light Screen",
-          "level": 29
-        },
-        {
-          "move": "Magnet Rise",
-          "level": 34
-        },
-        {
-          "move": "Discharge",
-          "level": 37
-        },
-        {
-          "move": "Explosion",
-          "level": 41
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 46
-        },
-        {
-          "move": "Mirror Coat",
-          "level": 48
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -257,12 +160,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charge",
           "level": 1
         },
@@ -441,8 +339,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charge",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Tyranitar",
+  "name": "Tyranitar",
   "national_id": 248,
   "types": [
     "Rock",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Stream"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "445.3 lbs.",
   "weight_eu": "202.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 134,
@@ -48,178 +41,9 @@
     "speed": 61
   },
   "evolution_from": "Pupitar",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Rock",
-        "Dark"
-      ],
-      "ability": "Sand Stream",
-      "mega_stone": "Tyranitarite",
-      "height_us": "8'02\"",
-      "height_eu": "2.5 m",
-      "weight_us": "562.2 lbs.",
-      "weight_eu": "255.0 kg",
-      "base_stats": {
-        "hp": 100,
-        "atk": 164,
-        "def": 150,
-        "sp_atk": 95,
-        "sp_def": 120,
-        "speed": 71
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Fire Fang",
-          "level": 1
-        },
-        {
-          "move": "Ice Fang",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Sandstorm",
-          "level": 1
-        },
-        {
-          "move": "Screech",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Sandstorm",
-          "level": 5
-        },
-        {
-          "move": "Screech",
-          "level": 10
-        },
-        {
-          "move": "Chip Away",
-          "level": 14
-        },
-        {
-          "move": "Rock Slide",
-          "level": 19
-        },
-        {
-          "move": "Scary Face",
-          "level": 23
-        },
-        {
-          "move": "Thrash",
-          "level": 28
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 34
-        },
-        {
-          "move": "Payback",
-          "level": 41
-        },
-        {
-          "move": "Crunch",
-          "level": 47
-        },
-        {
-          "move": "Earthquake",
-          "level": 54
-        },
-        {
-          "move": "Stone Edge",
-          "level": 63
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 73
-        },
-        {
-          "move": "Giga Impact",
-          "level": 82
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Outrage",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -446,12 +270,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -778,8 +597,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Corphish",
+  "name": "Corphish",
   "national_id": 341,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hyper Cutter"
     },
     {
@@ -17,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Water 3"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "25.4 lbs.",
   "weight_eu": "11.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 43,
     "atk": 80,
@@ -50,147 +43,13 @@
     "sp_def": 35,
     "speed": 35
   },
-  "evolutions": [
-    {
-      "to": "Crawdaunt",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Crawdaunt",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 5
-        },
-        {
-          "move": "Vice Grip",
-          "level": 7
-        },
-        {
-          "move": "Leer",
-          "level": 10
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 14
-        },
-        {
-          "move": "Protect",
-          "level": 17
-        },
-        {
-          "move": "Double Hit",
-          "level": 20
-        },
-        {
-          "move": "Knock Off",
-          "level": 23
-        },
-        {
-          "move": "Night Slash",
-          "level": 26
-        },
-        {
-          "move": "Razor Shell",
-          "level": 31
-        },
-        {
-          "move": "Taunt",
-          "level": 34
-        },
-        {
-          "move": "Swords Dance",
-          "level": 37
-        },
-        {
-          "move": "Crunch",
-          "level": 39
-        },
-        {
-          "move": "Crabhammer",
-          "level": 43
-        },
-        {
-          "move": "Guillotine",
-          "level": 48
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Chip Away",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Endeavor",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Superpower",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Trump Card",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -345,12 +204,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -597,8 +451,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

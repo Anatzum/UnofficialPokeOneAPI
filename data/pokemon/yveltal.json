@@ -1,27 +1,21 @@
 {
-"name" : "Yveltal",
+  "name": "Yveltal",
   "national_id": 717,
   "types": [
     "Dark",
     "Flying"
   ],
-  "abilities": [
-    {
-      "name": "Dark Aura"
-    }
-  ],
+  "abilities": [{
+    "name": "Dark Aura"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "19'00\"",
   "height_eu": "5.8 m",
   "weight_us": "447.5 lbs.",
   "weight_eu": "203.0 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 126,
     "atk": 131,
@@ -40,103 +32,10 @@
     "sp_def": 98,
     "speed": 99
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Hurricane",
-          "level": 1
-        },
-        {
-          "move": "Razor Wind",
-          "level": 1
-        },
-        {
-          "move": "Roost",
-          "level": 1
-        },
-        {
-          "move": "Taunt",
-          "level": 1
-        },
-        {
-          "move": "Double Team",
-          "level": 5
-        },
-        {
-          "move": "Air Slash",
-          "level": 10
-        },
-        {
-          "move": "Snarl",
-          "level": 18
-        },
-        {
-          "move": "Oblivion Wing",
-          "level": 26
-        },
-        {
-          "move": "Disable",
-          "level": 35
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 44
-        },
-        {
-          "move": "Foul Play",
-          "level": 51
-        },
-        {
-          "move": "Phantom Force",
-          "level": 55
-        },
-        {
-          "move": "Psychic",
-          "level": 59
-        },
-        {
-          "move": "Dragon Rush",
-          "level": 63
-        },
-        {
-          "move": "Focus Blast",
-          "level": 72
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 80
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 88
-        },
-        {
-          "move": "Sky Attack",
-          "level": 93
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -299,12 +198,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hurricane",
           "level": 1
         },
@@ -531,8 +425,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hurricane",
           "level": 1
         },

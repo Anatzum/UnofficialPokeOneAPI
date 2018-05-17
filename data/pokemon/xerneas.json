@@ -1,26 +1,20 @@
 {
-"name" : "Xerneas",
+  "name": "Xerneas",
   "national_id": 716,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
-      "name": "Fairy Aura"
-    }
-  ],
+  "abilities": [{
+    "name": "Fairy Aura"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "9'10\"",
   "height_eu": "3.0 m",
   "weight_us": "474.0 lbs.",
   "weight_eu": "215.0 kg",
-  
-  
   "ev_yield": {
     "hp": 3,
     "atk": 0,
@@ -29,8 +23,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 126,
     "atk": 131,
@@ -39,102 +31,8 @@
     "sp_def": 98,
     "speed": 99
   },
-  
-  "variations": [
-    {
-      "condition": "in battle",
-      "image_suffix": "active",
-      "name": {
-        "en": "Active Mode",
-        "de": "Aktive Form"
-      },
-      "types": [
-        "Fairy"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aromatherapy",
-          "level": 1
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 1
-        },
-        {
-          "move": "Ingrain",
-          "level": 1
-        },
-        {
-          "move": "Take Down",
-          "level": 1
-        },
-        {
-          "move": "Light Screen",
-          "level": 5
-        },
-        {
-          "move": "Aurora Beam",
-          "level": 10
-        },
-        {
-          "move": "Gravity",
-          "level": 18
-        },
-        {
-          "move": "Geomancy",
-          "level": 26
-        },
-        {
-          "move": "Moonblast",
-          "level": 35
-        },
-        {
-          "move": "Megahorn",
-          "level": 44
-        },
-        {
-          "move": "Night Slash",
-          "level": 51
-        },
-        {
-          "move": "Horn Leech",
-          "level": 55
-        },
-        {
-          "move": "Psych Up",
-          "level": 59
-        },
-        {
-          "move": "Misty Terrain",
-          "level": 63
-        },
-        {
-          "move": "Nature Power",
-          "level": 72
-        },
-        {
-          "move": "Close Combat",
-          "level": 80
-        },
-        {
-          "move": "Giga Impact",
-          "level": 88
-        },
-        {
-          "move": "Outrage",
-          "level": 93
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -289,12 +187,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aromatherapy",
           "level": 1
         },
@@ -513,8 +406,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aromatherapy",
           "level": 1
         },

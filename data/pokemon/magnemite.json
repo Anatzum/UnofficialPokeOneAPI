@@ -1,12 +1,11 @@
 {
-"name" : "Magnemite",
+  "name": "Magnemite",
   "national_id": 81,
   "types": [
     "Electric",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Magnet Pull"
     },
     {
@@ -18,17 +17,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "13.2 lbs.",
   "weight_eu": "6.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 25,
     "atk": 35,
@@ -47,103 +40,13 @@
     "sp_def": 55,
     "speed": 45
   },
-  "evolutions": [
-    {
-      "to": "Magneton",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Magneton",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 7
-        },
-        {
-          "move": "Sonic Boom",
-          "level": 11
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 13
-        },
-        {
-          "move": "Magnet Bomb",
-          "level": 17
-        },
-        {
-          "move": "Spark",
-          "level": 19
-        },
-        {
-          "move": "Mirror Shot",
-          "level": 23
-        },
-        {
-          "move": "Metal Sound",
-          "level": 25
-        },
-        {
-          "move": "Electro Ball",
-          "level": 29
-        },
-        {
-          "move": "Flash Cannon",
-          "level": 31
-        },
-        {
-          "move": "Screech",
-          "level": 35
-        },
-        {
-          "move": "Discharge",
-          "level": 37
-        },
-        {
-          "move": "Lock-On",
-          "level": 41
-        },
-        {
-          "move": "Magnet Rise",
-          "level": 43
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 47
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 49
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -262,12 +165,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Supersonic",
           "level": 1
         },
@@ -454,8 +352,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Supersonic",
           "level": 1
         },

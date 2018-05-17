@@ -1,11 +1,10 @@
 {
-"name" : "Zangoose",
+  "name": "Zangoose",
   "national_id": 335,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Immunity"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'03\"",
   "height_eu": "1.3 m",
   "weight_us": "88.8 lbs.",
   "weight_eu": "40.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 73,
     "atk": 115,
@@ -46,151 +39,10 @@
     "sp_def": 60,
     "speed": 90
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 5
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 8
-        },
-        {
-          "move": "Pursuit",
-          "level": 12
-        },
-        {
-          "move": "Hone Claws",
-          "level": 15
-        },
-        {
-          "move": "Slash",
-          "level": 19
-        },
-        {
-          "move": "Revenge",
-          "level": 22
-        },
-        {
-          "move": "Crush Claw",
-          "level": 26
-        },
-        {
-          "move": "False Swipe",
-          "level": 29
-        },
-        {
-          "move": "Embargo",
-          "level": 33
-        },
-        {
-          "move": "Detect",
-          "level": 36
-        },
-        {
-          "move": "X-Scissor",
-          "level": 40
-        },
-        {
-          "move": "Taunt",
-          "level": 43
-        },
-        {
-          "move": "Swords Dance",
-          "level": 47
-        },
-        {
-          "move": "Close Combat",
-          "level": 50
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Double Hit",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Final Gambit",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Swipes",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -385,12 +237,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -681,8 +528,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

@@ -1,28 +1,23 @@
 {
-"name" : "Cresselia",
+  "name": "Cresselia",
   "national_id": 488,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "188.7 lbs.",
   "weight_eu": "85.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -31,8 +26,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 120,
     "atk": 70,
@@ -41,99 +34,10 @@
     "sp_def": 130,
     "speed": 85
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Double Team",
-          "level": 1
-        },
-        {
-          "move": "Lunar Dance",
-          "level": 1
-        },
-        {
-          "move": "Moonlight",
-          "level": 1
-        },
-        {
-          "move": "Psycho Cut",
-          "level": 1
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 1
-        },
-        {
-          "move": "Safeguard",
-          "level": 11
-        },
-        {
-          "move": "Mist",
-          "level": 20
-        },
-        {
-          "move": "Aurora Beam",
-          "level": 29
-        },
-        {
-          "move": "Future Sight",
-          "level": 38
-        },
-        {
-          "move": "Slash",
-          "level": 47
-        },
-        {
-          "move": "Moonlight",
-          "level": 57
-        },
-        {
-          "move": "Psycho Cut",
-          "level": 66
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 75
-        },
-        {
-          "move": "Lunar Dance",
-          "level": 84
-        },
-        {
-          "move": "Psychic",
-          "level": 93
-        },
-        {
-          "move": "Moonblast",
-          "level": 99
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -280,12 +184,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -496,8 +395,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

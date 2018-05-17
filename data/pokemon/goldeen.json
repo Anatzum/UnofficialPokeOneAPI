@@ -1,11 +1,10 @@
 {
-"name" : "Goldeen",
+  "name": "Goldeen",
   "national_id": 118,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "33.1 lbs.",
   "weight_eu": "15.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 67,
@@ -49,135 +42,13 @@
     "sp_def": 50,
     "speed": 63
   },
-  "evolutions": [
-    {
-      "to": "Seaking",
-      "level": 33
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Seaking",
+    "level": 33
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Horn Attack",
-          "level": 8
-        },
-        {
-          "move": "Flail",
-          "level": 13
-        },
-        {
-          "move": "Water Pulse",
-          "level": 16
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 21
-        },
-        {
-          "move": "Fury Attack",
-          "level": 24
-        },
-        {
-          "move": "Agility",
-          "level": 29
-        },
-        {
-          "move": "Waterfall",
-          "level": 32
-        },
-        {
-          "move": "Horn Drill",
-          "level": 37
-        },
-        {
-          "move": "Soak",
-          "level": 40
-        },
-        {
-          "move": "Megahorn",
-          "level": 45
-        },
-        {
-          "move": "Aqua Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Haze",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Sport",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Skull Bash",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -276,12 +147,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Peck",
           "level": 1
         },
@@ -480,8 +346,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Peck",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Rampardos",
+  "name": "Rampardos",
   "national_id": 409,
   "types": [
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Mold Breaker"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "226.0 lbs.",
   "weight_eu": "102.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 97,
     "atk": 165,
@@ -47,126 +40,9 @@
     "speed": 58
   },
   "evolution_from": "Cranidos",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Headbutt",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 6
-        },
-        {
-          "move": "Pursuit",
-          "level": 10
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Scary Face",
-          "level": 19
-        },
-        {
-          "move": "Assurance",
-          "level": 24
-        },
-        {
-          "move": "Chip Away",
-          "level": 28
-        },
-        {
-          "move": "Endeavor",
-          "level": 30
-        },
-        {
-          "move": "Ancient Power",
-          "level": 36
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 43
-        },
-        {
-          "move": "Screech",
-          "level": 51
-        },
-        {
-          "move": "Head Smash",
-          "level": 58
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Leer",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -361,12 +237,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Endeavor",
           "level": 1
         },
@@ -641,8 +512,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Endeavor",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Bayleef",
+  "name": "Bayleef",
   "national_id": 153,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Overgrow"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster",
     "Grass"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "34.8 lbs.",
   "weight_eu": "15.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 62,
@@ -48,158 +41,12 @@
     "speed": 60
   },
   "evolution_from": "Chikorita",
-  "evolutions": [
-    {
-      "to": "Meganium",
-      "level": 32
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Poison Powder",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 6
-        },
-        {
-          "move": "Poison Powder",
-          "level": 9
-        },
-        {
-          "move": "Synthesis",
-          "level": 12
-        },
-        {
-          "move": "Reflect",
-          "level": 18
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 22
-        },
-        {
-          "move": "Natural Gift",
-          "level": 26
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 32
-        },
-        {
-          "move": "Light Screen",
-          "level": 36
-        },
-        {
-          "move": "Body Slam",
-          "level": 40
-        },
-        {
-          "move": "Safeguard",
-          "level": 46
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 50
-        },
-        {
-          "move": "Solar Beam",
-          "level": 54
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Aromatherapy",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Nature Power",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Vine Whip",
-          "egg_move": true
-        },
-        {
-          "move": "Wring Out",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Meganium",
+    "level": 32
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -318,12 +165,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -554,8 +396,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

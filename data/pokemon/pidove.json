@@ -1,12 +1,11 @@
 {
-"name" : "Pidove",
+  "name": "Pidove",
   "national_id": 519,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Big Pecks"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "4.6 lbs.",
   "weight_eu": "2.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 55,
@@ -47,127 +40,13 @@
     "sp_def": 30,
     "speed": 43
   },
-  "evolutions": [
-    {
-      "to": "Tranquill",
-      "level": 21
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Tranquill",
+    "level": 21
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Leer",
-          "level": 8
-        },
-        {
-          "move": "Quick Attack",
-          "level": 11
-        },
-        {
-          "move": "Air Cutter",
-          "level": 15
-        },
-        {
-          "move": "Roost",
-          "level": 18
-        },
-        {
-          "move": "Detect",
-          "level": 22
-        },
-        {
-          "move": "Taunt",
-          "level": 25
-        },
-        {
-          "move": "Air Slash",
-          "level": 29
-        },
-        {
-          "move": "Razor Wind",
-          "level": 32
-        },
-        {
-          "move": "Feather Dance",
-          "level": 36
-        },
-        {
-          "move": "Swagger",
-          "level": 39
-        },
-        {
-          "move": "Facade",
-          "level": 43
-        },
-        {
-          "move": "Tailwind",
-          "level": 46
-        },
-        {
-          "move": "Sky Attack",
-          "level": 50
-        },
-        {
-          "move": "Bestow",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Uproar",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -266,12 +145,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Gust",
           "level": 1
         },
@@ -466,8 +340,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Gust",
           "level": 1
         },

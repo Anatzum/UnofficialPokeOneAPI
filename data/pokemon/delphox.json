@@ -1,12 +1,11 @@
 {
-"name" : "Delphox",
+  "name": "Delphox",
   "national_id": 655,
   "types": [
     "Fire",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Blaze"
     },
     {
@@ -18,17 +17,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "86.0 lbs.",
   "weight_eu": "39.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 69,
@@ -48,138 +41,9 @@
     "speed": 104
   },
   "evolution_from": "Braixen",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Future Sight",
-          "level": 1
-        },
-        {
-          "move": "Role Play",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Shadow Ball",
-          "level": 1
-        },
-        {
-          "move": "Switcheroo",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 5
-        },
-        {
-          "move": "Howl",
-          "level": 11
-        },
-        {
-          "move": "Flame Charge",
-          "level": 14
-        },
-        {
-          "move": "Psybeam",
-          "level": 18
-        },
-        {
-          "move": "Fire Spin",
-          "level": 22
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 27
-        },
-        {
-          "move": "Light Screen",
-          "level": 30
-        },
-        {
-          "move": "Psyshock",
-          "level": 34
-        },
-        {
-          "move": "Mystical Fire",
-          "level": 36
-        },
-        {
-          "move": "Flamethrower",
-          "level": 42
-        },
-        {
-          "move": "Will-O-Wisp",
-          "level": 47
-        },
-        {
-          "move": "Psychic",
-          "level": 51
-        },
-        {
-          "move": "Sunny Day",
-          "level": 55
-        },
-        {
-          "move": "Magic Room",
-          "level": 58
-        },
-        {
-          "move": "Fire Blast",
-          "level": 61
-        },
-        {
-          "move": "Future Sight",
-          "level": 69
-        },
-        {
-          "move": "Mystical Fire",
-          "level": 75
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Magic Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -350,12 +214,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -630,8 +489,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

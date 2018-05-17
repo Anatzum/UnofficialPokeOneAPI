@@ -1,11 +1,10 @@
 {
-"name" : "Floatzel",
+  "name": "Floatzel",
   "national_id": 419,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Field"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "73.9 lbs.",
   "weight_eu": "33.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 105,
@@ -48,162 +41,9 @@
     "speed": 115
   },
   "evolution_from": "Buizel",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Crunch",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Ice Fang",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Sonic Boom",
-          "level": 1
-        },
-        {
-          "move": "Water Sport",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Water Sport",
-          "level": 7
-        },
-        {
-          "move": "Quick Attack",
-          "level": 11
-        },
-        {
-          "move": "Water Gun",
-          "level": 15
-        },
-        {
-          "move": "Pursuit",
-          "level": 18
-        },
-        {
-          "move": "Swift",
-          "level": 21
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 24
-        },
-        {
-          "move": "Double Hit",
-          "level": 29
-        },
-        {
-          "move": "Whirlpool",
-          "level": 35
-        },
-        {
-          "move": "Razor Wind",
-          "level": 41
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 46
-        },
-        {
-          "move": "Agility",
-          "level": 51
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 57
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Double Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Cutter",
-          "egg_move": true
-        },
-        {
-          "move": "Fury Swipes",
-          "egg_move": true
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Mud-Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Odor Sleuth",
-          "egg_move": true
-        },
-        {
-          "move": "Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Soak",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Tail Slap",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -358,12 +198,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Crunch",
           "level": 1
         },
@@ -630,8 +465,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Crunch",
           "level": 1
         },

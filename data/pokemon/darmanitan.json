@@ -1,11 +1,10 @@
 {
-"name" : "Darmanitan",
+  "name": "Darmanitan",
   "national_id": 555,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sheer Force"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'03\"",
   "height_eu": "1.3 m",
   "weight_us": "204.8 lbs.",
   "weight_eu": "92.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 105,
     "atk": 140,
@@ -47,167 +40,8 @@
     "speed": 95
   },
   "evolution_from": "Darumaka",
-  
-  "variations": [
-    {
-      "condition": "using Zen Mode",
-      "image_suffix": "zen",
-      "name": {
-        "en": "Zen Mode",
-        "de": "Trance-Modus"
-      },
-      "types": [
-        "Fire",
-        "Psychic"
-      ],
-      "base_stats": {
-        "hp": 105,
-        "atk": 30,
-        "def": 105,
-        "sp_atk": 140,
-        "sp_def": 105,
-        "speed": 55
-      },
-      "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 2,
-        "sp_def": 0,
-        "speed": 0
-      }
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Incinerate",
-          "level": 1
-        },
-        {
-          "move": "Rage",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Rollout",
-          "level": 3
-        },
-        {
-          "move": "Incinerate",
-          "level": 6
-        },
-        {
-          "move": "Rage",
-          "level": 9
-        },
-        {
-          "move": "Fire Fang",
-          "level": 11
-        },
-        {
-          "move": "Headbutt",
-          "level": 14
-        },
-        {
-          "move": "Swagger",
-          "level": 17
-        },
-        {
-          "move": "Facade",
-          "level": 19
-        },
-        {
-          "move": "Fire Punch",
-          "level": 22
-        },
-        {
-          "move": "Work Up",
-          "level": 25
-        },
-        {
-          "move": "Thrash",
-          "level": 27
-        },
-        {
-          "move": "Belly Drum",
-          "level": 30
-        },
-        {
-          "move": "Flare Blitz",
-          "level": 33
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 35
-        },
-        {
-          "move": "Taunt",
-          "level": 39
-        },
-        {
-          "move": "Superpower",
-          "level": 47
-        },
-        {
-          "move": "Overheat",
-          "level": 54
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Flame Wheel",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -402,12 +236,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hammer Arm",
           "level": 1
         },
@@ -706,8 +535,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hammer Arm",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Zubat",
+  "name": "Zubat",
   "national_id": 41,
   "types": [
     "Poison",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Inner Focus"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "16.5 lbs.",
   "weight_eu": "7.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 45,
@@ -47,151 +40,13 @@
     "sp_def": 40,
     "speed": 55
   },
-  "evolutions": [
-    {
-      "to": "Golbat",
-      "level": 22
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Golbat",
+    "level": 22
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leech Life",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 5
-        },
-        {
-          "move": "Astonish",
-          "level": 7
-        },
-        {
-          "move": "Bite",
-          "level": 11
-        },
-        {
-          "move": "Wing Attack",
-          "level": 13
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 17
-        },
-        {
-          "move": "Air Cutter",
-          "level": 19
-        },
-        {
-          "move": "Swift",
-          "level": 23
-        },
-        {
-          "move": "Poison Fang",
-          "level": 25
-        },
-        {
-          "move": "Mean Look",
-          "level": 29
-        },
-        {
-          "move": "Acrobatics",
-          "level": 31
-        },
-        {
-          "move": "Haze",
-          "level": 35
-        },
-        {
-          "move": "Venoshock",
-          "level": 37
-        },
-        {
-          "move": "Air Slash",
-          "level": 41
-        },
-        {
-          "move": "Quick Guard",
-          "level": 43
-        },
-        {
-          "move": "Brave Bird",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Giga Drain",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Venom Drench",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -314,12 +169,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -562,8 +412,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

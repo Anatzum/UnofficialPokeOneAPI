@@ -1,11 +1,10 @@
 {
-"name" : "Conkeldurr",
+  "name": "Conkeldurr",
   "national_id": 534,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Guts"
     },
     {
@@ -17,17 +16,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "191.8 lbs.",
   "weight_eu": "87.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 105,
     "atk": 140,
@@ -47,146 +40,10 @@
     "speed": 45
   },
   "evolution_from": "Gurdurr",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bide",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 4
-        },
-        {
-          "move": "Bide",
-          "level": 8
-        },
-        {
-          "move": "Low Kick",
-          "level": 12
-        },
-        {
-          "move": "Rock Throw",
-          "level": 16
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 20
-        },
-        {
-          "move": "Chip Away",
-          "level": 24
-        },
-        {
-          "move": "Bulk Up",
-          "level": 29
-        },
-        {
-          "move": "Rock Slide",
-          "level": 33
-        },
-        {
-          "move": "Dynamic Punch",
-          "level": 37
-        },
-        {
-          "move": "Scary Face",
-          "level": 41
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 45
-        },
-        {
-          "move": "Stone Edge",
-          "level": 49
-        },
-        {
-          "move": "Focus Punch",
-          "level": 53
-        },
-        {
-          "move": "Superpower",
-          "level": 57
-        },
-        {
-          "move": "Comet Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Detect",
-          "egg_move": true
-        },
-        {
-          "move": "Drain Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Force Palm",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Mach Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "mega_evolutions": [],
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -345,12 +202,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -613,8 +465,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

@@ -1,11 +1,10 @@
 {
-"name" : "Illumise",
+  "name": "Illumise",
   "national_id": 314,
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Oblivious"
     },
     {
@@ -17,20 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Bug",
     "Human-Like"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "39.0 lbs.",
   "weight_eu": "17.7 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +35,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 47,
@@ -49,123 +43,10 @@
     "sp_def": 75,
     "speed": 85
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Play Nice",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 5
-        },
-        {
-          "move": "Charm",
-          "level": 9
-        },
-        {
-          "move": "Quick Attack",
-          "level": 12
-        },
-        {
-          "move": "Struggle Bug",
-          "level": 15
-        },
-        {
-          "move": "Moonlight",
-          "level": 19
-        },
-        {
-          "move": "Wish",
-          "level": 22
-        },
-        {
-          "move": "Encore",
-          "level": 26
-        },
-        {
-          "move": "Flatter",
-          "level": 29
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 33
-        },
-        {
-          "move": "Helping Hand",
-          "level": 36
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 40
-        },
-        {
-          "move": "Play Rough",
-          "level": 43
-        },
-        {
-          "move": "Covet",
-          "level": 47
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Buzz",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Growth",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -312,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Play Nice",
           "level": 1
         },
@@ -552,8 +428,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Play Nice",
           "level": 1
         },

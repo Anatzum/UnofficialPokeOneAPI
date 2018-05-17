@@ -1,11 +1,10 @@
 {
-"name" : "Sunkern",
+  "name": "Sunkern",
   "national_id": 191,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Grass"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "4.0 lbs.",
   "weight_eu": "1.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 30,
     "atk": 30,
@@ -49,151 +42,13 @@
     "sp_def": 30,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Sunflora",
-      "item": "Sun Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Sunflora",
+    "item": "Sun Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Absorb",
-          "level": 1
-        },
-        {
-          "move": "Growth",
-          "level": 1
-        },
-        {
-          "move": "Ingrain",
-          "level": 4
-        },
-        {
-          "move": "Grass Whistle",
-          "level": 7
-        },
-        {
-          "move": "Mega Drain",
-          "level": 10
-        },
-        {
-          "move": "Leech Seed",
-          "level": 13
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 16
-        },
-        {
-          "move": "Worry Seed",
-          "level": 19
-        },
-        {
-          "move": "Giga Drain",
-          "level": 22
-        },
-        {
-          "move": "Endeavor",
-          "level": 25
-        },
-        {
-          "move": "Synthesis",
-          "level": 28
-        },
-        {
-          "move": "Natural Gift",
-          "level": 31
-        },
-        {
-          "move": "Solar Beam",
-          "level": 34
-        },
-        {
-          "move": "Double-Edge",
-          "level": 37
-        },
-        {
-          "move": "Sunny Day",
-          "level": 40
-        },
-        {
-          "move": "Seed Bomb",
-          "level": 43
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Ingrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Nature Power",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Scent",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -300,12 +155,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Absorb",
           "level": 1
         },
@@ -520,8 +370,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Absorb",
           "level": 1
         },

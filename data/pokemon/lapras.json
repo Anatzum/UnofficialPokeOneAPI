@@ -1,12 +1,11 @@
 {
-"name" : "Lapras",
+  "name": "Lapras",
   "national_id": 131,
   "types": [
     "Water",
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Water Absorb"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Water 1"
   ],
-  
   "height_us": "8'02\"",
   "height_eu": "2.5 m",
   "weight_us": "485.0 lbs.",
   "weight_eu": "220.0 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 130,
     "atk": 85,
@@ -51,147 +44,10 @@
     "sp_def": 95,
     "speed": 60
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Sing",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Mist",
-          "level": 4
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 7
-        },
-        {
-          "move": "Ice Shard",
-          "level": 10
-        },
-        {
-          "move": "Water Pulse",
-          "level": 14
-        },
-        {
-          "move": "Body Slam",
-          "level": 18
-        },
-        {
-          "move": "Rain Dance",
-          "level": 22
-        },
-        {
-          "move": "Perish Song",
-          "level": 27
-        },
-        {
-          "move": "Ice Beam",
-          "level": 32
-        },
-        {
-          "move": "Brine",
-          "level": 37
-        },
-        {
-          "move": "Safeguard",
-          "level": 43
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 47
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 50
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Fissure",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Freeze-Dry",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Horn Drill",
-          "egg_move": true
-        },
-        {
-          "move": "Refresh",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlpool",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -334,12 +190,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -590,8 +441,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

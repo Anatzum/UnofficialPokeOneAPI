@@ -1,30 +1,24 @@
 {
-"name" : "Castform",
+  "name": "Castform",
   "national_id": 351,
   "types": [
     "Normal"
   ],
-  "abilities": [
-    {
-      "name": "Forecast"
-    }
-  ],
+  "abilities": [{
+    "name": "Forecast"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Fairy",
     "Amorphous"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "1.8 lbs.",
   "weight_eu": "0.8 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -33,8 +27,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 70,
@@ -43,122 +35,8 @@
     "sp_def": 70,
     "speed": 70
   },
-  
-  
-  "variations": [
-    {
-      "condition": "harsh sunlight",
-      "image_suffix": "sunny",
-      "name": {
-        
-      },
-      "types": [
-        "Ice"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 10
-        },
-        {
-          "move": "Powder Snow",
-          "level": 10
-        },
-        {
-          "move": "Water Gun",
-          "level": 10
-        },
-        {
-          "move": "Headbutt",
-          "level": 15
-        },
-        {
-          "move": "Hail",
-          "level": 20
-        },
-        {
-          "move": "Rain Dance",
-          "level": 20
-        },
-        {
-          "move": "Sunny Day",
-          "level": 20
-        },
-        {
-          "move": "Weather Ball",
-          "level": 25
-        },
-        {
-          "move": "Blizzard",
-          "level": 35
-        },
-        {
-          "move": "Fire Blast",
-          "level": 35
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 35
-        },
-        {
-          "move": "Hurricane",
-          "level": 45
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Cosmic Power",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Guard Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Hex",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Ominous Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Reflect Type",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -301,12 +179,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -533,8 +406,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

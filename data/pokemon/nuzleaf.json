@@ -1,12 +1,11 @@
 {
-"name" : "Nuzleaf",
+  "name": "Nuzleaf",
   "national_id": 274,
   "types": [
     "Grass",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Grass"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "61.7 lbs.",
   "weight_eu": "28.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 70,
@@ -52,134 +45,12 @@
     "speed": 60
   },
   "evolution_from": "Seedot",
-  "evolutions": [
-    {
-      "to": "Shiftry",
-      "item": "Leaf Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 3
-        },
-        {
-          "move": "Growth",
-          "level": 6
-        },
-        {
-          "move": "Nature Power",
-          "level": 9
-        },
-        {
-          "move": "Fake Out",
-          "level": 12
-        },
-        {
-          "move": "Razor Leaf",
-          "level": 14
-        },
-        {
-          "move": "Torment",
-          "level": 16
-        },
-        {
-          "move": "Razor Wind",
-          "level": 20
-        },
-        {
-          "move": "Feint Attack",
-          "level": 24
-        },
-        {
-          "move": "Leaf Blade",
-          "level": 28
-        },
-        {
-          "move": "Swagger",
-          "level": 32
-        },
-        {
-          "move": "Extrasensory",
-          "level": 36
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Grassy Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Power Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Razor Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Shiftry",
+    "item": "Leaf Stone"
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -358,12 +229,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Pound",
           "level": 1
         },
@@ -614,8 +480,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Pound",
           "level": 1
         },

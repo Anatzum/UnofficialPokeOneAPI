@@ -1,12 +1,11 @@
 {
-"name" : "Dedenne",
+  "name": "Dedenne",
   "national_id": 702,
   "types": [
     "Electric",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Cheek Pouch"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Fairy"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "4.9 lbs.",
   "weight_eu": "2.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 67,
     "atk": 58,
@@ -48,111 +41,10 @@
     "sp_def": 67,
     "speed": 101
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 7
-        },
-        {
-          "move": "Charge",
-          "level": 11
-        },
-        {
-          "move": "Charm",
-          "level": 14
-        },
-        {
-          "move": "Parabolic Charge",
-          "level": 17
-        },
-        {
-          "move": "Nuzzle",
-          "level": 20
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 23
-        },
-        {
-          "move": "Volt Switch",
-          "level": 26
-        },
-        {
-          "move": "Rest",
-          "level": 30
-        },
-        {
-          "move": "Snore",
-          "level": 31
-        },
-        {
-          "move": "Charge Beam",
-          "level": 34
-        },
-        {
-          "move": "Entrainment",
-          "level": 39
-        },
-        {
-          "move": "Play Rough",
-          "level": 42
-        },
-        {
-          "move": "Thunder",
-          "level": 45
-        },
-        {
-          "move": "Discharge",
-          "level": 50
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Eerie Impulse",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -287,12 +179,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -491,8 +378,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

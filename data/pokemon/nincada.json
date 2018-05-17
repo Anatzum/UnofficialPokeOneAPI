@@ -1,12 +1,11 @@
 {
-"name" : "Nincada",
+  "name": "Nincada",
   "national_id": 290,
   "types": [
     "Bug",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Compound Eyes"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "12.1 lbs.",
   "weight_eu": "5.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 31,
     "atk": 45,
@@ -47,8 +40,7 @@
     "sp_def": 30,
     "speed": 40
   },
-  "evolutions": [
-    {
+  "evolutions": [{
       "to": "Ninjask",
       "level": 20
     },
@@ -59,105 +51,9 @@
       ]
     }
   ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Leech Life",
-          "level": 5
-        },
-        {
-          "move": "Sand Attack",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 13
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 17
-        },
-        {
-          "move": "Metal Claw",
-          "level": 21
-        },
-        {
-          "move": "Mind Reader",
-          "level": 25
-        },
-        {
-          "move": "Bide",
-          "level": 29
-        },
-        {
-          "move": "False Swipe",
-          "level": 33
-        },
-        {
-          "move": "Dig",
-          "level": 37
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Buzz",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Final Gambit",
-          "egg_move": true
-        },
-        {
-          "move": "Gust",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Silver Wind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -264,12 +160,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },
@@ -436,8 +327,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Harden",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Heatran",
+  "name": "Heatran",
   "national_id": 485,
   "types": [
     "Fire",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flash Fire"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "5'07\"",
   "height_eu": "1.7 m",
   "weight_us": "948.0 lbs.",
   "weight_eu": "430.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 91,
     "atk": 90,
@@ -47,103 +40,10 @@
     "sp_def": 106,
     "speed": 77
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ancient Power",
-          "level": 1
-        },
-        {
-          "move": "Earth Power",
-          "level": 1
-        },
-        {
-          "move": "Fire Spin",
-          "level": 1
-        },
-        {
-          "move": "Heat Wave",
-          "level": 1
-        },
-        {
-          "move": "Iron Head",
-          "level": 1
-        },
-        {
-          "move": "Magma Storm",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 9
-        },
-        {
-          "move": "Fire Fang",
-          "level": 17
-        },
-        {
-          "move": "Metal Sound",
-          "level": 25
-        },
-        {
-          "move": "Crunch",
-          "level": 33
-        },
-        {
-          "move": "Scary Face",
-          "level": 41
-        },
-        {
-          "move": "Lava Plume",
-          "level": 49
-        },
-        {
-          "move": "Fire Spin",
-          "level": 57
-        },
-        {
-          "move": "Iron Head",
-          "level": 65
-        },
-        {
-          "move": "Earth Power",
-          "level": 73
-        },
-        {
-          "move": "Heat Wave",
-          "level": 81
-        },
-        {
-          "move": "Stone Edge",
-          "level": 88
-        },
-        {
-          "move": "Magma Storm",
-          "level": 96
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -310,12 +210,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ancient Power",
           "level": 1
         },
@@ -538,8 +433,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ancient Power",
           "level": 1
         },

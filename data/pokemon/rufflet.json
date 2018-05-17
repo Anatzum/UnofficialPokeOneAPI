@@ -1,12 +1,11 @@
 {
-"name" : "Rufflet",
+  "name": "Rufflet",
   "national_id": 627,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -15,19 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "23.1 lbs.",
   "weight_eu": "10.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 83,
@@ -46,99 +40,13 @@
     "sp_def": 50,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Braviary",
-      "level": 54
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Braviary",
+    "level": 54
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Fury Attack",
-          "level": 5
-        },
-        {
-          "move": "Wing Attack",
-          "level": 10
-        },
-        {
-          "move": "Hone Claws",
-          "level": 14
-        },
-        {
-          "move": "Scary Face",
-          "level": 19
-        },
-        {
-          "move": "Aerial Ace",
-          "level": 23
-        },
-        {
-          "move": "Slash",
-          "level": 28
-        },
-        {
-          "move": "Defog",
-          "level": 32
-        },
-        {
-          "move": "Tailwind",
-          "level": 37
-        },
-        {
-          "move": "Air Slash",
-          "level": 41
-        },
-        {
-          "move": "Crush Claw",
-          "level": 46
-        },
-        {
-          "move": "Sky Drop",
-          "level": 50
-        },
-        {
-          "move": "Whirlwind",
-          "level": 55
-        },
-        {
-          "move": "Brave Bird",
-          "level": 59
-        },
-        {
-          "move": "Thrash",
-          "level": 64
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -269,12 +177,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -453,8 +356,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Helioptile",
+  "name": "Helioptile",
   "national_id": 694,
   "types": [
     "Electric",
     "Normal"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Dry Skin"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Dragon"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "13.2 lbs.",
   "weight_eu": "6.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 44,
     "atk": 38,
@@ -48,103 +41,13 @@
     "sp_def": 43,
     "speed": 70
   },
-  "evolutions": [
-    {
-      "to": "Heliolisk",
-      "item": "Sun Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Heliolisk",
+    "item": "Sun Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 6
-        },
-        {
-          "move": "Charge",
-          "level": 11
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 13
-        },
-        {
-          "move": "Quick Attack",
-          "level": 17
-        },
-        {
-          "move": "Razor Wind",
-          "level": 22
-        },
-        {
-          "move": "Parabolic Charge",
-          "level": 25
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 31
-        },
-        {
-          "move": "Bulldoze",
-          "level": 35
-        },
-        {
-          "move": "Volt Switch",
-          "level": 40
-        },
-        {
-          "move": "Electrify",
-          "level": 45
-        },
-        {
-          "move": "Thunderbolt",
-          "level": 49
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Electric Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Glare",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -295,12 +198,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Pound",
           "level": 1
         },
@@ -507,8 +405,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Pound",
           "level": 1
         },

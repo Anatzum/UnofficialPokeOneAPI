@@ -1,12 +1,11 @@
 {
-"name" : "Houndour",
+  "name": "Houndour",
   "national_id": 228,
   "types": [
     "Dark",
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Early Bird"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "23.8 lbs.",
   "weight_eu": "10.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 60,
@@ -50,155 +43,13 @@
     "sp_def": 50,
     "speed": 65
   },
-  "evolutions": [
-    {
-      "to": "Houndoom",
-      "level": 24
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Houndoom",
+    "level": 24
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Howl",
-          "level": 4
-        },
-        {
-          "move": "Smog",
-          "level": 8
-        },
-        {
-          "move": "Roar",
-          "level": 13
-        },
-        {
-          "move": "Bite",
-          "level": 16
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 20
-        },
-        {
-          "move": "Beat Up",
-          "level": 25
-        },
-        {
-          "move": "Fire Fang",
-          "level": 28
-        },
-        {
-          "move": "Feint Attack",
-          "level": 32
-        },
-        {
-          "move": "Embargo",
-          "level": 37
-        },
-        {
-          "move": "Foul Play",
-          "level": 40
-        },
-        {
-          "move": "Flamethrower",
-          "level": 44
-        },
-        {
-          "move": "Crunch",
-          "level": 49
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 52
-        },
-        {
-          "move": "Inferno",
-          "level": 56
-        },
-        {
-          "move": "Beat Up",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Spin",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Fang",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -345,12 +196,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Ember",
           "level": 1
         },
@@ -605,8 +451,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Ember",
           "level": 1
         },

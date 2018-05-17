@@ -1,12 +1,11 @@
 {
-"name" : "Crustle",
+  "name": "Crustle",
   "national_id": 558,
   "types": [
     "Bug",
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sturdy"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug",
     "Mineral"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "440.9 lbs.",
   "weight_eu": "200.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 95,
@@ -49,142 +42,9 @@
     "speed": 45
   },
   "evolution_from": "Dwebble",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Rock Blast",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Shell Smash",
-          "level": 1
-        },
-        {
-          "move": "Withdraw",
-          "level": 1
-        },
-        {
-          "move": "Rock Blast",
-          "level": 5
-        },
-        {
-          "move": "Withdraw",
-          "level": 7
-        },
-        {
-          "move": "Sand Attack",
-          "level": 11
-        },
-        {
-          "move": "Feint Attack",
-          "level": 13
-        },
-        {
-          "move": "Smack Down",
-          "level": 17
-        },
-        {
-          "move": "Rock Polish",
-          "level": 19
-        },
-        {
-          "move": "Bug Bite",
-          "level": 23
-        },
-        {
-          "move": "Stealth Rock",
-          "level": 24
-        },
-        {
-          "move": "Rock Slide",
-          "level": 29
-        },
-        {
-          "move": "Slash",
-          "level": 31
-        },
-        {
-          "move": "X-Scissor",
-          "level": 38
-        },
-        {
-          "move": "Shell Smash",
-          "level": 43
-        },
-        {
-          "move": "Flail",
-          "level": 50
-        },
-        {
-          "move": "Rock Wrecker",
-          "level": 55
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Rototiller",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Tomb",
-          "egg_move": true
-        },
-        {
-          "move": "Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -339,12 +199,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Rock Blast",
           "level": 1
         },
@@ -587,8 +442,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Rock Blast",
           "level": 1
         },

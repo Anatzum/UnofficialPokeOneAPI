@@ -1,11 +1,10 @@
 {
-"name" : "Bagon",
+  "name": "Bagon",
   "national_id": 371,
   "types": [
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rock Head"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Dragon"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "92.8 lbs.",
   "weight_eu": "42.1 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 75,
@@ -46,127 +39,13 @@
     "sp_def": 30,
     "speed": 50
   },
-  "evolutions": [
-    {
-      "to": "Shelgon",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Shelgon",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Rage",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 4
-        },
-        {
-          "move": "Leer",
-          "level": 7
-        },
-        {
-          "move": "Bite",
-          "level": 10
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 13
-        },
-        {
-          "move": "Headbutt",
-          "level": 17
-        },
-        {
-          "move": "Focus Energy",
-          "level": 21
-        },
-        {
-          "move": "Crunch",
-          "level": 25
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 29
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 34
-        },
-        {
-          "move": "Scary Face",
-          "level": 39
-        },
-        {
-          "move": "Flamethrower",
-          "level": 44
-        },
-        {
-          "move": "Double-Edge",
-          "level": 49
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rush",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Twister",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -293,12 +172,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Rage",
           "level": 1
         },
@@ -497,8 +371,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Rage",
           "level": 1
         },

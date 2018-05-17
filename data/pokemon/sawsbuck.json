@@ -1,12 +1,11 @@
 {
-"name" : "Sawsbuck",
+  "name": "Sawsbuck",
   "national_id": 586,
   "types": [
     "Normal",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Chlorophyll"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "6'03\"",
   "height_eu": "1.9 m",
   "weight_us": "203.9 lbs.",
   "weight_eu": "92.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 100,
@@ -48,141 +41,8 @@
     "speed": 95
   },
   "evolution_from": "Deerling",
-  
-  "variations": [
-    {
-      "condition": "Summer",
-      "name": {
-        
-      },
-      "types": [
-        "Normal",
-        "Grass"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Camouflage",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Megahorn",
-          "level": 1
-        },
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Sand Attack",
-          "level": 7
-        },
-        {
-          "move": "Double Kick",
-          "level": 10
-        },
-        {
-          "move": "Leech Seed",
-          "level": 13
-        },
-        {
-          "move": "Feint Attack",
-          "level": 16
-        },
-        {
-          "move": "Take Down",
-          "level": 20
-        },
-        {
-          "move": "Jump Kick",
-          "level": 24
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 28
-        },
-        {
-          "move": "Energy Ball",
-          "level": 32
-        },
-        {
-          "move": "Charm",
-          "level": 36
-        },
-        {
-          "move": "Horn Leech",
-          "level": 37
-        },
-        {
-          "move": "Nature Power",
-          "level": 44
-        },
-        {
-          "move": "Double-Edge",
-          "level": 52
-        },
-        {
-          "move": "Solar Beam",
-          "level": 60
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Odor Sleuth",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Synthesis",
-          "egg_move": true
-        },
-        {
-          "move": "Worry Seed",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -321,12 +181,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Camouflage",
           "level": 1
         },
@@ -565,8 +420,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Camouflage",
           "level": 1
         },

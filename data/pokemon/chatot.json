@@ -1,12 +1,11 @@
 {
-"name" : "Chatot",
+  "name": "Chatot",
   "national_id": 441,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Keen Eye"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "4.2 lbs.",
   "weight_eu": "1.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 76,
     "atk": 65,
@@ -50,147 +43,10 @@
     "sp_def": 42,
     "speed": 91
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Chatter",
-          "level": 1
-        },
-        {
-          "move": "Confide",
-          "level": 1
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Taunt",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 5
-        },
-        {
-          "move": "Mirror Move",
-          "level": 9
-        },
-        {
-          "move": "Sing",
-          "level": 13
-        },
-        {
-          "move": "Fury Attack",
-          "level": 17
-        },
-        {
-          "move": "Chatter",
-          "level": 21
-        },
-        {
-          "move": "Taunt",
-          "level": 25
-        },
-        {
-          "move": "Round",
-          "level": 29
-        },
-        {
-          "move": "Mimic",
-          "level": 33
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 37
-        },
-        {
-          "move": "Roost",
-          "level": 41
-        },
-        {
-          "move": "Uproar",
-          "level": 45
-        },
-        {
-          "move": "Synchronoise",
-          "level": 49
-        },
-        {
-          "move": "Feather Dance",
-          "level": 50
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 57
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Air Cutter",
-          "egg_move": true
-        },
-        {
-          "move": "Boomburst",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Night Shade",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Steel Wing",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -297,12 +153,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Chatter",
           "level": 1
         },
@@ -529,8 +380,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Chatter",
           "level": 1
         },

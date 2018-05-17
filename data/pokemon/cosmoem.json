@@ -1,28 +1,19 @@
 {
-  "name" : "Cosmoem",
+  "name": "Cosmoem",
   "national_id": 790,
-  
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Sturdy"
-    }
-  ],
- 
+  "abilities": [{
+    "name": "Sturdy"
+  }],
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "0'04\"",
   "height_eu": "0.1 m",
   "weight_us": "2204.4 lbs.",
   "weight_eu": "999.9 kg",
-  
-  
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -41,8 +32,7 @@
   },
   "gender_ratios": null,
   "evolution_from": "Cosmog",
-  "evolutions": [
-    {
+  "evolutions": [{
       "to": "Solgaleo",
       "level": 53,
       "conditions": [
@@ -57,28 +47,11 @@
       ]
     }
   ],
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  
-  "move_learnsets": [
+  "move_learnsets": [{
+      "tm_learnset": []
+    },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Cosmic Power",
           "level": 1
         },
@@ -93,8 +66,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Cosmic Power",
           "level": 1
         },

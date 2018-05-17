@@ -1,11 +1,10 @@
 {
-"name" : "Tornadus",
+  "name": "Tornadus",
   "national_id": 641,
   "types": [
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Prankster"
     },
     {
@@ -14,19 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "138.9 lbs.",
   "weight_eu": "63.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -35,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 79,
     "atk": 115,
@@ -45,138 +39,29 @@
     "sp_def": 80,
     "speed": 111
   },
-  
-  "variations": [
-    {
-      "condition": "using Reveal Glass",
-      "image_suffix": "therian",
-      "name": {
-        
-      },
-      "types": [
-        "Flying"
-      ],
-      "abilities": [
-        {
-          "name": "Regenerator"
-        }
-      ],
-      "height_us": "4'07\"",
-      "height_eu": "1.4 m",
-      "weight_us": "138.9 lbs.",
-      "weight_eu": "63.0 kg",
-      "base_stats": {
-        "hp": 79,
-        "atk": 100,
-        "def": 80,
-        "sp_atk": 110,
-        "sp_def": 90,
-        "speed": 121
-      },
-      "ev_yield": {
-        "hp": 0,
-        "atk": 0,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 3
-      }
+    "height_us": "4'07\"",
+    "height_eu": "1.4 m",
+    "weight_us": "138.9 lbs.",
+    "weight_eu": "63.0 kg",
+    "base_stats": {
+      "hp": 79,
+      "atk": 100,
+      "def": 80,
+      "sp_atk": 110,
+      "sp_def": 90,
+      "speed": 121
+    },
+    "ev_yield": {
+      "hp": 0,
+      "atk": 0,
+      "def": 0,
+      "sp_atk": 0,
+      "sp_def": 0,
+      "speed": 3
     }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Hurricane",
-          "level": 1
-        },
-        {
-          "move": "Tailwind",
-          "level": 1
-        },
-        {
-          "move": "Thrash",
-          "level": 1
-        },
-        {
-          "move": "Uproar",
-          "level": 1
-        },
-        {
-          "move": "Swagger",
-          "level": 7
-        },
-        {
-          "move": "Bite",
-          "level": 13
-        },
-        {
-          "move": "Revenge",
-          "level": 19
-        },
-        {
-          "move": "Air Cutter",
-          "level": 25
-        },
-        {
-          "move": "Extrasensory",
-          "level": 31
-        },
-        {
-          "move": "Agility",
-          "level": 37
-        },
-        {
-          "move": "Air Slash",
-          "level": 43
-        },
-        {
-          "move": "Crunch",
-          "level": 49
-        },
-        {
-          "move": "Tailwind",
-          "level": 55
-        },
-        {
-          "move": "Rain Dance",
-          "level": 61
-        },
-        {
-          "move": "Hurricane",
-          "level": 67
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 73
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 79
-        },
-        {
-          "move": "Thrash",
-          "level": 85
-        },
-        {
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -343,12 +228,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -587,8 +467,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

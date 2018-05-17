@@ -1,27 +1,21 @@
 {
-"name" : "Keldeo",
+  "name": "Keldeo",
   "national_id": 647,
   "types": [
     "Water",
     "Fighting"
   ],
-  "abilities": [
-    {
-      "name": "Justified"
-    }
-  ],
+  "abilities": [{
+    "name": "Justified"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "106.9 lbs.",
   "weight_eu": "48.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 91,
     "atk": 72,
@@ -40,86 +32,8 @@
     "sp_def": 90,
     "speed": 108
   },
-  
-  "variations": [
-    {
-      "image_suffix": "resolute",
-      "condition": "learning Secret Sword",
-      "name": {
-        
-      },
-      "types": [
-        "Water",
-        "Fighting"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aqua Jet",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Double Kick",
-          "level": 7
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 13
-        },
-        {
-          "move": "Take Down",
-          "level": 19
-        },
-        {
-          "move": "Helping Hand",
-          "level": 25
-        },
-        {
-          "move": "Retaliate",
-          "level": 31
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 37
-        },
-        {
-          "move": "Sacred Sword",
-          "level": 43
-        },
-        {
-          "move": "Swords Dance",
-          "level": 49
-        },
-        {
-          "move": "Quick Guard",
-          "level": 55
-        },
-        {
-          "move": "Work Up",
-          "level": 61
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 67
-        },
-        {
-          "move": "Close Combat",
-          "level": 73
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -270,12 +184,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aqua Jet",
           "level": 1
         },
@@ -478,8 +387,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aqua Jet",
           "level": 1
         },

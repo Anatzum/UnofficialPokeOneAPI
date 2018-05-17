@@ -1,12 +1,11 @@
 {
-"name" : "Noctowl",
+  "name": "Noctowl",
   "national_id": 164,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Insomnia"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "89.9 lbs.",
   "weight_eu": "40.8 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 50,
@@ -51,150 +44,9 @@
     "speed": 70
   },
   "evolution_from": "Hoothoot",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Dream Eater",
-          "level": 1
-        },
-        {
-          "move": "Foresight",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Hypnosis",
-          "level": 1
-        },
-        {
-          "move": "Sky Attack",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Hypnosis",
-          "level": 5
-        },
-        {
-          "move": "Peck",
-          "level": 9
-        },
-        {
-          "move": "Uproar",
-          "level": 13
-        },
-        {
-          "move": "Reflect",
-          "level": 17
-        },
-        {
-          "move": "Confusion",
-          "level": 22
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 27
-        },
-        {
-          "move": "Take Down",
-          "level": 32
-        },
-        {
-          "move": "Air Slash",
-          "level": 37
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 42
-        },
-        {
-          "move": "Synchronoise",
-          "level": 47
-        },
-        {
-          "move": "Extrasensory",
-          "level": 52
-        },
-        {
-          "move": "Psycho Shift",
-          "level": 57
-        },
-        {
-          "move": "Roost",
-          "level": 62
-        },
-        {
-          "move": "Dream Eater",
-          "level": 67
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Defog",
-          "egg_move": true
-        },
-        {
-          "move": "Feather Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Night Shade",
-          "egg_move": true
-        },
-        {
-          "move": "Sky Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Supersonic",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
-          "move": "Wing Attack",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -317,12 +169,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Dream Eater",
           "level": 1
         },
@@ -573,8 +420,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Dream Eater",
           "level": 1
         },

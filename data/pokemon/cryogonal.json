@@ -1,26 +1,20 @@
 {
-"name" : "Cryogonal",
+  "name": "Cryogonal",
   "national_id": 615,
   "types": [
     "Ice"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "326.3 lbs.",
   "weight_eu": "148.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -29,8 +23,6 @@
     "sp_def": 2,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 50,
@@ -39,127 +31,10 @@
     "sp_def": 135,
     "speed": 105
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bind",
-          "level": 1
-        },
-        {
-          "move": "Haze",
-          "level": 1
-        },
-        {
-          "move": "Ice Shard",
-          "level": 1
-        },
-        {
-          "move": "Mist",
-          "level": 1
-        },
-        {
-          "move": "Night Slash",
-          "level": 1
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 1
-        },
-        {
-          "move": "Ice Shard",
-          "level": 5
-        },
-        {
-          "move": "Sharpen",
-          "level": 9
-        },
-        {
-          "move": "Rapid Spin",
-          "level": 13
-        },
-        {
-          "move": "Icy Wind",
-          "level": 17
-        },
-        {
-          "move": "Haze",
-          "level": 21
-        },
-        {
-          "move": "Mist",
-          "level": 21
-        },
-        {
-          "move": "Aurora Beam",
-          "level": 25
-        },
-        {
-          "move": "Acid Armor",
-          "level": 29
-        },
-        {
-          "move": "Ice Beam",
-          "level": 33
-        },
-        {
-          "move": "Light Screen",
-          "level": 37
-        },
-        {
-          "move": "Reflect",
-          "level": 37
-        },
-        {
-          "move": "Slash",
-          "level": 41
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 45
-        },
-        {
-          "move": "Recover",
-          "level": 49
-        },
-        {
-          "move": "Freeze-Dry",
-          "level": 50
-        },
-        {
-          "move": "Solar Beam",
-          "level": 53
-        },
-        {
-          "move": "Night Slash",
-          "level": 57
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 61
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -274,12 +149,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bind",
           "level": 1
         },
@@ -486,8 +356,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bind",
           "level": 1
         },

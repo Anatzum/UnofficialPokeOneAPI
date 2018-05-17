@@ -1,11 +1,10 @@
 {
-"name" : "Klang",
+  "name": "Klang",
   "national_id": 600,
   "types": [
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Plus"
     },
     {
@@ -14,17 +13,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "112.4 lbs.",
   "weight_eu": "51.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -33,8 +28,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 80,
@@ -44,110 +37,12 @@
     "speed": 50
   },
   "evolution_from": "Klink",
-  "evolutions": [
-    {
-      "to": "Klinklang",
-      "level": 49
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charge",
-          "level": 1
-        },
-        {
-          "move": "Gear Grind",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 1
-        },
-        {
-          "move": "Vice Grip",
-          "level": 1
-        },
-        {
-          "move": "Charge",
-          "level": 6
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 11
-        },
-        {
-          "move": "Gear Grind",
-          "level": 16
-        },
-        {
-          "move": "Bind",
-          "level": 21
-        },
-        {
-          "move": "Charge Beam",
-          "level": 26
-        },
-        {
-          "move": "Autotomize",
-          "level": 31
-        },
-        {
-          "move": "Mirror Shot",
-          "level": 36
-        },
-        {
-          "move": "Screech",
-          "level": 40
-        },
-        {
-          "move": "Discharge",
-          "level": 44
-        },
-        {
-          "move": "Metal Sound",
-          "level": 48
-        },
-        {
-          "move": "Shift Gear",
-          "level": 52
-        },
-        {
-          "move": "Lock-On",
-          "level": 56
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 60
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 64
-        },
-        {
-          "move": "Rock Smash",
-          "tm": "HM06"
-        },
-        {
+  "evolutions": [{
+    "to": "Klinklang",
+    "level": 49
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -242,12 +137,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charge",
           "level": 1
         },
@@ -414,8 +304,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charge",
           "level": 1
         },

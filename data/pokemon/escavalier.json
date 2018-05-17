@@ -1,12 +1,11 @@
 {
-"name" : "Escavalier",
+  "name": "Escavalier",
   "national_id": 589,
   "types": [
     "Bug",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "72.8 lbs.",
   "weight_eu": "33.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 135,
@@ -48,150 +41,9 @@
     "speed": 20
   },
   "evolution_from": "Karrablast",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Double-Edge",
-          "level": 1
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Quick Guard",
-          "level": 1
-        },
-        {
-          "move": "Twineedle",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Quick Guard",
-          "level": 8
-        },
-        {
-          "move": "Twineedle",
-          "level": 13
-        },
-        {
-          "move": "Fury Attack",
-          "level": 16
-        },
-        {
-          "move": "Headbutt",
-          "level": 20
-        },
-        {
-          "move": "False Swipe",
-          "level": 25
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 28
-        },
-        {
-          "move": "Slash",
-          "level": 32
-        },
-        {
-          "move": "Iron Head",
-          "level": 37
-        },
-        {
-          "move": "Iron Defense",
-          "level": 40
-        },
-        {
-          "move": "X-Scissor",
-          "level": 44
-        },
-        {
-          "move": "Reversal",
-          "level": 49
-        },
-        {
-          "move": "Swords Dance",
-          "level": 52
-        },
-        {
-          "move": "Giga Impact",
-          "level": 56
-        },
-        {
-          "move": "Fell Stinger",
-          "level": 60
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Drill Run",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Horn Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Megahorn",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -310,12 +162,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Double-Edge",
           "level": 1
         },
@@ -550,8 +397,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Double-Edge",
           "level": 1
         },

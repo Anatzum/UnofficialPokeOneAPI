@@ -1,11 +1,10 @@
 {
-"name" : "Goomy",
+  "name": "Goomy",
   "national_id": 704,
   "types": [
     "Dragon"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sap Sipper"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Dragon"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "6.2 lbs.",
   "weight_eu": "2.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 50,
@@ -46,103 +39,13 @@
     "sp_def": 75,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Sliggoo",
-      "level": 40
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Sliggoo",
+    "level": 40
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Absorb",
-          "level": 5
-        },
-        {
-          "move": "Protect",
-          "level": 9
-        },
-        {
-          "move": "Bide",
-          "level": 13
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 18
-        },
-        {
-          "move": "Rain Dance",
-          "level": 25
-        },
-        {
-          "move": "Flail",
-          "level": 28
-        },
-        {
-          "move": "Body Slam",
-          "level": 32
-        },
-        {
-          "move": "Muddy Water",
-          "level": 38
-        },
-        {
-          "move": "Dragon Pulse",
-          "level": 42
-        },
-        {
-          "move": "Acid Armor",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Poison Tail",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -233,12 +136,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -397,8 +295,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

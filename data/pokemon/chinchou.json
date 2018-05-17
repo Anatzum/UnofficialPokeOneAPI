@@ -1,12 +1,11 @@
 {
-"name" : "Chinchou",
+  "name": "Chinchou",
   "national_id": 170,
   "types": [
     "Water",
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Volt Absorb"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "26.5 lbs.",
   "weight_eu": "12.0 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 38,
@@ -50,143 +43,13 @@
     "sp_def": 56,
     "speed": 67
   },
-  "evolutions": [
-    {
-      "to": "Lanturn",
-      "level": 27
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Lanturn",
+    "level": 27
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Supersonic",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 6
-        },
-        {
-          "move": "Electro Ball",
-          "level": 9
-        },
-        {
-          "move": "Water Gun",
-          "level": 12
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 17
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 20
-        },
-        {
-          "move": "Spark",
-          "level": 23
-        },
-        {
-          "move": "Signal Beam",
-          "level": 28
-        },
-        {
-          "move": "Flail",
-          "level": 31
-        },
-        {
-          "move": "Discharge",
-          "level": 34
-        },
-        {
-          "move": "Take Down",
-          "level": 39
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 42
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 45
-        },
-        {
-          "move": "Ion Deluge",
-          "level": 47
-        },
-        {
-          "move": "Charge",
-          "level": 50
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Amnesia",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Mist",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Shock Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Soak",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlpool",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -313,12 +176,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -545,8 +403,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

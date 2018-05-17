@@ -1,17 +1,11 @@
 {
-  "name": {
-    "fr": "Mime Jr",
-    
-    "it": "Mime Jr.",
-    "en": "Mime Jr."
-  },
+  "name": "Mime Jr.",
   "national_id": 439,
   "types": [
     "Psychic",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Soundproof"
     },
     {
@@ -23,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "28.7 lbs.",
   "weight_eu": "13.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -45,8 +35,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 20,
     "atk": 25,
@@ -55,164 +43,14 @@
     "sp_def": 90,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Mr. Mime",
-      "level_up": true,
-      "move_learned": "Mimic"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Mr. Mime",
+    "level_up": true,
+    "move_learned": "Mimic"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Barrier",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Tickle",
-          "level": 1
-        },
-        {
-          "move": "Copycat",
-          "level": 4
-        },
-        {
-          "move": "Meditate",
-          "level": 8
-        },
-        {
-          "move": "Double Slap",
-          "level": 11
-        },
-        {
-          "move": "Mimic",
-          "level": 15
-        },
-        {
-          "move": "Encore",
-          "level": 18
-        },
-        {
-          "move": "Light Screen",
-          "level": 22
-        },
-        {
-          "move": "Reflect",
-          "level": 22
-        },
-        {
-          "move": "Psybeam",
-          "level": 25
-        },
-        {
-          "move": "Substitute",
-          "level": 29
-        },
-        {
-          "move": "Recycle",
-          "level": 32
-        },
-        {
-          "move": "Trick",
-          "level": 36
-        },
-        {
-          "move": "Psychic",
-          "level": 39
-        },
-        {
-          "move": "Role Play",
-          "level": 43
-        },
-        {
-          "move": "Baton Pass",
-          "level": 46
-        },
-        {
-          "move": "Safeguard",
-          "level": 50
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Confuse Ray",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Healing Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Icy Wind",
-          "egg_move": true
-        },
-        {
-          "move": "Magic Room",
-          "egg_move": true
-        },
-        {
-          "move": "Mimic",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Power Split",
-          "egg_move": true
-        },
-        {
-          "move": "Teeter Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Trick",
-          "egg_move": true
-        },
-        {
-          "move": "Wake-Up Slap",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -375,12 +213,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Barrier",
           "level": 1
         },
@@ -667,8 +500,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Barrier",
           "level": 1
         },

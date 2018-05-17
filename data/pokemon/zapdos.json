@@ -1,12 +1,11 @@
 {
-"name" : "Zapdos",
+  "name": "Zapdos",
   "national_id": 145,
   "types": [
     "Electric",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "116.0 lbs.",
   "weight_eu": "52.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,8 +29,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 90,
     "atk": 90,
@@ -44,103 +37,10 @@
     "sp_def": 90,
     "speed": 100
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Drill Peck",
-          "level": 1
-        },
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Roost",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 1
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 8
-        },
-        {
-          "move": "Detect",
-          "level": 15
-        },
-        {
-          "move": "Pluck",
-          "level": 22
-        },
-        {
-          "move": "Ancient Power",
-          "level": 29
-        },
-        {
-          "move": "Charge",
-          "level": 36
-        },
-        {
-          "move": "Agility",
-          "level": 43
-        },
-        {
-          "move": "Discharge",
-          "level": 50
-        },
-        {
-          "move": "Rain Dance",
-          "level": 57
-        },
-        {
-          "move": "Light Screen",
-          "level": 64
-        },
-        {
-          "move": "Drill Peck",
-          "level": 71
-        },
-        {
-          "move": "Thunder",
-          "level": 78
-        },
-        {
-          "move": "Roost",
-          "level": 85
-        },
-        {
-          "move": "Zap Cannon",
-          "level": 92
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -283,12 +183,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Peck",
           "level": 1
         },
@@ -487,8 +382,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Peck",
           "level": 1
         },

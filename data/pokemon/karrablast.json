@@ -1,11 +1,10 @@
 {
-"name" : "Karrablast",
+  "name": "Karrablast",
   "national_id": 588,
   "types": [
     "Bug"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "13.0 lbs.",
   "weight_eu": "5.9 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 75,
@@ -46,132 +39,14 @@
     "sp_def": 45,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Escavalier",
-      "trade": true,
-      "conditions": "when traded with a Shelmet"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Escavalier",
+    "trade": true,
+    "conditions": "when traded with a Shelmet"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Peck",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Endure",
-          "level": 8
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 13
-        },
-        {
-          "move": "Fury Attack",
-          "level": 16
-        },
-        {
-          "move": "Headbutt",
-          "level": 20
-        },
-        {
-          "move": "False Swipe",
-          "level": 25
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 28
-        },
-        {
-          "move": "Slash",
-          "level": 32
-        },
-        {
-          "move": "Take Down",
-          "level": 37
-        },
-        {
-          "move": "Scary Face",
-          "level": 40
-        },
-        {
-          "move": "X-Scissor",
-          "level": 44
-        },
-        {
-          "move": "Flail",
-          "level": 49
-        },
-        {
-          "move": "Swords Dance",
-          "level": 52
-        },
-        {
-          "move": "Double-Edge",
-          "level": 56
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Drill Run",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Horn Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Megahorn",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -274,12 +149,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Peck",
           "level": 1
         },
@@ -470,8 +340,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Peck",
           "level": 1
         },

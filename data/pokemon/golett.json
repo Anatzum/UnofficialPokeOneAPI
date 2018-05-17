@@ -1,12 +1,11 @@
 {
-"name" : "Golett",
+  "name": "Golett",
   "national_id": 622,
   "types": [
     "Ground",
     "Ghost"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Iron Fist"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "202.8 lbs.",
   "weight_eu": "92.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -34,8 +29,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 59,
     "atk": 74,
@@ -44,95 +37,13 @@
     "sp_def": 50,
     "speed": 35
   },
-  "evolutions": [
-    {
-      "to": "Golurk",
-      "level": 43
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Golurk",
+    "level": 43
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 5
-        },
-        {
-          "move": "Rollout",
-          "level": 9
-        },
-        {
-          "move": "Shadow Punch",
-          "level": 13
-        },
-        {
-          "move": "Iron Defense",
-          "level": 17
-        },
-        {
-          "move": "Mega Punch",
-          "level": 21
-        },
-        {
-          "move": "Magnitude",
-          "level": 25
-        },
-        {
-          "move": "Dynamic Punch",
-          "level": 30
-        },
-        {
-          "move": "Night Shade",
-          "level": 35
-        },
-        {
-          "move": "Curse",
-          "level": 40
-        },
-        {
-          "move": "Earthquake",
-          "level": 45
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 50
-        },
-        {
-          "move": "Focus Punch",
-          "level": 55
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -275,12 +186,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -471,8 +377,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

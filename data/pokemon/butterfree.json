@@ -1,12 +1,11 @@
 {
-"name" : "Butterfree",
+  "name": "Butterfree",
   "national_id": 12,
   "types": [
     "Bug",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Compound Eyes"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "70.5 lbs.",
   "weight_eu": "32.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 45,
@@ -48,94 +41,9 @@
     "speed": 70
   },
   "evolution_from": "Metapod",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 10
-        },
-        {
-          "move": "Poison Powder",
-          "level": 12
-        },
-        {
-          "move": "Sleep Powder",
-          "level": 12
-        },
-        {
-          "move": "Stun Spore",
-          "level": 12
-        },
-        {
-          "move": "Gust",
-          "level": 16
-        },
-        {
-          "move": "Supersonic",
-          "level": 18
-        },
-        {
-          "move": "Whirlwind",
-          "level": 22
-        },
-        {
-          "move": "Psybeam",
-          "level": 24
-        },
-        {
-          "move": "Silver Wind",
-          "level": 28
-        },
-        {
-          "move": "Tailwind",
-          "level": 30
-        },
-        {
-          "move": "Rage Powder",
-          "level": 34
-        },
-        {
-          "move": "Safeguard",
-          "level": 36
-        },
-        {
-          "move": "Captivate",
-          "level": 40
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 42
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 46
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -278,12 +186,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -486,8 +389,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

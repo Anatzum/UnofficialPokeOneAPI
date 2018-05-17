@@ -1,11 +1,10 @@
 {
-"name" : "Vanillite",
+  "name": "Vanillite",
   "national_id": 582,
   "types": [
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Ice Body"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "1'04\"",
   "height_eu": "0.4 m",
   "weight_us": "12.6 lbs.",
   "weight_eu": "5.7 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 36,
     "atk": 50,
@@ -46,127 +39,13 @@
     "sp_def": 60,
     "speed": 44
   },
-  "evolutions": [
-    {
-      "to": "Vanillish",
-      "level": 35
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Vanillish",
+    "level": 35
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Icicle Spear",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 4
-        },
-        {
-          "move": "Astonish",
-          "level": 7
-        },
-        {
-          "move": "Uproar",
-          "level": 10
-        },
-        {
-          "move": "Icy Wind",
-          "level": 13
-        },
-        {
-          "move": "Mist",
-          "level": 16
-        },
-        {
-          "move": "Avalanche",
-          "level": 19
-        },
-        {
-          "move": "Taunt",
-          "level": 22
-        },
-        {
-          "move": "Mirror Shot",
-          "level": 26
-        },
-        {
-          "move": "Acid Armor",
-          "level": 31
-        },
-        {
-          "move": "Ice Beam",
-          "level": 35
-        },
-        {
-          "move": "Hail",
-          "level": 40
-        },
-        {
-          "move": "Mirror Coat",
-          "level": 44
-        },
-        {
-          "move": "Blizzard",
-          "level": 49
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 53
-        },
-        {
-          "move": "Autotomize",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Shard",
-          "egg_move": true
-        },
-        {
-          "move": "Imprison",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Magnet Rise",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Powder Snow",
-          "egg_move": true
-        },
-        {
-          "move": "Water Pulse",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -265,12 +144,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Icicle Spear",
           "level": 1
         },
@@ -461,8 +335,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Icicle Spear",
           "level": 1
         },

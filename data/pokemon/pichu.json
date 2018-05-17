@@ -1,11 +1,10 @@
 {
-"name" : "Pichu",
+  "name": "Pichu",
   "national_id": 172,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Static"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "4.4 lbs.",
   "weight_eu": "2.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 20,
     "atk": 40,
@@ -46,120 +39,14 @@
     "sp_def": 35,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Pikachu",
-      "happiness": true, 
-      "level_up": true
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Pikachu",
+    "happiness": true,
+    "level_up": true
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charm",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 5
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 10
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 13
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 18
-        },
-        {
-          "move": "Bestow",
-          "egg_move": true
-        },
-        {
-          "move": "Bide",
-          "egg_move": true
-        },
-        {
-          "move": "Charge",
-          "egg_move": true
-        },
-        {
-          "move": "Disarming Voice",
-          "egg_move": true
-        },
-        {
-          "move": "Double Slap",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Reversal",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -270,12 +157,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charm",
           "level": 1
         },
@@ -470,8 +352,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charm",
           "level": 1
         },

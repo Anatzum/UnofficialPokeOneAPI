@@ -1,11 +1,10 @@
 {
-"name" : "Cubchoo",
+  "name": "Cubchoo",
   "national_id": 613,
   "types": [
     "Ice"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Snow Cloak"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "18.7 lbs.",
   "weight_eu": "8.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 55,
     "atk": 70,
@@ -46,135 +39,13 @@
     "sp_def": 40,
     "speed": 40
   },
-  "evolutions": [
-    {
-      "to": "Beartic",
-      "level": 37
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Beartic",
+    "level": 37
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Powder Snow",
-          "level": 5
-        },
-        {
-          "move": "Bide",
-          "level": 9
-        },
-        {
-          "move": "Icy Wind",
-          "level": 13
-        },
-        {
-          "move": "Play Nice",
-          "level": 15
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 17
-        },
-        {
-          "move": "Brine",
-          "level": 21
-        },
-        {
-          "move": "Endure",
-          "level": 25
-        },
-        {
-          "move": "Charm",
-          "level": 29
-        },
-        {
-          "move": "Slash",
-          "level": 33
-        },
-        {
-          "move": "Flail",
-          "level": 36
-        },
-        {
-          "move": "Rest",
-          "level": 41
-        },
-        {
-          "move": "Blizzard",
-          "level": 45
-        },
-        {
-          "move": "Hail",
-          "level": 49
-        },
-        {
-          "move": "Thrash",
-          "level": 53
-        },
-        {
-          "move": "Sheer Cold",
-          "level": 57
-        },
-        {
-          "move": "Assurance",
-          "egg_move": true
-        },
-        {
-          "move": "Avalanche",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Play Rough",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -309,12 +180,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -525,8 +391,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

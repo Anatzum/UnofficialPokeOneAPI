@@ -1,12 +1,11 @@
 {
-"name" : "Surskit",
+  "name": "Surskit",
   "national_id": 283,
   "types": [
     "Bug",
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Bug"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "3.7 lbs.",
   "weight_eu": "1.7 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 30,
@@ -48,123 +41,13 @@
     "sp_def": 52,
     "speed": 65
   },
-  "evolutions": [
-    {
-      "to": "Masquerain",
-      "level": 22
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Masquerain",
+    "level": 22
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bubble",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 6
-        },
-        {
-          "move": "Sweet Scent",
-          "level": 9
-        },
-        {
-          "move": "Water Sport",
-          "level": 14
-        },
-        {
-          "move": "Bubble Beam",
-          "level": 17
-        },
-        {
-          "move": "Agility",
-          "level": 22
-        },
-        {
-          "move": "Haze",
-          "level": 25
-        },
-        {
-          "move": "Mist",
-          "level": 25
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 30
-        },
-        {
-          "move": "Baton Pass",
-          "level": 35
-        },
-        {
-          "move": "Sticky Web",
-          "level": 38
-        },
-        {
-          "move": "Aqua Jet",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fell Stinger",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Mind Reader",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Power Split",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -275,12 +158,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bubble",
           "level": 1
         },
@@ -475,8 +353,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bubble",
           "level": 1
         },

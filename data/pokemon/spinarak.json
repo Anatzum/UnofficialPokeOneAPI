@@ -1,12 +1,11 @@
 {
-"name" : "Spinarak",
+  "name": "Spinarak",
   "national_id": 167,
   "types": [
     "Bug",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swarm"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "18.7 lbs.",
   "weight_eu": "8.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 40,
     "atk": 60,
@@ -50,151 +43,13 @@
     "sp_def": 40,
     "speed": 30
   },
-  "evolutions": [
-    {
-      "to": "Ariados",
-      "level": 22
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Ariados",
+    "level": 22
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Poison Sting",
-          "level": 1
-        },
-        {
-          "move": "String Shot",
-          "level": 1
-        },
-        {
-          "move": "Scary Face",
-          "level": 5
-        },
-        {
-          "move": "Constrict",
-          "level": 8
-        },
-        {
-          "move": "Leech Life",
-          "level": 12
-        },
-        {
-          "move": "Night Shade",
-          "level": 15
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 19
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 22
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 26
-        },
-        {
-          "move": "Spider Web",
-          "level": 29
-        },
-        {
-          "move": "Agility",
-          "level": 33
-        },
-        {
-          "move": "Pin Missile",
-          "level": 36
-        },
-        {
-          "move": "Psychic",
-          "level": 40
-        },
-        {
-          "move": "Poison Jab",
-          "level": 43
-        },
-        {
-          "move": "Cross Poison",
-          "level": 47
-        },
-        {
-          "move": "Sticky Web",
-          "level": 50
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Electroweb",
-          "egg_move": true
-        },
-        {
-          "move": "Megahorn",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rage Powder",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Sonic Boom",
-          "egg_move": true
-        },
-        {
-          "move": "Toxic Spikes",
-          "egg_move": true
-        },
-        {
-          "move": "Twineedle",
-          "egg_move": true
-        },
-        {
-          "move": "Hone Claws",
-          "tm": "TM01"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -305,12 +160,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Constrict",
           "level": 1
         },
@@ -533,8 +383,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Constrict",
           "level": 1
         },

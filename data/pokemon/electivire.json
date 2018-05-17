@@ -1,11 +1,10 @@
 {
-"name" : "Electivire",
+  "name": "Electivire",
   "national_id": 466,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Motor Drive"
     },
     {
@@ -17,17 +16,13 @@
     "male": 75.0,
     "female": 25.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "305.6 lbs.",
   "weight_eu": "138.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 123,
@@ -47,158 +40,9 @@
     "speed": 95
   },
   "evolution_from": "Electabuzz",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Electric Terrain",
-          "level": 1
-        },
-        {
-          "move": "Fire Punch",
-          "level": 1
-        },
-        {
-          "move": "Ion Deluge",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Low Kick",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 5
-        },
-        {
-          "move": "Low Kick",
-          "level": 8
-        },
-        {
-          "move": "Swift",
-          "level": 12
-        },
-        {
-          "move": "Shock Wave",
-          "level": 15
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 19
-        },
-        {
-          "move": "Electro Ball",
-          "level": 22
-        },
-        {
-          "move": "Light Screen",
-          "level": 26
-        },
-        {
-          "move": "Thunder Punch",
-          "level": 29
-        },
-        {
-          "move": "Discharge",
-          "level": 36
-        },
-        {
-          "move": "Screech",
-          "level": 42
-        },
-        {
-          "move": "Thunderbolt",
-          "level": 49
-        },
-        {
-          "move": "Thunder",
-          "level": 55
-        },
-        {
-          "move": "Giga Impact",
-          "level": 62
-        },
-        {
-          "move": "Electric Terrain",
-          "level": 65
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Dynamic Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Ice Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Karate Chop",
-          "egg_move": true
-        },
-        {
-          "move": "Meditate",
-          "egg_move": true
-        },
-        {
-          "move": "Rolling Kick",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -373,12 +217,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Electric Terrain",
           "level": 1
         },
@@ -661,8 +500,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Electric Terrain",
           "level": 1
         },

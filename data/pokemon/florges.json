@@ -1,11 +1,10 @@
 {
-"name" : "Florges",
+  "name": "Florges",
   "national_id": 671,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Flower Veil"
     },
     {
@@ -14,19 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "female": 100.0
+    "female": 100.0,
+    "male": 0.0
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "3'07\"",
   "height_eu": "1.1 m",
   "weight_us": "22.0 lbs.",
   "weight_eu": "10.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -35,8 +31,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 78,
     "atk": 65,
@@ -46,93 +40,8 @@
     "speed": 75
   },
   "evolution_from": "Floette",
-  
-  "variations": [
-    {
-      "condition": "Inherited or holding Flower",
-      "image_suffix": "yellow",
-      "name": {
-        
-      },
-      "types": [
-        "Fairy"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aromatherapy",
-          "level": 1
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 1
-        },
-        {
-          "move": "Flower Shield",
-          "level": 1
-        },
-        {
-          "move": "Grass Knot",
-          "level": 1
-        },
-        {
-          "move": "Grassy Terrain",
-          "level": 1
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 1
-        },
-        {
-          "move": "Magical Leaf",
-          "level": 1
-        },
-        {
-          "move": "Misty Terrain",
-          "level": 1
-        },
-        {
-          "move": "Moonblast",
-          "level": 1
-        },
-        {
-          "move": "Petal Blizzard",
-          "level": 1
-        },
-        {
-          "move": "Petal Dance",
-          "level": 1
-        },
-        {
-          "move": "Wish",
-          "level": 1
-        },
-        {
-          "move": "Camouflage",
-          "egg_move": true
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Copycat",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -251,12 +160,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aromatherapy",
           "level": 1
         },
@@ -435,8 +339,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aromatherapy",
           "level": 1
         },

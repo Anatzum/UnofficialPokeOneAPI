@@ -1,12 +1,11 @@
 {
-"name" : "Salamence",
+  "name": "Salamence",
   "national_id": 373,
   "types": [
     "Dragon",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Intimidate"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Dragon"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "226.2 lbs.",
   "weight_eu": "102.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 3,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 95,
     "atk": 135,
@@ -48,174 +41,9 @@
     "speed": 100
   },
   "evolution_from": "Shelgon",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Dragon",
-        "Flying"
-      ],
-      "ability": "Aerilate",
-      "mega_stone": "Salamencite",
-      "height_us": "5'11\"",
-      "height_eu": "1.8 m",
-      "weight_us": "248.2 lbs.",
-      "weight_eu": "112.6 kg",
-      "base_stats": {
-        "hp": 95,
-        "atk": 145,
-        "def": 130,
-        "sp_atk": 120,
-        "sp_def": 90,
-        "speed": 120
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Dragon Tail",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 1
-        },
-        {
-          "move": "Fire Fang",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Rage",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 4
-        },
-        {
-          "move": "Leer",
-          "level": 7
-        },
-        {
-          "move": "Bite",
-          "level": 10
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 13
-        },
-        {
-          "move": "Headbutt",
-          "level": 17
-        },
-        {
-          "move": "Focus Energy",
-          "level": 21
-        },
-        {
-          "move": "Crunch",
-          "level": 25
-        },
-        {
-          "move": "Dragon Claw",
-          "level": 29
-        },
-        {
-          "move": "Protect",
-          "level": 30
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 35
-        },
-        {
-          "move": "Scary Face",
-          "level": 42
-        },
-        {
-          "move": "Flamethrower",
-          "level": 49
-        },
-        {
-          "move": "Fly",
-          "level": 50
-        },
-        {
-          "move": "Double-Edge",
-          "level": 63
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Dance",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Dragon Rush",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Fang",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Twister",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -378,12 +206,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -654,8 +477,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

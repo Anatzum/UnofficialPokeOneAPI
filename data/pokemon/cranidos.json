@@ -1,11 +1,10 @@
 {
-"name" : "Cranidos",
+  "name": "Cranidos",
   "national_id": 408,
   "types": [
     "Rock"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Mold Breaker"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Monster"
   ],
-  
   "height_us": "2'11\"",
   "height_eu": "0.9 m",
   "weight_us": "69.4 lbs.",
   "weight_eu": "31.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 67,
     "atk": 125,
@@ -46,127 +39,13 @@
     "sp_def": 30,
     "speed": 58
   },
-  "evolutions": [
-    {
-      "to": "Rampardos",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Rampardos",
+    "level": 30
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Headbutt",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 6
-        },
-        {
-          "move": "Pursuit",
-          "level": 10
-        },
-        {
-          "move": "Take Down",
-          "level": 15
-        },
-        {
-          "move": "Scary Face",
-          "level": 19
-        },
-        {
-          "move": "Assurance",
-          "level": 24
-        },
-        {
-          "move": "Chip Away",
-          "level": 28
-        },
-        {
-          "move": "Ancient Power",
-          "level": 33
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 37
-        },
-        {
-          "move": "Screech",
-          "level": 42
-        },
-        {
-          "move": "Head Smash",
-          "level": 46
-        },
-        {
-          "move": "Crunch",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Hammer Arm",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Head",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Leer",
-          "egg_move": true
-        },
-        {
-          "move": "Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Stomp",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlwind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -333,12 +212,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Headbutt",
           "level": 1
         },
@@ -577,8 +451,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Headbutt",
           "level": 1
         },

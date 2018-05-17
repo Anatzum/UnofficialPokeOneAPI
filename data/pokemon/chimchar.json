@@ -1,11 +1,10 @@
 {
-"name" : "Chimchar",
+  "name": "Chimchar",
   "national_id": 390,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Blaze"
     },
     {
@@ -17,18 +16,14 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field",
     "Human-Like"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "13.7 lbs.",
   "weight_eu": "6.2 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 44,
     "atk": 58,
@@ -47,143 +40,13 @@
     "sp_def": 44,
     "speed": 61
   },
-  "evolutions": [
-    {
-      "to": "Monferno",
-      "level": 14
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Monferno",
+    "level": 14
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Ember",
-          "level": 7
-        },
-        {
-          "move": "Taunt",
-          "level": 9
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 15
-        },
-        {
-          "move": "Flame Wheel",
-          "level": 17
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 23
-        },
-        {
-          "move": "Torment",
-          "level": 25
-        },
-        {
-          "move": "Facade",
-          "level": 31
-        },
-        {
-          "move": "Fire Spin",
-          "level": 33
-        },
-        {
-          "move": "Acrobatics",
-          "level": 39
-        },
-        {
-          "move": "Slack Off",
-          "level": 41
-        },
-        {
-          "move": "Flamethrower",
-          "level": 47
-        },
-        {
-          "move": "Assist",
-          "egg_move": true
-        },
-        {
-          "move": "Blaze Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Double Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Encore",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Out",
-          "egg_move": true
-        },
-        {
-          "move": "Fire Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Energy",
-          "egg_move": true
-        },
-        {
-          "move": "Focus Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Submission",
-          "egg_move": true
-        },
-        {
-          "move": "Thunder Punch",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -346,12 +209,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Leer",
           "level": 1
         },
@@ -598,8 +456,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Leer",
           "level": 1
         },

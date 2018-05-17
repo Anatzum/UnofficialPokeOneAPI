@@ -1,12 +1,11 @@
 {
-"name" : "Fletchling",
+  "name": "Fletchling",
   "national_id": 661,
   "types": [
     "Normal",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Big Pecks"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Flying"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "3.7 lbs.",
   "weight_eu": "1.7 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 45,
     "atk": 50,
@@ -47,103 +40,13 @@
     "sp_def": 38,
     "speed": 62
   },
-  "evolutions": [
-    {
-      "to": "Fletchinder",
-      "level": 17
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Fletchinder",
+    "level": 17
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 6
-        },
-        {
-          "move": "Peck",
-          "level": 10
-        },
-        {
-          "move": "Agility",
-          "level": 13
-        },
-        {
-          "move": "Flail",
-          "level": 16
-        },
-        {
-          "move": "Roost",
-          "level": 21
-        },
-        {
-          "move": "Razor Wind",
-          "level": 25
-        },
-        {
-          "move": "Natural Gift",
-          "level": 29
-        },
-        {
-          "move": "Flame Charge",
-          "level": 34
-        },
-        {
-          "move": "Acrobatics",
-          "level": 39
-        },
-        {
-          "move": "Me First",
-          "level": 41
-        },
-        {
-          "move": "Tailwind",
-          "level": 45
-        },
-        {
-          "move": "Steel Wing",
-          "level": 48
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Snatch",
-          "egg_move": true
-        },
-        {
-          "move": "Tailwind",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -254,12 +157,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -442,8 +340,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

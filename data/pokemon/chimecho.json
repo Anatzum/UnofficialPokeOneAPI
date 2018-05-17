@@ -1,29 +1,23 @@
 {
-"name" : "Chimecho",
+  "name": "Chimecho",
   "national_id": 358,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Levitate"
-    }
-  ],
+  "abilities": [{
+    "name": "Levitate"
+  }],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "2.2 lbs.",
   "weight_eu": "1.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -32,8 +26,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 50,
@@ -43,146 +35,9 @@
     "speed": 65
   },
   "evolution_from": "Chingling",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Astonish",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Healing Wish",
-          "level": 1
-        },
-        {
-          "move": "Synchronoise",
-          "level": 1
-        },
-        {
-          "move": "Wrap",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Astonish",
-          "level": 7
-        },
-        {
-          "move": "Confusion",
-          "level": 10
-        },
-        {
-          "move": "Yawn",
-          "level": 13
-        },
-        {
-          "move": "Psywave",
-          "level": 16
-        },
-        {
-          "move": "Take Down",
-          "level": 19
-        },
-        {
-          "move": "Extrasensory",
-          "level": 22
-        },
-        {
-          "move": "Heal Bell",
-          "level": 27
-        },
-        {
-          "move": "Uproar",
-          "level": 32
-        },
-        {
-          "move": "Safeguard",
-          "level": 37
-        },
-        {
-          "move": "Double-Edge",
-          "level": 42
-        },
-        {
-          "move": "Heal Pulse",
-          "level": 47
-        },
-        {
-          "move": "Synchronoise",
-          "level": 52
-        },
-        {
-          "move": "Healing Wish",
-          "level": 57
-        },
-        {
-          "move": "Cosmic Power",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Disable",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Hypnosis",
-          "egg_move": true
-        },
-        {
-          "move": "Recover",
-          "egg_move": true
-        },
-        {
-          "move": "Skill Swap",
-          "egg_move": true
-        },
-        {
-          "move": "Stored Power",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -329,12 +184,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Astonish",
           "level": 1
         },
@@ -593,8 +443,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Astonish",
           "level": 1
         },

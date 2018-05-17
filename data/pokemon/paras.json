@@ -1,12 +1,11 @@
 {
-"name" : "Paras",
+  "name": "Paras",
   "national_id": 46,
   "types": [
     "Bug",
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Effect Spore"
     },
     {
@@ -18,21 +17,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug",
     "Grass"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "11.9 lbs.",
   "weight_eu": "5.4 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -41,8 +36,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 35,
     "atk": 70,
@@ -51,147 +44,13 @@
     "sp_def": 55,
     "speed": 25
   },
-  "evolutions": [
-    {
-      "to": "Parasect",
-      "level": 24
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Parasect",
+    "level": 24
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Poison Powder",
-          "level": 6
-        },
-        {
-          "move": "Stun Spore",
-          "level": 6
-        },
-        {
-          "move": "Leech Life",
-          "level": 11
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 17
-        },
-        {
-          "move": "Spore",
-          "level": 22
-        },
-        {
-          "move": "Slash",
-          "level": 27
-        },
-        {
-          "move": "Growth",
-          "level": 33
-        },
-        {
-          "move": "Giga Drain",
-          "level": 38
-        },
-        {
-          "move": "Aromatherapy",
-          "level": 43
-        },
-        {
-          "move": "Rage Powder",
-          "level": 49
-        },
-        {
-          "move": "X-Scissor",
-          "level": 54
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Bug Bite",
-          "egg_move": true
-        },
-        {
-          "move": "Counter",
-          "egg_move": true
-        },
-        {
-          "move": "Cross Poison",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Fell Stinger",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Leech Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Metal Claw",
-          "egg_move": true
-        },
-        {
-          "move": "Natural Gift",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Rototiller",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Scent",
-          "egg_move": true
-        },
-        {
-          "move": "Wide Guard",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -334,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Scratch",
           "level": 1
         },
@@ -574,8 +428,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Scratch",
           "level": 1
         },

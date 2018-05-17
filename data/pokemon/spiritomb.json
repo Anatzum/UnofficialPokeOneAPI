@@ -1,12 +1,11 @@
 {
-"name" : "Spiritomb",
+  "name": "Spiritomb",
   "national_id": 442,
   "types": [
     "Ghost",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Pressure"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Amorphous"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "238.1 lbs.",
   "weight_eu": "108.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 92,
@@ -47,123 +40,10 @@
     "sp_def": 108,
     "speed": 35
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confuse Ray",
-          "level": 1
-        },
-        {
-          "move": "Curse",
-          "level": 1
-        },
-        {
-          "move": "Pursuit",
-          "level": 1
-        },
-        {
-          "move": "Shadow Sneak",
-          "level": 1
-        },
-        {
-          "move": "Spite",
-          "level": 1
-        },
-        {
-          "move": "Feint Attack",
-          "level": 7
-        },
-        {
-          "move": "Hypnosis",
-          "level": 13
-        },
-        {
-          "move": "Dream Eater",
-          "level": 19
-        },
-        {
-          "move": "Ominous Wind",
-          "level": 25
-        },
-        {
-          "move": "Sucker Punch",
-          "level": 31
-        },
-        {
-          "move": "Nasty Plot",
-          "level": 37
-        },
-        {
-          "move": "Memento",
-          "level": 43
-        },
-        {
-          "move": "Dark Pulse",
-          "level": 49
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Foul Play",
-          "egg_move": true
-        },
-        {
-          "move": "Grudge",
-          "egg_move": true
-        },
-        {
-          "move": "Imprison",
-          "egg_move": true
-        },
-        {
-          "move": "Nightmare",
-          "egg_move": true
-        },
-        {
-          "move": "Pain Split",
-          "egg_move": true
-        },
-        {
-          "move": "Shadow Sneak",
-          "egg_move": true
-        },
-        {
-          "move": "Smokescreen",
-          "egg_move": true
-        },
-        {
-          "move": "Calm Mind",
-          "tm": "TM04"
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -306,12 +186,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },
@@ -538,8 +413,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confuse Ray",
           "level": 1
         },

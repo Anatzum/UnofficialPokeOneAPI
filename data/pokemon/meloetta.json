@@ -1,27 +1,21 @@
 {
-"name" : "Meloetta",
+  "name": "Meloetta",
   "national_id": 648,
   "types": [
     "Normal",
     "Psychic"
   ],
-  "abilities": [
-    {
-      "name": "Serene Grace"
-    }
-  ],
+  "abilities": [{
+    "name": "Serene Grace"
+  }],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "14.3 lbs.",
   "weight_eu": "6.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -30,8 +24,6 @@
     "sp_def": 1,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 100,
     "atk": 77,
@@ -40,106 +32,8 @@
     "sp_def": 128,
     "speed": 90
   },
-  
-  "variations": [
-    {
-      "condition": "using Relic Song",
-      "image_suffix": "pirouette",
-      "name": {
-        
-      },
-      "types": [
-        "Normal",
-        "Fighting"
-      ],
-      "ev_yield": {
-        "hp": 0,
-        "atk": 1,
-        "def": 1,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 1
-      },
-      "base_stats": {
-        "hp": 100,
-        "atk": 128,
-        "def": 90,
-        "sp_atk": 77,
-        "sp_def": 77,
-        "speed": 128
-      }
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Round",
-          "level": 1
-        },
-        {
-          "move": "Quick Attack",
-          "level": 6
-        },
-        {
-          "move": "Confusion",
-          "level": 11
-        },
-        {
-          "move": "Sing",
-          "level": 16
-        },
-        {
-          "move": "Teeter Dance",
-          "level": 21
-        },
-        {
-          "move": "Acrobatics",
-          "level": 26
-        },
-        {
-          "move": "Psybeam",
-          "level": 31
-        },
-        {
-          "move": "Echoed Voice",
-          "level": 36
-        },
-        {
-          "move": "U-turn",
-          "level": 43
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 50
-        },
-        {
-          "move": "Psychic",
-          "level": 57
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 64
-        },
-        {
-          "move": "Role Play",
-          "level": 71
-        },
-        {
-          "move": "Close Combat",
-          "level": 78
-        },
-        {
-          "move": "Perish Song",
-          "level": 85
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -346,12 +240,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -610,8 +499,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

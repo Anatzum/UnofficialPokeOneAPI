@@ -1,12 +1,11 @@
 {
-"name" : "Landorus",
+  "name": "Landorus",
   "national_id": 645,
   "types": [
     "Ground",
     "Flying"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sand Force"
     },
     {
@@ -15,19 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "4'11\"",
   "height_eu": "1.5 m",
   "weight_us": "149.9 lbs.",
   "weight_eu": "68.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 89,
     "atk": 125,
@@ -46,135 +40,29 @@
     "sp_def": 80,
     "speed": 101
   },
-  
-  "variations": [
-    {
-      "condition": "using Reveal Glass",
-      "image_suffix": "therian",
-      "name": {
-        
-      },
-      "types": [
-        "Ground",
-        "Flying"
-      ],
-      "abilities": [
-        {
-          "name": "Intimidate"
-        }
-      ],
-      "height_us": "4'03\"",
-      "height_eu": "1.3 m",
-      "weight_us": "149.9 lbs.",
-      "weight_eu": "68.0 kg",
-      "base_stats": {
-        "hp": 89,
-        "atk": 145,
-        "def": 90,
-        "sp_atk": 105,
-        "sp_def": 80,
-        "speed": 91
-      },
-      "ev_yield": {
-        "hp": 0,
-        "atk": 3,
-        "def": 0,
-        "sp_atk": 0,
-        "sp_def": 0,
-        "speed": 0
-      }
+    "height_us": "4'03\"",
+    "height_eu": "1.3 m",
+    "weight_us": "149.9 lbs.",
+    "weight_eu": "68.0 kg",
+    "base_stats": {
+      "hp": 89,
+      "atk": 145,
+      "def": 90,
+      "sp_atk": 105,
+      "sp_def": 80,
+      "speed": 91
+    },
+    "ev_yield": {
+      "hp": 0,
+      "atk": 3,
+      "def": 0,
+      "sp_atk": 0,
+      "sp_def": 0,
+      "speed": 0
     }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Block",
-          "level": 1
-        },
-        {
-          "move": "Fissure",
-          "level": 1
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 1
-        },
-        {
-          "move": "Mud Shot",
-          "level": 1
-        },
-        {
-          "move": "Outrage",
-          "level": 1
-        },
-        {
-          "move": "Rock Tomb",
-          "level": 1
-        },
-        {
-          "move": "Imprison",
-          "level": 7
-        },
-        {
-          "move": "Punishment",
-          "level": 13
-        },
-        {
-          "move": "Bulldoze",
-          "level": 19
-        },
-        {
-          "move": "Rock Throw",
-          "level": 25
-        },
-        {
-          "move": "Extrasensory",
-          "level": 31
-        },
-        {
-          "move": "Swords Dance",
-          "level": 37
-        },
-        {
-          "move": "Earth Power",
-          "level": 43
-        },
-        {
-          "move": "Rock Slide",
-          "level": 49
-        },
-        {
-          "move": "Earthquake",
-          "level": 55
-        },
-        {
-          "move": "Sandstorm",
-          "level": 61
-        },
-        {
-          "move": "Fissure",
-          "level": 67
-        },
-        {
-          "move": "Stone Edge",
-          "level": 73
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 79
-        },
-        {
-          "move": "Outrage",
-          "level": 85
-        },
-        {
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Fly",
           "tm": "HM02"
         },
@@ -345,12 +233,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Block",
           "level": 1
         },
@@ -593,8 +476,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Block",
           "level": 1
         },

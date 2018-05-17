@@ -1,11 +1,10 @@
 {
-"name" : "Togepi",
+  "name": "Togepi",
   "national_id": 175,
   "types": [
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Hustle"
     },
     {
@@ -20,17 +19,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Undiscovered"
   ],
-  
   "height_us": "1'00\"",
   "height_eu": "0.3 m",
   "weight_us": "3.3 lbs.",
   "weight_eu": "1.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 1,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 35,
     "atk": 20,
@@ -49,144 +42,14 @@
     "sp_def": 65,
     "speed": 20
   },
-  "evolutions": [
-    {
-      "to": "Togetic",
-      "happiness": true, 
-      "level_up": true
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Togetic",
+    "happiness": true,
+    "level_up": true
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Charm",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Metronome",
-          "level": 5
-        },
-        {
-          "move": "Sweet Kiss",
-          "level": 9
-        },
-        {
-          "move": "Yawn",
-          "level": 13
-        },
-        {
-          "move": "Encore",
-          "level": 17
-        },
-        {
-          "move": "Follow Me",
-          "level": 21
-        },
-        {
-          "move": "Bestow",
-          "level": 25
-        },
-        {
-          "move": "Wish",
-          "level": 29
-        },
-        {
-          "move": "Ancient Power",
-          "level": 33
-        },
-        {
-          "move": "Safeguard",
-          "level": 37
-        },
-        {
-          "move": "Baton Pass",
-          "level": 41
-        },
-        {
-          "move": "Double-Edge",
-          "level": 45
-        },
-        {
-          "move": "Last Resort",
-          "level": 49
-        },
-        {
-          "move": "After You",
-          "level": 53
-        },
-        {
-          "move": "Extrasensory",
-          "egg_move": true
-        },
-        {
-          "move": "Foresight",
-          "egg_move": true
-        },
-        {
-          "move": "Future Sight",
-          "egg_move": true
-        },
-        {
-          "move": "Lucky Chant",
-          "egg_move": true
-        },
-        {
-          "move": "Mirror Move",
-          "egg_move": true
-        },
-        {
-          "move": "Morning Sun",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Peck",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Shift",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Stored Power",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Rock Smash",
           "tm": "HM06"
         },
@@ -333,12 +196,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Charm",
           "level": 1
         },
@@ -585,8 +443,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Charm",
           "level": 1
         },

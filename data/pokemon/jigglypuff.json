@@ -1,12 +1,11 @@
 {
-"name" : "Jigglypuff",
+  "name": "Jigglypuff",
   "national_id": 39,
   "types": [
     "Normal",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Cute Charm"
     },
     {
@@ -21,17 +20,13 @@
     "male": 25.0,
     "female": 75.0
   },
- 
   "egg_groups": [
     "Fairy"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "12.1 lbs.",
   "weight_eu": "5.5 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 115,
     "atk": 45,
@@ -50,151 +43,13 @@
     "sp_def": 25,
     "speed": 20
   },
-  "evolutions": [
-    {
-      "to": "Wigglytuff",
-      "item": "Moon Stone"
-    }
-  ],
+  "evolutions": [{
+    "to": "Wigglytuff",
+    "item": "Moon Stone"
+  }],
   "evolution_from": "Igglybuff",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Sing",
-          "level": 1
-        },
-        {
-          "move": "Defense Curl",
-          "level": 3
-        },
-        {
-          "move": "Pound",
-          "level": 5
-        },
-        {
-          "move": "Play Nice",
-          "level": 8
-        },
-        {
-          "move": "Disarming Voice",
-          "level": 11
-        },
-        {
-          "move": "Disable",
-          "level": 15
-        },
-        {
-          "move": "Double Slap",
-          "level": 18
-        },
-        {
-          "move": "Rollout",
-          "level": 21
-        },
-        {
-          "move": "Round",
-          "level": 24
-        },
-        {
-          "move": "Wake-Up Slap",
-          "level": 28
-        },
-        {
-          "move": "Rest",
-          "level": 32
-        },
-        {
-          "move": "Body Slam",
-          "level": 35
-        },
-        {
-          "move": "Mimic",
-          "level": 37
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 40
-        },
-        {
-          "move": "Hyper Voice",
-          "level": 44
-        },
-        {
-          "move": "Double-Edge",
-          "level": 49
-        },
-        {
-          "move": "Captivate",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Fake Tears",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Gravity",
-          "egg_move": true
-        },
-        {
-          "move": "Heal Pulse",
-          "egg_move": true
-        },
-        {
-          "move": "Last Resort",
-          "egg_move": true
-        },
-        {
-          "move": "Misty Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Perish Song",
-          "egg_move": true
-        },
-        {
-          "move": "Present",
-          "egg_move": true
-        },
-        {
-          "move": "Punishment",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Wish",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -381,12 +236,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Sing",
           "level": 1
         },
@@ -681,8 +531,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Sing",
           "level": 1
         },

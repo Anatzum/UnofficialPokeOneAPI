@@ -1,12 +1,11 @@
 {
-"name" : "Dustox",
+  "name": "Dustox",
   "national_id": 269,
   "types": [
     "Bug",
     "Poison"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Shield Dust"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Bug"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "69.7 lbs.",
   "weight_eu": "31.6 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 3,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 60,
     "atk": 50,
@@ -48,86 +41,9 @@
     "speed": 65
   },
   "evolution_from": "Cascoon",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 10
-        },
-        {
-          "move": "Confusion",
-          "level": 12
-        },
-        {
-          "move": "Poison Powder",
-          "level": 15
-        },
-        {
-          "move": "Moonlight",
-          "level": 17
-        },
-        {
-          "move": "Venoshock",
-          "level": 20
-        },
-        {
-          "move": "Psybeam",
-          "level": 22
-        },
-        {
-          "move": "Silver Wind",
-          "level": 25
-        },
-        {
-          "move": "Light Screen",
-          "level": 27
-        },
-        {
-          "move": "Whirlwind",
-          "level": 30
-        },
-        {
-          "move": "Toxic",
-          "level": 32
-        },
-        {
-          "move": "Bug Buzz",
-          "level": 35
-        },
-        {
-          "move": "Protect",
-          "level": 37
-        },
-        {
-          "move": "Quiver Dance",
-          "level": 40
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Toxic",
           "tm": "TM06"
         },
@@ -262,12 +178,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Gust",
           "level": 1
         },
@@ -446,8 +357,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Gust",
           "level": 1
         },

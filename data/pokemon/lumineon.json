@@ -1,11 +1,10 @@
 {
-"name" : "Lumineon",
+  "name": "Lumineon",
   "national_id": 457,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Swift Swim"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "3'11\"",
   "height_eu": "1.2 m",
   "weight_us": "52.9 lbs.",
   "weight_eu": "24.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 69,
     "atk": 69,
@@ -50,146 +43,9 @@
     "speed": 91
   },
   "evolution_from": "Finneon",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Attract",
-          "level": 1
-        },
-        {
-          "move": "Gust",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Soak",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 6
-        },
-        {
-          "move": "Attract",
-          "level": 10
-        },
-        {
-          "move": "Rain Dance",
-          "level": 13
-        },
-        {
-          "move": "Gust",
-          "level": 17
-        },
-        {
-          "move": "Water Pulse",
-          "level": 22
-        },
-        {
-          "move": "Captivate",
-          "level": 26
-        },
-        {
-          "move": "Safeguard",
-          "level": 29
-        },
-        {
-          "move": "Aqua Ring",
-          "level": 35
-        },
-        {
-          "move": "Whirlpool",
-          "level": 42
-        },
-        {
-          "move": "U-turn",
-          "level": 48
-        },
-        {
-          "move": "Bounce",
-          "level": 53
-        },
-        {
-          "move": "Silver Wind",
-          "level": 59
-        },
-        {
-          "move": "Soak",
-          "level": 66
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Aqua Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Aurora Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Charm",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Psybeam",
-          "egg_move": true
-        },
-        {
-          "move": "Signal Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Splash",
-          "egg_move": true
-        },
-        {
-          "move": "Sweet Kiss",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -312,12 +168,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Attract",
           "level": 1
         },
@@ -548,8 +399,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Attract",
           "level": 1
         },

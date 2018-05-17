@@ -1,11 +1,10 @@
 {
-"name" : "Throh",
+  "name": "Throh",
   "national_id": 538,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Guts"
     },
     {
@@ -14,19 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 100.0
+    "male": 100.0,
+    "female": 0.0
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "4'03\"",
   "height_eu": "1.3 m",
   "weight_us": "122.4 lbs.",
   "weight_eu": "55.5 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -35,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 120,
     "atk": 100,
@@ -45,91 +39,10 @@
     "sp_def": 85,
     "speed": 45
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bind",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Bide",
-          "level": 5
-        },
-        {
-          "move": "Focus Energy",
-          "level": 9
-        },
-        {
-          "move": "Seismic Toss",
-          "level": 13
-        },
-        {
-          "move": "Vital Throw",
-          "level": 17
-        },
-        {
-          "move": "Revenge",
-          "level": 21
-        },
-        {
-          "move": "Storm Throw",
-          "level": 25
-        },
-        {
-          "move": "Body Slam",
-          "level": 29
-        },
-        {
-          "move": "Bulk Up",
-          "level": 33
-        },
-        {
-          "move": "Circle Throw",
-          "level": 37
-        },
-        {
-          "move": "Endure",
-          "level": 41
-        },
-        {
-          "move": "Wide Guard",
-          "level": 45
-        },
-        {
-          "move": "Superpower",
-          "level": 48
-        },
-        {
-          "move": "Reversal",
-          "level": 50
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -280,12 +193,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bide",
           "level": 1
         },
@@ -484,8 +392,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bide",
           "level": 1
         },

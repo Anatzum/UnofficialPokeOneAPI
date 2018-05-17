@@ -1,12 +1,11 @@
 {
-"name" : "Sharpedo",
+  "name": "Sharpedo",
   "national_id": 319,
   "types": [
     "Water",
     "Dark"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rough Skin"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "5'11\"",
   "height_eu": "1.8 m",
   "weight_us": "195.8 lbs.",
   "weight_eu": "88.8 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 120,
@@ -48,162 +41,9 @@
     "speed": 95
   },
   "evolution_from": "Carvanha",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Grass",
-        "Poison"
-      ],
-      "ability": "Thick Fat",
-      "mega_stone": "Venusaurite",
-      "height_us": "8'02\"",
-      "height_eu": "2.5 m",
-      "weight_us": "287.3 lbs.",
-      "weight_eu": "130.3 kg",
-      "base_stats": {
-        "hp": 70,
-        "atk": 140,
-        "def": 70,
-        "sp_atk": 110,
-        "sp_def": 65,
-        "speed": 105
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bite",
-          "level": 1
-        },
-        {
-          "move": "Feint",
-          "level": 1
-        },
-        {
-          "move": "Focus Energy",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Night Slash",
-          "level": 1
-        },
-        {
-          "move": "Rage",
-          "level": 1
-        },
-        {
-          "move": "Rage",
-          "level": 4
-        },
-        {
-          "move": "Focus Energy",
-          "level": 8
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 11
-        },
-        {
-          "move": "Assurance",
-          "level": 15
-        },
-        {
-          "move": "Screech",
-          "level": 18
-        },
-        {
-          "move": "Swagger",
-          "level": 22
-        },
-        {
-          "move": "Ice Fang",
-          "level": 25
-        },
-        {
-          "move": "Scary Face",
-          "level": 29
-        },
-        {
-          "move": "Slash",
-          "level": 30
-        },
-        {
-          "move": "Poison Fang",
-          "level": 34
-        },
-        {
-          "move": "Crunch",
-          "level": 40
-        },
-        {
-          "move": "Agility",
-          "level": 45
-        },
-        {
-          "move": "Skull Bash",
-          "level": 51
-        },
-        {
-          "move": "Taunt",
-          "level": 56
-        },
-        {
-          "move": "Night Slash",
-          "level": 62
-        },
-        {
-          "move": "Ancient Power",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Destiny Bond",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Hydro Pump",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -362,12 +202,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bite",
           "level": 1
         },
@@ -626,8 +461,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bite",
           "level": 1
         },

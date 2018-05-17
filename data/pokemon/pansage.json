@@ -1,11 +1,10 @@
 {
-"name" : "Pansage",
+  "name": "Pansage",
   "national_id": 511,
   "types": [
     "Grass"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Gluttony"
     },
     {
@@ -17,17 +16,13 @@
     "male": 87.5,
     "female": 12.5
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "23.1 lbs.",
   "weight_eu": "10.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 1
   },
-  
-  
   "base_stats": {
     "hp": 50,
     "atk": 53,
@@ -46,143 +39,13 @@
     "sp_def": 48,
     "speed": 64
   },
-  "evolutions": [
-    {
-      "to": "Simisage",
-      "item": "Leaf Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Simisage",
+    "item": "Leaf Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Play Nice",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 4
-        },
-        {
-          "move": "Lick",
-          "level": 7
-        },
-        {
-          "move": "Vine Whip",
-          "level": 10
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 13
-        },
-        {
-          "move": "Leech Seed",
-          "level": 16
-        },
-        {
-          "move": "Bite",
-          "level": 19
-        },
-        {
-          "move": "Seed Bomb",
-          "level": 22
-        },
-        {
-          "move": "Torment",
-          "level": 25
-        },
-        {
-          "move": "Fling",
-          "level": 28
-        },
-        {
-          "move": "Acrobatics",
-          "level": 31
-        },
-        {
-          "move": "Grass Knot",
-          "level": 34
-        },
-        {
-          "move": "Recycle",
-          "level": 37
-        },
-        {
-          "move": "Natural Gift",
-          "level": 40
-        },
-        {
-          "move": "Crunch",
-          "level": 43
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Bullet Seed",
-          "egg_move": true
-        },
-        {
-          "move": "Covet",
-          "egg_move": true
-        },
-        {
-          "move": "Disarming Voice",
-          "egg_move": true
-        },
-        {
-          "move": "Grass Whistle",
-          "egg_move": true
-        },
-        {
-          "move": "Leaf Storm",
-          "egg_move": true
-        },
-        {
-          "move": "Low Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Magical Leaf",
-          "egg_move": true
-        },
-        {
-          "move": "Nasty Plot",
-          "egg_move": true
-        },
-        {
-          "move": "Role Play",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -321,12 +184,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Play Nice",
           "level": 1
         },
@@ -557,8 +415,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Play Nice",
           "level": 1
         },

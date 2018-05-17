@@ -1,11 +1,10 @@
 {
-"name" : "Basculin",
+  "name": "Basculin",
   "national_id": 550,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Reckless"
     },
     {
@@ -17,20 +16,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 2"
   ],
-  
   "height_us": "3'03\"",
   "height_eu": "1.0 m",
   "weight_us": "39.7 lbs.",
   "weight_eu": "18.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -39,8 +34,6 @@
     "sp_def": 0,
     "speed": 2
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 92,
@@ -49,142 +42,8 @@
     "sp_def": 55,
     "speed": 98
   },
-  
-  "variations": [
-    {
-      "condition": "Inherited or found by surfing",
-      "image_suffix": "striped",
-      "name": {
-        "en": "Blue-Striped Form",
-        "de": "Blaulinige Form"
-      },
-      "types": [
-        "Water"
-      ]
-    }
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Flail",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Tail Whip",
-          "level": 1
-        },
-        {
-          "move": "Thrash",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Uproar",
-          "level": 4
-        },
-        {
-          "move": "Headbutt",
-          "level": 7
-        },
-        {
-          "move": "Bite",
-          "level": 10
-        },
-        {
-          "move": "Aqua Jet",
-          "level": 13
-        },
-        {
-          "move": "Chip Away",
-          "level": 16
-        },
-        {
-          "move": "Take Down",
-          "level": 20
-        },
-        {
-          "move": "Crunch",
-          "level": 24
-        },
-        {
-          "move": "Aqua Tail",
-          "level": 28
-        },
-        {
-          "move": "Soak",
-          "level": 32
-        },
-        {
-          "move": "Double-Edge",
-          "level": 36
-        },
-        {
-          "move": "Scary Face",
-          "level": 41
-        },
-        {
-          "move": "Flail",
-          "level": 46
-        },
-        {
-          "move": "Final Gambit",
-          "level": 50
-        },
-        {
-          "move": "Thrash",
-          "level": 56
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Brine",
-          "egg_move": true
-        },
-        {
-          "move": "Bubble Beam",
-          "egg_move": true
-        },
-        {
-          "move": "Mud Shot",
-          "egg_move": true
-        },
-        {
-          "move": "Muddy Water",
-          "egg_move": true
-        },
-        {
-          "move": "Rage",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
-          "move": "Whirlpool",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -283,12 +142,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Tackle",
           "level": 1
         },
@@ -487,8 +341,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Tackle",
           "level": 1
         },

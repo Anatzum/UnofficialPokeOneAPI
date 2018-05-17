@@ -1,11 +1,10 @@
 {
-"name" : "Heatmor",
+  "name": "Heatmor",
   "national_id": 631,
   "types": [
     "Fire"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Gluttony"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "127.9 lbs.",
   "weight_eu": "58.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 85,
     "atk": 97,
@@ -46,151 +39,10 @@
     "sp_def": 66,
     "speed": 65
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Hone Claws",
-          "level": 1
-        },
-        {
-          "move": "Incinerate",
-          "level": 1
-        },
-        {
-          "move": "Inferno",
-          "level": 1
-        },
-        {
-          "move": "Lick",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Odor Sleuth",
-          "level": 6
-        },
-        {
-          "move": "Bind",
-          "level": 11
-        },
-        {
-          "move": "Fire Spin",
-          "level": 16
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 21
-        },
-        {
-          "move": "Snatch",
-          "level": 26
-        },
-        {
-          "move": "Flame Burst",
-          "level": 31
-        },
-        {
-          "move": "Bug Bite",
-          "level": 36
-        },
-        {
-          "move": "Slash",
-          "level": 41
-        },
-        {
-          "move": "Amnesia",
-          "level": 44
-        },
-        {
-          "move": "Flamethrower",
-          "level": 47
-        },
-        {
-          "move": "Spit Up",
-          "level": 50
-        },
-        {
-          "move": "Stockpile",
-          "level": 50
-        },
-        {
-          "move": "Swallow",
-          "level": 50
-        },
-        {
-          "move": "Inferno",
-          "level": 61
-        },
-        {
-          "move": "Belch",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Feint Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Heat Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Night Slash",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Wrap",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -333,12 +185,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Hone Claws",
           "level": 1
         },
@@ -585,8 +432,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Hone Claws",
           "level": 1
         },

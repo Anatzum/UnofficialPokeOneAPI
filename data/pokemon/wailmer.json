@@ -1,11 +1,10 @@
 {
-"name" : "Wailmer",
+  "name": "Wailmer",
   "national_id": 320,
   "types": [
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Water Veil"
     },
     {
@@ -17,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Water 2"
   ],
-  
   "height_us": "6'07\"",
   "height_eu": "2.0 m",
   "weight_us": "286.6 lbs.",
   "weight_eu": "130.0 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 130,
     "atk": 70,
@@ -50,151 +43,13 @@
     "sp_def": 35,
     "speed": 60
   },
-  "evolutions": [
-    {
-      "to": "Wailord",
-      "level": 40
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Wailord",
+    "level": 40
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Splash",
-          "level": 1
-        },
-        {
-          "move": "Growl",
-          "level": 4
-        },
-        {
-          "move": "Water Gun",
-          "level": 7
-        },
-        {
-          "move": "Rollout",
-          "level": 10
-        },
-        {
-          "move": "Whirlpool",
-          "level": 13
-        },
-        {
-          "move": "Astonish",
-          "level": 16
-        },
-        {
-          "move": "Water Pulse",
-          "level": 19
-        },
-        {
-          "move": "Mist",
-          "level": 22
-        },
-        {
-          "move": "Brine",
-          "level": 25
-        },
-        {
-          "move": "Rest",
-          "level": 29
-        },
-        {
-          "move": "Dive",
-          "level": 33
-        },
-        {
-          "move": "Amnesia",
-          "level": 37
-        },
-        {
-          "move": "Water Spout",
-          "level": 41
-        },
-        {
-          "move": "Bounce",
-          "level": 45
-        },
-        {
-          "move": "Hydro Pump",
-          "level": 49
-        },
-        {
-          "move": "Heavy Slam",
-          "level": 53
-        },
-        {
-          "move": "Aqua Ring",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Clear Smog",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Double-Edge",
-          "egg_move": true
-        },
-        {
-          "move": "Fissure",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Snore",
-          "egg_move": true
-        },
-        {
-          "move": "Soak",
-          "egg_move": true
-        },
-        {
-          "move": "Thrash",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Zen Headbutt",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -317,12 +172,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Splash",
           "level": 1
         },
@@ -549,8 +399,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Splash",
           "level": 1
         },

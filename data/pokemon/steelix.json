@@ -1,12 +1,11 @@
 {
-"name" : "Steelix",
+  "name": "Steelix",
   "national_id": 208,
   "types": [
     "Steel",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rock Head"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "30'02\"",
   "height_eu": "9.2 m",
   "weight_us": "881.8 lbs.",
   "weight_eu": "400.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 75,
     "atk": 85,
@@ -51,186 +44,9 @@
     "speed": 30
   },
   "evolution_from": "Onix",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Steel",
-        "Ground"
-      ],
-      "ability": "Sand Force",
-      "mega_stone": "Steelixite",
-      "height_us": "34'05\"",
-      "height_eu": "10.5 m",
-      "weight_us": "1631.4 lbs.",
-      "weight_eu": "740.0 kg",
-      "base_stats": {
-        "hp": 75,
-        "atk": 125,
-        "def": 230,
-        "sp_atk": 55,
-        "sp_def": 95,
-        "speed": 30
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bind",
-          "level": 1
-        },
-        {
-          "move": "Fire Fang",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Ice Fang",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Thunder Fang",
-          "level": 1
-        },
-        {
-          "move": "Curse",
-          "level": 4
-        },
-        {
-          "move": "Rock Throw",
-          "level": 7
-        },
-        {
-          "move": "Rock Tomb",
-          "level": 10
-        },
-        {
-          "move": "Rage",
-          "level": 13
-        },
-        {
-          "move": "Stealth Rock",
-          "level": 16
-        },
-        {
-          "move": "Autotomize",
-          "level": 19
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 20
-        },
-        {
-          "move": "Smack Down",
-          "level": 22
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 25
-        },
-        {
-          "move": "Slam",
-          "level": 28
-        },
-        {
-          "move": "Screech",
-          "level": 31
-        },
-        {
-          "move": "Rock Slide",
-          "level": 34
-        },
-        {
-          "move": "Crunch",
-          "level": 37
-        },
-        {
-          "move": "Iron Tail",
-          "level": 40
-        },
-        {
-          "move": "Dig",
-          "level": 43
-        },
-        {
-          "move": "Stone Edge",
-          "level": 46
-        },
-        {
-          "move": "Double-Edge",
-          "level": 49
-        },
-        {
-          "move": "Sandstorm",
-          "level": 52
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Heavy Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Blast",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Rototiller",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -397,12 +213,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bind",
           "level": 1
         },
@@ -693,8 +504,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bind",
           "level": 1
         },

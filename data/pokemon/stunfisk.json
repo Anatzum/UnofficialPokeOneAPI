@@ -1,12 +1,11 @@
 {
-"name" : "Stunfisk",
+  "name": "Stunfisk",
   "national_id": 618,
   "types": [
     "Ground",
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Static"
     },
     {
@@ -15,21 +14,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 1",
     "Amorphous"
   ],
-  
   "height_us": "2'04\"",
   "height_eu": "0.7 m",
   "weight_us": "24.3 lbs.",
   "weight_eu": "11.0 kg",
-  
-  
   "ev_yield": {
     "hp": 2,
     "atk": 0,
@@ -38,8 +33,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 109,
     "atk": 66,
@@ -48,155 +41,10 @@
     "sp_def": 99,
     "speed": 32
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Fissure",
-          "level": 1
-        },
-        {
-          "move": "Flail",
-          "level": 1
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 1
-        },
-        {
-          "move": "Bide",
-          "level": 5
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 9
-        },
-        {
-          "move": "Mud Shot",
-          "level": 13
-        },
-        {
-          "move": "Camouflage",
-          "level": 17
-        },
-        {
-          "move": "Mud Bomb",
-          "level": 21
-        },
-        {
-          "move": "Discharge",
-          "level": 25
-        },
-        {
-          "move": "Endure",
-          "level": 30
-        },
-        {
-          "move": "Bounce",
-          "level": 35
-        },
-        {
-          "move": "Muddy Water",
-          "level": 40
-        },
-        {
-          "move": "Thunderbolt",
-          "level": 45
-        },
-        {
-          "move": "Revenge",
-          "level": 50
-        },
-        {
-          "move": "Flail",
-          "level": 55
-        },
-        {
-          "move": "Fissure",
-          "level": 61
-        },
-        {
-          "move": "Astonish",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Earth Power",
-          "egg_move": true
-        },
-        {
-          "move": "Eerie Impulse",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Pain Split",
-          "egg_move": true
-        },
-        {
-          "move": "Reflect Type",
-          "egg_move": true
-        },
-        {
-          "move": "Shock Wave",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Spark",
-          "egg_move": true
-        },
-        {
-          "move": "Spite",
-          "egg_move": true
-        },
-        {
-          "move": "Yawn",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Surf",
           "tm": "HM03"
         },
@@ -331,12 +179,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fissure",
           "level": 1
         },
@@ -587,8 +430,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fissure",
           "level": 1
         },

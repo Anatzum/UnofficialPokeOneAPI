@@ -1,11 +1,10 @@
 {
-"name" : "Flaaffy",
+  "name": "Flaaffy",
   "national_id": 180,
   "types": [
     "Electric"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Static"
     },
     {
@@ -14,21 +13,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Monster",
     "Field"
   ],
-  
   "height_us": "2'07\"",
   "height_eu": "0.8 m",
   "weight_us": "29.3 lbs.",
   "weight_eu": "13.3 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 70,
     "atk": 55,
@@ -48,150 +41,12 @@
     "speed": 45
   },
   "evolution_from": "Mareep",
-  "evolutions": [
-    {
-      "to": "Ampharos",
-      "level": 30
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Growl",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 1
-        },
-        {
-          "move": "Thunder Wave",
-          "level": 4
-        },
-        {
-          "move": "Thunder Shock",
-          "level": 8
-        },
-        {
-          "move": "Cotton Spore",
-          "level": 11
-        },
-        {
-          "move": "Charge",
-          "level": 16
-        },
-        {
-          "move": "Take Down",
-          "level": 20
-        },
-        {
-          "move": "Electro Ball",
-          "level": 25
-        },
-        {
-          "move": "Confuse Ray",
-          "level": 29
-        },
-        {
-          "move": "Power Gem",
-          "level": 34
-        },
-        {
-          "move": "Discharge",
-          "level": 38
-        },
-        {
-          "move": "Cotton Guard",
-          "level": 43
-        },
-        {
-          "move": "Signal Beam",
-          "level": 47
-        },
-        {
-          "move": "Light Screen",
-          "level": 52
-        },
-        {
-          "move": "Thunder",
-          "level": 56
-        },
-        {
-          "move": "After You",
-          "egg_move": true
-        },
-        {
-          "move": "Agility",
-          "egg_move": true
-        },
-        {
-          "move": "Body Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Charge",
-          "egg_move": true
-        },
-        {
-          "move": "Eerie Impulse",
-          "egg_move": true
-        },
-        {
-          "move": "Electric Terrain",
-          "egg_move": true
-        },
-        {
-          "move": "Flatter",
-          "egg_move": true
-        },
-        {
-          "move": "Iron Tail",
-          "egg_move": true
-        },
-        {
-          "move": "Odor Sleuth",
-          "egg_move": true
-        },
-        {
-          "move": "Sand Attack",
-          "egg_move": true
-        },
-        {
-          "move": "Screech",
-          "egg_move": true
-        },
-        {
-          "move": "Take Down",
-          "egg_move": true
-        },
-        {
+  "evolutions": [{
+    "to": "Ampharos",
+    "level": 30
+  }],
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -318,12 +173,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Growl",
           "level": 1
         },
@@ -550,8 +400,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Growl",
           "level": 1
         },

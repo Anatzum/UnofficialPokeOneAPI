@@ -1,12 +1,11 @@
 {
-"name" : "Bisharp",
+  "name": "Bisharp",
   "national_id": 625,
   "types": [
     "Dark",
     "Steel"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Defiant"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Human-Like"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "154.3 lbs.",
   "weight_eu": "70.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 125,
@@ -48,150 +41,9 @@
     "speed": 70
   },
   "evolution_from": "Pawniard",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Fury Cutter",
-          "level": 1
-        },
-        {
-          "move": "Guillotine",
-          "level": 1
-        },
-        {
-          "move": "Iron Head",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 1
-        },
-        {
-          "move": "Metal Burst",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Torment",
-          "level": 1
-        },
-        {
-          "move": "Leer",
-          "level": 6
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 9
-        },
-        {
-          "move": "Torment",
-          "level": 14
-        },
-        {
-          "move": "Feint Attack",
-          "level": 17
-        },
-        {
-          "move": "Scary Face",
-          "level": 22
-        },
-        {
-          "move": "Metal Claw",
-          "level": 25
-        },
-        {
-          "move": "Slash",
-          "level": 30
-        },
-        {
-          "move": "Assurance",
-          "level": 33
-        },
-        {
-          "move": "Metal Sound",
-          "level": 38
-        },
-        {
-          "move": "Embargo",
-          "level": 41
-        },
-        {
-          "move": "Iron Defense",
-          "level": 46
-        },
-        {
-          "move": "Night Slash",
-          "level": 49
-        },
-        {
-          "move": "Iron Head",
-          "level": 57
-        },
-        {
-          "move": "Swords Dance",
-          "level": 63
-        },
-        {
-          "move": "Guillotine",
-          "level": 71
-        },
-        {
-          "move": "Headbutt",
-          "egg_move": true
-        },
-        {
-          "move": "Mean Look",
-          "egg_move": true
-        },
-        {
-          "move": "Psycho Cut",
-          "egg_move": true
-        },
-        {
-          "move": "Pursuit",
-          "egg_move": true
-        },
-        {
-          "move": "Quick Guard",
-          "egg_move": true
-        },
-        {
-          "move": "Revenge",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
-          "move": "Sucker Punch",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -382,12 +234,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fury Cutter",
           "level": 1
         },
@@ -674,8 +521,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fury Cutter",
           "level": 1
         },

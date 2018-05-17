@@ -1,12 +1,11 @@
 {
-"name" : "Onix",
+  "name": "Onix",
   "national_id": 95,
   "types": [
     "Rock",
     "Ground"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Rock Head"
     },
     {
@@ -18,20 +17,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "28'10\"",
   "height_eu": "8.8 m",
   "weight_us": "463.0 lbs.",
   "weight_eu": "210.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -40,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 35,
     "atk": 45,
@@ -50,160 +43,14 @@
     "sp_def": 45,
     "speed": 70
   },
-  "evolutions": [
-    {
-      "to": "Steelix",
-      "trade": true,
-      "hold_item": "Metal Coat"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Steelix",
+    "trade": true,
+    "hold_item": "Metal Coat"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Bind",
-          "level": 1
-        },
-        {
-          "move": "Harden",
-          "level": 1
-        },
-        {
-          "move": "Mud Sport",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Curse",
-          "level": 4
-        },
-        {
-          "move": "Rock Throw",
-          "level": 7
-        },
-        {
-          "move": "Rock Tomb",
-          "level": 10
-        },
-        {
-          "move": "Rage",
-          "level": 13
-        },
-        {
-          "move": "Stealth Rock",
-          "level": 16
-        },
-        {
-          "move": "Rock Polish",
-          "level": 19
-        },
-        {
-          "move": "Gyro Ball",
-          "level": 20
-        },
-        {
-          "move": "Smack Down",
-          "level": 22
-        },
-        {
-          "move": "Dragon Breath",
-          "level": 25
-        },
-        {
-          "move": "Slam",
-          "level": 28
-        },
-        {
-          "move": "Screech",
-          "level": 31
-        },
-        {
-          "move": "Rock Slide",
-          "level": 34
-        },
-        {
-          "move": "Sand Tomb",
-          "level": 37
-        },
-        {
-          "move": "Iron Tail",
-          "level": 40
-        },
-        {
-          "move": "Dig",
-          "level": 43
-        },
-        {
-          "move": "Stone Edge",
-          "level": 46
-        },
-        {
-          "move": "Double-Edge",
-          "level": 49
-        },
-        {
-          "move": "Sandstorm",
-          "level": 52
-        },
-        {
-          "move": "Block",
-          "egg_move": true
-        },
-        {
-          "move": "Defense Curl",
-          "egg_move": true
-        },
-        {
-          "move": "Flail",
-          "egg_move": true
-        },
-        {
-          "move": "Heavy Slam",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Blast",
-          "egg_move": true
-        },
-        {
-          "move": "Rock Climb",
-          "egg_move": true
-        },
-        {
-          "move": "Rollout",
-          "egg_move": true
-        },
-        {
-          "move": "Rototiller",
-          "egg_move": true
-        },
-        {
-          "move": "Stealth Rock",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -354,12 +201,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Bind",
           "level": 1
         },
@@ -626,8 +468,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Bind",
           "level": 1
         },

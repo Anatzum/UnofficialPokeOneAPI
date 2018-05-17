@@ -1,11 +1,10 @@
 {
-"name" : "Munna",
+  "name": "Munna",
   "national_id": 517,
   "types": [
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Forewarn"
     },
     {
@@ -14,20 +13,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field"
   ],
-  
   "height_us": "2'00\"",
   "height_eu": "0.6 m",
   "weight_us": "51.3 lbs.",
   "weight_eu": "23.3 kg",
-  
-  
   "ev_yield": {
     "hp": 1,
     "atk": 0,
@@ -36,8 +31,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 76,
     "atk": 25,
@@ -46,143 +39,13 @@
     "sp_def": 55,
     "speed": 24
   },
-  "evolutions": [
-    {
-      "to": "Musharna",
-      "item": "Moon Stone"
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Musharna",
+    "item": "Moon Stone"
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Defense Curl",
-          "level": 1
-        },
-        {
-          "move": "Psywave",
-          "level": 1
-        },
-        {
-          "move": "Lucky Chant",
-          "level": 5
-        },
-        {
-          "move": "Yawn",
-          "level": 7
-        },
-        {
-          "move": "Psybeam",
-          "level": 11
-        },
-        {
-          "move": "Imprison",
-          "level": 13
-        },
-        {
-          "move": "Moonlight",
-          "level": 17
-        },
-        {
-          "move": "Hypnosis",
-          "level": 19
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 23
-        },
-        {
-          "move": "Synchronoise",
-          "level": 25
-        },
-        {
-          "move": "Nightmare",
-          "level": 29
-        },
-        {
-          "move": "Future Sight",
-          "level": 31
-        },
-        {
-          "move": "Calm Mind",
-          "level": 35
-        },
-        {
-          "move": "Psychic",
-          "level": 37
-        },
-        {
-          "move": "Dream Eater",
-          "level": 41
-        },
-        {
-          "move": "Telekinesis",
-          "level": 43
-        },
-        {
-          "move": "Stored Power",
-          "level": 47
-        },
-        {
-          "move": "Barrier",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Curse",
-          "egg_move": true
-        },
-        {
-          "move": "Healing Wish",
-          "egg_move": true
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Magic Coat",
-          "egg_move": true
-        },
-        {
-          "move": "Secret Power",
-          "egg_move": true
-        },
-        {
-          "move": "Sleep Talk",
-          "egg_move": true
-        },
-        {
-          "move": "Sonic Boom",
-          "egg_move": true
-        },
-        {
-          "move": "Swift",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Psyshock",
           "tm": "TM03"
         },
@@ -325,12 +188,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Defense Curl",
           "level": 1
         },
@@ -577,8 +435,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Defense Curl",
           "level": 1
         },

@@ -1,12 +1,11 @@
 {
-"name" : "Klefki",
+  "name": "Klefki",
   "national_id": 707,
   "types": [
     "Steel",
     "Fairy"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Prankster"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "0'08\"",
   "height_eu": "0.2 m",
   "weight_us": "6.6 lbs.",
   "weight_eu": "3.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 57,
     "atk": 80,
@@ -47,111 +40,10 @@
     "sp_def": 87,
     "speed": 75
   },
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
+  "evolutions": null,
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Fairy Lock",
-          "level": 1
-        },
-        {
-          "move": "Tackle",
-          "level": 1
-        },
-        {
-          "move": "Fairy Wind",
-          "level": 5
-        },
-        {
-          "move": "Astonish",
-          "level": 8
-        },
-        {
-          "move": "Metal Sound",
-          "level": 12
-        },
-        {
-          "move": "Spikes",
-          "level": 15
-        },
-        {
-          "move": "Draining Kiss",
-          "level": 18
-        },
-        {
-          "move": "Crafty Shield",
-          "level": 23
-        },
-        {
-          "move": "Foul Play",
-          "level": 27
-        },
-        {
-          "move": "Torment",
-          "level": 32
-        },
-        {
-          "move": "Mirror Shot",
-          "level": 34
-        },
-        {
-          "move": "Imprison",
-          "level": 36
-        },
-        {
-          "move": "Recycle",
-          "level": 40
-        },
-        {
-          "move": "Play Rough",
-          "level": 43
-        },
-        {
-          "move": "Magic Room",
-          "level": 44
-        },
-        {
-          "move": "Heal Block",
-          "level": 50
-        },
-        {
-          "move": "Iron Defense",
-          "egg_move": true
-        },
-        {
-          "move": "Lock-On",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Thief",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -282,12 +174,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Fairy Lock",
           "level": 1
         },
@@ -494,8 +381,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Fairy Lock",
           "level": 1
         },

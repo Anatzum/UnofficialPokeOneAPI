@@ -1,12 +1,11 @@
 {
-"name" : "Binacle",
+  "name": "Binacle",
   "national_id": 688,
   "types": [
     "Rock",
     "Water"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Sniper"
     },
     {
@@ -15,20 +14,16 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Water 3"
   ],
-  
   "height_us": "1'08\"",
   "height_eu": "0.5 m",
   "weight_us": "68.3 lbs.",
   "weight_eu": "31.0 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 1,
@@ -37,8 +32,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 42,
     "atk": 52,
@@ -47,115 +40,13 @@
     "sp_def": 56,
     "speed": 50
   },
-  "evolutions": [
-    {
-      "to": "Barbaracle",
-      "level": 39
-    }
-  ],
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
+  "evolutions": [{
+    "to": "Barbaracle",
+    "level": 39
+  }],
   "evolution_from": null,
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Sand Attack",
-          "level": 1
-        },
-        {
-          "move": "Scratch",
-          "level": 1
-        },
-        {
-          "move": "Shell Smash",
-          "level": 1
-        },
-        {
-          "move": "Water Gun",
-          "level": 4
-        },
-        {
-          "move": "Withdraw",
-          "level": 7
-        },
-        {
-          "move": "Fury Swipes",
-          "level": 10
-        },
-        {
-          "move": "Slash",
-          "level": 13
-        },
-        {
-          "move": "Mud-Slap",
-          "level": 18
-        },
-        {
-          "move": "Clamp",
-          "level": 20
-        },
-        {
-          "move": "Rock Polish",
-          "level": 24
-        },
-        {
-          "move": "Ancient Power",
-          "level": 28
-        },
-        {
-          "move": "Hone Claws",
-          "level": 32
-        },
-        {
-          "move": "Fury Cutter",
-          "level": 37
-        },
-        {
-          "move": "Night Slash",
-          "level": 41
-        },
-        {
-          "move": "Razor Shell",
-          "level": 45
-        },
-        {
-          "move": "Cross Chop",
-          "level": 49
-        },
-        {
-          "move": "Helping Hand",
-          "egg_move": true
-        },
-        {
-          "move": "Switcheroo",
-          "egg_move": true
-        },
-        {
-          "move": "Tickle",
-          "egg_move": true
-        },
-        {
-          "move": "Water Sport",
-          "egg_move": true
-        },
-        {
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -370,12 +261,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Sand Attack",
           "level": 1
         },
@@ -646,8 +532,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Sand Attack",
           "level": 1
         },

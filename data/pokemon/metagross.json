@@ -1,12 +1,11 @@
 {
-"name" : "Metagross",
+  "name": "Metagross",
   "national_id": 376,
   "types": [
     "Steel",
     "Psychic"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Clear Body"
     },
     {
@@ -15,17 +14,13 @@
     }
   ],
   "gender_ratios": null,
- 
   "egg_groups": [
     "Mineral"
   ],
-  
   "height_us": "5'03\"",
   "height_eu": "1.6 m",
   "weight_us": "1212.5 lbs.",
-  "weight_eu": "550.0 kg",
-  
-  
+  "weight_eu": "550 kg",
   "ev_yield": {
     "hp": 0,
     "atk": 0,
@@ -34,8 +29,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 80,
     "atk": 135,
@@ -45,118 +38,9 @@
     "speed": 70
   },
   "evolution_from": "Metang",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-    {
-      "types": [
-        "Steel",
-        "Psychic"
-      ],
-      "ability": "Tough Claws",
-      "mega_stone": "Metagrossite",
-      "height_us": "8'02\"",
-      "height_eu": "2.5 m",
-      "weight_us": "2078.7 lbs.",
-      "weight_eu": "942.9 kg",
-      "base_stats": {
-        "hp": 80,
-        "atk": 145,
-        "def": 150,
-        "sp_atk": 105,
-        "sp_def": 110,
-        "speed": 110
-      }
-    }
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Confusion",
-          "level": 1
-        },
-        {
-          "move": "Magnet Rise",
-          "level": 1
-        },
-        {
-          "move": "Metal Claw",
-          "level": 1
-        },
-        {
-          "move": "Take Down",
-          "level": 1
-        },
-        {
-          "move": "Confusion",
-          "level": 20
-        },
-        {
-          "move": "Metal Claw",
-          "level": 20
-        },
-        {
-          "move": "Pursuit",
-          "level": 23
-        },
-        {
-          "move": "Bullet Punch",
-          "level": 26
-        },
-        {
-          "move": "Miracle Eye",
-          "level": 29
-        },
-        {
-          "move": "Zen Headbutt",
-          "level": 32
-        },
-        {
-          "move": "Scary Face",
-          "level": 35
-        },
-        {
-          "move": "Psychic",
-          "level": 38
-        },
-        {
-          "move": "Agility",
-          "level": 41
-        },
-        {
-          "move": "Meteor Mash",
-          "level": 44
-        },
-        {
-          "move": "Hammer Arm",
-          "level": 45
-        },
-        {
-          "move": "Iron Defense",
-          "level": 52
-        },
-        {
-          "move": "Hyper Beam",
-          "level": 60
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Cut",
           "tm": "HM01"
         },
@@ -331,12 +215,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Confusion",
           "level": 1
         },
@@ -547,8 +426,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Confusion",
           "level": 1
         },

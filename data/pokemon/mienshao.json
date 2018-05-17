@@ -1,16 +1,13 @@
 {
   "name": {
-    
     "de": "Wie-Shu",
-    
     "en": "Mienshao"
   },
   "national_id": 620,
   "types": [
     "Fighting"
   ],
-  "abilities": [
-    {
+  "abilities": [{
       "name": "Inner Focus"
     },
     {
@@ -19,21 +16,17 @@
     }
   ],
   "gender_ratios": {
-    "male": 50.0,
-    "female": 50.0
+    "male": 50,
+    "female": 50
   },
- 
   "egg_groups": [
     "Field",
     "Human-Like"
   ],
-  
   "height_us": "4'07\"",
   "height_eu": "1.4 m",
   "weight_us": "78.3 lbs.",
   "weight_eu": "35.5 kg",
-  
-  
   "ev_yield": {
     "hp": 0,
     "atk": 2,
@@ -42,8 +35,6 @@
     "sp_def": 0,
     "speed": 0
   },
-  
-  
   "base_stats": {
     "hp": 65,
     "atk": 125,
@@ -53,150 +44,9 @@
     "speed": 105
   },
   "evolution_from": "Mienfoo",
-  
-  
-  
-  
-  
-  
-  
-  
-  "mega_evolutions": [
-  ],
-  "evolutions": [
-  ],
-  "variations": [
-  ],
-  
-  
-  "move_learnsets": [
-{
-"games": [
-        "Omega Ruby",
-        "Alpha Sapphire"
-      ],
-      "learnset": [
-        {
-          "move": "Aura Sphere",
-          "level": 1
-        },
-        {
-          "move": "Detect",
-          "level": 1
-        },
-        {
-          "move": "Fake Out",
-          "level": 1
-        },
-        {
-          "move": "Meditate",
-          "level": 1
-        },
-        {
-          "move": "Pound",
-          "level": 1
-        },
-        {
-          "move": "Reversal",
-          "level": 1
-        },
-        {
-          "move": "Meditate",
-          "level": 5
-        },
-        {
-          "move": "Detect",
-          "level": 9
-        },
-        {
-          "move": "Fake Out",
-          "level": 13
-        },
-        {
-          "move": "Double Slap",
-          "level": 17
-        },
-        {
-          "move": "Swift",
-          "level": 21
-        },
-        {
-          "move": "Calm Mind",
-          "level": 25
-        },
-        {
-          "move": "Force Palm",
-          "level": 29
-        },
-        {
-          "move": "Drain Punch",
-          "level": 33
-        },
-        {
-          "move": "Jump Kick",
-          "level": 37
-        },
-        {
-          "move": "U-turn",
-          "level": 41
-        },
-        {
-          "move": "Wide Guard",
-          "level": 45
-        },
-        {
-          "move": "Bounce",
-          "level": 49
-        },
-        {
-          "move": "High Jump Kick",
-          "level": 56
-        },
-        {
-          "move": "Reversal",
-          "level": 63
-        },
-        {
-          "move": "Aura Sphere",
-          "level": 70
-        },
-        {
-          "move": "Ally Switch",
-          "egg_move": true
-        },
-        {
-          "move": "Baton Pass",
-          "egg_move": true
-        },
-        {
-          "move": "Endure",
-          "egg_move": true
-        },
-        {
-          "move": "Feint",
-          "egg_move": true
-        },
-        {
-          "move": "Knock Off",
-          "egg_move": true
-        },
-        {
-          "move": "Low Kick",
-          "egg_move": true
-        },
-        {
-          "move": "Me First",
-          "egg_move": true
-        },
-        {
-          "move": "Smelling Salts",
-          "egg_move": true
-        },
-        {
-          "move": "Vital Throw",
-          "egg_move": true
-        },
-        {
+  "evolutions": null,
+  "move_learnsets": [{
+      "tm_learnset": [{
           "move": "Strength",
           "tm": "HM04"
         },
@@ -371,12 +221,7 @@
       ]
     },
     {
-      "games": [
-        "Sun",
-        "Moon"
-      ],
-      "learnset": [
-        {
+    "regular_learnset": [{
           "move": "Aura Sphere",
           "level": 1
         },
@@ -655,8 +500,7 @@
         "Ultra Sun",
         "Ultra Moon"
       ],
-      "learnset": [
-        {
+      "learnset": [{
           "move": "Aura Sphere",
           "level": 1
         },
