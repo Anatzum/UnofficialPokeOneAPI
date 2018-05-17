@@ -8,6 +8,9 @@
       "name": "Sturdy"
     },
     {
+      "name": "Sand Stream"
+    },
+    {
       "name": "Sand Force",
       "hidden": true
     }
@@ -169,7 +172,7 @@
       ]
     },
     {
-    "regular_learnset": [{
+      "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },

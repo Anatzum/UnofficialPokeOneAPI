@@ -40,7 +40,7 @@
     "atk": 90,
     "def": 70,
     "sp_atk": 60,
-    "sp_def": 60,
+    "sp_def": 70,
     "speed": 40
   },
   "evolution_from": "Spinarak",

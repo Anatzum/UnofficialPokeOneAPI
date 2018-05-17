@@ -37,9 +37,9 @@
     "hp": 70,
     "atk": 60,
     "def": 62,
-    "sp_atk": 80,
+    "sp_atk": 100,
     "sp_def": 82,
-    "speed": 60
+    "speed": 80
   },
   "evolution_from": "Surskit",
   "evolutions": null,

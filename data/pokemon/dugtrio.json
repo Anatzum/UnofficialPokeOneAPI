@@ -36,7 +36,7 @@
   },
   "base_stats": {
     "hp": 35,
-    "atk": 80,
+    "atk": 100,
     "def": 50,
     "sp_atk": 50,
     "sp_def": 70,

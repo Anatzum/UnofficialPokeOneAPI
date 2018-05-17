@@ -38,9 +38,9 @@
   "base_stats": {
     "hp": 65,
     "atk": 73,
-    "def": 55,
+    "def": 75,
     "sp_atk": 47,
-    "sp_def": 75,
+    "sp_def": 85,
     "speed": 85
   },
   "evolutions": null,

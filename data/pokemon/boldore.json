@@ -8,6 +8,9 @@
       "name": "Sturdy"
     },
     {
+      "name": "Weak Armor"
+    },
+    {
       "name": "Sand Force",
       "hidden": true
     }
@@ -160,7 +163,7 @@
       ]
     },
     {
-    "regular_learnset": [{
+      "regular_learnset": [{
           "move": "Harden",
           "level": 1
         },

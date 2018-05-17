@@ -36,7 +36,7 @@
     "hp": 60,
     "atk": 85,
     "def": 60,
-    "sp_atk": 50,
+    "sp_atk": 75,
     "sp_def": 50,
     "speed": 125
   },
