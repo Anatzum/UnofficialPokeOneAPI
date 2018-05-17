@@ -43,10 +43,7 @@
     "sp_def": 40,
     "speed": 50
   },
-  "evolutions": [{
-      "to": "Nidorina",
-      "level": 16
-    },
+  "evolutions": [
     {
       "to": "Nidorino",
       "level": 16

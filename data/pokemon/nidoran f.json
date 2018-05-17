@@ -43,7 +43,12 @@
     "sp_def": 40,
     "speed": 41
   },
-  "evolutions": null,
+  "evolutions": [
+    {
+      "to": "Nidorina",
+      "level": 16
+    }
+  ],
   "evolution_from": null,
   "move_learnsets": [{
       "tm_learnset": [{
