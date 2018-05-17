@@ -66,48 +66,48 @@
     },
     "battle armor": {
         "name": "Battle Armor",
-        "description": "The Pokémon is protected against critical hits.",
-        "effect": ""
+        "description": "Hard armor protects the Pokemon from critical hits.",
+        "effect": "Prevents the opponent from landing a critical hit."
     },
     "battle bond": {
         "name": "Battle Bond",
-        "description": "Transform into Ash-Greninja after causing opponent to faint.",
-        "effect": ""
+        "description": "When Greninja causes a Pokemon (including allies) to faint, it will change into Ash-Greninja.",
+        "effect": "Ash-Greninja has higher base stats. Also, if using Water Shuriken, the move's power becomes 20 (from 15) and will always hit 3 times."
     },
     "beast boost": {
         "name": "Beast Boost",
         "description": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.",
-        "effect": ""
+        "effect": "When a Pokemon causes another Pokemon (including allies) to faint, its highest stat (other than HP) will increase by one stage, if not already at +6 stages."
     },
     "berserk": {
         "name": "Berserk",
-        "description": "Raises Special Attack when HP drops below half.",
-        "effect": ""
+        "description": "Boosts the Pokemon's Sp. Atk when it takes a hit that causes its HP to become half or less.",
+        "effect": "Everytime the Pokemon's HP drops below half, its Sp. Atk is raised by one stage, if not already at +6 stages."
     },
     "big pecks": {
         "name": "Big Pecks",
         "description": "Protects the Pokémon from Defense-lowering attacks.",
-        "effect": ""
+        "effect": "Prevents other Pokemon from lowering the Pokemon's Defense stat, but does not prevent moves where the user drops its own Defense stat."
     },
     "blaze": {
         "name": "Blaze",
-        "description": "Powers up Fire-type moves in a pinch.",
-        "effect": ""
+        "description": "Powers up Fire-type moves when the Pokemon's HP is low.",
+        "effect": "Fire-type moves' power will increase by 50% if the user has less than 1/3 of its maximum HP remaining."
     },
     "bulletproof": {
         "name": "Bulletproof",
         "description": "Protects the Pokémon from ball and bomb moves.",
-        "effect": ""
+        "effect": "Protects the Pokemon from these moves: Acid Spray, Aura Sphere, Barrage, Beak Blast, Bullet Seed, Egg Bomb, Electro Ball, Energy Ball, Focus Blast, Gyro Ball, Ice Ball, Magnet Bomb, Mist Ball, Mud Bomb, Octazooka, Pollen Puff, Rock Blast, Rock Wrecker, Searing Shot, Seed Bomb, Shadow Ball, Sludge Bomb, Weather Ball, and Zap Cannon"
     },
     "cheek pouch": {
-        "name": "Cheeck Pouch",
-        "description": "Restores additional HP when a Berry is consumed.",
-        "effect": ""
+        "name": "Cheek Pouch",
+        "description": "Restores HP as well when the Pokemon eats a berry.",
+        "effect": "Restores 33% of the Pokemon's maximum HP when it consumes a berry, even when eating another Pokemon's berry for effect during battle via Bug Bite, Pluck or Fling. Does not activate under the effect of Heal Block."
     },
     "chlorophyll": {
         "name": "Chlorophyll",
-        "description": "Boosts the Pokémon's Speed in sunshine.",
-        "effect": ""
+        "description": "Boosts the Pokémon's Speed in sunshine and in harsh sunlight.",
+        "effect": "During harsh sunlight, from Drought, Desolate Land or Sunny Day, the Pokemon's speed stat will double."
     },
     "clear body": {
         "name": "Clear Body",
